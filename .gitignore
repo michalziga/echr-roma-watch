@@ -1,0 +1,15 @@
+# Mac system files
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Colab / Jupyter
+*.ipynb_checkpoints
+
+# Temp files
+new_cases.json

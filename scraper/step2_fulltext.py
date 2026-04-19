@@ -26,6 +26,7 @@ HEADERS = {
 
 def strip_html(html):
     """Remove HTML tags and clean up whitespace."""
+    text = re.sub(r"<style[^>]*>.*?</style>", " ", html, flags=re.DOTALL)  # ← remove <style> blocks entirely
     text = re.sub(r"<[^>]+>", " ", html)           # remove tags
     text = re.sub(r"&nbsp;", " ", text)             # html entities
     text = re.sub(r"&amp;",  "&", text)
