@@ -8,9 +8,9 @@ from datetime import datetime, timezone
 
 # ── Settings ─────────────────────────────────────────────────
 
-DATE_FROM   = "1996-09-01"
-DATE_TO     = "2026-04-19"
-PAGE_SIZE   = 100
+DATE_FROM = "1996-09-01"
+DATE_TO   = datetime.utcnow().strftime("%Y-%m-%d")  # current date in UTC
+PAGE_SIZE = 100
 OUTPUT_FILE = "cases.json"
 
 QUERY = (
