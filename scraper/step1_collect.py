@@ -8,9 +8,9 @@ from datetime import datetime, timezone
 
 # ── Settings ─────────────────────────────────────────────────
 
-DATE_FROM = "1996-09-01"
-DATE_TO   = datetime.utcnow().strftime("%Y-%m-%d")  # current date in UTC
-PAGE_SIZE = 100
+DATE_FROM   = "1996-09-01"
+DATE_TO     = "2026-04-19"
+PAGE_SIZE   = 100
 OUTPUT_FILE = "cases.json"
 
 QUERY = (
@@ -19,7 +19,6 @@ QUERY = (
     ' AND ((documentcollectionid2="JUDGMENTS") OR (documentcollectionid2="DECISIONS"))'
     ' AND (Roma OR Gypsy OR Sinti OR Travellers)'
     ' AND (languageisocode="ENG" OR languageisocode="FRE")'   # ← add this
-
     f' AND kpdate>="{DATE_FROM}T00:00:00.0Z"'
     f' AND kpdate<="{DATE_TO}T00:00:00.0Z"'
 )
@@ -27,7 +26,7 @@ QUERY = (
 SELECT = (
     "itemid,docname,appno,kpdate,"
     "respondent,documentcollectionid2,doctypebranch,"
-    "conclusion,violation,nonviolation,article,importance,ecli"
+    "conclusion,violation,nonviolation,article,importance,ecli,languageisocode"
 )
 
 HEADERS = {
@@ -81,6 +80,7 @@ def parse(data):
         cases.append({
             "itemid":       item_id,
             "title":        s.get("docname", ""),
+            "language": s.get("languageisocode", ""),
             "app_no":       s.get("appno", ""),
             "date":         (s.get("kpdate") or "")[:10],
             "country":      s.get("respondent", ""),
@@ -94,6 +94,19 @@ def parse(data):
             "ecli":         s.get("ecli", ""),
             "url":          f"https://hudoc.echr.coe.int/eng?i={item_id}",
             "text_url":     f"https://hudoc.echr.coe.int/app/conversion/docx/html/body?library=ECHR&id={item_id}&filename=document.html",
+            # ▼▼▼ NEW ▼▼▼ ────────────────────────────────────────────────────────
+            # These three fields are new. They don't exist in the original script.
+            #
+            # We add them here as empty placeholders (None = empty in Python).
+            # Step 2 will fill them in later when it fetches the full case text.
+            #
+            # Why add them here at all?
+            # So that Step 2 can check: "is full_text_length still None?"
+            # If yes  → this case hasn't been fetched yet, go fetch it.
+            # If no   → already done, skip it.
+            "full_text":        None,
+            "full_text_length": None,
+            "fetched_at":       None,
         })
 
     return cases, total
