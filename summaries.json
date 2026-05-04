@@ -1,0 +1,211 @@
+{
+  "built_at": "2026-05-04T07:53:44.394110+00:00",
+  "total": 8,
+  "cases": [
+    {
+      "itemid": "001-102252",
+      "title": "CASE OF MILANOVIC v. SERBIA",
+      "date": "2010-12-14",
+      "country": "SRB",
+      "importance": "3",
+      "articles": [
+        "3",
+        "14",
+        "14+3",
+        "41"
+      ],
+      "violations": [
+        "3",
+        "14+3",
+        "14"
+      ],
+      "nonviolations": [],
+      "conclusion": "Violation of Art. 3;Violation of Art. 14+3;Non-pecuniary damage - award",
+      "ecli": "ECLI:CE:ECHR:2010:1214JUD004461407",
+      "url": "https://hudoc.echr.coe.int/eng?i=001-102252",
+      "summary": "In the case of Milanović v. Serbia, the applicant, Mr. Života Milanović, a member of the Roma community and a follower of the Vaishnava Hindu (Hare Krishna) faith, brought a case against Serbia. The case concerned repeated violent attacks against Mr. Milanović, motivated by his religious and ethnic identity, highlighting the vulnerability of Roma and religious minorities to hate crimes. Between 2001 and 2007, Mr. Milanović was assaulted multiple times in Jagodina and its vicinity, suffering serious injuries including stabbings and beatings. Despite reporting these attacks and filing criminal complaints, the police investigations were ineffective, with authorities failing to identify or prosecute the perpetrators, who were linked by the applicant to far-right extremist groups. The European Court of Human Rights examined violations of Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination) taken together with Article 3. The Court found that Serbia had violated these provisions by failing to protect Mr. Milanović from ill-treatment and by not conducting an effective investigation into the hate-motivated attacks. The Court awarded non-pecuniary damages to the applicant. This judgment is significant as it underscores the ongoing risks faced by Roma and religious minorities in Serbia and the obligation of states to ensure effective protection and investigation of hate crimes. Historically, Roma communities have endured systemic discrimination, making this ruling a crucial affirmation of their right to security and equal treatment under the law.",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "summarized_at": "2026-05-04T07:48:49.200337+00:00"
+    },
+    {
+      "itemid": "001-102279",
+      "title": "CASE OF MIŽIGÁROVÁ v. SLOVAKIA",
+      "date": "2010-12-14",
+      "country": "SVK",
+      "importance": "2",
+      "articles": [
+        "2",
+        "2-1",
+        "14",
+        "14+2",
+        "41"
+      ],
+      "violations": [
+        "2"
+      ],
+      "nonviolations": [
+        "14+2",
+        "14",
+        "2"
+      ],
+      "conclusion": "Violation of Art. 2 (substantive aspect);Violation of Art. 2 (procedural aspect);No violation of Art. 14+2;Pecuniary damage - claim dismissed;Non-pecuniary damage - award",
+      "ecli": "ECLI:CE:ECHR:2010:1214JUD007483201",
+      "url": "https://hudoc.echr.coe.int/eng?i=001-102279",
+      "summary": "In the case of Mižigárová v. Slovakia, the applicant, Mrs. Miluša Mižigárová, a Slovak national of Roma origin, brought a case against Slovakia concerning the death of her husband, Mr. Ľubomír Šarišský. The case focused on the vulnerability of Roma individuals to police violence and the failure of authorities to protect their right to life. On the evening of 12 August 1999, Mr. Šarišský was arrested on suspicion of bicycle theft and taken to the District Police Department in Poprad. During interrogation by Lieutenant F., an off-duty officer, Mr. Šarišský was handcuffed, left alone, and later shot in the abdomen with the officer’s service pistol. He died four days later in hospital from complications related to the gunshot wound. Despite medical evidence and witness accounts indicating police ill-treatment, the investigation was delayed and incomplete. The European Court of Human Rights examined Articles 2 (right to life) and 14 (prohibition of discrimination) of the European Convention on Human Rights. It found violations of Article 2 both substantively and procedurally, concluding that the State failed to protect Mr. Šarišský’s life and conduct an effective investigation. No violation of Article 14 in conjunction with Article 2 was found. The Court awarded non-pecuniary damages but dismissed the claim for pecuniary damage. This judgment highlights the persistent risks faced by Roma in police custody and the critical need for accountability, reflecting ongoing concerns about police violence against Roma in Slovakia at the turn of the century.",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "summarized_at": "2026-05-04T07:48:54.544323+00:00"
+    },
+    {
+      "itemid": "001-101735",
+      "title": "HORVATH AND VADASZI v. HUNGARY",
+      "date": "2010-11-09",
+      "country": "HUN",
+      "importance": "4",
+      "articles": [
+        "3",
+        "P1-2",
+        "13",
+        "14"
+      ],
+      "violations": [],
+      "nonviolations": [],
+      "conclusion": "Inadmissible",
+      "ecli": "ECLI:CE:ECHR:2010:1109DEC000235106",
+      "url": "https://hudoc.echr.coe.int/eng?i=001-101735",
+      "summary": "In the case of Horváth and Vadászi v. Hungary, the applicants, Mr. Tibor Horváth and Mr. Géza Vadászi, are Hungarian nationals of Roma origin. They challenged their placement in a physically segregated special school class in Kesznyéten, alleging that it amounted to racial segregation and violated their rights. The applicants had been classified as having mild intellectual disabilities in 1994 and placed in a special class taught by an unqualified teacher. They argued that this placement endangered their mental and educational development and was discriminatory.\n\nThe applicants pursued criminal proceedings against school officials, accusing them of endangering minors by placing Roma children in segregated classes. However, the Hungarian authorities discontinued the investigation, finding no grave breach of duty, and dismissed a private prosecution on procedural grounds. The applicants did not pursue available civil remedies for compensation under domestic law.\n\nThe European Court of Human Rights examined the case under Articles 3 (prohibition of degrading treatment), 14 (prohibition of discrimination), 13 (right to an effective remedy), and Article 2 of Protocol No. 1 (right to education). The Court declared the application inadmissible, primarily because the applicants had failed to exhaust domestic remedies and had lodged their complaint outside the six-month time limit. The Court acknowledged that segregated education of Roma children raises a presumption of discrimination but did not assess the merits due to procedural shortcomings.\n\nThis case highlights ongoing challenges faced by Roma children in education and the importance of exhausting domestic remedies before seeking international redress. It reflects a broader historical context of Roma segregation in European schools and the evolving legal scrutiny of such practices.",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "summarized_at": "2026-05-04T07:48:44.598024+00:00"
+    },
+    {
+      "itemid": "001-101579",
+      "title": "CASE OF ŞERİFE YİĞİT v. TURKEY",
+      "date": "2010-11-02",
+      "country": "TUR",
+      "importance": "2",
+      "articles": [
+        "8",
+        "8-1",
+        "8-2",
+        "14",
+        "14+P1-1",
+        "P1-1",
+        "P1-1-1",
+        "35",
+        "35-1"
+      ],
+      "violations": [],
+      "nonviolations": [
+        "14+P1-1",
+        "14",
+        "P1-1",
+        "8"
+      ],
+      "conclusion": "Preliminary objection dismissed (exhaustion of domestic remedies);No violation of Art. 14+P1-1;No violation of Art. 8",
+      "ecli": "ECLI:CE:ECHR:2010:1102JUD000397605",
+      "url": "https://hudoc.echr.coe.int/eng?i=001-101579",
+      "summary": "In the case of Şerife Yiğit v. Turkey, the applicant, Ms. Şerife Yiğit, a Turkish national identified as part of the Roma and Travellers community, brought a claim against the Republic of Turkey. The case concerned the vulnerability faced by Roma women in accessing social security rights due to the non-recognition of religious marriages under Turkish law. Ms. Yiğit had entered into a religious marriage (imam nikâhı) with her partner, Ömer Koç, with whom she had six children. After his death in 2002, she was unable to claim survivor’s pension or health insurance benefits, unlike her children, because their marriage was not legally recognized.\n\nMs. Yiğit initiated legal proceedings to have her religious marriage recognized and to claim survivor benefits. The domestic courts refused to recognize the marriage, citing Turkish civil law requirements for official registration of marriages. While her daughter was granted survivor benefits, Ms. Yiğit’s claims were dismissed at all levels, including the Court of Cassation. She then applied to the European Court of Human Rights, alleging violations of Article 8 (right to respect for private and family life) and Article 14 (prohibition of discrimination) combined with Article 1 of Protocol No. 1 (protection of property). The Grand Chamber found no violation of these provisions, dismissing her claims.\n\nThis case highlights the challenges faced by Roma and Traveller women in securing legal recognition of family relationships and social rights, reflecting broader issues of legal and social marginalization. It underscores ongoing tensions between traditional practices and formal legal frameworks in Turkey, with implications for minority rights protection in Europe.",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "summarized_at": "2026-05-04T07:48:39.398081+00:00"
+    },
+    {
+      "itemid": "001-100508",
+      "title": "CASE OF KAY AND OTHERS v. THE UNITED KINGDOM",
+      "date": "2010-09-21",
+      "country": "GBR",
+      "importance": "3",
+      "articles": [
+        "8",
+        "8-1",
+        "8-2",
+        "41"
+      ],
+      "violations": [
+        "8"
+      ],
+      "nonviolations": [],
+      "conclusion": "Violation of Art. 8;Non-pecuniary damage - award",
+      "ecli": "ECLI:CE:ECHR:2010:0921JUD003734106",
+      "url": "https://hudoc.echr.coe.int/eng?i=001-100508",
+      "summary": "In the case of Kay and Others v. the United Kingdom, the applicants were eight British nationals and one Irish national living in London, all of whom were part of the Traveller community. They challenged the London Borough of Lambeth’s decision to evict them from properties provided under a “singles scheme” managed by a housing trust. These properties, owned by Lambeth, were designated as “short life” and scheduled for demolition or redevelopment. The applicants had been granted temporary accommodation but did not have secure tenancy rights under the Housing Act 1985.\n\nThe core issue concerned the applicants’ vulnerability as Travellers facing eviction from their homes without adequate legal protection or consideration of their personal circumstances. Between 1999 and 2004, Lambeth terminated leases with the housing trust and sought possession orders against the applicants. The applicants argued that eviction would violate their right to respect for their homes under Article 8 of the European Convention on Human Rights. However, domestic courts ruled that Lambeth had an unqualified right to possession and struck out the Article 8 defence, citing the absence of secure tenancy and the lawful basis for possession.\n\nThe European Court of Human Rights found a violation of Article 8, recognising that the applicants’ eviction engaged their right to respect for their homes and that the authorities had failed to adequately balance this right against Lambeth’s property interests. The Court awarded non-pecuniary damages. This case is significant as it highlights the precarious housing situation of Roma and Traveller individuals in the UK and affirms the need for authorities to consider their specific vulnerabilities before eviction, reflecting ongoing challenges faced by these communities in securing stable housing.",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "summarized_at": "2026-05-04T07:45:12.581086+00:00"
+    },
+    {
+      "itemid": "001-100404",
+      "title": "CASE OF HYDE PARK AND OTHERS v. MOLDOVA (Nos. 5 and 6)",
+      "date": "2010-09-14",
+      "country": "MDA",
+      "importance": "3",
+      "articles": [
+        "11",
+        "11-1",
+        "11-2",
+        "34",
+        "35",
+        "35-1",
+        "41"
+      ],
+      "violations": [
+        "11"
+      ],
+      "nonviolations": [],
+      "conclusion": "Preliminary objections dismissed (victim, non-exhaustion of domestic remedies);Remainder inadmissible;Violation of Art. 11;Pecuniary and non-pecuniary damage - awards",
+      "ecli": "ECLI:CE:ECHR:2010:0914JUD000699108",
+      "url": "https://hudoc.echr.coe.int/eng?i=001-100404",
+      "summary": "In the case of Hyde Park and Others v. Moldova, the applicants were members of Hyde Park, a non-governmental organisation known for advocating freedom of expression and assembly, which included individuals identifying as part of the Roma and Traveller communities. The case concerned the Moldovan authorities’ interference with their right to peaceful protest. Between August and September 2007 in Chişinău, Hyde Park organised several demonstrations against alleged harassment by state bodies. Despite initial authorisation for a protest on 30 August 2007, the Municipal Council’s permission was challenged by the Prosecutor General’s Office, leading to the applicants’ arrests and the premature end of the protest. Subsequent protests on 4 and 10 September were met with arrests and fines, often justified by procedural grounds such as late applications or incomplete authorisation details. The applicants also faced police searches and detention without access to legal counsel. The European Court of Human Rights examined the case under Article 11, which protects freedom of assembly and association. It found violations of this right, noting that the authorities’ actions were disproportionate and unjustified. The Court awarded pecuniary and non-pecuniary damages to the applicants. This judgment is significant as it reaffirms the protection of peaceful assembly rights for Roma and Traveller activists in Eastern Europe, a region where such minorities have historically faced systemic discrimination and state repression.",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "summarized_at": "2026-05-04T07:45:06.748938+00:00"
+    },
+    {
+      "itemid": "001-100741",
+      "title": "YORDANOVA AND OTHERS v. BULGARIA",
+      "date": "2010-09-14",
+      "country": "BGR",
+      "importance": "4",
+      "articles": [
+        "3",
+        "8",
+        "9",
+        "13",
+        "14",
+        "14+3",
+        "14+8",
+        "14+P1-1",
+        "P1-1",
+        "P1-1+13"
+      ],
+      "violations": [],
+      "nonviolations": [],
+      "conclusion": "Partly admissible;Partly inadmissible",
+      "ecli": "ECLI:CE:ECHR:2010:0914DEC002544606",
+      "url": "https://hudoc.echr.coe.int/eng?i=001-100741",
+      "summary": "In the case of Yordanova and Others v. Bulgaria, the applicants, including Ms. Lyubka Yordanova Yordanova and 22 others, are Bulgarian nationals who identify as Roma and reside in the Batalova Vodenitsa neighbourhood of Sofia. They live in informal housing built without authorization on state-owned land, forming a small Roma settlement with limited infrastructure and poor living conditions. The case centers on the vulnerability of Roma communities facing forced eviction and demolition of their homes, raising concerns about inhuman and degrading treatment and violations of their right to respect for their homes.\n\nThe applicants’ families settled in the area from the late 1960s onwards, constructing makeshift houses on land designated for green space but never developed. Despite longstanding occupation, their homes do not comply with building regulations and cannot be legalized without major reconstruction. Tensions grew between Roma residents and non-Roma neighbours, with complaints about sanitation, animal keeping, and alleged criminal behaviour. In response, Sofia municipality planned to remove the settlement to build new housing, prompting the applicants to challenge the proposed eviction.\n\nThe European Court of Human Rights examined alleged violations of Articles 3 (prohibition of inhuman or degrading treatment), 8 (right to respect for home), 13 (right to an effective remedy), and 14 (prohibition of discrimination). The Court found the application partly admissible but did not establish a violation of these rights, emphasizing the authorities’ efforts to balance enforcement of land-use laws with social integration policies.\n\nThis case highlights the complex challenges Roma communities face regarding housing rights and discrimination in Europe. It reflects ongoing struggles since the late 20th century to secure adequate living conditions for Roma populations amid urban development pressures and societal prejudice.",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "summarized_at": "2026-05-04T07:45:18.690815+00:00"
+    },
+    {
+      "itemid": "001-100038",
+      "title": "CASE OF A. v. THE NETHERLANDS",
+      "date": "2010-07-20",
+      "country": "NLD",
+      "importance": "3",
+      "articles": [
+        "3",
+        "13",
+        "41"
+      ],
+      "violations": [
+        "3"
+      ],
+      "nonviolations": [
+        "13"
+      ],
+      "conclusion": "Violation of Art. 3 (in case of expulsion to Libya);No violation of Art. 13;Pecuniary damage - claim dismissed;Non-pecuniary damage - finding of violation sufficient",
+      "ecli": "ECLI:CE:ECHR:2010:0720JUD000490006",
+      "url": "https://hudoc.echr.coe.int/eng?i=001-100038",
+      "summary": "In the case of A. v. the Netherlands, the applicant, a Libyan national of Roma and Traveller identity, challenged the Dutch authorities’ decision to expel him to Libya. The case focused on the vulnerability of Roma and Travellers facing persecution and ill-treatment upon return to their country of origin. The applicant had fled Libya in 1994 due to his involvement with an opposition group opposing the Libyan regime, fearing arrest and persecution. After a complex journey through several countries, he sought asylum in the Netherlands in 1997. Despite his claims and supporting statements from a Libyan opposition organisation, Dutch authorities rejected his asylum request, doubting the credibility of his involvement and the risk he faced. The applicant contested the decision, arguing that expulsion to Libya would expose him to treatment violating Article 3 of the European Convention on Human Rights, which prohibits torture and inhuman or degrading treatment. The European Court of Human Rights examined Articles 3 and 13 and found a violation of Article 3 concerning the risk of expulsion to Libya, while no violation of Article 13 was established. The Court did not award pecuniary damages but considered the finding of a violation sufficient for non-pecuniary damage. This judgment is significant as it reaffirms the protection against forced return to countries where Roma and Travellers face serious human rights abuses, reflecting ongoing challenges for these minorities in securing asylum and protection in Europe.",
+      "model": "gpt-4.1-mini-2025-04-14",
+      "summarized_at": "2026-05-04T07:45:00.800425+00:00"
+    }
+  ]
+}

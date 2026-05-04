@@ -1,0 +1,23 @@
+{
+  "itemid": "001-100508",
+  "title": "CASE OF KAY AND OTHERS v. THE UNITED KINGDOM",
+  "date": "2010-09-21",
+  "country": "GBR",
+  "importance": "3",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "41"
+  ],
+  "violations": [
+    "8"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Art. 8;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2010:0921JUD003734106",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-100508",
+  "summary": "In the case of Kay and Others v. the United Kingdom, the applicants were eight British nationals and one Irish national living in London, all of whom were part of the Traveller community. They challenged the London Borough of Lambeth’s decision to evict them from properties provided under a “singles scheme” managed by a housing trust. These properties, owned by Lambeth, were designated as “short life” and scheduled for demolition or redevelopment. The applicants had been granted temporary accommodation but did not have secure tenancy rights under the Housing Act 1985.\n\nThe core issue concerned the applicants’ vulnerability as Travellers facing eviction from their homes without adequate legal protection or consideration of their personal circumstances. Between 1999 and 2004, Lambeth terminated leases with the housing trust and sought possession orders against the applicants. The applicants argued that eviction would violate their right to respect for their homes under Article 8 of the European Convention on Human Rights. However, domestic courts ruled that Lambeth had an unqualified right to possession and struck out the Article 8 defence, citing the absence of secure tenancy and the lawful basis for possession.\n\nThe European Court of Human Rights found a violation of Article 8, recognising that the applicants’ eviction engaged their right to respect for their homes and that the authorities had failed to adequately balance this right against Lambeth’s property interests. The Court awarded non-pecuniary damages. This case is significant as it highlights the precarious housing situation of Roma and Traveller individuals in the UK and affirms the need for authorities to consider their specific vulnerabilities before eviction, reflecting ongoing challenges faced by these communities in securing stable housing.",
+  "model": "gpt-4.1-mini-2025-04-14",
+  "summarized_at": "2026-05-04T07:45:12.581086+00:00"
+}

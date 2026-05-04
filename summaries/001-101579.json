@@ -1,0 +1,31 @@
+{
+  "itemid": "001-101579",
+  "title": "CASE OF ŞERİFE YİĞİT v. TURKEY",
+  "date": "2010-11-02",
+  "country": "TUR",
+  "importance": "2",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "14",
+    "14+P1-1",
+    "P1-1",
+    "P1-1-1",
+    "35",
+    "35-1"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "14+P1-1",
+    "14",
+    "P1-1",
+    "8"
+  ],
+  "conclusion": "Preliminary objection dismissed (exhaustion of domestic remedies);No violation of Art. 14+P1-1;No violation of Art. 8",
+  "ecli": "ECLI:CE:ECHR:2010:1102JUD000397605",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-101579",
+  "summary": "In the case of Şerife Yiğit v. Turkey, the applicant, Ms. Şerife Yiğit, a Turkish national identified as part of the Roma and Travellers community, brought a claim against the Republic of Turkey. The case concerned the vulnerability faced by Roma women in accessing social security rights due to the non-recognition of religious marriages under Turkish law. Ms. Yiğit had entered into a religious marriage (imam nikâhı) with her partner, Ömer Koç, with whom she had six children. After his death in 2002, she was unable to claim survivor’s pension or health insurance benefits, unlike her children, because their marriage was not legally recognized.\n\nMs. Yiğit initiated legal proceedings to have her religious marriage recognized and to claim survivor benefits. The domestic courts refused to recognize the marriage, citing Turkish civil law requirements for official registration of marriages. While her daughter was granted survivor benefits, Ms. Yiğit’s claims were dismissed at all levels, including the Court of Cassation. She then applied to the European Court of Human Rights, alleging violations of Article 8 (right to respect for private and family life) and Article 14 (prohibition of discrimination) combined with Article 1 of Protocol No. 1 (protection of property). The Grand Chamber found no violation of these provisions, dismissing her claims.\n\nThis case highlights the challenges faced by Roma and Traveller women in securing legal recognition of family relationships and social rights, reflecting broader issues of legal and social marginalization. It underscores ongoing tensions between traditional practices and formal legal frameworks in Turkey, with implications for minority rights protection in Europe.",
+  "model": "gpt-4.1-mini-2025-04-14",
+  "summarized_at": "2026-05-04T07:48:39.398081+00:00"
+}

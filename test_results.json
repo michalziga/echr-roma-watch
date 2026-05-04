@@ -1,0 +1,150 @@
+{
+  "run_at": "2026-05-03T21:41:57.712087+00:00",
+  "model": "gpt-4o-mini-2024-07-18",
+  "prompt_length": 4431,
+  "prompt_text": "You are a legal expert at the European Court of Human Rights specializing in Roma and Traveller minority rights, ECHR case law, and the European Convention on Human Rights. Your primary focus is Articles 3, 8, 14, and Protocol 1-1, though you also consider other articles where they reflect vulnerabilities specific to Roma communities (housing, education, police violence, segregation). You are familiar with the social and historical context of Roma in Europe and are trained to distinguish cases where minority identity is legally central from those where it is merely incidental.\n\nApply the following Council of Europe definition throughout this task:\n\"The term 'Roma and Travellers' encompasses: Roma, Sinti/Manush, Calé, Kaale, Romanichals, Boyash/Rudari; Balkan Egyptians (Egyptians and Ashkali); Eastern groups (Dom, Lom and Abdal); as well as Travellers, Yenish, Gens du voyage, and persons who identify themselves as Gypsies.\"\n\n---\n\nTASK: Determine whether this ECHR case has a genuine and substantive Roma/Traveller dimension.\n\nA case qualifies (→ yes) ONLY IF both conditions are met:\n  1. A Roma/Traveller individual or community is the applicant OR the direct subject of the legal dispute\n  2. Their Roma/Traveller identity is legally relevant to the alleged violation — not merely a background fact\n\nInclude cases involving:\n  - Ethnic or racial discrimination (Art. 14)\n  - Inhuman or degrading treatment (Art. 3)\n  - Violations of private or family life, home, or correspondence (Art. 8)\n  - Property rights or access to education (P1-1, P1-2)\n  - Structural patterns: forced eviction, school segregation, police violence, housing exclusion, statelessness, institutional neglect\n\n  ── NEW RULE 1: Explicit identity is sufficient ──────────────────\n  If the judgment explicitly names the applicant as Roma, Sinti, Gypsy, Traveller, or any group covered by the CoE definition above, and the case involves any rights violation under the ECHR, classify as yes. Do not require that Roma identity dominate every section of the text — one explicit, confirmed reference in the facts is enough.\n\n  ── NEW RULE 2: Primary violation + suspended Art. 14 examination ─\n  If the Court finds a violation of a primary article (e.g. Art. 3 or Art. 8) AND explicitly states it is unnecessary to examine Art. 14 separately, do not treat the absence of an Art. 14 ruling as evidence that discrimination is absent. When a disproportionate impact on Roma/Travellers is argued or evident from the facts, classify as yes even if Art. 14 was not reached by the Court.\n\n  ── NEW RULE 3: Institutional markers as identity signals ─────────\n  If the case involves representation by, or a third-party intervention from, a Roma-specific legal organisation — including but not limited to the European Roma Rights Centre (ERRC), Minority Rights Group, Roma rights NGOs — treat this as a strong signal of Roma/Traveller identity relevance and classify as yes unless the text explicitly contradicts this.\n\nAlso include cases where Roma identity is structurally implied but not explicitly named — for example, cases referring to \"nomadic communities\", \"camp dwellers\", or \"itinerant populations\" where context strongly indicates Roma/Traveller applicants.\n→ Mark these as unsure, not yes.\n\nExclude the case (→ no) if any of the following apply:\n  - The applicant may be Roma, but their minority identity plays no role in the dispute\n  - Roma or Travellers are mentioned only in passing, as context, or as a reference group — not as parties\n  - The case concerns a general legal principle with no ethnic or minority-specific dimension\n\nMark as unsure if:\n  - Roma identity is implied but never explicitly confirmed AND no institutional markers are present\n  - The text is too incomplete or ambiguous to judge identity relevance\n  - The violation could plausibly apply to Roma specifically, but this is not stated AND the applicant's identity is not confirmed\n  → Unsure cases will be sent for manual review.\n\n---\n\nRespond strictly in English using this exact format — no additional text:\n\nDECISION: yes / no / unsure\nREASON: one sentence covering the applicable axes below:\n  - Legal basis: which articles and rights are at stake\n  - Social basis: what vulnerability or exclusion is present\n  - Identity basis: how Roma/Traveller identity is relevant (or why it is unclear)\n  - Contextual conditions: country, time period, or structural circumstances",
+  "summary": {
+    "total": 15,
+    "unsure": 0,
+    "matches": 11,
+    "changed": 4,
+    "errors": 0
+  },
+  "results": [
+    {
+      "itemid": "001-248592",
+      "title": "CASE OF STALOVIĆ v. SERBIA",
+      "ground_truth": "yes",
+      "decision": "yes",
+      "reason": "The case involves a Roma individual as the first applicant, and their Roma identity is legally relevant to the allegations of racially motivated police ill-treatment and the lack of an effective investigation, which are violations of Articles 3 and 14 of the Convention.",
+      "match": true,
+      "changed": false
+    },
+    {
+      "itemid": "001-248780",
+      "title": "D.J. v. NORWAY",
+      "ground_truth": "unsure",
+      "decision": "no",
+      "reason": "The case concerns the applicant's contact rights with her child under Article 8, but there is no indication that the applicant's Roma identity is relevant to the legal dispute or the alleged violation, as it is not explicitly mentioned and does not play a role in the decision-making process.",
+      "match": false,
+      "changed": true
+    },
+    {
+      "itemid": "001-245359",
+      "title": "CASE OF KOVAČEVIĆ v. BOSNIA AND HERZEGOVINA",
+      "ground_truth": "no",
+      "decision": "no",
+      "reason": "The applicant's ethnic affiliation is mentioned, but it does not play a relevant role in the legal dispute regarding voting rights, which is framed as a general complaint about electoral requirements rather than a specific issue of discrimination against a Roma/Traveller identity.",
+      "match": true,
+      "changed": false
+    },
+    {
+      "itemid": "001-243567",
+      "title": "CASE OF T.H. v. THE CZECH REPUBLIC",
+      "ground_truth": "no",
+      "decision": "no",
+      "reason": "The case concerns the applicant's struggle with legal gender recognition and does not involve a Roma/Traveller individual or community, nor is their identity relevant to the legal dispute regarding Article 8.",
+      "match": true,
+      "changed": false
+    },
+    {
+      "itemid": "001-223709",
+      "title": "CASE OF SZOLCSÁN v. HUNGARY",
+      "ground_truth": "yes",
+      "decision": "yes",
+      "reason": "The applicant, who is of Roma ethnic origin, alleged discrimination in education based on his ethnicity, invoking Article 14 in conjunction with Article 2 of Protocol No. 1, highlighting the vulnerability of Roma children to segregation in schools.",
+      "match": true,
+      "changed": false
+    },
+    {
+      "itemid": "001-243087",
+      "title": "CASE OF VERSACI v. ITALY",
+      "ground_truth": "no",
+      "decision": "no",
+      "reason": "The case concerns the refusal of a public security licence based on the applicant's alleged lack of \"good character,\" but there is no indication that the applicant's Roma/Traveller identity is relevant to the legal dispute or the reasons for the refusal.",
+      "match": true,
+      "changed": false
+    },
+    {
+      "itemid": "001-225553",
+      "title": "AVDIU AND OTHERS v. ALBANIA",
+      "ground_truth": "yes",
+      "decision": "yes",
+      "reason": "The case involves Roma pupils who were subjected to segregation in education, with their identity being legally relevant to the discrimination claims under Article 14, and the Court acknowledged the discrimination against them based on their race.",
+      "match": true,
+      "changed": false
+    },
+    {
+      "itemid": "001-220406",
+      "title": "HYSENAJ v. ALBANIA",
+      "ground_truth": "unsure",
+      "decision": "yes",
+      "reason": "The applicant is explicitly identified as of Roma origin, and her identity is relevant to the alleged violation of her right of access to a court under Article 6, with claims of discrimination based on her Roma background under Article 14.",
+      "match": false,
+      "changed": true
+    },
+    {
+      "itemid": "001-207622",
+      "title": "UKRAINE v. RUSSIA (RE CRIMEA)",
+      "ground_truth": "unsure",
+      "decision": "no",
+      "reason": "The case concerns a territorial dispute between Ukraine and Russia with no direct involvement or relevance to Roma/Traveller identity, as the applicants are state parties and the issues raised do not pertain to the specific vulnerabilities or rights of Roma communities.",
+      "match": false,
+      "changed": true
+    },
+    {
+      "itemid": "001-207695",
+      "title": "CASE OF LACATUS v. SWITZERLAND",
+      "ground_truth": "yes",
+      "decision": "yes",
+      "reason": "The applicant is explicitly identified as a Roma woman, and the case involves a violation of Article 8 concerning her right to respect for private and family life, highlighting her vulnerability and the disproportionate impact of the law on her due to her Roma identity.",
+      "match": true,
+      "changed": false
+    },
+    {
+      "itemid": "001-209866",
+      "title": "CASE OF YOCHEVA AND GANEVA v. BULGARIA",
+      "ground_truth": "no",
+      "decision": "no",
+      "reason": "The case involves a single mother seeking a family allowance, but there is no indication that her Roma/Traveller identity is relevant to the legal dispute or the alleged discrimination, as the focus is on the legal interpretation of family status rather than ethnic identity.",
+      "match": true,
+      "changed": false
+    },
+    {
+      "itemid": "001-205536",
+      "title": "CASE OF ĆWIK v. POLAND",
+      "ground_truth": "no",
+      "decision": "no",
+      "reason": "The case concerns a violation of the right to a fair trial under Article 6, but there is no indication that the applicant's Roma/Traveller identity is relevant to the legal dispute or the alleged violation.",
+      "match": true,
+      "changed": false
+    },
+    {
+      "itemid": "001-244721",
+      "title": "CASE OF ILAREVA AND OTHERS v. BULGARIA",
+      "ground_truth": "unsure",
+      "decision": "no",
+      "reason": "The applicants are involved in human rights advocacy but their identity as Roma or Travellers is not explicitly confirmed, and the case primarily concerns issues of hate speech and threats without a direct link to their minority status.",
+      "match": false,
+      "changed": true
+    },
+    {
+      "itemid": "001-223538",
+      "title": "SALIM AND OTHERS v. NORTH MACEDONIA",
+      "ground_truth": "yes",
+      "decision": "yes",
+      "reason": "The case involves a group of applicants represented by the European Roma Rights Centre, indicating a strong Roma identity relevance, with complaints related to discrimination under Article 14 and Protocol 12, highlighting vulnerabilities faced by the Roma community in North Macedonia.",
+      "match": true,
+      "changed": false
+    },
+    {
+      "itemid": "001-238799",
+      "title": "CASE OF CALDARAR AND OTHERS v. POLAND",
+      "ground_truth": "yes",
+      "decision": "yes",
+      "reason": "The applicants are Romanian nationals of Roma origin, and the violation of Article 8 regarding their right to respect for private and family life is directly linked to their Roma identity and the context of their living situation.",
+      "match": true,
+      "changed": false
+    }
+  ]
+}

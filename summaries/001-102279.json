@@ -1,0 +1,28 @@
+{
+  "itemid": "001-102279",
+  "title": "CASE OF MIŽIGÁROVÁ v. SLOVAKIA",
+  "date": "2010-12-14",
+  "country": "SVK",
+  "importance": "2",
+  "articles": [
+    "2",
+    "2-1",
+    "14",
+    "14+2",
+    "41"
+  ],
+  "violations": [
+    "2"
+  ],
+  "nonviolations": [
+    "14+2",
+    "14",
+    "2"
+  ],
+  "conclusion": "Violation of Art. 2 (substantive aspect);Violation of Art. 2 (procedural aspect);No violation of Art. 14+2;Pecuniary damage - claim dismissed;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2010:1214JUD007483201",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-102279",
+  "summary": "In the case of Mižigárová v. Slovakia, the applicant, Mrs. Miluša Mižigárová, a Slovak national of Roma origin, brought a case against Slovakia concerning the death of her husband, Mr. Ľubomír Šarišský. The case focused on the vulnerability of Roma individuals to police violence and the failure of authorities to protect their right to life. On the evening of 12 August 1999, Mr. Šarišský was arrested on suspicion of bicycle theft and taken to the District Police Department in Poprad. During interrogation by Lieutenant F., an off-duty officer, Mr. Šarišský was handcuffed, left alone, and later shot in the abdomen with the officer’s service pistol. He died four days later in hospital from complications related to the gunshot wound. Despite medical evidence and witness accounts indicating police ill-treatment, the investigation was delayed and incomplete. The European Court of Human Rights examined Articles 2 (right to life) and 14 (prohibition of discrimination) of the European Convention on Human Rights. It found violations of Article 2 both substantively and procedurally, concluding that the State failed to protect Mr. Šarišský’s life and conduct an effective investigation. No violation of Article 14 in conjunction with Article 2 was found. The Court awarded non-pecuniary damages but dismissed the claim for pecuniary damage. This judgment highlights the persistent risks faced by Roma in police custody and the critical need for accountability, reflecting ongoing concerns about police violence against Roma in Slovakia at the turn of the century.",
+  "model": "gpt-4.1-mini-2025-04-14",
+  "summarized_at": "2026-05-04T07:48:54.544323+00:00"
+}

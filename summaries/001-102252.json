@@ -1,0 +1,25 @@
+{
+  "itemid": "001-102252",
+  "title": "CASE OF MILANOVIC v. SERBIA",
+  "date": "2010-12-14",
+  "country": "SRB",
+  "importance": "3",
+  "articles": [
+    "3",
+    "14",
+    "14+3",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "14+3",
+    "14"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Art. 3;Violation of Art. 14+3;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2010:1214JUD004461407",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-102252",
+  "summary": "In the case of Milanović v. Serbia, the applicant, Mr. Života Milanović, a member of the Roma community and a follower of the Vaishnava Hindu (Hare Krishna) faith, brought a case against Serbia. The case concerned repeated violent attacks against Mr. Milanović, motivated by his religious and ethnic identity, highlighting the vulnerability of Roma and religious minorities to hate crimes. Between 2001 and 2007, Mr. Milanović was assaulted multiple times in Jagodina and its vicinity, suffering serious injuries including stabbings and beatings. Despite reporting these attacks and filing criminal complaints, the police investigations were ineffective, with authorities failing to identify or prosecute the perpetrators, who were linked by the applicant to far-right extremist groups. The European Court of Human Rights examined violations of Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination) taken together with Article 3. The Court found that Serbia had violated these provisions by failing to protect Mr. Milanović from ill-treatment and by not conducting an effective investigation into the hate-motivated attacks. The Court awarded non-pecuniary damages to the applicant. This judgment is significant as it underscores the ongoing risks faced by Roma and religious minorities in Serbia and the obligation of states to ensure effective protection and investigation of hate crimes. Historically, Roma communities have endured systemic discrimination, making this ruling a crucial affirmation of their right to security and equal treatment under the law.",
+  "model": "gpt-4.1-mini-2025-04-14",
+  "summarized_at": "2026-05-04T07:48:49.200337+00:00"
+}
