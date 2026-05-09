@@ -1,0 +1,23 @@
+{
+  "itemid": "001-103117",
+  "title": "CASE OF DIMITROVA AND OTHERS v. BULGARIA",
+  "date": "2011-01-27",
+  "country": "BGR",
+  "importance": "4",
+  "articles": [
+    "2",
+    "14"
+  ],
+  "violations": [
+    "2"
+  ],
+  "nonviolations": [
+    "14"
+  ],
+  "conclusion": "Violation of Art. 2;No violation of Art. 14",
+  "ecli": "ECLI:CE:ECHR:2011:0127JUD004486204",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-103117",
+  "summary": "In the case of Dimitrova and Others v. Bulgaria, the applicants are members of the Roma community: the first and second applicants are the mother and wife, respectively, and the third and fourth applicants are brothers of Mr. Georgi Gerasimov, a Roma man who died following a violent attack. The case concerns the Bulgarian State’s responsibility for the death of Mr. Gerasimov and the subsequent investigation. On 30 May 2003, Mr. Gerasimov and three other Roma men were digging coal in an abandoned mine near Pernik when they were confronted by a group led by Mr. B.I., with whom one of the men had a debt dispute. A violent fight ensued, during which Mr. Gerasimov was severely beaten with bats and sustained fatal head injuries. He was hospitalized in a coma and died on 4 June 2003. The police investigation was criticized for its shortcomings, including the discontinuation of criminal proceedings against the suspects. The European Court of Human Rights examined the case under Article 2 (right to life) and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found a violation of Article 2, holding that the State failed to conduct an effective investigation into Mr. Gerasimov’s death, but did not find a violation of Article 14. This judgment highlights the ongoing challenges Roma face regarding protection of their right to life and effective investigation of violence against them, reflecting a broader historical context of systemic discrimination and impunity in Europe.",
+  "model": "gpt-4.1-mini-2025-04-14",
+  "summarized_at": "2026-05-09T15:19:44.725824+00:00"
+}

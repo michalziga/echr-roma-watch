@@ -24,7 +24,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 # ── Paths ─────────────────────────────────────────────────────
 
 PROJECT_ROOT = Path(__file__).parent.parent
-DATA_DIR     = PROJECT_ROOT / "data" / "Cases1996-2026"
+DATA_DIR     = PROJECT_ROOT / "data"
 SUMMARIES_DIR = PROJECT_ROOT / "summaries"
 SUMMARIES_DIR.mkdir(exist_ok=True)   # create the folder if it doesn't exist yet
 

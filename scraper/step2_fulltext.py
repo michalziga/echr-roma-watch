@@ -19,7 +19,7 @@ from pathlib import Path
 
 # ── Settings ─────────────────────────────────────────────────
 
-INPUT_FILE  = "/Users/michalziga/Documents/GitHub/echr-roma-watch/cases.json"
+INPUT_FILE  = Path(__file__).parent.parent / "scraped_cases.json"
 DELAY       = 0.8    # seconds to wait between requests
 MAX_RETRIES = 3      # how many times to retry a failed request before giving up
 

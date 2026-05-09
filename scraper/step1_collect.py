@@ -12,6 +12,7 @@
 
 import requests, json, time
 from datetime import datetime, timezone
+from pathlib import Path
 
 
 # ── Settings ─────────────────────────────────────────────────
@@ -21,7 +22,7 @@ from datetime import datetime, timezone
 DATE_FROM   = "1996-09-01"    # earliest case date to include
 DATE_TO     = "2026-04-19"    # latest case date to include
 PAGE_SIZE   = 100             # how many results to fetch per request (max 100)
-OUTPUT_FILE = "cases.json"    # where to save the results
+OUTPUT_FILE = Path(__file__).parent.parent / "scraped_cases.json"
 
 
 # ── Search query ──────────────────────────────────────────────
@@ -152,14 +153,16 @@ def parse(data):
             "full_text_length": None,
             "fetched_at":       None,
 
-            # ── Step 3 placeholders (filter + summary) ────────
+            # ── Step 4/5 placeholders (filter + summary) ──────
             # Declared here so every case has a consistent schema
             # from the start, regardless of which step added them.
             "is_roma_related":       None,   # "yes" / "no" / "unsure" / "no_text"
             "filter_reason":         None,   # one-sentence explanation from the AI
-            "text_source_language":  None,   # "ENG" or "FRE" (which text Step 3 used)
+            "text_source_language":  None,   # "ENG" or "FRE" (which text step 4 used)
             "filtered_at":           None,
+            "refiltered_at":         None,   # set by step 4; None = not yet processed
             "summary":               None,   # 200-word summary (yes cases only)
+            "summary_model":         None,   # model used to generate the summary
             "summary_generated_at":  None,
         })
 

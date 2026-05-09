@@ -1,0 +1,19 @@
+{
+  "itemid": "001-105326",
+  "title": "CELANO AND OTHERS v. ITALY",
+  "date": "2011-06-07",
+  "country": "ITA",
+  "importance": "4",
+  "articles": [
+    "14",
+    "P1-1"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2011:0607DEC001483007",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-105326",
+  "summary": "In the case of Celano and Others v. Italy, the applicants were a group of Italian nationals, all medical graduates undergoing specialist training at the University of La Sapienza in Rome. Although the case metadata does not specify their Roma or Traveller identity, the Council of Europe definition requires that the term \"Roma and Travellers\" be applied only when explicitly stated; here, no such identity is indicated. The applicants challenged the Italian State over the denial of social security coverage and salary adjustments during their specialist training period, which lasted until 2006. The vulnerability at the heart of the case concerned the applicants’ lack of social security protection and pay increases due to legislative delays and government measures that suspended relevant provisions of Law no. 368/1999. Despite legal provisions entitling them to remuneration adjustments and social security registration with the Italian welfare institution INPS, these rights were not implemented until 2006-2007, leaving the applicants without coverage for several years.\n\nThe applicants initiated domestic proceedings in 2005, which were dismissed by the Rome Labour Court in 2006. The Court held that the relevant EU directive did not guarantee specific salary rights for medical trainees and that the suspension of national legal provisions meant no enforceable rights had arisen. The European Court of Human Rights declared the application inadmissible, examining Articles 14 (prohibition of discrimination) and Protocol 1, Article 1 (protection of property), but found no violation. This case highlights the challenges faced by medical trainees in Italy regarding social security and remuneration, though it does not directly address Roma or Traveller rights. Historically, the European Court has played a crucial role in protecting minority rights, but here the Court’s decision reflects the limits of its jurisdiction when no discrimination or Convention breach is established.",
+  "model": "gpt-4.1-mini-2025-04-14",
+  "summarized_at": "2026-05-09T15:20:09.389474+00:00"
+}
