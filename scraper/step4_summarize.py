@@ -41,8 +41,8 @@ DELAY  = 1.0   # seconds between API calls
 # Set TEST_LIMIT to however many cases you want to run.
 # Set TEST_MODE = False to process all remaining cases.
 
-TEST_MODE  = True
-TEST_LIMIT = 100   # ← change this number
+TEST_MODE  = os.getenv("SUMMARIZE_ALL", "").lower() != "true"
+TEST_LIMIT = 100   # only used when TEST_MODE is True
 
 
 # ── Text budget ───────────────────────────────────────────────

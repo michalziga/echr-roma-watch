@@ -1,15 +1,15 @@
-name: Monthly HUDOC Scrape
+name: Daily HUDOC Scrape
 
 on:
   schedule:
-    - cron: "0 6 1 * *"   # 1st of every month at 06:00 UTC
+    - cron: "0 7 * * *"   # every day at 07:00 UTC
   workflow_dispatch:        # manual trigger from GitHub Actions tab
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
-      contents: write       # needed to commit new articles back to repo
+      contents: write       # needed to commit updated data back to repo
 
     steps:
       - name: Checkout repo
@@ -29,15 +29,21 @@ jobs:
       - name: Step 2 — Fetch full text
         run: python scraper/step2_fulltext.py
 
-      - name: Step 3 — AI summarization
-        run: python scraper/step3_summarize.py
+      - name: Step 3 — Filter for Roma relevance
+        run: python scraper/step3_filter.py
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
 
-      - name: Commit new articles to repo
+      - name: Step 4 — Summarize Roma cases
+        run: python scraper/step4_summarize.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SUMMARIZE_ALL: "true"
+
+      - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add articles/ last_run.json
-          git diff --cached --quiet || git commit -m "chore: add new ECHR articles [$(date +'%Y-%m-%d')]"
+          git add scraped_cases.json data/ summaries/
+          git diff --cached --quiet || git commit -m "chore: update ECHR Roma cases [$(date +'%Y-%m-%d')]"
           git push
