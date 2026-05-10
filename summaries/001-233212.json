@@ -1,0 +1,28 @@
+{
+  "itemid": "001-233212",
+  "title": "CASE OF ZĂICESCU AND FĂLTICINEANU v. ROMANIA",
+  "date": "2024-04-23",
+  "country": "ROU",
+  "importance": "3",
+  "articles": [
+    "35",
+    "35-3-a",
+    "14",
+    "14+8",
+    "8",
+    "8-1"
+  ],
+  "violations": [
+    "14",
+    "14+8",
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Ratione temporis;Violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life;Article 8-1 - Respect for private life)",
+  "ecli": "ECLI:CE:ECHR:2024:0423JUD004291716",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-233212",
+  "summary": "In Zăicescu and Fălticineanu v. Romania, the applicants—Mr. Zăicescu and Ms. Fălticineanu, both Jewish survivors of the Holocaust—brought a case against Romania. While the applicants are not from the Roma or Traveller communities, their application concerned the broader context of state accountability for crimes committed during the Second World War, including the persecution of minorities such as Jews and Roma. The vulnerability at the heart of the case related to the applicants’ experiences as children during the Holocaust: Mr. Zăicescu survived the Iași pogrom, witnessing the murder of close family members and enduring deportation on a “death train,” while Ms. Fălticineanu was confined in a ghetto in Cernăuți, suffering deprivation and living in hiding for years.\n\nThe applicants sought access to judicial files and information about post-war trials of war criminals, as well as transparency regarding extraordinary appeals that had led to the acquittal of individuals convicted of war crimes. Their requests were initially met with administrative obstacles and delays. The European Court of Human Rights examined the case under Article 8 (right to respect for private and family life) and Article 14 (prohibition of discrimination), finding violations of both. The Court held that the applicants’ right to access information of fundamental importance to their personal and family history had been unjustifiably restricted, and that they had been discriminated against in this context. This judgment is significant for its recognition of the right of Holocaust survivors to access historical records and judicial transparency, reinforcing the importance of state accountability for past atrocities.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:41:33.450664+00:00"
+}

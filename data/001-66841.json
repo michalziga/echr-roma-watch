@@ -19,8 +19,11 @@
   "full_text_length": 9075,
   "fetched_at": "2026-04-26T18:50:18.592491+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is explicitly identified as a member of the Roma ethnic minority in the facts section of the judgment.",
+  "filter_reason": "The applicant is explicitly identified as a member of the Roma ethnic minority in the statement of facts (paragraph 4).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:55:50.424294+00:00",
-  "refiltered_at": "2026-05-09T13:55:50.424294+00:00"
+  "filtered_at": "2026-05-10T19:32:37.127370+00:00",
+  "refiltered_at": "2026-05-10T19:32:37.127370+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

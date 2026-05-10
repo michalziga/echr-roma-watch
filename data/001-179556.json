@@ -19,8 +19,12 @@
   "full_text_length": 328540,
   "fetched_at": "2026-04-26T18:37:46.807510+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Rule 3 hard check).",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T19:39:26.191772+00:00",
-  "refiltered_at": "2026-05-08T19:39:26.191772+00:00"
+  "filtered_at": "2026-05-10T18:38:35.342501+00:00",
+  "refiltered_at": "2026-05-10T18:38:35.342501+00:00",
+  "recheck_reason": "there is no explicit or implicit identification of the applicant or victim as Roma or Traveller, nor is there any mention of a Roma-specific organisation involved; the case concerns general medical negligence and investigation failures without any direct link to Roma/Traveller identity (facts and Court's assessment).",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

@@ -21,6 +21,9 @@
   "is_roma_related": "yes",
   "filter_reason": "The applicants explicitly identify themselves as being of Romany origin in the statement of facts.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:59:14.645064+00:00",
-  "refiltered_at": "2026-05-09T13:59:14.645064+00:00"
+  "filtered_at": "2026-05-10T19:33:54.622839+00:00",
+  "refiltered_at": "2026-05-10T19:33:54.622839+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

@@ -1,0 +1,32 @@
+{
+  "itemid": "001-61931",
+  "title": "CASE OF BALOGH v. HUNGARY",
+  "date": "2004-07-20",
+  "country": "HUN",
+  "importance": "2",
+  "articles": [
+    "3",
+    "6",
+    "6-1",
+    "13",
+    "14",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [
+    "13",
+    "6",
+    "6-1",
+    "14"
+  ],
+  "conclusion": "Préliminary objection rejected (non-exhaustion of domestic remedies);Violation of Art. 3;No violation of Art. 13;No violation of Art. 6-1;No violation of Art. 14;Pecuniary damage - financial award;Non-pecuniary damage - financial award;Costs and expenses partial award - Convention proceedings",
+  "ecli": "ECLI:CE:ECHR:2004:0720JUD004794099",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-61931",
+  "summary": "In the case of Balogh v. Hungary, the applicant, Mr. Balogh, is a Hungarian national of Roma ethnic origin living in Miskolc. The case highlights the vulnerability of Roma and Travellers to police violence and the difficulties they face in obtaining justice for ill-treatment by state authorities. On 9 August 1995, while selling coal door-to-door in Orosháza, Mr. Balogh and his companions were taken to the local police station following a dispute over fuel vouchers. During police interrogation, Mr. Balogh was repeatedly slapped and punched by officers, resulting in a traumatic perforation of his left eardrum, which later required surgery and led to partial hearing loss. Witnesses confirmed seeing visible injuries on his face and ear immediately after his release, and a police officer reportedly warned them not to let “Miskolc gypsies” return to Orosháza. Despite medical evidence and witness testimony, the domestic investigation was discontinued for lack of conclusive proof, and the authorities failed to provide a plausible alternative explanation for his injuries.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and found a violation, awarding Mr. Balogh both pecuniary and non-pecuniary damages. The Court found no violation of Articles 6, 13, or 14. This judgment is significant as it underscores the persistent risks of police ill-treatment faced by Roma in Europe and the importance of effective investigations, reflecting a broader historical context of discrimination against Roma and Travellers.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:07:16.061931+00:00"
+}

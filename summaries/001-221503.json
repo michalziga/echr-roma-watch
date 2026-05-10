@@ -1,0 +1,30 @@
+{
+  "itemid": "001-221503",
+  "title": "CASE OF ELMAZOVA AND OTHERS v. NORTH MACEDONIA",
+  "date": "2022-12-13",
+  "country": "MKD",
+  "importance": "3",
+  "articles": [
+    "14",
+    "14+P1-2",
+    "34",
+    "35",
+    "35-3-a",
+    "41",
+    "46",
+    "46-2",
+    "P1-2"
+  ],
+  "violations": [
+    "14",
+    "14+P1-2",
+    "P1-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection dismissed (Art. 34) Individual applications;(Art. 34) Victim;Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Ratione personae;Violation of Article 14+P1-2 - Prohibition of discrimination (Article 14 - Discrimination) (Article 2 of Protocol No. 1 - Right to education-{general};Right to education);Respondent State to take measures of a general character (Article 46-2 - General measures);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2022:1213JUD001181120",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-221503",
+  "summary": "In Elmazova and Others v. North Macedonia, the applicants—Roma parents and pupils from the Bair district in Bitola—brought a case against North Macedonia, represented by the European Roma Rights Centre. The applicants identified as Roma and challenged the ethnic segregation of Roma children in the State-run primary school G.S. during the 2018/19 academic year. They alleged that, due to the implementation of catchment area policies and transfer practices, Roma pupils were concentrated in G.S., while ethnic Macedonian children from the same area attended the nearby T.A. school. The applicants argued that this led to de facto segregation, with G.S. becoming known locally as the “Romani or Gypsy school,” and that Roma pupils received inferior education and fewer opportunities for integration.\n\nThe European Court of Human Rights examined the case under Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 1 (right to education). The Court found that the State’s policies resulted in indirect discrimination and segregation of Roma pupils, violating both Article 14 and Article 2 of Protocol No. 1. The Court awarded non-pecuniary damages to the applicants and, notably, ordered North Macedonia to adopt general measures to address systemic segregation in education. This judgment stands out for its explicit recognition of ethnic segregation as a systemic problem and its requirement for the State to implement broader reforms beyond individual compensation.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:40:15.254899+00:00"
+}

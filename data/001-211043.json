@@ -19,10 +19,11 @@
   "full_text_length": 29139,
   "fetched_at": "2026-04-26T18:35:25.346202+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma individual, Anna Maděrová, who was subjected to forced sterilisation without consent, raising significant issues under Article 8 regarding her private and family life, and the involvement of the European Roma Rights Centre indicates the Roma identity's relevance to the alleged violation.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:17:27.082002+00:00",
+  "filtered_at": "2026-05-10T18:21:49.337041+00:00",
   "summary": "In the case of Maděrová v. The Czech Republic, the applicant, Anna Maděrová, a member of the Roma community, challenged the Czech Republic over her involuntary sterilization. The case centered on the vulnerability of Roma women to forced sterilization, a practice historically used against Roma communities in Europe. In 1982, Maděrová was sterilized during a caesarean delivery without her informed consent. She only became aware of the sterilization's implications years later, after an Ombudsperson's investigation in 2005. Despite her attempts to seek justice through criminal and civil proceedings, her claims were dismissed due to statutory limitations. The European Court of Human Rights declared her application inadmissible, finding no violation of Articles 6, 8, or 35 of the European Convention on Human Rights. This case highlights the ongoing struggle for Roma women to obtain redress for forced sterilizations, a practice that has been condemned internationally but continues to affect Roma communities. The decision underscores the challenges faced by Roma individuals in accessing justice and the importance of timely legal action in human rights cases.",
   "summary_generated_at": "2026-04-27T00:23:06.628709+00:00",
-  "refiltered_at": "2026-05-08T18:17:27.082002+00:00"
+  "refiltered_at": "2026-05-10T18:21:49.337041+00:00",
+  "summary_model": null
 }

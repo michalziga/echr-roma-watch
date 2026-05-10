@@ -1,0 +1,49 @@
+{
+  "itemid": "001-58261",
+  "title": "CASE OF ASSENOV AND OTHERS v. BULGARIA",
+  "date": "1998-10-28",
+  "country": "BGR",
+  "importance": "2",
+  "articles": [
+    "3",
+    "5",
+    "5-1",
+    "5-3",
+    "5-4",
+    "6",
+    "6-1",
+    "13",
+    "25",
+    "25-1",
+    "26",
+    "27",
+    "27-2",
+    "41",
+    "35",
+    "35-1",
+    "35-3",
+    "34"
+  ],
+  "violations": [
+    "3",
+    "13",
+    "5",
+    "5-3",
+    "5-4",
+    "25",
+    "25-1"
+  ],
+  "nonviolations": [
+    "3",
+    "6",
+    "6-1",
+    "5",
+    "5-1"
+  ],
+  "conclusion": "Preliminary objection dismissed (abuse of process);Preliminary objection dismissed (non-exhaustion of domestic remedies);No violation of Art. 3 (ill-treatment);Violation of Art. 3 (effective investigation);No violation of Art. 6-1;Violation of Art. 13;No violation of Art. 3 (detention);No violation of Art. 5-1;Violation of Art. 5-3 (judge or other officer);Violation of Art. 5-3 (trial within a reasonable time);Violation of Art. 5-4;Violation of Art. 25-1;Non-pecuniary damage - financial award;Costs and expenses award - Convention proceedings",
+  "ecli": "ECLI:CE:ECHR:1998:1028JUD002476094",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-58261",
+  "summary": "In the case of Assenov and Others v. Bulgaria, the applicants were a Roma family from Shoumen, Bulgaria: Anton Assenov, a minor at the time, and his parents, Fidanka Ivanova and Stefan Ivanov. Their Roma identity was central to the case, as it highlighted the particular vulnerability of Roma and Travellers to police abuse and inadequate legal protection in Bulgaria. The harm at the heart of the case involved allegations of police violence against Anton, then 14 years old, and his mother, as well as the authorities’ failure to properly investigate these claims—an issue that disproportionately affects Roma and Traveller communities across Europe.\n\nOn 19 September 1992, Anton was arrested by an off-duty policeman while gambling in a market square. His parents, both working nearby, intervened, leading to a confrontation with police. Anton and his father were handcuffed and detained at the police station, where Anton alleged further physical abuse. Medical examinations shortly after the incident documented multiple bruises on both Anton and his mother, consistent with their account of police violence. Despite a formal complaint, the ensuing investigation by the authorities was superficial and failed to address the applicants’ allegations adequately.\n\nThe European Court of Human Rights examined several articles of the Convention, notably Article 3 (prohibition of torture and inhuman or degrading treatment), Article 5 (right to liberty and security), and Article 13 (right to an effective remedy). While the Court did not find a substantive violation of Article 3 regarding ill-treatment, it held that Bulgaria had violated Article 3 procedurally by failing to conduct an effective investigation. The Court also found violations of Article 5 (regarding judicial oversight and promptness of proceedings), Article 13, and Article 25, awarding non-pecuniary damages and costs to the applicants.\n\nThis judgment is significant for Roma and Traveller rights as it established the obligation of states to investigate allegations of police abuse thoroughly and impartially, especially where vulnerable minorities are concerned. The case came at a time when Roma communities in post-communist Europe were increasingly drawing attention to systemic discrimination and police misconduct.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:05:38.802164+00:00"
+}

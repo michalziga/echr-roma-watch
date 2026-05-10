@@ -19,8 +19,11 @@
   "full_text_length": 3158,
   "fetched_at": "2026-04-26T18:37:17.379729+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma individual, Muamet Abedinov, who alleged discrimination based on his Roma origin in relation to his freedom of movement, with third-party intervention from the European Roma Rights Centre indicating the relevance of his identity to the legal dispute.",
+  "filter_reason": "Institutional marker 'Minority Rights Group' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T19:12:01.925073+00:00",
-  "refiltered_at": "2026-05-08T19:12:01.925073+00:00"
+  "filtered_at": "2026-05-10T18:37:49.395415+00:00",
+  "refiltered_at": "2026-05-10T18:37:49.395415+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

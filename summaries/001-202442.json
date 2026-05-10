@@ -1,0 +1,32 @@
+{
+  "itemid": "001-202442",
+  "title": "AFFAIRE HIRTU ET AUTRES c. FRANCE",
+  "date": "2020-05-14",
+  "country": "FRA",
+  "importance": "3",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "8-2",
+    "13",
+    "13+8-1",
+    "35",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1",
+    "13",
+    "13+8-1"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Non-violation de l'article 3 - Interdiction de la torture (Article 3 - Traitement dégradant;Traitement inhumain);Violation de l'article 8 - Droit au respect de la vie privée et familiale (Article 8-1 - Respect de la vie familiale;Respect de la vie privée);Violation de l'article 13+8-1 - Droit à un recours effectif (Article 13 - Recours effectif) (Article 8-1 - Respect de la vie familiale;Respect de la vie privée;Article 8 - Droit au respect de la vie privée et familiale);Préjudice moral - réparation (Article 41 - Préjudice moral;Satisfaction équitable)",
+  "ecli": "ECLI:CE:ECHR:2020:0514JUD002472013",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-202442",
+  "summary": "In Hirtu and Others v. France, the applicants were Romanian nationals belonging to the Roma community, represented by the European Roma Rights Center, who had lived in France for many years—some for over a decade. The case concerned the vulnerability of Roma and Travellers facing forced evictions from informal settlements, a recurring issue that disproportionately affects these communities and disrupts their family life, education, and access to housing. In 2013, after a previous eviction, the applicants and their families, including many children, settled with 43 caravans on municipal land in La Courneuve, near Paris. Following a mayoral request, the prefect issued an order on 29 March 2013 demanding that the “gens du voyage” vacate the site within 48 hours, citing public health and safety concerns. Only one applicant, Mr. Hirtu, managed to challenge the order in court due to the short deadline, but his claim was initially dismissed on procedural grounds and later rejected on appeal. The European Court of Human Rights examined Articles 3 (prohibition of inhuman or degrading treatment), 8 (right to respect for private and family life), and 13 (right to an effective remedy). The Court found no violation of Article 3 but held that France had violated Article 8 and Article 13 in conjunction with Article 8, awarding moral damages. This judgment is significant as it highlights the ongoing challenges Roma and Traveller communities face in Europe regarding forced evictions and the need for effective legal remedies, reflecting a broader historical pattern of marginalisation and inadequate protection of their rights.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:36:35.627293+00:00"
+}

@@ -19,10 +19,11 @@
   "full_text_length": 120729,
   "fetched_at": "2026-04-26T18:36:17.856180+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are identified as Roma individuals, and the case involves allegations of inhuman treatment by police during a raid in a Roma community, which is directly relevant to their ethnic identity and the violation of their rights under Articles 3 and 14 of the Convention.",
+  "filter_reason": "35 non-citational Roma/Traveller identity mentions (incl. 2 unambiguous) found in full text — Roma relevance confirmed without LLM (Signal 1 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:44:47.346732+00:00",
+  "filtered_at": "2026-05-10T18:36:14.401405+00:00",
   "summary": "In the case of R.R. and R.D. v. Slovakia, the applicants, members of the Roma community in Slovakia, alleged police mistreatment during a large-scale operation in Moldava nad Bodvou on June 19, 2013. The case centered on the vulnerability of Roma communities to police violence and discrimination. The applicants claimed they were subjected to inhuman and degrading treatment by police, who used excessive force, including batons, during their arrest. The operation was purportedly a search for wanted persons, but the applicants argued it was retaliatory. The European Court of Human Rights found violations of Article 3 (prohibition of torture) in both substantive and procedural aspects, due to the unjustified use of force and ineffective investigation. Additionally, a violation of Article 14 in conjunction with Article 3 was found, as the state failed to investigate potential ethnic discrimination. However, no violation was found regarding discrimination in the execution of the operation. This case highlights ongoing issues of police violence and discrimination against Roma in Europe, reflecting historical patterns of marginalization and systemic bias against Roma communities. The Court's decision underscores the need for effective investigations and accountability in cases involving minority rights.",
   "summary_generated_at": "2026-04-27T00:25:43.129133+00:00",
-  "refiltered_at": "2026-05-08T18:44:47.346732+00:00"
+  "refiltered_at": "2026-05-10T18:36:14.401405+00:00",
+  "summary_model": null
 }

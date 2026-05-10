@@ -19,10 +19,11 @@
   "full_text_length": 41257,
   "fetched_at": "2026-04-26T18:35:22.621253+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant, who identifies as Roma, alleged racially motivated police brutality and the failure of authorities to investigate these claims, invoking Articles 3 and 14, which are directly linked to his ethnic identity and the discrimination he faced.",
+  "filter_reason": "Institutional marker 'Minority Rights Group' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:17:11.355732+00:00",
+  "filtered_at": "2026-05-10T18:21:46.365409+00:00",
   "summary": "In the case of Memedov v. North Macedonia, the applicant, Mr. Fatmir Memedov, a member of the Roma community, alleged racially motivated police brutality in North Macedonia. The case centered on the vulnerability of Roma individuals to police violence and discrimination. On May 5, 2013, police intervened in a Roma neighborhood in Skopje to arrest a fugitive. During the operation, a crowd gathered, and Mr. Memedov was among those arrested. He claimed police officers insulted and physically assaulted him, using racial slurs. Medical reports confirmed his injuries, including bruises and post-traumatic stress disorder. Despite complaints, the authorities failed to investigate the alleged racial motives behind the police actions. The European Court of Human Rights found violations of Article 3 (prohibition of torture) and Article 14 (prohibition of discrimination) in conjunction with Article 3, due to the lack of an effective investigation into the racially motivated ill-treatment. This case highlights the ongoing issue of systemic discrimination and violence against Roma communities in Europe, reflecting historical marginalization and the need for effective legal protections.",
   "summary_generated_at": "2026-04-27T00:22:54.206393+00:00",
-  "refiltered_at": "2026-05-08T18:17:11.355732+00:00"
+  "refiltered_at": "2026-05-10T18:21:46.365409+00:00",
+  "summary_model": null
 }

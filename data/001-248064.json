@@ -19,10 +19,11 @@
   "full_text_length": 3882,
   "fetched_at": "2026-04-26T18:33:00.090949+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a complaint under Article 14 in conjunction with Article 3, with the applicant represented by the European Roma Rights Centre, indicating a substantive Roma identity relevance in the context of the alleged violation.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T13:05:52.158140+00:00",
+  "filtered_at": "2026-05-10T18:16:58.389321+00:00",
   "summary": "Nafi Isa, a member of the Roma community, lodged an application against North Macedonia, alleging police ill-treatment and ineffective investigation, with potential racial motives, under Article 14 in conjunction with Article 3 of the European Convention on Human Rights. The case centered on the vulnerability of Roma individuals to police violence and inadequate legal recourse. Isa, represented by the European Roma Rights Centre, claimed that the authorities failed to investigate the alleged racist motives behind the police's actions. After Isa's death in 2025, his spouse, Azire Isa, continued the application. A friendly settlement was reached, with the government agreeing to compensate Isa's widow, leading the Court to strike the case from its list under Article 39. No violations were formally adjudicated due to the settlement. This case highlights ongoing issues of police violence and racial discrimination against Roma in Europe, reflecting historical patterns of marginalization and inadequate state protection. The friendly settlement underscores the importance of addressing systemic discrimination and ensuring effective legal remedies for Roma communities.",
   "summary_generated_at": "2026-04-27T00:15:19.799770+00:00",
-  "refiltered_at": "2026-05-08T13:05:52.158140+00:00"
+  "refiltered_at": "2026-05-10T18:16:58.389321+00:00",
+  "summary_model": null
 }

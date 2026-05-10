@@ -1,0 +1,37 @@
+{
+  "itemid": "001-111634",
+  "title": "CASE OF KURIĆ AND OTHERS v. SLOVENIA",
+  "date": "2012-06-26",
+  "country": "SVN",
+  "importance": "1",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "13",
+    "13+8",
+    "14",
+    "14+8",
+    "34",
+    "35",
+    "35-1",
+    "35-3",
+    "41",
+    "46"
+  ],
+  "violations": [
+    "8",
+    "8-1",
+    "13",
+    "13+8",
+    "14",
+    "14+8"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objections dismissed (Article 35-1 - Effective domestic remedy;Continuing situation;Article 35-3 - Ratione materiae;Ratione temporis);Preliminary objection dismissed (Article 34 - Victim);Preliminary objection allowed (Article 35-1 - Effective domestic remedy);Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for family life;Respect for private life);Violation of Article 13+8 - Right to an effective remedy (Article 13 - Effective remedy) (Article 8 - Right to respect for private and family life);Violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life);Respondent State to take measures of a general character (Article 46 - Pilot judgment;General measures);Pecuniary damage - reserved;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2012:0626JUD002682806",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-111634",
+  "summary": "In the case of Kurić and Others v. Slovenia, the applicants were eight individuals, including Mr. Mustafa Kurić, who identified as members of the Roma and other minority groups from the former Yugoslavia, residing in Slovenia at the time of its independence. The case highlighted the particular vulnerability of Roma and other minorities who, following Slovenia’s independence in 1991, became victims of the so-called “erasure”—the removal of their names from the register of permanent residents. This act left thousands, including the applicants, stateless or without legal status, depriving them of basic rights such as healthcare, employment, and social security.\n\nAfter Slovenia declared independence on 25 June 1991, the applicants, who had been lawful residents, failed to acquire Slovenian citizenship within a short legal window. As a result, in February 1992, their names were erased from the register, stripping them of residency rights and rendering them undocumented. Many, including Roma and other minorities, faced expulsion, loss of homes, and severe social exclusion for years.\n\nThe European Court of Human Rights examined violations of Article 8 (right to respect for private and family life), Article 13 (right to an effective remedy), and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found that Slovenia had violated these rights and ordered both individual compensation and general measures to remedy the situation.\n\nThis landmark judgment is significant for Roma and Traveller rights, as it addressed the long-standing exclusion and discrimination faced by minorities in post-Yugoslav states, setting a precedent for the protection of stateless and marginalised groups in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:22:18.370726+00:00"
+}

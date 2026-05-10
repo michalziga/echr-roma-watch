@@ -1,0 +1,26 @@
+{
+  "itemid": "001-187930",
+  "title": "CASE OF MAGYAR JETI ZRT v. HUNGARY",
+  "date": "2018-12-04",
+  "country": "HUN",
+  "importance": "1",
+  "articles": [
+    "8",
+    "8-1",
+    "10",
+    "10-1",
+    "10-2",
+    "41"
+  ],
+  "violations": [
+    "10",
+    "10-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 10 - Freedom of expression-{general} (Article 10-1 - Freedom of expression);Pecuniary damage - award (Article 41 - Pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2018:1204JUD001125716",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-187930",
+  "summary": "In the case of Magyar Jeti Zrt v. Hungary, the applicant was Magyar Jeti Zrt, a company operating the Hungarian online news portal 444.hu. The case arose from an incident at a primary school in Konyár, Hungary, where the majority of students were Roma. On 5 September 2013, a group of intoxicated football supporters stopped at the school, shouted racist insults, threatened the Roma children, and behaved aggressively, prompting teachers to hide the children and call the police. The leader of the local Roma minority government, J.Gy., gave an interview about the incident, which was uploaded to YouTube and later linked in an article by 444.hu.\n\nThe harm at the centre of the case was the racist intimidation suffered by Roma children, which was widely reported in the media. However, the legal proceedings focused on the applicant company’s liability for defamation after it published a hyperlink to the interview, in which J.Gy. had linked the attackers to the political party Jobbik, known for its anti-Roma rhetoric.\n\nHungarian courts found Magyar Jeti Zrt liable for disseminating defamatory statements by merely linking to the video, ordering the removal of the hyperlink and publication of the judgment. The European Court of Human Rights examined Article 10 (freedom of expression) and found a violation, ruling that holding a news portal strictly liable for hyperlinking to third-party content unduly restricted press freedom. The Court awarded pecuniary damages to the applicant.\n\nThis judgment is significant for Roma and Traveller rights as it highlights the importance of robust media reporting on anti-Roma incidents, especially in a context where Roma communities have long faced discrimination and violence in Hungary and across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:03:34.143059+00:00"
+}

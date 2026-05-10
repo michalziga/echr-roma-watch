@@ -1,0 +1,25 @@
+{
+  "itemid": "001-73400",
+  "title": "ATANASOV v. BULGARIA",
+  "date": "2006-03-23",
+  "country": "BGR",
+  "importance": "4",
+  "articles": [
+    "5",
+    "5-1-c",
+    "5-3",
+    "5-4",
+    "6",
+    "6-1",
+    "14",
+    "13"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Partly admissible;Partly inadmissible",
+  "ecli": "ECLI:CE:ECHR:2006:0323DEC005417200",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-73400",
+  "summary": "In Atanasov v. Bulgaria, the applicant, Mr. Angel Nikolov Atanasov, is a Bulgarian national of Roma origin living in Plovdiv. He brought a case against Bulgaria, alleging discrimination and procedural unfairness in criminal proceedings against him. The case highlights the vulnerability of Roma individuals within the justice system, particularly regarding claims of bias and lack of effective remedies when facing serious criminal charges.\n\nThe events unfolded on 19 March 1999, when Mr. Atanasov, who is disabled and uses a prosthesis, became involved in an altercation after drinking in a bar. Following a quarrel, he punctured a car’s tires and, during a subsequent scuffle, stabbed the car’s owner. He was arrested, charged with attempted murder, and remanded in custody. Throughout the proceedings, Mr. Atanasov argued that the courts were not impartial, that his Roma origin led to discrimination, and that his detention and trial did not meet Convention standards.\n\nThe European Court of Human Rights examined complaints under Articles 5 (right to liberty and security), 6 (right to a fair trial), 13 (right to an effective remedy), and 14 (prohibition of discrimination). The Court found that several complaints, including those concerning the fairness of the trial and alleged discrimination under Article 14, were inadmissible. However, it declared admissible the complaints regarding the lawfulness and review of his detention under Article 5.\n\nThis case is significant as it demonstrates the ongoing challenges Roma and Traveller individuals face in accessing justice and fair treatment in criminal proceedings. It reflects broader historical patterns of marginalisation and the need for vigilance against discrimination in European legal systems.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:11:31.058032+00:00"
+}

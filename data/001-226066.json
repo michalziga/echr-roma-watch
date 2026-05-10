@@ -19,10 +19,11 @@
   "full_text_length": 12426,
   "fetched_at": "2026-04-26T18:34:17.504621+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are explicitly identified as being of Roma origin, and the case involves allegations of inadequate investigation into a racially motivated assault, raising issues under Articles 3 and 14 of the Convention, highlighting their vulnerability to violence and discrimination.",
+  "filter_reason": "The applicants are explicitly identified as being of Roma origin in paragraph 2 of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:31:15.532684+00:00",
+  "filtered_at": "2026-05-10T18:20:02.766316+00:00",
   "summary": "a) The applicants, Kálmán Bódi and others, belong to the Roma community in Hungary.\nb) The case centers on the vulnerability of Roma individuals to racially motivated violence and inadequate investigation by authorities.\nc) On August 22, 2014, the applicants, while working as community workers in Balaton, were attacked by 8-10 men armed with weapons and wearing uniforms associated with a right-wing paramilitary group. The attackers allegedly used anti-Roma insults. Despite identifying one attacker, L., the investigation was initially limited to aggravated bodily assault, not considering potential racial motives. The applicants' requests to escalate the investigation to address violence against a community were initially denied. Eventually, L. was convicted of attempted bodily assault and hooliganism, but not for racially motivated violence.\nd) The Court found the application inadmissible, concluding that the investigation met the obligations under Articles 3 and 14 of the Convention.\ne) This case highlights ongoing challenges in addressing racially motivated violence against Roma in Europe. Despite historical discrimination, the Court deemed the investigation sufficient, reflecting the complexities in proving racial motives in legal proceedings.",
   "summary_generated_at": "2026-04-27T00:19:02.741822+00:00",
-  "refiltered_at": "2026-05-08T14:31:15.532684+00:00"
+  "refiltered_at": "2026-05-10T18:20:02.766316+00:00",
+  "summary_model": null
 }

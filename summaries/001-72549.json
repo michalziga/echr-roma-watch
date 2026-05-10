@@ -1,0 +1,38 @@
+{
+  "itemid": "001-72549",
+  "title": "CASE OF OGNYANOVA AND CHOBAN v. BULGARIA",
+  "date": "2006-02-23",
+  "country": "BGR",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "3",
+    "5",
+    "5-1-c",
+    "5-1",
+    "13",
+    "14+2",
+    "14",
+    "14+3",
+    "14+5-1",
+    "14+13",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "3",
+    "5",
+    "5-1",
+    "13"
+  ],
+  "nonviolations": [
+    "14"
+  ],
+  "conclusion": "Violations of Art. 2;Violation of Art. 3;Violation of Art. 5-1;Violation of Art. 13;No violation of Art. 14;Non-pecuniary damage - financial awards;Costs and expenses partial award - Convention proceedings",
+  "ecli": "ECLI:CE:ECHR:2006:0223JUD004631799",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-72549",
+  "summary": "In the case of Ognyanova and Choban v. Bulgaria, the applicants, Ms. Zoya Kirilova Ognyanova and Ms. Giulfere Yusein Choban, both Bulgarian nationals of Roma ethnic origin, brought a complaint against Bulgaria following the death of Mr. Zahari Alexandrov Stefanov, also of Roma origin. The case highlighted the acute vulnerability of Roma and Travellers to police violence and the lack of effective state protection, particularly in situations involving deprivation of liberty.\n\nOn 4 June 1993, Mr. Stefanov, aged twenty-three, was arrested by police in Muglizh, Bulgaria, on suspicion of theft and taken to the Kazanluk police station. The following day, while handcuffed and being questioned in a third-floor office, he fell from a window and died from his injuries. The authorities concluded that he had jumped voluntarily, but the applicants—his de facto spouse and mother—contested this, alleging that he died as a result of police ill-treatment and that the investigation into his death was inadequate and ineffective.\n\nThe European Court of Human Rights examined violations of Articles 2 (right to life), 3 (prohibition of inhuman or degrading treatment), 5 (right to liberty and security), and 13 (right to an effective remedy) of the European Convention on Human Rights. The Court found Bulgaria in violation of Articles 2, 3, 5, and 13, awarding non-pecuniary damages and partial costs to the applicants, but did not find a violation of Article 14 (prohibition of discrimination).\n\nThis judgment is significant for Roma and Traveller rights, as it underscores the persistent risks of police abuse and impunity faced by Roma communities in Europe, reflecting a broader historical pattern of marginalisation and inadequate state response to violence against Roma individuals.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:11:12.216956+00:00"
+}

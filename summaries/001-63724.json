@@ -1,0 +1,29 @@
+{
+  "itemid": "001-63724",
+  "title": "AFFAIRE LEE c. ROYAUME-UNI",
+  "date": "2001-01-18",
+  "country": "GBR",
+  "importance": "2",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "14",
+    "36",
+    "36-2",
+    "P1-1",
+    "P1-1-1",
+    "P1-2"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "14"
+  ],
+  "conclusion": "Non-violation de l'art. 8;Non-violation de P1-1;Non-violation de P1-2;Non-violation de l'art. 14",
+  "ecli": "ECLI:CE:ECHR:2001:0118JUD002528994",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-63724",
+  "summary": "In Lee v. the United Kingdom, the applicant, Mr. Lee, is a member of the Gypsy community—part of the broader Roma and Travellers group as defined by the Council of Europe—who, along with his family, led a nomadic life in Kent, England. The case focused on the vulnerability of Roma and Traveller families facing repeated evictions and the struggle to maintain their traditional way of life in the face of restrictive planning laws. Over four years, Mr. Lee and his family were evicted from more than forty sites, prompting him to purchase a small plot of land in 1991 to establish a stable home for his family and grandchildren, who had begun attending school regularly. However, the local council refused planning permission for their caravans, citing landscape protection policies, and issued an enforcement notice requiring their removal.\n\nMr. Lee argued that these actions interfered with his right to respect for private and family life and home under Article 8 of the European Convention on Human Rights, as well as his right to peaceful enjoyment of possessions (Article 1 of Protocol No. 1) and freedom from discrimination (Article 14). The European Court of Human Rights acknowledged the impact of the measures on Mr. Lee’s ability to maintain his Gypsy identity and traditional lifestyle but ultimately found no violation of the Convention. The Court held that the interference was justified by the legitimate aim of protecting the environment and was proportionate in the circumstances.\n\nThis case is significant as it highlights the persistent tension between the rights of Roma and Traveller communities to preserve their way of life and the enforcement of planning regulations in Europe. It reflects the historical challenges faced by these minorities in securing stable accommodation and recognition of their cultural identity.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:08:05.736827+00:00"
+}

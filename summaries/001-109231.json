@@ -1,0 +1,33 @@
+{
+  "itemid": "001-109231",
+  "title": "CASE OF HIRSI JAMAA AND OTHERS v. ITALY",
+  "date": "2012-02-23",
+  "country": "ITA",
+  "importance": "1",
+  "articles": [
+    "1",
+    "3",
+    "13",
+    "13+3",
+    "13+P4-4",
+    "34",
+    "35",
+    "35-1",
+    "41",
+    "P4-4"
+  ],
+  "violations": [
+    "3",
+    "13",
+    "13+3",
+    "13+P4-4",
+    "P4-4"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objections joined to merits and dismissed (Article 35-1 - Exhaustion of domestic remedies);Preliminary objection joined to merits and dismissed (Article 34 - Victim);Violation of Article 3 - Prohibition of torture (Article 3 - Expulsion) (Conditional) (Libya);Violation of Article 3 - Prohibition of torture (Article 3 - Expulsion) (Conditional) (Eritrea) (Somalia);Violation of Article 4 of Protocol No. 4 - Prohibition of collective expulsion of aliens-{general} (Article 4 of Protocol No. 4 - Prohibition of collective expulsion of aliens);Violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Prohibition of torture;Expulsion);Violation of Article 13+P4-4 - Right to an effective remedy (Article 13 - Effective remedy) (Article 4 of Protocol No. 4 - Prohibition of collective expulsion of aliens-{general};Prohibition of collective expulsion of aliens);Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2012:0223JUD002776509",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-109231",
+  "summary": "Hirsi Jamaa and Others v. Italy concerned a group of applicants—eleven Somali nationals and thirteen Eritrean nationals—who were part of a larger group intercepted at sea by Italian authorities in May 2009. While the applicants’ Roma or Traveller identity is not mentioned or implied in the judgment, the case is significant for its examination of collective expulsions and the rights of vulnerable migrants, including those who may belong to minority groups.\n\nThe applicants, fleeing conflict and persecution, left Libya by boat aiming to reach Italy. When their vessels were 35 nautical miles south of Lampedusa, Italian coastguard and police intercepted them, transferred them onto Italian military ships, and returned them to Tripoli, Libya, without any identification process or opportunity to seek asylum. The applicants’ personal belongings were confiscated, and they were not informed of their destination. Upon arrival in Libya, they were handed over to Libyan authorities, despite their objections and fears of ill-treatment.\n\nThe European Court of Human Rights found that Italy had violated Article 3 (prohibition of torture and inhuman or degrading treatment), Article 4 of Protocol No. 4 (prohibition of collective expulsion of aliens), and Article 13 (right to an effective remedy) in conjunction with both Article 3 and Article 4 of Protocol No. 4. The Court awarded non-pecuniary damages to the applicants. This judgment is notable for establishing that states cannot evade their human rights obligations by conducting operations on the high seas, and that collective expulsions without individual assessment are prohibited under the Convention.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:08.524812+00:00"
+}

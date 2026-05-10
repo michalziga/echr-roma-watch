@@ -1,0 +1,22 @@
+{
+  "itemid": "001-96601",
+  "title": "AFFAIRE SASHOV ET AUTRES c. BULGARIE",
+  "date": "2010-01-07",
+  "country": "BGR",
+  "importance": "3",
+  "articles": [
+    "3",
+    "14",
+    "41"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation de l'art. 3 (volet matériel);Violation de l'art. 3 (volet procédural);Partiellement irrecevable;Préjudice moral - réparation",
+  "ecli": "ECLI:CE:ECHR:2010:0107JUD001438303",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-96601",
+  "summary": "In Sashov and Others v. Bulgaria, the applicants—Mr. Sashov, Mr. Simeonov, and Mr. Yankov—are Bulgarian nationals from Sofia who belong to the Roma community, as defined by the Council of Europe. Their case focused on the vulnerability of Roma individuals to police violence and the lack of effective state protection against such abuse. On 18 July 2001, following a report of alleged theft by Roma individuals, plainclothes police officers apprehended the three men in the Ovcha Kupel district of Sofia. During and after their arrest, the applicants were subjected to repeated beatings with batons and other objects, forced into the trunk of a police car, and insulted with anti-Roma slurs. Medical examinations conducted immediately after their release documented significant injuries consistent with their account of police brutality.\n\nDespite their complaints and supporting medical evidence, the Bulgarian authorities failed to conduct an effective investigation into the alleged ill-treatment. The European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found a violation of Article 3, both in its substantive and procedural aspects, and awarded the applicants compensation for non-pecuniary damage.\n\nThis judgment is significant as it highlights the persistent problem of police violence against Roma and the failure of state authorities to provide effective remedies, reflecting broader patterns of discrimination and marginalisation of Roma and Traveller communities in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:21:31.210590+00:00"
+}

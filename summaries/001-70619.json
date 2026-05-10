@@ -1,0 +1,22 @@
+{
+  "itemid": "001-70619",
+  "title": "TODOROV v. BULGARIA",
+  "date": "2005-09-29",
+  "country": "BGR",
+  "importance": "4",
+  "articles": [
+    "3",
+    "5",
+    "5-1",
+    "5-3",
+    "5-4"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Partly admissible;Partly inadmissible",
+  "ecli": "ECLI:CE:ECHR:2005:0929DEC005156299",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-70619",
+  "summary": "In Todorov v. Bulgaria, the applicant, Mr. Tanko Zaprianov Todorov, identified himself as being of Roma ethnic origin and lived in the village of Chalakovi. He brought a case against Bulgaria, alleging ill-treatment by police and procedural violations during his detention and trial. The case highlighted the vulnerability of Roma individuals to police abuse and the risk of coerced confessions, a recurring concern for Roma and Traveller communities across Europe. On 11 December 1997, following a murder in his village, Mr. Todorov was arrested, questioned by police, and signed a confession which he later retracted, claiming it was obtained under duress and physical abuse. Despite his allegations, the authorities did not open a thorough investigation into his claims of ill-treatment. He was charged with murder, held in pre-trial detention, and eventually convicted after a lengthy process, during which he continued to assert that his confession was not voluntary.\n\nThe European Court of Human Rights examined the case under Articles 3 (prohibition of torture and inhuman or degrading treatment) and 5 (right to liberty and security) of the European Convention on Human Rights. The Court found parts of the application admissible but did not ultimately find a violation of Article 3 regarding ill-treatment or lack of investigation, nor did it find a violation of Article 5 concerning the lawfulness of his detention. No remedies were awarded.\n\nThis case is significant as it underscores the persistent challenges Roma individuals face in securing protection from police abuse and ensuring fair treatment in criminal proceedings. It reflects the broader historical context of mistrust and marginalisation experienced by Roma and Traveller communities within European justice systems.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:10:39.099747+00:00"
+}

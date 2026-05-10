@@ -1,0 +1,21 @@
+{
+  "itemid": "001-248780",
+  "title": "D.J. v. NORWAY",
+  "date": "2026-01-20",
+  "country": "NOR",
+  "importance": "4",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2026:0120DEC003683921",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-248780",
+  "summary": "In D.J. v. Norway, the applicant, D.J., identified as a member of the Roma community, challenged Norwegian child welfare decisions that severely restricted her contact with her daughter, X. The case centered on the vulnerability of Roma parents facing limitations on family life, including a prohibition on speaking the Romani language during supervised contact sessions and the placement of the child at an undisclosed address due to an assessed risk of abduction. The events unfolded between 2019 and 2022, following the removal of X from D.J.’s care and subsequent court proceedings in Norway. D.J. argued that the restrictions, particularly the language ban and police presence during visits, undermined her ability to demonstrate her caregiving abilities and maintain a meaningful relationship with her daughter.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life) of the European Convention on Human Rights. The Court found that the Norwegian authorities had provided relevant and sufficient reasons for the measures, prioritizing X’s health and well-being, and had not abandoned the goal of future reunification. The Court also accepted the necessity of the language restriction and security measures in light of the abduction risk. Concluding that the interference was proportionate and necessary, the Court declared the application inadmissible as manifestly ill-founded. No violation was found, and no remedies were awarded.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:43:23.537425+00:00"
+}

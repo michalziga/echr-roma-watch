@@ -19,8 +19,11 @@
   "full_text_length": 65287,
   "fetched_at": "2026-04-26T18:38:04.478857+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are identified as belonging to the Roma ethnic group, and the case involves a violation of their right to respect for family life under Article 8, which is legally relevant to their Roma identity and the social vulnerabilities they face.",
+  "filter_reason": "The applicants are explicitly identified as belonging to the Roma ethnic group in the statement of facts (paragraph 5).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T20:13:33.080063+00:00",
-  "refiltered_at": "2026-05-08T20:13:33.080063+00:00"
+  "filtered_at": "2026-05-10T18:38:58.097253+00:00",
+  "refiltered_at": "2026-05-10T18:38:58.097253+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

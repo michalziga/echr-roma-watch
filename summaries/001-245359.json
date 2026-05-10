@@ -1,0 +1,24 @@
+{
+  "itemid": "001-245359",
+  "title": "CASE OF KOVAČEVIĆ v. BOSNIA AND HERZEGOVINA",
+  "date": "2025-06-25",
+  "country": "BIH",
+  "importance": "1",
+  "articles": [
+    "35",
+    "35-3-a",
+    "34",
+    "19",
+    "14",
+    "P1-3",
+    "P12-1"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection allowed (Art. 35) Admissibility criteria;(Art. 35-3-a) Abuse of the right of application;Preliminary objection allowed (Art. 34) Individual applications;(Art. 34) Victim;Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Abuse of the right of application;(Art. 35-3-a) Ratione materiae",
+  "ecli": "ECLI:CE:ECHR:2025:0625JUD004365122",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-245359",
+  "summary": "In Kovačević v. Bosnia and Herzegovina, the applicant, Mr. Slaven Kovačević, a dual national of Bosnia and Herzegovina and Croatia, brought a case against Bosnia and Herzegovina. While Mr. Kovačević’s ethnic background was a matter of contention during proceedings, the Court noted that information he provided about his ethnicity on the Sarajevo City Council’s website was considered deceptive and potentially relevant to the case. The core issue concerned the applicant’s claim of discrimination in his right to vote, specifically that the combination of ethnic and territorial requirements in Bosnia and Herzegovina’s electoral system prevented him from voting for candidates of his choice in both chambers of the Parliamentary Assembly and the Presidency. These requirements have been the subject of previous litigation by members of Roma and Traveller communities, but in this case, the applicant’s own minority status was not established.\n\nThe Grand Chamber examined complaints under Article 14 (prohibition of discrimination) in conjunction with Article 3 of Protocol No. 1 (right to free elections), and Article 1 of Protocol No. 12 (general prohibition of discrimination). However, the Court found that Mr. Kovačević lacked victim status for his discrimination complaints, as he failed to demonstrate a sufficiently direct link between the alleged harm and his capacity as a voter. Furthermore, the Court found that his conduct during proceedings—particularly unsubstantiated accusations and offensive remarks targeting the Court and government representatives—amounted to an abuse of the right of application under Article 35 § 3(a). As a result, the application was declared inadmissible, and no violation was found. The judgment distinguished this case from Sejdić and Finci v. Bosnia and Herzegovina, as it concerned the active right to vote rather than the passive right to stand for election.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:42:49.362583+00:00"
+}

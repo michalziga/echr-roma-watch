@@ -1,0 +1,28 @@
+{
+  "itemid": "001-179556",
+  "title": "CASE OF LOPES DE SOUSA FERNANDES v. PORTUGAL",
+  "date": "2017-12-19",
+  "country": "PRT",
+  "importance": "1",
+  "articles": [
+    "2",
+    "2-1",
+    "35",
+    "35-3-a",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "2-1"
+  ],
+  "nonviolations": [
+    "2",
+    "2-1"
+  ],
+  "conclusion": "Preliminary objection joined to merits and dismissed (Art. 35) Admissibility criteria;(Art. 35-3-a) Manifestly ill-founded;No violation of Article 2 - Right to life (Article 2 - Positive obligations;Article 2-1 - Life) (Substantive aspect);Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);Pecuniary damage - claim dismissed (Article 41 - Pecuniary damage;Just satisfaction);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2017:1219JUD005608013",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-179556",
+  "summary": "The case of Lopes de Sousa Fernandes v. Portugal was brought by Ms. Lopes de Sousa Fernandes, who is not identified in the judgment as belonging to the Roma or Traveller communities. The case concerned the death of her husband, António Rui Calisto Fernandes, following a series of medical complications after minor nasal surgery at Vila Nova de Gaia Hospital in late 1997. After the operation, Mr. Fernandes suffered from severe headaches and was repeatedly admitted to hospital with worsening symptoms, including bacterial meningitis, ulcers, and ultimately peritonitis. Despite multiple hospitalizations and treatments at two different hospitals, his condition deteriorated, and he died on 8 March 1998 from septicaemia caused by peritonitis and a perforated viscus.\n\nThe applicant alleged that her husband’s death resulted from negligent medical care and that the authorities failed to conduct an effective investigation into the circumstances. The European Court of Human Rights examined the case under Article 2 of the European Convention on Human Rights, which protects the right to life. While the Court found no violation of the substantive aspect of Article 2—meaning the medical care itself did not reach the threshold of a breach—it did find a violation of the procedural aspect. Specifically, the authorities failed to carry out an effective investigation into the death. The Court awarded the applicant compensation for non-pecuniary damage. This judgment clarified the scope of the State’s procedural obligations under Article 2 in the context of alleged medical negligence.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:52.390979+00:00"
+}

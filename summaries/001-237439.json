@@ -1,0 +1,25 @@
+{
+  "itemid": "001-237439",
+  "title": "CASE OF B.B. v. SLOVAKIA",
+  "date": "2024-10-24",
+  "country": "SVK",
+  "importance": "3",
+  "articles": [
+    "35",
+    "35-3-a",
+    "4",
+    "4-1",
+    "41"
+  ],
+  "violations": [
+    "4",
+    "4-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection joined to merits and dismissed (Art. 35) Admissibility criteria;(Art. 35-3-a) Ratione materiae;Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Manifestly ill-founded;Violation of Article 4 - Prohibition of slavery and forced labour (Article 4 - Positive obligations;Effective investigation;Article 4-1 - Trafficking in human beings) (Procedural aspect);Pecuniary damage - claim dismissed (Article 41 - Pecuniary damage;Just satisfaction);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2024:1024JUD004858721",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-237439",
+  "summary": "In B.B. v. Slovakia, the applicant, a woman of Roma origin born in 1990 and raised in State care, brought a case against Slovakia concerning her exploitation and the State’s response. After leaving State care, she lived with a Roma family who took her savings, compelled her to work as a maid, and arranged her marriage to their son. When she became homeless, the family introduced her to a man, Y, who, as established by Slovakian courts, arranged for her to travel to the United Kingdom in 2010, where she engaged in prostitution for at least a year, handing over all her earnings to Y. The applicant alleged that Y paid the Roma family for her and that she was also forced to care for his household and was given drugs. Upon Y’s departure from the UK, she was eventually assisted by the Salvation Army and repatriated to Slovakia as a victim of trafficking.\n\nDespite her vulnerable position—marked by Roma origin, intellectual disability, and mental illness—the Slovak authorities classified the offence as pimping rather than human trafficking, and removed her from victim support programmes. The European Court of Human Rights found that Slovakia failed in its positive obligation under Article 4 (prohibition of slavery and forced labour) to conduct an effective investigation into human trafficking. The Court awarded the applicant non-pecuniary damages, highlighting the procedural violation and the need for authorities to properly address the exploitation of vulnerable Roma individuals.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:41:57.038549+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "itemid": "001-178421",
+  "title": "CASE OF ACHIM v. ROMANIA",
+  "date": "2017-10-24",
+  "country": "ROU",
+  "importance": "3",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "35",
+    "35-1"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "8-1"
+  ],
+  "conclusion": "Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-1) Exhaustion of domestic remedies;No violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for family life)",
+  "ecli": "ECLI:CE:ECHR:2017:1024JUD004595911",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-178421",
+  "summary": "In the case of Achim v. Romania, the applicants, a Roma couple living in Mănăstirea, Călărași, brought a complaint against the Romanian state concerning the removal of their seven children from their care. As members of the Roma community, the applicants faced heightened vulnerability, particularly regarding state intervention in family life and the risk of discriminatory practices in child protection proceedings. The case arose after social services, responding to concerns about the children’s welfare and living conditions in 2010, placed the children in care, citing neglect, poor hygiene, lack of school and medical enrolment, and the parents’ limited cooperation with authorities. Despite subsequent improvements to their home and efforts to maintain contact with their children, the authorities maintained the placement, and the parents’ attempts to have their children returned were unsuccessful in domestic courts.\n\nThe European Court of Human Rights examined the case under Article 8 of the European Convention on Human Rights, which protects the right to respect for private and family life. The Court found no violation, concluding that the authorities’ actions were justified by the need to protect the children’s welfare and that the applicants had not exhausted all domestic remedies. This judgment highlights the complex balance between child protection and family rights, especially for Roma and Traveller families who have historically faced disproportionate state intervention and systemic discrimination in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:33:37.987299+00:00"
+}

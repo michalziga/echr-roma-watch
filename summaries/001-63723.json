@@ -1,0 +1,29 @@
+{
+  "itemid": "001-63723",
+  "title": "AFFAIRE COSTER c. ROYAUME-UNI",
+  "date": "2001-01-18",
+  "country": "GBR",
+  "importance": "2",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "14",
+    "36",
+    "36-2",
+    "P1-1",
+    "P1-1-1",
+    "P1-2"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "14"
+  ],
+  "conclusion": "Non-violation de l'art. 8;Non-violation de P1-1;Non-violation de P1-2;Non-violation de l'art. 14",
+  "ecli": "ECLI:CE:ECHR:2001:0118JUD002487694",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-63723",
+  "summary": "In the case of Coster v. the United Kingdom, the applicants, Mr. and Mrs. Coster, identified as Gypsies (a term included within the Council of Europe’s definition of Roma and Travellers), brought a complaint against the United Kingdom. Their case highlighted the vulnerability of Roma and Traveller families who, due to planning restrictions and a shortage of authorised caravan sites, face persistent threats of eviction and are often forced to abandon their traditional way of life. The Costers, having travelled with their families in Kent, England, sought a permanent site for their caravan to provide stability for their children’s education. After being unable to secure a place on authorised sites and facing repeated refusals from local authorities, they purchased land in Headcorn in 1988 and settled there in a caravan. However, their requests for planning permission were denied, enforcement actions were taken against them, and they were ultimately compelled to leave their land.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life and home), Article 14 (prohibition of discrimination), and Article 1 of Protocol No. 1 (protection of property). The Court found no violation of these articles, concluding that the planning controls pursued legitimate aims and that the authorities had struck a fair balance between the applicants’ rights and the general interest. This judgment is significant for Roma and Traveller rights as it reflects the ongoing tension between traditional lifestyles and planning regulations in Europe. Historically, such cases illustrate the persistent barriers Roma and Traveller communities face in securing culturally appropriate accommodation.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:07:54.071875+00:00"
+}

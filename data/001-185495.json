@@ -19,8 +19,11 @@
   "full_text_length": 83023,
   "fetched_at": "2026-04-26T18:37:22.584748+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is identified as a Norwegian Roma, and the case involves a violation of Article 8 concerning the right to respect for family life, with the applicant's Roma identity being relevant to the context of the care proceedings and the associated risks of abduction linked to her family background.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicant's family is explicitly identified as Norwegian Roma in the statement of facts (paragraph 6).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T19:12:21.038765+00:00",
-  "refiltered_at": "2026-05-08T19:12:21.038765+00:00"
+  "filtered_at": "2026-05-10T18:37:53.586183+00:00",
+  "refiltered_at": "2026-05-10T18:37:53.586183+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

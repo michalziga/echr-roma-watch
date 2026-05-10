@@ -1,0 +1,28 @@
+{
+  "itemid": "001-62635",
+  "title": "AFFAIRE BUCKLEY c. ROYAUME-UNI",
+  "date": "1996-09-25",
+  "country": "GBR",
+  "importance": "2",
+  "articles": [
+    "8",
+    "8-2",
+    "8-1",
+    "14",
+    "10",
+    "10-1",
+    "14+8"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "14+8",
+    "14"
+  ],
+  "conclusion": "Non-violation de l'Art. 8;Non-violation de l'Art. 14+8",
+  "ecli": "ECLI:CE:ECHR:1996:0925JUD002034892",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-62635",
+  "summary": "In the case of Buckley v. the United Kingdom, the applicant, Mrs. Jane Buckley, is a British national of Roma (Gypsy) origin whose family has lived as Travellers in the Cambridge-South district for generations. The case focused on the vulnerability of Roma and Travellers facing restrictions on their traditional way of life, particularly the right to live in caravans on their own land. In 1988, Mrs. Buckley, seeking stability for her young children, settled her caravans on a plot she owned in Willingham, England. Despite her deep roots in the area and her desire to pass on her Traveller traditions, local authorities refused her planning permission, citing landscape protection and the availability of other sites, and ordered her to leave the land.\n\nMrs. Buckley argued that these actions interfered with her right to respect for her home and family life under Article 8 of the European Convention on Human Rights, and amounted to discrimination under Article 14. The European Court of Human Rights examined whether the refusal of planning permission and the enforcement measures constituted a violation of these rights. Ultimately, the Court found no violation of Article 8 or Article 14 in conjunction with Article 8, concluding that the interference was justified and proportionate in the circumstances.\n\nThis case is significant as it highlights the ongoing tension between planning laws and the rights of Roma and Traveller communities to maintain their traditional lifestyles. At a time when many Roma and Travellers across Europe faced increasing legal and social barriers, the judgment underscored the need for states to balance individual rights with broader public interests.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:07:21.611095+00:00"
+}

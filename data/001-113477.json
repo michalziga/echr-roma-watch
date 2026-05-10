@@ -19,8 +19,11 @@
   "full_text_length": 3402,
   "fetched_at": "2026-04-26T18:41:48.112833+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is explicitly identified as having \"Roma origin\" in the context of his complaint under Article 14 of the Convention, which is stated in the facts section.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicant complains of inhuman and degrading detention conditions on account of his Roma origin, which is explicitly stated in the judgment under the facts section.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:40:05.008839+00:00",
-  "refiltered_at": "2026-05-09T13:40:05.008839+00:00"
+  "filtered_at": "2026-05-10T18:43:24.744628+00:00",
+  "refiltered_at": "2026-05-10T18:43:24.744628+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

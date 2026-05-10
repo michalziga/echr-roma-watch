@@ -1,0 +1,26 @@
+{
+  "itemid": "001-219068",
+  "title": "CASE OF P.H. v. SLOVAKIA",
+  "date": "2022-09-08",
+  "country": "SVK",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "35",
+    "35-1",
+    "35-3-a",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "2-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection joined to merits and dismissed (Art. 35) Admissibility criteria;(Art. 35-1) Exhaustion of domestic remedies;Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Manifestly ill-founded;Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);Violation of Article 2 - Right to life (Article 2 - Positive obligations;Article 2-1 - Life) (Substantive aspect);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2022:0908JUD003757419",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-219068",
+  "summary": "In the case of P.H. v. Slovakia, the applicant, a sixteen-year-old girl of Roma origin, brought a complaint against Slovakia concerning her treatment by police and the state’s failure to protect her life. The case highlighted the particular vulnerability of Roma and Traveller children in police custody, especially regarding the risk of ill-treatment and the lack of safeguards for their well-being. On 17 January 2017, P.H. was apprehended for petty theft in a shopping mall and transported to a police station in Spišská Nová Ves. During the journey, she alleged that police officers used racial slurs and slapped her, and at the station, she was left unsupervised near a window, from which she fell seven metres to the ground, sustaining serious injuries and memory loss. The authorities’ investigation into her allegations was superficial and failed to address the possible connection between her Roma identity, the alleged abuse, and her fall.\n\nThe European Court of Human Rights examined the case under Article 2 (right to life), both its substantive and procedural aspects. The Court found that Slovakia had violated Article 2 by failing to protect P.H.’s life while in custody and by not conducting an effective investigation into the incident. The Court awarded her compensation for non-pecuniary damage. This judgment is significant as it reinforces the obligation of states to ensure the safety and dignity of Roma and Traveller children in detention, against a backdrop of persistent discrimination and inadequate protection in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:37:46.209167+00:00"
+}

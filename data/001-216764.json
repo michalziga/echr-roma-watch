@@ -19,10 +19,11 @@
   "full_text_length": 87180,
   "fetched_at": "2026-04-26T18:35:03.251565+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are members of the Traveller community, which is recognized as a distinct ethnic group in Ireland, and their identity is legally relevant to the alleged violation of their right to respect for their home under Article 8, particularly in the context of their vulnerable status and the systemic issues surrounding accommodation for Travellers.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T16:06:04.692009+00:00",
+  "filtered_at": "2026-05-10T18:21:17.393064+00:00",
   "summary": "Applicants Christina Faulkner and Bridget McDonagh, members of the Traveller community in Ireland, challenged orders requiring them to vacate a site they were occupying illegally. The case centered on the vulnerability of Roma and Travellers regarding housing and the adequacy of legal processes. Faulkner and McDonagh, along with their families, lived on the Coonagh site in Limerick after leaving previous accommodations due to personal tragedies and unsuitable housing offers. Despite being on the housing list, they claimed the local council failed to provide appropriate housing, leading to their occupation of the site. The council initiated proceedings in 2017, citing unauthorized development and the need for a new road scheme. The applicants argued that the domestic courts did not properly assess the proportionality of the eviction orders under Article 8 § 2 and that they lacked legal assistance during proceedings. The European Court of Human Rights declared the applications inadmissible, finding them manifestly ill-founded under Article 35. This case highlights ongoing challenges faced by Roma and Travellers in securing adequate housing and legal protection, reflecting broader historical issues of marginalization and discrimination against these communities in Europe.",
   "summary_generated_at": "2026-04-27T00:21:51.467422+00:00",
-  "refiltered_at": "2026-05-08T16:06:04.692009+00:00"
+  "refiltered_at": "2026-05-10T18:21:17.393064+00:00",
+  "summary_model": null
 }

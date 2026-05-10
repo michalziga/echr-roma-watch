@@ -1,0 +1,27 @@
+{
+  "itemid": "001-66205",
+  "title": "AFFAIRE NATCHOVA ET AUTRES c. BULGARIE",
+  "date": "2004-02-26",
+  "country": "BGR",
+  "importance": "2",
+  "articles": [
+    "2",
+    "2-1",
+    "14",
+    "14+2",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "2-1",
+    "14",
+    "14+2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation de l'article 2 - Droit à la vie (Article 2-1 - Vie) (Volet matériel);Violation de l'article 2 - Droit à la vie (Article 2-1 - Enquête efficace) (Volet procédural);Violation de l'article 14+2 - Interdiction de la discrimination (Article 2-1 - Vie;Enquête efficace;Article 2 - Droit à la vie);Dommage matériel et préjudice moral - réparation",
+  "ecli": "ECLI:CE:ECHR:2004:0226JUD004357798",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-66205",
+  "summary": "In the case of Nachova and Others v. Bulgaria, the applicants were Bulgarian nationals of Roma origin, including Ms. Anelia Kuntchova Natchova, her mother Ms. Aksiniya Hristova, and the parents of Mr. Petkov, all identifying as Roma. The case centred on the vulnerability of Roma and Travellers to lethal force and discriminatory treatment by law enforcement, particularly the risk of excessive violence and lack of accountability in police operations involving Roma individuals.\n\nOn 19 July 1996, in the village of Lesura, Bulgaria, two young Roma men, Mr. Angelov and Mr. Petkov, who had escaped from a prison worksite, were located by military police. During the attempted arrest, a police officer shot and killed both men, who were unarmed and fleeing. The subsequent investigation by Bulgarian authorities was marked by a lack of thoroughness and failed to address possible racist motives, despite references to the victims’ Roma background in official documents.\n\nThe European Court of Human Rights examined violations of Article 2 (right to life), both in its substantive and procedural aspects, and Article 14 (prohibition of discrimination) in conjunction with Article 2. The Court found that Bulgaria had violated the right to life by using excessive force and by failing to conduct an effective investigation, particularly into possible racist motives. The applicants were awarded compensation for material and moral damages.\n\nThis judgment is significant as it was the first time the Court explicitly recognised the obligation to investigate potential racist motives in cases involving lethal force against Roma, reflecting a broader historical context of police violence and systemic discrimination against Roma and Travellers across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:08:18.648159+00:00"
+}

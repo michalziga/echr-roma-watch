@@ -19,10 +19,11 @@
   "full_text_length": 24788,
   "fetched_at": "2026-04-26T18:35:13.770083+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma community, as indicated by the representation of the applicants by the European Roma Rights Centre, and their Roma identity is legally relevant to the alleged violation of Article 8 concerning their home and family life, particularly in the context of discriminatory treatment in housing regularisation proceedings.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:16:33.108745+00:00",
+  "filtered_at": "2026-05-10T18:21:38.110345+00:00",
   "summary": "a) The applicants, Andrej Salay and Lucia Zemanová, belong to the Roma community in Slovakia.\nb) The case centers on the vulnerability of Roma communities regarding housing rights and forced evictions.\nc) In the 1990s, the applicants built a dwelling in Plavecký Štvrtok, a Roma-populated area, without legal title to the land or necessary permits. In 2012, Slovak authorities initiated proceedings for the dwelling's removal due to its illegal status and proximity to a high-pressure gas pipeline. Despite being invited to regularize the construction, the applicants did not comply, leading to an order for the dwelling's removal. They argued the proceedings were discriminatory and highlighted the broader socio-economic challenges faced by Roma in Slovakia, including inadequate housing solutions.\nd) The European Court of Human Rights declared the application inadmissible, finding no violation of Article 8 (right to respect for private and family life) of the European Convention on Human Rights.\ne) This case underscores the ongoing challenges Roma communities face in securing legal housing and the complexities of regularization processes. Historically, Roma in Europe have faced systemic discrimination, particularly in housing, which continues to affect their socio-economic integration.",
   "summary_generated_at": "2026-04-27T00:22:35.216769+00:00",
-  "refiltered_at": "2026-05-08T18:16:33.108745+00:00"
+  "refiltered_at": "2026-05-10T18:21:38.110345+00:00",
+  "summary_model": null
 }

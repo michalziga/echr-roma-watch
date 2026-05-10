@@ -19,10 +19,11 @@
   "full_text_length": 59852,
   "fetched_at": "2026-04-26T18:35:32.232975+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves applicants who are explicitly identified as being of Roma ethnicity, alleging inhuman treatment by police, which is relevant to the violation of Article 3 and highlights systemic issues of discrimination against Roma in Slovakia.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:24:05.784947+00:00",
+  "filtered_at": "2026-05-10T18:22:05.774873+00:00",
   "summary": "In the case of M.B. and Others v. Slovakia, the applicants, belonging to the Roma community, alleged police mistreatment in Slovakia. The case centered on the vulnerability of Roma individuals to police violence and inadequate investigations into such incidents. On March 21, 2009, the applicants, minors at the time, were arrested in connection with a robbery. They claimed that Officer J.C. physically assaulted them in a police car to extract information. The European Court of Human Rights found no substantive violation of Article 3 regarding inhuman or degrading treatment, as it could not be established beyond reasonable doubt. However, the Court identified a procedural violation of Article 3 due to the inadequate investigation, which lacked promptness and failed to explore potential racial motives. The Court awarded non-pecuniary damages under Article 41. This case highlights the ongoing issue of police violence against Roma in Europe and the necessity for effective investigations. Historically, Roma communities have faced systemic discrimination and violence, making robust legal protections and thorough investigations crucial to safeguarding their rights.",
   "summary_generated_at": "2026-04-27T00:23:37.588432+00:00",
-  "refiltered_at": "2026-05-08T18:24:05.784947+00:00"
+  "refiltered_at": "2026-05-10T18:22:05.774873+00:00",
+  "summary_model": null
 }

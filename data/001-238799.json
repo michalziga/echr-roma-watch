@@ -19,10 +19,11 @@
   "full_text_length": 112195,
   "fetched_at": "2026-04-26T18:33:38.768912+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are Romanian nationals of Roma origin, and the violation of Article 8 regarding their right to respect for private and family life is directly linked to their Roma identity and the context of their living situation.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T13:54:56.856066+00:00",
+  "filtered_at": "2026-05-10T18:18:19.053904+00:00",
   "summary": "In the case of Caldarar and Others v. Poland, the applicants, Romanian nationals of Roma origin, challenged the demolition of their encampment in Wrocław, Poland. The case centered on the vulnerability of Roma communities regarding housing rights and participation in legal proceedings. The applicants, comprising five families, occupied a plot of land with makeshift structures deemed illegal by Polish authorities. Despite being informed of the illegality, the applicants were not involved in the administrative proceedings that led to demolition orders. The European Court of Human Rights found a violation of Article 8 of the European Convention on Human Rights, which protects the right to respect for private and family life. The Court ruled that the Polish authorities failed to ensure the applicants' participation in the proceedings and did not assess the proportionality of the demolition orders, thus lacking safeguards against disproportionate interference. This case highlights ongoing challenges faced by Roma communities in Europe, particularly regarding housing rights and legal recognition, reflecting historical marginalization and systemic exclusion from decision-making processes.",
   "summary_generated_at": "2026-04-27T00:16:51.023778+00:00",
-  "refiltered_at": "2026-05-08T13:54:56.856066+00:00"
+  "refiltered_at": "2026-05-10T18:18:19.053904+00:00",
+  "summary_model": null
 }

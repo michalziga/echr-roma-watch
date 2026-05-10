@@ -1,0 +1,31 @@
+{
+  "itemid": "001-83256",
+  "title": "CASE OF D.H. AND OTHERS v. THE CZECH REPUBLIC",
+  "date": "2007-11-13",
+  "country": "CZE",
+  "importance": "1",
+  "articles": [
+    "14+P1-2",
+    "14",
+    "P1-2",
+    "35",
+    "35-1",
+    "36",
+    "36-2",
+    "41",
+    "46",
+    "46-2"
+  ],
+  "violations": [
+    "14+P1-2",
+    "14",
+    "P1-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection dismissed (non-exhaustion of domestic remedies);Violation of Art. 14+P1-2;General measures refused;Non-pecuniary damage - financial award;Costs and expenses partial award",
+  "ecli": "ECLI:CE:ECHR:2007:1113JUD005732500",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-83256",
+  "summary": "In the landmark case of D.H. and Others v. the Czech Republic, the applicants were eighteen children of Roma origin, representing the Roma community in Ostrava, who brought a complaint against the Czech Republic. The case focused on the systemic vulnerability of Roma children, who were disproportionately placed in “special schools” intended for pupils with intellectual disabilities, resulting in de facto segregation and limited educational opportunities. Between 1996 and 1999, the applicants were assigned to these special schools, where the curriculum was significantly reduced compared to mainstream schools, severely restricting their future prospects. Statistical evidence showed that Roma children in Ostrava were 27 times more likely than non-Roma children to be placed in such schools, with over half of all Roma children in the Czech Republic affected by this practice.\n\nThe European Court of Human Rights examined the case under Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 1 (right to education), finding that the applicants had suffered indirect discrimination. The Court held that the Czech authorities had failed to provide adequate safeguards against the placement of Roma children in special schools, violating their right to education without discrimination. The applicants were awarded non-pecuniary damages and partial costs.\n\nThis judgment is a milestone for Roma and Traveller rights, highlighting the persistence of educational segregation in Europe and affirming the obligation of states to ensure equal access to quality education for all children, regardless of ethnic origin.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:14:18.112411+00:00"
+}

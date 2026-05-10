@@ -19,10 +19,11 @@
   "full_text_length": 126983,
   "fetched_at": "2026-04-26T18:35:45.834714+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is explicitly identified as a Roma woman, and the case involves a violation of Article 8 concerning her right to respect for private and family life, highlighting her vulnerability and the disproportionate impact of the law on her due to her Roma identity.",
+  "filter_reason": "The applicant is explicitly identified as belonging to the Roma community in the introduction of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:32:21.885598+00:00",
+  "filtered_at": "2026-05-10T18:35:42.402686+00:00",
   "summary": "In the case of Lacatus v. Switzerland, the applicant, Ms. Violeta-Sibianca Lacatus, a Romanian national belonging to the Roma community, challenged Switzerland's legal measures against begging. The case centered on the vulnerability of Roma individuals facing criminal penalties for begging, a survival strategy for many impoverished Roma. Ms. Lacatus was fined 500 Swiss francs for begging in Geneva and subsequently imprisoned for five days for non-payment. The European Court of Human Rights found that the fine and imprisonment violated Article 8 of the European Convention on Human Rights, which protects the right to respect for private and family life. The Court ruled that the blanket ban on begging, as applied, was disproportionate and failed to consider Ms. Lacatus's specific circumstances, thus overstepping the narrow margin of appreciation afforded to states. This decision underscores the importance of protecting the dignity and rights of vulnerable individuals, particularly within the Roma community, against overly broad legal measures. Historically, Roma communities in Europe have faced systemic discrimination and marginalization, making this ruling significant in affirming their rights and challenging discriminatory practices.",
   "summary_generated_at": "2026-04-27T00:24:40.319520+00:00",
-  "refiltered_at": "2026-05-08T18:32:21.885598+00:00"
+  "refiltered_at": "2026-05-10T18:35:42.402686+00:00",
+  "summary_model": null
 }

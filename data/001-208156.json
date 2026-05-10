@@ -19,10 +19,11 @@
   "full_text_length": 3108,
   "fetched_at": "2026-04-26T18:35:41.560457+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a complaint under Article 2 concerning the death of a young man of Roma origin, with representation by the European Roma Rights Centre, indicating that Roma identity is legally relevant to the alleged violation.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:25:18.467690+00:00",
+  "filtered_at": "2026-05-10T18:35:34.770990+00:00",
   "summary": "Mizafer Jusinova, a member of the Roma community, brought a case against North Macedonia to the European Court of Human Rights. The case centered on the vulnerability of Roma individuals in detention, specifically concerning the death of Jusinova's brother, a young Roma man, while serving a prison sentence. The applicant, represented by the European Roma Rights Centre, alleged a violation of Article 2 of the European Convention on Human Rights, which protects the right to life. The Court communicated the complaint to the North Macedonian government. However, the case was resolved through a friendly settlement, with the government agreeing to compensate Jusinova with €12,000 for pecuniary and non-pecuniary damages. Consequently, the Court struck the case out of its list under Article 39, as the settlement respected human rights principles. This case highlights the ongoing issues faced by Roma individuals in detention, reflecting broader historical patterns of discrimination and marginalization of Roma communities in Europe. The resolution through a friendly settlement underscores the importance of addressing such vulnerabilities through legal and compensatory measures.",
   "summary_generated_at": "2026-04-27T00:24:23.469328+00:00",
-  "refiltered_at": "2026-05-08T18:25:18.467690+00:00"
+  "refiltered_at": "2026-05-10T18:35:34.770990+00:00",
+  "summary_model": null
 }

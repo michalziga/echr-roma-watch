@@ -1,0 +1,27 @@
+{
+  "itemid": "001-68098",
+  "title": "CASE OF SIDJIMOV v. BULGARIA",
+  "date": "2005-01-27",
+  "country": "BGR",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6-1",
+    "13",
+    "37",
+    "37-1-a",
+    "41"
+  ],
+  "violations": [
+    "6",
+    "6-1",
+    "13"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Art. 6-1;Violation of Art. 13;Costs and expenses partial award - Convention proceedings",
+  "ecli": "ECLI:CE:ECHR:2005:0127JUD005505700",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-68098",
+  "summary": "In Sidjimov v. Bulgaria, the applicant, Mr. Sidjimov, identified as a member of the Roma community and lived in Pazardjik, Bulgaria. The case highlighted the particular vulnerability of Roma and Travellers to protracted criminal proceedings, which can exacerbate social marginalisation and mistrust in the justice system. Mr. Sidjimov was arrested in August 1993, along with six other Roma individuals, on charges related to the rape of a minor, and was held in pre-trial detention before being released on bail in 1995. Despite the gravity of the charges, the investigation and prosecution were marked by repeated delays, referrals, and periods of inactivity, with the proceedings remaining unresolved for over eleven years as of 2004.\n\nThe European Court of Human Rights examined the case under Article 6 § 1 (right to a fair trial within a reasonable time) and Article 13 (right to an effective remedy) of the European Convention on Human Rights. The Court found violations of both articles, noting that the excessive length of the proceedings and the lack of effective remedies for such delays constituted a denial of justice. The Court awarded partial costs and expenses to the applicant.\n\nThis judgment is significant for Roma and Traveller rights, as it underscores the need for timely and effective justice, particularly for minority groups historically subjected to systemic discrimination and procedural neglect in many European countries.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:09:19.577359+00:00"
+}

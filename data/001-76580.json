@@ -21,6 +21,9 @@
   "is_roma_related": "yes",
   "filter_reason": "Institutional marker 'ERRC' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:53:50.715988+00:00",
-  "refiltered_at": "2026-05-09T13:53:50.715988+00:00"
+  "filtered_at": "2026-05-10T19:31:11.600901+00:00",
+  "refiltered_at": "2026-05-10T19:31:11.600901+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

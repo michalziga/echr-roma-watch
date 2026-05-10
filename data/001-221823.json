@@ -19,8 +19,11 @@
   "full_text_length": 14224,
   "fetched_at": "2026-04-26T18:34:30.548800+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves Roma applicants, Stefan Caldaras and Vasile Lupu, who claim violations of Articles 3 and 8 due to their forced eviction from a camp, with their Roma identity being legally relevant to the alleged inhuman treatment and discrimination they faced.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-08T14:46:50.587007+00:00",
-  "refiltered_at": "2026-05-08T14:46:50.587007+00:00"
+  "filtered_at": "2026-05-10T18:20:24.532078+00:00",
+  "refiltered_at": "2026-05-10T18:20:24.532078+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

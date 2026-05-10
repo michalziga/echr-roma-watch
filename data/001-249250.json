@@ -19,10 +19,11 @@
   "full_text_length": 19451,
   "fetched_at": "2026-04-26T18:32:55.279991+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves two applicants explicitly identified as Roma, alleging police violence and discrimination, which are violations of Articles 3 and 14 of the Convention, highlighting their vulnerability and the relevance of their Roma identity to the alleged violations.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T12:51:50.085380+00:00",
+  "filtered_at": "2026-05-10T18:16:45.052557+00:00",
   "summary": "In the case of Kuruová and Horváthová v. Slovakia, the applicants, two Roma sisters from Slovakia, alleged police ill-treatment and discrimination. The case centered on police violence and ethnic discrimination, key vulnerabilities faced by Roma communities. On July 23, 2019, following an altercation involving their relatives, the applicants were arrested at the home of Ms. Kuruová in Milhosť by police officers who allegedly used excessive force and derogatory language, referring to them as \"gypsies\" and \"degenerates.\" The applicants sustained injuries, confirmed by a doctor, which they claimed resulted from police abuse. Despite initiating criminal proceedings, the investigation was suspended due to insufficient evidence to charge the officers. The European Court of Human Rights found violations of Article 3 (prohibition of torture) in both substantive and procedural aspects, and Article 14 in conjunction with Article 3 (prohibition of discrimination). This case underscores the ongoing challenges Roma communities face in Europe, particularly regarding police violence and systemic discrimination. The Court's decision highlights the need for effective investigations and accountability to protect minority rights, reflecting broader historical patterns of marginalization and discrimination against Roma and Travellers in Europe.",
   "summary_generated_at": "2026-04-27T00:14:56.857905+00:00",
-  "refiltered_at": "2026-05-08T12:51:50.085380+00:00"
+  "refiltered_at": "2026-05-10T18:16:45.052557+00:00",
+  "summary_model": null
 }

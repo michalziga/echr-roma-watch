@@ -19,8 +19,11 @@
   "full_text_length": 19425,
   "fetched_at": "2026-04-26T18:50:00.098126+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are explicitly identified as being of Romany origin in the facts section of the judgment.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicants are explicitly identified as being of Romany origin in the facts section of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:55:12.835118+00:00",
-  "refiltered_at": "2026-05-09T13:55:12.835118+00:00"
+  "filtered_at": "2026-05-10T19:32:14.171019+00:00",
+  "refiltered_at": "2026-05-10T19:32:14.171019+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

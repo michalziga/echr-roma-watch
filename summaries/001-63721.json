@@ -1,0 +1,32 @@
+{
+  "itemid": "001-63721",
+  "title": "AFFAIRE CHAPMAN c. ROYAUME-UNI",
+  "date": "2001-01-18",
+  "country": "GBR",
+  "importance": "1",
+  "articles": [
+    "6",
+    "6-1",
+    "8",
+    "8-1",
+    "8-2",
+    "14",
+    "36",
+    "36-2",
+    "P1-1",
+    "P1-1-1"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "6",
+    "6-1",
+    "14"
+  ],
+  "conclusion": "Non-violation de l'art. 8;Non-violation de P1-1;Non-violation de l'art. 6-1;Non-violation de l'art. 14",
+  "ecli": "ECLI:CE:ECHR:2001:0118JUD002723895",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-63721",
+  "summary": "In Chapman v. the United Kingdom, the applicant, Ms. Jane Chapman, identified as a member of the Roma and Traveller community—specifically as a Gypsy by birth—brought a case against the United Kingdom. The heart of the case was the vulnerability of Roma and Traveller families who, due to their traditional nomadic lifestyle, face significant barriers in securing lawful and stable accommodation, often resulting in repeated evictions and disruption to family life and education. Ms. Chapman and her family, long accustomed to travelling for work in Hertfordshire, purchased land in 1985 to settle in a mobile home, hoping to provide stability for their children’s schooling. However, local authorities repeatedly refused her planning permission to station caravans or build a bungalow on her land, citing environmental and planning regulations, and issued enforcement notices that led to fines and forced the family to resume a nomadic existence, disrupting the children’s education and family life.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life and home), Article 14 (prohibition of discrimination), Article 6 (right to a fair hearing), and Article 1 of Protocol No. 1 (protection of property). The Court acknowledged the special vulnerability of Roma and Travellers and the integral role of caravan living in their identity, but ultimately found no violation of the Convention, holding that the planning controls pursued legitimate aims and were proportionate in the circumstances.\n\nThis case is significant as it was among the first to explicitly recognise the unique cultural identity and vulnerability of Roma and Travellers under the European Convention, even as it highlighted the ongoing tension between minority rights and state planning policies in late 20th-century Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:07:37.483666+00:00"
+}

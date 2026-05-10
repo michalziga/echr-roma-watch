@@ -1,0 +1,28 @@
+{
+  "itemid": "001-178178",
+  "title": "CASE OF M.F. v. HUNGARY",
+  "date": "2017-10-31",
+  "country": "HUN",
+  "importance": "4",
+  "articles": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);No violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Degrading treatment);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation)",
+  "ecli": "ECLI:CE:ECHR:2017:1031JUD004585512",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-178178",
+  "summary": "In the case of M.F. v. Hungary, the applicant, M.F., is a Hungarian national of Roma origin living in Gyöngyöspata. The case highlights the vulnerability of Roma individuals to police violence and the failure of authorities to address racially motivated abuse. On 12 August 2010, M.F. was apprehended by police in connection with a theft and taken to the Gyöngyös Police Department. He alleged that, over several hours, he was repeatedly beaten, kicked, and insulted by police officers and security guards, who made explicit references to his Roma identity, including threats that invoked anti-Roma stereotypes. Medical examinations later that day documented multiple bruises, contusions, and swelling consistent with his account of ill-treatment.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of torture and inhuman or degrading treatment) and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found that M.F. had suffered degrading treatment at the hands of the police and that the authorities failed to conduct an effective investigation, violating both the substantive and procedural aspects of Article 3. Furthermore, the Court found a violation of Article 14 in conjunction with Article 3 regarding the authorities’ failure to investigate the possible discriminatory motive, though not for the substantive ill-treatment itself. The judgment underscores the persistent risks faced by Roma and Travellers in Europe, particularly in police custody, and reinforces the obligation of states to protect minority groups from racially motivated violence and to ensure accountability—an issue of ongoing concern given the historical marginalisation of Roma and Travellers across the continent.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:33:30.800557+00:00"
+}

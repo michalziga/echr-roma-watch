@@ -19,8 +19,11 @@
   "full_text_length": 17027,
   "fetched_at": "2026-04-26T18:50:01.719418+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant's Roma origin is explicitly identified in the text, as it states that \"all accused persons and the alleged victim are of Roma origin\" in paragraph 10 of the facts section.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicant and the alleged victim are explicitly identified as being of Roma origin in paragraph 10 of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:55:16.116869+00:00",
-  "refiltered_at": "2026-05-09T13:55:16.116869+00:00"
+  "filtered_at": "2026-05-10T19:32:16.656992+00:00",
+  "refiltered_at": "2026-05-10T19:32:16.656992+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

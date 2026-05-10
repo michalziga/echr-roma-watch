@@ -1,0 +1,26 @@
+{
+  "itemid": "001-92418",
+  "title": "CASE OF K.H. AND OTHERS v. SLOVAKIA",
+  "date": "2009-04-28",
+  "country": "SVK",
+  "importance": "1",
+  "articles": [
+    "8",
+    "8-1",
+    "6",
+    "6-1",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "6",
+    "6-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Art. 8;Violation of Art. 6-1;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2009:0428JUD003288104",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-92418",
+  "summary": "In the case of K.H. and Others v. Slovakia, the applicants were eight Slovakian women of Roma origin who brought a case against Slovakia. The heart of the case lay in the applicants’ vulnerability as Roma women who suspected they had been sterilised without their full and informed consent during caesarean deliveries in two hospitals in eastern Slovakia. After their hospital stays, none of the women was able to conceive, and they sought access to their medical records to understand the reasons for their infertility and to pursue possible legal remedies. In 2002 and 2003, the applicants, represented by lawyers from the Centre for Civil and Human Rights, requested to consult and photocopy their medical records, but the hospitals refused, citing restrictive interpretations of Slovak law. Although courts allowed the women and their representatives to view the records and make handwritten notes, they denied the right to make photocopies, which limited the applicants’ ability to obtain independent medical analysis and to safeguard evidence for potential legal proceedings. The European Court of Human Rights found violations of Article 8 (right to respect for private and family life) and Article 6 § 1 (right to a fair trial), awarding non-pecuniary damages. This judgment is significant as it affirms the right of Roma and Traveller women to access essential personal information, particularly in the context of a history of forced sterilisation and systemic discrimination in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:20:16.594576+00:00"
+}

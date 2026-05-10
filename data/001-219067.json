@@ -19,8 +19,11 @@
   "full_text_length": 106613,
   "fetched_at": "2026-04-26T18:34:45.609262+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a violation of Article 3 due to the applicant's treatment by police, who acted dismissively towards her as a person of Roma origin, which is central to her claim of discrimination under Article 14, thus establishing a substantive Roma dimension.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T15:53:28.057729+00:00",
-  "refiltered_at": "2026-05-08T15:53:28.057729+00:00"
+  "filtered_at": "2026-05-10T18:20:49.980496+00:00",
+  "refiltered_at": "2026-05-10T18:20:49.980496+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

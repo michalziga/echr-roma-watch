@@ -1,0 +1,24 @@
+{
+  "itemid": "001-207695",
+  "title": "CASE OF LACATUS v. SWITZERLAND",
+  "date": "2021-01-19",
+  "country": "CHE",
+  "importance": "1",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for private life);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2021:0119JUD001406515",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-207695",
+  "summary": "In Lacatus v. Switzerland, the applicant, Ms. Violeta-Sibianca Lacatus, is a Romanian national who belongs to the Roma community. Her case against Switzerland focused on the criminalisation of begging, a practice she resorted to while living intermittently in Geneva from 2011, due to her inability to find work. The harm at the centre of the case was the imposition of a 500 Swiss franc fine on Ms. Lacatus for unintrusive begging on public streets, followed by five days’ imprisonment when she could not pay. The authorities also confiscated a small sum of money from her, which she had collected while begging.\n\nMs. Lacatus challenged these measures, arguing that they violated her rights under the European Convention on Human Rights, particularly Article 8 (right to respect for private and family life), Article 10 (freedom of expression), and Article 14 (prohibition of discrimination). The Swiss courts upheld the ban, finding no violation. However, the European Court of Human Rights found that the blanket ban on begging, as applied to Ms. Lacatus—a highly vulnerable Roma woman—was disproportionate and failed to consider her specific circumstances. The Court held that Article 8 had been violated and awarded her compensation for non-pecuniary damage. Notably, the judgment emphasised that such automatic and severe sanctions diminish the human dignity of those reduced to begging for survival, and that less restrictive measures should have been considered.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:37:14.777494+00:00"
+}

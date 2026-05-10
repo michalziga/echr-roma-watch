@@ -19,8 +19,11 @@
   "full_text_length": 66658,
   "fetched_at": "2026-04-26T18:38:09.319833+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "15 Roma/Traveller identity mentions (incl. 6 unambiguous) found in full text — Roma relevance confirmed without LLM (Rule 1 hard check).",
+  "filter_reason": "15 non-citational Roma/Traveller identity mentions (incl. 6 unambiguous) found in full text — Roma relevance confirmed without LLM (Signal 1 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T20:13:45.272521+00:00",
-  "refiltered_at": "2026-05-08T20:13:45.272521+00:00"
+  "filtered_at": "2026-05-10T18:39:03.183338+00:00",
+  "refiltered_at": "2026-05-10T18:39:03.183338+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

@@ -1,0 +1,22 @@
+{
+  "itemid": "001-76580",
+  "title": "ŠEČIĆ v. CROATIA",
+  "date": "2006-06-15",
+  "country": "HRV",
+  "importance": "4",
+  "articles": [
+    "3",
+    "8",
+    "13",
+    "14",
+    "1"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Partly admissible;Partly inadmissible",
+  "ecli": "ECLI:CE:ECHR:2006:0615DEC004011602",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-76580",
+  "summary": "In the case of Šečić v. Croatia, the applicants, Mr. Šemso Šečić and Mr. Ševko Šečić, are Croatian citizens of Roma origin, represented by the European Roma Rights Center. Their case against Croatia highlights the vulnerability of Roma and Traveller communities to racially motivated violence and the failure of authorities to provide effective protection or redress. On 29 April 1999, while collecting scrap metal in Zagreb, Mr. Šemso Šečić was violently attacked by a group of unidentified men who beat him with wooden planks while shouting racial abuse. Despite sustaining serious injuries, including multiple rib fractures and subsequent post-traumatic stress disorder, the investigation by Croatian authorities was slow and ineffective. The applicants’ lawyer repeatedly urged the police and State Attorney’s Office to take decisive action, but the perpetrators were never identified, and the investigation dragged on for years without meaningful progress.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment), Article 8 (right to respect for private life), Article 13 (right to an effective remedy), and Article 14 (prohibition of discrimination). The Court found the application partly admissible, focusing on the authorities’ obligation to investigate racially motivated violence. While the judgment did not find all alleged violations, it underscored the need for prompt and thorough investigations in such cases.\n\nŠečić v. Croatia is significant as it draws attention to the persistent problem of anti-Roma violence and the systemic failures of state authorities to protect Roma and Traveller communities, reflecting a broader historical pattern of discrimination across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:11:49.592498+00:00"
+}

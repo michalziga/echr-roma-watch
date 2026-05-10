@@ -1,0 +1,28 @@
+{
+  "itemid": "001-240187",
+  "title": "CASE OF PANAYOTOPOULOS AND OTHERS v. GREECE",
+  "date": "2025-01-21",
+  "country": "GRC",
+  "importance": "4",
+  "articles": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Inhuman treatment) (Substantive aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);No violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Inhuman treatment;Prohibition of torture);No violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Degrading treatment;Inhuman treatment;Prohibition of torture);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation)",
+  "ecli": "ECLI:CE:ECHR:2025:0121JUD004475820",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-240187",
+  "summary": "In Panayotopoulos and Others v. Greece, the applicants—Mr. Athanasios Panayotopoulos and two others—were identified in the judgment as members of the Roma ethnic group. The case focused on police violence and the failure of authorities to investigate possible racist motives, highlighting the vulnerability of Roma individuals to ill-treatment and discrimination by law enforcement. On 8 October 2016, the applicants were passengers in a car in Athens that was pursued and rammed by police. After fleeing and hiding on a balcony, they surrendered to police but alleged that officers used racist insults and physical violence during arrest, transport, and detention, resulting in serious injuries. Notably, Mr. Panayotopoulos required ten days of intensive hospital care for a heart attack and genital injuries. Despite requests from the applicants and their representatives for forensic examinations and investigations into the alleged torture and racist motivation, authorities failed to order timely medical assessments or conduct an effective inquiry.\n\nThe European Court of Human Rights found violations of Article 3 (prohibition of torture and inhuman treatment) both substantively and procedurally, and a violation of Article 14 in conjunction with Article 3 regarding the authorities’ failure to investigate possible discrimination. However, the Court did not find a substantive violation of Article 14 taken with Article 3. The judgment is significant for its explicit finding that the Greek authorities failed to investigate the potential racist motivation behind police violence against Roma applicants.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:42:17.380599+00:00"
+}

@@ -19,10 +19,11 @@
   "full_text_length": 48696,
   "fetched_at": "2026-04-26T18:35:28.164920+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves the alleged sexual abuse of an underaged Romani girl, making her Roma identity legally relevant to the violation of freedom of expression under Article 10, highlighting the vulnerability and systemic discrimination faced by Roma in Serbia.",
+  "filter_reason": "10 non-citational Roma/Traveller identity mentions (incl. 9 unambiguous) found in full text — Roma relevance confirmed without LLM (Signal 1 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:17:38.664601+00:00",
+  "filtered_at": "2026-05-10T18:21:55.410709+00:00",
   "summary": "In the case of Milosavljević v. Serbia, the applicant, Ranko Milosavljević, a journalist, reported on an alleged sexual abuse incident involving an underage Romani girl by a municipal official in Serbia. The case centers on the vulnerability of Roma and Travellers to discrimination and abuse, particularly concerning the alleged cover-up of the incident due to the victim's ethnicity. Milosavljević published articles in the Svetlost magazine detailing the incident and questioning the silence of authorities and NGOs. The Serbian courts found Milosavljević guilty of civil defamation, arguing he failed to adhere to responsible journalism standards. The European Court of Human Rights examined whether this judgment violated Article 10 of the European Convention on Human Rights, which protects freedom of expression. The Court concluded there was no violation, as the domestic courts struck a fair balance between freedom of expression and protecting the reputation of others, providing relevant and sufficient reasons. This case highlights ongoing challenges Roma communities face in Europe, including systemic discrimination and the need for responsible journalism to navigate sensitive issues involving minority groups.",
   "summary_generated_at": "2026-04-27T00:23:17.611043+00:00",
-  "refiltered_at": "2026-05-08T18:17:38.664601+00:00"
+  "refiltered_at": "2026-05-10T18:21:55.410709+00:00",
+  "summary_model": null
 }

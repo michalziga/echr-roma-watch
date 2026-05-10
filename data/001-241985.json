@@ -19,10 +19,11 @@
   "full_text_length": 109040,
   "fetched_at": "2026-04-26T18:33:37.491836+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma individual represented by the European Roma Rights Centre, alleging discrimination in education under Article 14 in conjunction with Protocol 1, highlighting the overrepresentation of Roma pupils in special education classes, which is a significant vulnerability linked to their identity.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T13:54:50.238876+00:00",
+  "filtered_at": "2026-05-10T18:18:16.674435+00:00",
   "summary": "In the case of Salay v. Slovakia, the applicant, Mr. Adrián Salay, a member of the Roma community, challenged Slovakia over discriminatory educational practices. The case centered on the vulnerability of Roma children being disproportionately placed in special education classes. Salay was enrolled in a preparatory class and subsequently in special classes for children with mild intellectual disabilities, based on culturally biased diagnostic tests. These tests failed to account for the socio-economic disadvantages faced by Roma pupils. The Court found that Salay's placement in special classes was effectively permanent, lacking systematic retesting to facilitate a return to mainstream education. The European Court of Human Rights ruled that Slovakia violated Article 14 in conjunction with Article 2 of Protocol No. 1, concerning discrimination and the right to education. The Court highlighted the state's failure to provide necessary safeguards against misdiagnosis and inappropriate placement of Roma pupils. This case is significant as it underscores the ongoing issue of educational segregation faced by Roma communities in Europe, reflecting a historical pattern of systemic discrimination that states are obligated to dismantle under the European Convention on Human Rights.",
   "summary_generated_at": "2026-04-27T00:16:44.725662+00:00",
-  "refiltered_at": "2026-05-08T13:54:50.238876+00:00"
+  "refiltered_at": "2026-05-10T18:18:16.674435+00:00",
+  "summary_model": null
 }

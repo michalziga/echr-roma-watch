@@ -1,0 +1,26 @@
+{
+  "itemid": "001-222072",
+  "title": "CASE OF MACATĖ v. LITHUANIA",
+  "date": "2023-01-23",
+  "country": "LTU",
+  "importance": "1",
+  "articles": [
+    "35",
+    "35-3-b",
+    "10",
+    "10-1",
+    "10-2",
+    "41"
+  ],
+  "violations": [
+    "10",
+    "10-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection dismissed (Art. 35) Admissibility criteria;(Art. 35-3-b) No significant disadvantage;Violation of Article 10 - Freedom of expression-{general} (Article 10-1 - Freedom of expression;Freedom to impart information);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2023:0123JUD006143519",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-222072",
+  "summary": "The case of Macatė v. Lithuania concerned Ms. Neringa Dangvydė Macatė, a Lithuanian national and professional writer who was openly homosexual. Although not a member of the Roma or Traveller communities, her case is notable for its focus on the rights of marginalised groups, as her children’s book aimed to foster acceptance of those who “looked or lived differently,” including members of various stigmatised minorities. In 2013, her collection of fairy tales—intended for primary school children and reviewed as suitable for promoting tolerance—was published with support from the Lithuanian Ministry of Culture. Two stories depicted same-sex marriage. After publication, the University’s publishing house suspended distribution, citing concerns that the book might be harmful to minors under Lithuanian law. Distribution resumed only after the book was labelled as potentially harmful to children under 14.\n\nMs. Macatė challenged these measures, arguing they violated her freedom of expression under Article 10 of the European Convention on Human Rights. The European Court of Human Rights found that the restrictions imposed on her book constituted a violation of Article 10, as the interference was not necessary in a democratic society and failed to consider the book’s aim of promoting tolerance. The Court awarded non-pecuniary damages. This judgment is significant for its clear stance that state-imposed restrictions on literature promoting acceptance of marginalised groups, including sexual minorities, are incompatible with the Convention’s protection of free expression.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:40:19.058357+00:00"
+}

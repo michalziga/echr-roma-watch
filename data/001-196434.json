@@ -19,8 +19,11 @@
   "full_text_length": 7169,
   "fetched_at": "2026-04-26T18:36:40.413832+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma individual, Dženifer Dželadin, who alleged discrimination based on her Roma origin in relation to her right to freedom of movement, with third-party interventions from Roma-specific organizations indicating the relevance of her identity to the legal dispute.",
+  "filter_reason": "Institutional marker 'Minority Rights Group' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:52:00.002869+00:00",
-  "refiltered_at": "2026-05-08T18:52:00.002869+00:00"
+  "filtered_at": "2026-05-10T18:36:51.424683+00:00",
+  "refiltered_at": "2026-05-10T18:36:51.424683+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

@@ -19,8 +19,12 @@
   "full_text_length": 24935,
   "fetched_at": "2026-04-26T18:45:54.059085+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant's work explicitly addresses the extermination of Jews and Roma, indicating a strong connection to Roma identity, as stated in paragraph 6 of the facts section.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicant is a historian whose research focuses on the extermination of Jews and Roma, explicitly identifying the Roma in the context of the case (paragraph 6).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:43:40.000635+00:00",
-  "refiltered_at": "2026-05-09T13:43:40.000635+00:00"
+  "filtered_at": "2026-05-10T18:46:31.584029+00:00",
+  "refiltered_at": "2026-05-10T18:46:31.584029+00:00",
+  "recheck_reason": "the applicant is identified as a historian and professor researching Roma and Travellers but is not himself identified as Roma or Traveller, nor is there any implicit or institutional marker indicating his Roma/Traveller identity in the facts or Court's assessment.",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

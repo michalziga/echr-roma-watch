@@ -19,8 +19,11 @@
   "full_text_length": 23412,
   "fetched_at": "2026-04-26T18:51:00.892618+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant, Mr. Sándor Balogh, is explicitly identified as \"of Roma origin\" in the statement of facts.",
+  "filter_reason": "The applicant, Mr. Sándor Balogh, is explicitly identified as a Hungarian national of Roma origin in the statement of facts.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:58:33.155657+00:00",
-  "refiltered_at": "2026-05-09T13:58:33.155657+00:00"
+  "filtered_at": "2026-05-10T19:33:24.517297+00:00",
+  "refiltered_at": "2026-05-10T19:33:24.517297+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

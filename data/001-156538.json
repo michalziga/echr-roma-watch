@@ -19,8 +19,11 @@
   "full_text_length": 4419,
   "fetched_at": "2026-04-26T18:39:49.652747+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant's Roma ethnic origin is explicitly mentioned in the text, specifically in the phrase \"due to his Roma ethnic origin\" found in the facts section.",
+  "filter_reason": "The applicant's Roma ethnic origin is explicitly mentioned in the statement of facts, indicating that the case concerns issues related to Roma rights.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T12:27:13.972068+00:00",
-  "refiltered_at": "2026-05-09T12:27:13.972068+00:00"
+  "filtered_at": "2026-05-10T18:41:05.585158+00:00",
+  "refiltered_at": "2026-05-10T18:41:05.585158+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

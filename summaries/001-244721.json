@@ -1,0 +1,27 @@
+{
+  "itemid": "001-244721",
+  "title": "CASE OF ILAREVA AND OTHERS v. BULGARIA",
+  "date": "2025-09-09",
+  "country": "BGR",
+  "importance": "3",
+  "articles": [
+    "14",
+    "14+8",
+    "8",
+    "8-1",
+    "41"
+  ],
+  "violations": [
+    "14",
+    "14+8",
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life;Positive obligations;Article 8-1 - Respect for private life);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2025:0909JUD002472917",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-244721",
+  "summary": "In Ilareva and Others v. Bulgaria, the applicants—three individuals active in non-governmental organisations defending human rights, including those of minorities and refugees—brought a case against Bulgaria after being subjected to a wave of violent threats and hate speech online. While the applicants themselves were not explicitly identified as Roma or Travellers, the abuse included anti-Roma slurs such as “pikeys (mangali),” and the attacks targeted their advocacy for minority rights, including those of Roma and Travellers as defined by the Council of Europe.\n\nBetween 12 and 15 January 2015, the applicants were named and depicted in Facebook posts and comments that called for their murder, torture, and public humiliation. The posts, widely shared and “liked,” included explicit death threats and dehumanising language, with some comments referencing their support for “scumbags without a drop of Bulgarian blood” and using derogatory terms for Roma. The applicants reported these threats to the Sofia District Prosecutor’s Office, but the authorities suspended the investigation, citing legal barriers to identifying the perpetrators and denying the applicants victim status.\n\nThe European Court of Human Rights found violations of Article 8 (right to respect for private life) and Article 14 (prohibition of discrimination), both separately and in conjunction, recognising the authorities’ failure to protect the applicants from hate speech and threats motivated by their work for minority rights. The Court awarded non-pecuniary damages, emphasising that the Bulgarian authorities’ inadequate response amounted to discriminatory treatment and a breach of their positive obligations under the Convention.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:42:43.353812+00:00"
+}

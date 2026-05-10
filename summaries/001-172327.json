@@ -1,0 +1,26 @@
+{
+  "itemid": "001-172327",
+  "title": "CASE OF ŠKORJANEC v. CROATIA",
+  "date": "2017-03-28",
+  "country": "HRV",
+  "importance": "1",
+  "articles": [
+    "3",
+    "14",
+    "14+3",
+    "35",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [],
+  "conclusion": "Remainder inadmissible;Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation;Positive obligations);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2017:0328JUD002553614",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-172327",
+  "summary": "In the case of Škorjanec v. Croatia, the applicant, Ms. Maja Škorjanec, brought a complaint against Croatia after she was violently attacked alongside her partner, who is of Roma origin. The case focused on the vulnerability of individuals associated with Roma and Traveller communities, particularly the risk of racially motivated violence and the failure of authorities to recognise and investigate such hate crimes. On 9 June 2013, in Zagreb, Ms. Škorjanec and her partner were assaulted by two men at a flea market. The attackers shouted anti-Roma slurs, threatened to kill them, and physically assaulted both, with Ms. Škorjanec suffering a head injury. Despite clear evidence that the attack was motivated by hatred towards Roma, Croatian authorities treated Ms. Škorjanec’s injuries as unrelated to her association with her Roma partner and failed to investigate her case as a hate crime.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination), finding violations of both, including their combined application. The Court held that Croatia failed to fulfil its positive obligation to investigate whether Ms. Škorjanec was targeted due to her association with a Roma individual and awarded her non-pecuniary damages. This judgment is significant as it clarifies that protection against hate crimes under the European Convention extends not only to Roma and Travellers themselves but also to those closely associated with them, reinforcing the need for effective investigations into racially motivated violence in Europe’s historical context of anti-Roma discrimination.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:32:51.401436+00:00"
+}

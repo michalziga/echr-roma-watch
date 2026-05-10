@@ -19,8 +19,12 @@
   "full_text_length": 20930,
   "fetched_at": "2026-04-26T18:52:56.467686+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant's opposition to the accommodation of \"persons of Roma origin\" in Trnava explicitly identifies a Roma-related context, as stated in the facts section.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicant's opposition to the accommodation of \"persons of Roma origin\" is explicitly mentioned in the statement of facts.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T14:01:49.157166+00:00",
-  "refiltered_at": "2026-05-09T14:01:49.157166+00:00"
+  "filtered_at": "2026-05-10T19:35:35.076197+00:00",
+  "refiltered_at": "2026-05-10T19:35:35.076197+00:00",
+  "recheck_reason": "the applicant Mr. Sinko is explicitly identified as not belonging to the Roma or Traveller communities, and the case concerns threats from Roma individuals but does not establish Roma identity of the applicant (facts section).",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

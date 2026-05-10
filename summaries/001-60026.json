@@ -1,0 +1,44 @@
+{
+  "itemid": "001-60026",
+  "title": "CASE OF ČONKA v. BELGIUM",
+  "date": "2002-02-05",
+  "country": "BEL",
+  "importance": "1",
+  "articles": [
+    "3",
+    "5",
+    "5-1",
+    "5-1-f",
+    "5-2",
+    "5-4",
+    "13",
+    "13+3",
+    "13+P4-4",
+    "35",
+    "35-1",
+    "41",
+    "P4-4"
+  ],
+  "violations": [
+    "5",
+    "5-2",
+    "5-4",
+    "13",
+    "13+P4-4",
+    "P4-4"
+  ],
+  "nonviolations": [
+    "3",
+    "5",
+    "5-1",
+    "5-1-f",
+    "13",
+    "13+3"
+  ],
+  "conclusion": "Preliminary objection dismissed (Art. 35) Admissibility criteria;(Art. 35-1) Exhaustion of domestic remedies;No violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention;Article 5-1-f - Expulsion);Violation of Article 5 - Right to liberty and security (Article 5-2 - Information in language understood;Information on reasons for arrest);Violation of Article 5 - Right to liberty and security (Article 5-4 - Procedural guarantees of review;Review of lawfulness of detention;Take proceedings);Violation of Article 4 of Protocol No. 4 - Prohibition of collective expulsion of aliens-{general};No violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Prohibition of torture);Violation of Article 13+P4-4 - Right to an effective remedy (Article 13 - Effective remedy) (Article 4 of Protocol No. 4 - Prohibition of collective expulsion of aliens-{general});Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2002:0205JUD005156499",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-60026",
+  "summary": "In the case of Čonka v. Belgium, the applicants were Mr. Ján Čonka, Mrs. Mária Čonková, and their two daughters, all Slovakian nationals of Roma origin. Their case highlighted the particular vulnerability of Roma and Travellers facing expulsion from Western European countries, especially when fleeing violence and discrimination in their home states. The Čonka family had suffered repeated violent attacks by skinheads in Slovakia in 1998, with police refusing to intervene, prompting them to seek asylum in Belgium in November of that year.\n\nAfter their asylum applications were rejected, the family received orders to leave Belgium. In September 1999, they and other Slovakian Roma families were summoned to a police station under the pretext of completing asylum paperwork, only to be detained and served with deportation orders. The family was not adequately informed of the reasons for their detention in a language they understood, nor were they given a real opportunity to challenge their expulsion before an independent authority.\n\nThe European Court of Human Rights found violations of Article 5 §2 (right to be informed of reasons for arrest), Article 5 §4 (right to review of detention), Article 13 (right to an effective remedy), and Article 4 of Protocol No. 4 (prohibition of collective expulsion of aliens). The Court awarded the applicants non-pecuniary damages. This judgment is significant as it was the first time the Court found a violation of the prohibition on collective expulsion, setting a crucial precedent for the protection of Roma and Travellers against discriminatory and summary removal practices in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:06:49.459224+00:00"
+}

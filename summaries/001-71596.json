@@ -1,0 +1,30 @@
+{
+  "itemid": "001-71596",
+  "title": "AFFAIRE BEKOS ET KOUTROPOULOS c. GRECE [Extraits]",
+  "date": "2005-12-13",
+  "country": "GRC",
+  "importance": "1",
+  "articles": [
+    "41",
+    "3",
+    "13",
+    "14+3",
+    "14"
+  ],
+  "violations": [
+    "3",
+    "14+3",
+    "14"
+  ],
+  "nonviolations": [
+    "14+3",
+    "14",
+    "3"
+  ],
+  "conclusion": "Violations de l'art. 3;Aucune question distincte au regard de l'art. 13;Non-violation de l'art. 14+3 (allégation de traitement raciste);Violation de l'art. 14+3 (absence d'investigations concernant de possibles motifs racistes)",
+  "ecli": "ECLI:CE:ECHR:2005:1213JUD001525002",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-71596",
+  "summary": "In the case of Bekos and Koutropoulos v. Greece, the applicants, Mr. Bekos and Mr. Koutropoulos, are Greek nationals of Roma origin residing in Missolonghi, western Greece. Their case highlighted the particular vulnerability of Roma and Travellers to police violence and the failure of authorities to investigate possible racist motives behind such abuse. On the night of 8 May 1998, following an attempted burglary, the two applicants were arrested by police. Both men alleged that, during and after their arrest, they were subjected to severe physical abuse and degrading treatment by several police officers, including beatings with batons, punches, threats of sexual violence, and repeated racist insults referencing their Roma identity. Medical reports confirmed that both men sustained injuries consistent with their accounts. Despite their complaints, the Greek authorities failed to conduct an effective investigation into the alleged ill-treatment or to consider whether racist motives played a role.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination) in conjunction with Article 3. The Court found that Greece had violated Article 3 due to the police ill-treatment and further violated Article 14 taken with Article 3 for failing to investigate possible racist motives. However, it did not find a separate violation of Article 14 and Article 3 regarding the allegation of racially motivated treatment itself. The applicants were awarded just satisfaction for non-pecuniary damage.\n\nThis judgment is significant as it underscores the persistent problem of police violence against Roma and Travellers in Europe and the critical need for authorities to investigate potential racist motives, reflecting a broader historical context of discrimination and marginalisation faced by these communities in Greece and beyond.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:10:59.312964+00:00"
+}

@@ -19,8 +19,11 @@
   "full_text_length": 178128,
   "fetched_at": "2026-04-26T18:39:45.367293+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are explicitly identified as \"d'origine rom\" in paragraph 7 of the facts section, confirming their Roma identity.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the judgment explicitly identifies the applicants as \"d'origine rom\" in paragraph 7 of the facts section.",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-09T12:27:07.856821+00:00",
-  "refiltered_at": "2026-05-09T12:27:07.856821+00:00"
+  "filtered_at": "2026-05-10T18:41:01.284267+00:00",
+  "refiltered_at": "2026-05-10T18:41:01.284267+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

@@ -1,0 +1,31 @@
+{
+  "itemid": "001-171994",
+  "title": "CASE OF TALPIS v. ITALY",
+  "date": "2017-03-02",
+  "country": "ITA",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "3",
+    "14",
+    "14+2",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "2-1",
+    "3",
+    "14",
+    "14+2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objections joined to merits and dismissed (Article 35-1 - Exhaustion of domestic remedies);Violation of Article 2 - Right to life (Article 2 - Positive obligations;Article 2-1 - Life) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation;Positive obligations) (Procedural aspect);Violation of Article 14+2 - Prohibition of discrimination (Article 14 - Discrimination) (Article 2 - Right to life;Article 2-1 - Life);Pecuniary damage - claim dismissed (Article 41 - Pecuniary damage;Just satisfaction);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2017:0302JUD004123714",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-171994",
+  "summary": "In Talpis v. Italy, the applicant, Ms. Talpis, a Moldovan national, brought a case against Italy following years of severe domestic violence at the hands of her husband. While the judgment does not explicitly state that Ms. Talpis is a member of the Roma or Traveller communities, it describes her as a Moldovan national who migrated to Italy with her family. The case centers on the vulnerability of a woman facing repeated physical abuse, threats, and harassment, culminating in the tragic killing of her son by her husband.\n\nAfter enduring ongoing violence, Ms. Talpis sought police intervention in June 2012 following an assault on herself and her daughter. Despite clear evidence of abuse and repeated requests for protection, the authorities failed to provide adequate support or take timely preventive measures. In August 2012, after another violent attack, Ms. Talpis was forced to seek refuge in a women’s shelter, but local social services refused to fund her accommodation. She lodged a formal complaint in September 2012, yet for months, no effective investigative or protective steps were taken.\n\nThe European Court of Human Rights found that Italy had violated Article 2 (right to life) in its substantive aspect, Article 3 (prohibition of inhuman or degrading treatment) in its procedural aspect, and Article 14 (prohibition of discrimination) taken together with Article 2. The Court awarded Ms. Talpis non-pecuniary damages, highlighting the authorities’ failure to protect victims of domestic violence and to respond without discrimination.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:41.235134+00:00"
+}

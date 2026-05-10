@@ -19,10 +19,11 @@
   "full_text_length": 83070,
   "fetched_at": "2026-04-26T18:34:09.630130+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma individual (Ms. Memedova) who claims discrimination based on her ethnic origin when she was prevented from leaving the country, raising issues under Articles 14 and Protocol 4, which are directly relevant to her Roma identity and the systemic discrimination faced by Roma communities in North Macedonia.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:30:24.618789+00:00",
+  "filtered_at": "2026-05-10T18:19:45.370898+00:00",
   "summary": "In the case of Memedova and Others v. North Macedonia, the applicants, belonging to the Roma community, challenged the North Macedonian authorities. The case centered on the vulnerability of Roma individuals facing discrimination in freedom of movement. The applicants were prevented from leaving North Macedonia, allegedly due to their Roma ethnicity. The Ministry of the Interior had issued instructions to strengthen border controls, particularly targeting potential asylum seekers, which disproportionately affected Roma individuals. The applicants argued that they were singled out by border police based on ethnicity, without proper legal justification. The European Court of Human Rights found violations of Article 2 of Protocol No. 4 (freedom of movement) and Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 4. The Court ruled that the interference was not in accordance with domestic law and lacked objective justification, constituting indirect discrimination. This case is significant as it highlights ongoing issues of ethnic profiling and discrimination against Roma communities in Europe, reflecting historical patterns of marginalization and exclusion. The judgment underscores the need for states to ensure non-discriminatory practices in border control and uphold the rights of minority communities.",
   "summary_generated_at": "2026-04-27T00:18:32.024946+00:00",
-  "refiltered_at": "2026-05-08T14:30:24.618789+00:00"
+  "refiltered_at": "2026-05-10T18:19:45.370898+00:00",
+  "summary_model": null
 }

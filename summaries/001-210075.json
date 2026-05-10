@@ -1,0 +1,23 @@
+{
+  "itemid": "001-210075",
+  "title": "CASE OF MILOSAVLJEVIĆ v. SERBIA",
+  "date": "2021-05-25",
+  "country": "SRB",
+  "importance": "3",
+  "articles": [
+    "10",
+    "10-1",
+    "10-2"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "10",
+    "10-1"
+  ],
+  "conclusion": "No violation of Article 10 - Freedom of expression-{general} (Article 10-1 - Freedom of expression)",
+  "ecli": "ECLI:CE:ECHR:2021:0525JUD005757414",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-210075",
+  "summary": "In Milosavljević v. Serbia, the applicant, Mr. Milosavljević, a journalist and editor-in-chief of the weekly magazine Svetlost in Kragujevac, brought a case against Serbia after being found liable for defamation. The case arose from two articles he published in June 2010, reporting on the attempted sexual assault of an underage girl described as being of Romani origin and a street vendor. The articles criticized the silence of local authorities, police, and NGOs regarding the incident, and questioned whether the lack of action was due to the victim’s Romani background. The reporting also speculated about a possible cover-up and referred to the possibility of the victim’s family being paid off to withdraw their complaint.\n\nFollowing publication, the alleged perpetrator, a municipal official, sued for defamation and was awarded compensation. Mr. Milosavljević argued before the European Court of Human Rights that his freedom of expression under Article 10 had been violated, emphasizing the public interest in exposing the vulnerability and exclusion faced by Roma, particularly in cases of violence against Romani girls.\n\nThe Court examined whether the interference with the applicant’s freedom of expression was justified. It found no violation of Article 10, concluding that the domestic courts had struck a fair balance between the applicant’s right to report on matters of public interest and the protection of the reputation of others. The judgment did not set a new precedent regarding reporting on Roma-related issues but highlighted the need for careful factual reporting, especially in sensitive cases involving vulnerable individuals.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:37:51.950627+00:00"
+}

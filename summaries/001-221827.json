@@ -1,0 +1,26 @@
+{
+  "itemid": "001-221827",
+  "title": "SISU ET AUTRES c. FRANCE",
+  "date": "2022-11-17",
+  "country": "FRA",
+  "importance": "4",
+  "articles": [
+    "3",
+    "8",
+    "13",
+    "13+3",
+    "13+8",
+    "14",
+    "14+3",
+    "14+8",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Irrecevable",
+  "ecli": "ECLI:CE:ECHR:2022:1117DEC004587116",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-221827",
+  "summary": "In the case of Sisu and Others v. France, the applicants were nine Romanian nationals belonging to the Roma community, represented by the European Roma Rights Centre, who brought a complaint against France. The case focused on the vulnerability of Roma families living in precarious conditions, specifically the harm caused by the forced dismantling of their informal settlement without provision of alternative accommodation. The applicants and their families had been living in makeshift dwellings on land owned by SNCF Réseau in Paris, when, following a court order in September 2015, they were expelled from the site due to safety concerns related to its proximity to railway tracks. Despite two social assessments and some medical intervention, the applicants argued that the expulsion, carried out without rehousing, amounted to inhuman and degrading treatment and violated their right to respect for private and family life, as protected by Articles 3 and 8 of the European Convention on Human Rights, both alone and in conjunction with Article 14 (prohibition of discrimination), and that they lacked an effective remedy (Article 13). The European Court of Human Rights, however, declared the application inadmissible, finding no violation of the Convention. This decision highlights the ongoing legal and social challenges faced by Roma and Traveller communities in Europe, particularly regarding access to adequate housing and protection from forced evictions, issues rooted in a long history of marginalisation.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:38:18.252945+00:00"
+}

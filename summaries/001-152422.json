@@ -1,0 +1,22 @@
+{
+  "itemid": "001-152422",
+  "title": "CASE OF MIHAYLOVA AND MALINOVA v. BULGARIA",
+  "date": "2015-02-24",
+  "country": "BGR",
+  "importance": "4",
+  "articles": [
+    "2",
+    "2-1"
+  ],
+  "violations": [
+    "2",
+    "2-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect)",
+  "ecli": "ECLI:CE:ECHR:2015:0224JUD003661308",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-152422",
+  "summary": "In Mihaylova and Malinova v. Bulgaria, the applicants—a mother and daughter of Roma origin from Samokov—brought a case against Bulgaria following the fatal shooting of Mr. Boris Mihaylov, their partner and father, by police. The case highlighted the vulnerability of Roma and Travellers, who often face disproportionate police violence and inadequate investigations into such incidents. On the night of 3 August 2004, police responded to a report of three “gypsies” allegedly attempting to break into a lorry. When officers arrived, the men fled; Chief Sergeant S pursued and caught Mr. Mihaylov, leading to a struggle in which the officer fired two shots, one of which struck Mr. Mihaylov in the head at close range, resulting in his death. The subsequent investigation was marred by significant procedural shortcomings, including poor evidence preservation, contradictory police statements, and a lack of clarity regarding the use of force.\n\nThe European Court of Human Rights examined the case under Article 2 of the European Convention on Human Rights, which protects the right to life and requires an effective investigation into deaths caused by state agents. The Court found a violation of the procedural aspect of Article 2, concluding that the investigation into Mr. Mihaylov’s death was ineffective. This judgment is significant for Roma and Traveller rights, as it underscores the persistent problem of inadequate state responses to police violence against Roma individuals—a pattern rooted in a long history of discrimination and marginalisation across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:30:31.250080+00:00"
+}

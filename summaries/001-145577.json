@@ -1,0 +1,29 @@
+{
+  "itemid": "001-145577",
+  "title": "CASE OF CENTRE FOR LEGAL RESOURCES ON BEHALF OF VALENTIN CÂMPEANU v. ROMANIA",
+  "date": "2014-07-17",
+  "country": "ROU",
+  "importance": "1",
+  "articles": [
+    "2",
+    "2-1",
+    "13",
+    "13+2",
+    "34",
+    "46",
+    "46-2"
+  ],
+  "violations": [
+    "2",
+    "2-1",
+    "13",
+    "13+2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection dismissed (Article 34 - Locus standi);Violation of Article 2 - Right to life (Article 2 - Positive obligations;Article 2-1 - Life) (Substantive aspect);Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);Violation of Article 13+2 - Right to an effective remedy (Article 13 - Effective remedy) (Article 2 - Right to life);Respondent State to take measures of a general character (Article 46-2 - Measures of a general character)",
+  "ecli": "ECLI:CE:ECHR:2014:0717JUD004784808",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-145577",
+  "summary": "In the case of Centre for Legal Resources on behalf of Valentin Câmpeanu v. Romania, the applicant was the Centre for Legal Resources (CLR), acting on behalf of Valentin Câmpeanu, a young man of Roma ethnicity. Mr. Câmpeanu, abandoned at birth and living with severe intellectual disabilities and HIV, was among the most vulnerable members of the Roma and Traveller communities, facing compounded discrimination due to his ethnicity, disability, and orphan status. The case concerned the failure of Romanian authorities to provide adequate care and protection to Mr. Câmpeanu, who, after being moved between institutions, was ultimately placed in a medical and social care centre ill-equipped to meet his complex needs. In February 2004, at the age of 18, he was admitted to the Cetate-Dolj Centre in a severely deteriorated state, lacking medication, proper clothing, or support, and died shortly after, alone and without legal representation or family.\n\nThe European Court of Human Rights examined violations of Article 2 (right to life), both substantively and procedurally, and Article 13 (right to an effective remedy). The Court found that Romania had failed to protect Mr. Câmpeanu’s life and to conduct an effective investigation into his death, and that he had no access to remedies. The Court also recognised the CLR’s standing to act on his behalf, given his extreme vulnerability and lack of representation. This landmark judgment is significant for Roma and Traveller rights, highlighting the intersectional risks faced by Roma individuals with disabilities and setting a precedent for access to justice for the most marginalised, in a context where Roma communities have long suffered institutional neglect and exclusion.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:30:09.299246+00:00"
+}

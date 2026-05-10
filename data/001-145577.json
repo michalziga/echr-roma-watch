@@ -19,8 +19,11 @@
   "full_text_length": 215140,
   "fetched_at": "2026-04-26T18:40:20.286147+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant, Valentin Câmpeanu, is explicitly identified as a \"man of Roma ethnicity\" in the facts section of the judgment.",
+  "filter_reason": "The applicant, Valentin Câmpeanu, is explicitly identified as a man of Roma ethnicity in the facts section of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:04:16.344330+00:00",
-  "refiltered_at": "2026-05-09T13:04:16.344330+00:00"
+  "filtered_at": "2026-05-10T18:41:51.971309+00:00",
+  "refiltered_at": "2026-05-10T18:41:51.971309+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

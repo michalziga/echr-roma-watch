@@ -1,0 +1,22 @@
+{
+  "itemid": "001-208751",
+  "title": "CASE OF GHAILAN AND OTHERS v. SPAIN",
+  "date": "2021-03-23",
+  "country": "ESP",
+  "importance": "4",
+  "articles": [
+    "8",
+    "8-1"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "8-1"
+  ],
+  "conclusion": "No violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for home)",
+  "ecli": "ECLI:CE:ECHR:2021:0323JUD003636614",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-208751",
+  "summary": "In Ghailan and Others v. Spain, the applicants—a married couple of Moroccan origin and their two children—challenged the demolition of their home in the Cañada Real Galiana settlement in Madrid. The applicants were part of a community that included a significant proportion of Roma and other marginalized groups, as reflected in a 2011 census cited in the judgment, though the applicants themselves were Moroccan nationals. The case centered on the vulnerability of families living in informal settlements, facing repeated evictions and demolitions due to the unlawful status of their dwellings on public land reserved for livestock routes.\n\nThe applicants built their home without planning permission in 2004–2005 and registered it as their residence. Despite warnings and demolition orders from the Madrid authorities, they remained in the house until it was demolished in October 2007. After attempting to rebuild, they faced further eviction proceedings. Throughout, the authorities followed administrative procedures, including notifications and opportunities for appeal, though the applicants did not always respond or exhaust available remedies.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life, including home). It found no violation, concluding that the authorities’ actions were lawful, proportionate, and accompanied by procedural safeguards. The Court noted the authorities’ efforts to balance enforcement with social support, given the applicants’ vulnerable situation within a diverse and disadvantaged settlement.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:37:39.047192+00:00"
+}

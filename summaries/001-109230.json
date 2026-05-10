@@ -1,0 +1,33 @@
+{
+  "itemid": "001-109230",
+  "title": "AFFAIRE HIRSI JAMAA ET AUTRES c. ITALIE",
+  "date": "2012-02-23",
+  "country": "ITA",
+  "importance": "1",
+  "articles": [
+    "1",
+    "3",
+    "13",
+    "13+3",
+    "13+P4-4",
+    "34",
+    "35",
+    "35-1",
+    "41",
+    "P4-4"
+  ],
+  "violations": [
+    "3",
+    "13",
+    "13+3",
+    "13+P4-4",
+    "P4-4"
+  ],
+  "nonviolations": [],
+  "conclusion": "Exception préliminaire jointe au fond et rejetée (Article 35-1 - Epuisement des voies de recours internes);Exception préliminaire jointe au fond et rejetée (Article 34 - Victime);Violation de l'article 3 - Interdiction de la torture (Article 3 - Expulsion) (Conditionnel) (Libye);Violation de l'article 3 - Interdiction de la torture (Article 3 - Expulsion) (Conditionnel) (Eritrea) (Somalie);Violation de l'article 4 du Protocole n° 4 - Interdiction des expulsions collectives d'étrangers-{général} (article 4 du Protocole n° 4 - Interdiction des expulsions collectives d'étrangers);Violation de l'article 13+3 - Droit à un recours effectif (Article 13 - Recours effectif) (Article 3 - Interdiction de la torture;Expulsion);Violation de l'article 13+P4-4 - Droit à un recours effectif (Article 13 - Recours effectif) (article 4 du Protocole n° 4 - Interdiction des expulsions collectives d'étrangers-{général};Interdiction des expulsions collectives d'étrangers);Préjudice moral - réparation",
+  "ecli": "ECLI:CE:ECHR:2012:0223JUD002776509",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-109230",
+  "summary": "Hirsi Jamaa and Others v. Italy concerned a group of applicants—eleven Somali and thirteen Eritrean nationals—who left Libya by boat in May 2009, aiming to reach Italy. The applicants, described in the judgment as migrants from Somalia and Eritrea, did not claim Roma or Traveller identity, nor does the judgment suggest such a background. Their vulnerability stemmed from the risk of ill-treatment and collective expulsion as irregular migrants intercepted at sea. On 6 May 2009, Italian coastguard and navy vessels intercepted their boats in international waters south of Lampedusa, within Malta’s search and rescue zone. Without any identification or assessment of individual protection needs, the Italian authorities transferred the applicants onto military ships, confiscated their belongings, and returned them to Tripoli, Libya, under bilateral agreements with Libya. The applicants were not informed of their destination and were handed over to Libyan authorities against their will.\n\nThe European Court of Human Rights found that Italy had violated Article 3 (prohibition of torture and inhuman or degrading treatment) by exposing the applicants to the risk of ill-treatment in Libya and possible further refoulement to Somalia or Eritrea. The Court also found violations of Article 4 of Protocol No. 4 (prohibition of collective expulsion of aliens) and Article 13 (right to an effective remedy) in conjunction with both Article 3 and Article 4 of Protocol No. 4. The applicants were awarded compensation for non-pecuniary damage. This landmark judgment established that states cannot avoid their human rights obligations by intercepting migrants on the high seas and returning them without individual assessment.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:02.991735+00:00"
+}

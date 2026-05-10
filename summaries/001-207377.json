@@ -1,0 +1,24 @@
+{
+  "itemid": "001-207377",
+  "title": "AFFAIRE LACATUS c. SUISSE",
+  "date": "2021-01-19",
+  "country": "CHE",
+  "importance": "1",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation de l'article 8 - Droit au respect de la vie privée et familiale (Article 8-1 - Respect de la vie privée);Préjudice moral - réparation (Article 41 - Préjudice moral;Satisfaction équitable)",
+  "ecli": "ECLI:CE:ECHR:2021:0119JUD001406515",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-207377",
+  "summary": "In Lacatus v. Switzerland, the applicant, Ms. Violeta-Sibianca Lacatus, is a Romanian national belonging to the Roma community, who brought a case against Switzerland. The case highlighted the particular vulnerability of Roma and Travellers, who often face poverty and social exclusion, and for whom begging may be a necessary means of survival. Between 2011 and 2013, Ms. Lacatus, unable to find work during her stays in Geneva, resorted to begging on the streets. She was repeatedly fined under Geneva’s blanket ban on begging, had small amounts of money confiscated, and was detained for short periods. Ultimately, she was sentenced to a 500 CHF fine, with a five-day prison term in case of non-payment, and was later imprisoned for failing to pay.\n\nThe European Court of Human Rights examined her complaint under Article 8 of the European Convention on Human Rights, which protects the right to respect for private and family life. The Court found that the blanket prohibition and the penalties imposed on Ms. Lacatus were disproportionate, failing to consider her individual circumstances and the necessity of begging for her survival. It ruled that Switzerland had violated Article 8 and awarded her compensation for non-pecuniary damage.\n\nThis judgment is significant as it affirms the rights and dignity of Roma and Travellers, challenging the criminalisation of poverty and recognising the historical marginalisation these communities have faced across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:36:58.688909+00:00"
+}

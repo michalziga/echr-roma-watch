@@ -19,10 +19,11 @@
   "full_text_length": 46239,
   "fetched_at": "2026-04-26T18:34:21.387384+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant, who is of Roma ethnic origin, alleged discrimination in education under Article 14 in conjunction with Article 2 of Protocol No. 1, highlighting the vulnerability of Roma children to segregation and inadequate educational opportunities in Hungary.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:45:42.959629+00:00",
+  "filtered_at": "2026-05-10T18:20:07.446235+00:00",
   "summary": "In the case of Szolcsán v. Hungary, the applicant, Mr. Imre Szolcsán, a member of the Roma community, challenged Hungary over educational segregation. The case centered on the vulnerability of Roma children facing segregation in education. Szolcsán attended Jókai Mór primary school, which was almost exclusively attended by Roma children, despite Roma constituting only about 4% of the local population. The school offered a poor curriculum, and few students progressed to secondary education. Szolcsán's request to transfer to a better school was denied, allegedly due to his Roma origin. The European Court of Human Rights found a violation of Article 14 in conjunction with Article 2 of Protocol No. 1, citing discrimination and failure to desegregate. The Court ordered Hungary to take individual and general measures to end segregation. This case is significant as it highlights ongoing issues of educational segregation faced by Roma in Europe, reflecting historical patterns of discrimination and marginalization. The Court's decision underscores the need for systemic changes to ensure equal educational opportunities for Roma children, aligning with broader European efforts to combat discrimination against Roma and Travellers.",
   "summary_generated_at": "2026-04-27T00:19:23.528651+00:00",
-  "refiltered_at": "2026-05-08T14:45:42.959629+00:00"
+  "refiltered_at": "2026-05-10T18:20:07.446235+00:00",
+  "summary_model": null
 }

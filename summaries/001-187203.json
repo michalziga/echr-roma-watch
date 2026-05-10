@@ -1,0 +1,20 @@
+{
+  "itemid": "001-187203",
+  "title": "CASE OF LEVAKOVIC v. DENMARK",
+  "date": "2018-10-23",
+  "country": "DNK",
+  "importance": "4",
+  "articles": [
+    "8"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8"
+  ],
+  "conclusion": "No violation of Article 8 - Right to respect for private and family life (Article 8 - Expulsion)",
+  "ecli": "ECLI:CE:ECHR:2018:1023JUD000784114",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-187203",
+  "summary": "In Levakovic v. Denmark, the applicant, Mr. Gimi Levakovic, was born in the Netherlands in 1987 and moved to Denmark as an infant, where he lived with his parents and extended family. The case does not explicitly confirm Mr. Levakovic’s Roma or Traveller identity, but the European Roma Rights Centre intervened as a third party, and the facts refer to his large family network in Denmark, suggesting a background from a Roma settlement. The central issue was the expulsion order imposed on Mr. Levakovic following a series of criminal convictions, including multiple robberies, theft, and related offences, despite his lifelong residence and family ties in Denmark.\n\nMr. Levakovic argued that expulsion would sever his only meaningful social and familial connections, as he had never lived in Croatia or the former Yugoslavia, did not speak the language, and had no family there. He also suffered from ADHD and mental health issues. The Danish courts, however, ordered his permanent expulsion after a conviction for two robberies, weighing the seriousness and repeated nature of his offences against his integration in Denmark.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life) but found no violation. The Court held that the Danish authorities had properly balanced Mr. Levakovic’s private life and integration against the legitimate aim of preventing disorder and crime, and that the expulsion was proportionate in the circumstances. The judgment does not contain a specific precedent or remark distinguishing it beyond the proportionality assessment.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:36:00.742120+00:00"
+}

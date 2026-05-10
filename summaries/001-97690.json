@@ -1,0 +1,29 @@
+{
+  "itemid": "001-97690",
+  "title": "AFFAIRE ORŠUŠ ET AUTRES c. CROATIE",
+  "date": "2010-03-16",
+  "country": "HRV",
+  "importance": "1",
+  "articles": [
+    "6",
+    "6-1",
+    "14",
+    "14+P1-2",
+    "P1-2",
+    "41"
+  ],
+  "violations": [
+    "6",
+    "6-1",
+    "14+P1-2",
+    "14",
+    "P1-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Exception préliminaire rejetée;Violation de l'art. 6-1;Violation de l'art. 14+P1-2;Préjudice moral - réparation",
+  "ecli": "ECLI:CE:ECHR:2010:0316JUD001576603",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-97690",
+  "summary": "In Oršuš and Others v. Croatia, the applicants were fifteen Croatian nationals, all children belonging to the Roma community, who brought a case against Croatia. The heart of the case was the vulnerability of Roma children facing systemic educational segregation, which placed them in separate classes and limited their educational opportunities compared to non-Roma peers. Between the late 1990s and early 2000s, the applicants attended primary schools in the villages of Podturen and Macinec, in the Međimurje region. During their schooling, they were assigned to Roma-only classes, often following a reduced curriculum—up to 30% less than the standard programme. This segregation led to high dropout rates among Roma children and significantly lower educational attainment compared to the general population.\n\nThe European Court of Human Rights examined the case under Article 6 (right to a fair trial), Article 14 (prohibition of discrimination), and Article 2 of Protocol No. 1 (right to education). The Court found violations of Article 6 § 1 due to excessive length of domestic proceedings, and of Article 14 in conjunction with Article 2 of Protocol No. 1, concluding that the applicants had suffered discrimination in access to education. The Court awarded moral damages to the applicants.\n\nThis landmark judgment is significant for Roma and Traveller rights, as it was the first time the Court condemned the practice of educational segregation of Roma children in Europe, highlighting the persistent legacy of exclusion and discrimination faced by Roma communities.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:21:49.228750+00:00"
+}

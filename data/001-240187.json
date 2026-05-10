@@ -19,10 +19,11 @@
   "full_text_length": 156333,
   "fetched_at": "2026-04-26T18:33:41.245631+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants belong to the Roma ethnic group, and their identity is legally relevant to the violations of Article 3 (inhuman treatment) and Article 14 (discrimination), particularly in the context of police violence and the alleged racist motivation behind their treatment.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:02:35.394441+00:00",
+  "filtered_at": "2026-05-10T18:18:27.003116+00:00",
   "summary": "In the case of Panayotopoulos and Others v. Greece, three Greek nationals of Roma ethnicity alleged police brutality during their arrest, transfer, and detention, claiming ill-treatment and racial discrimination. The incident occurred on October 8, 2016, when the applicants, passengers in a car, were pursued by police. After a collision, they fled and were later apprehended. The applicants reported excessive force and racist insults by police, resulting in serious injuries, including hospitalization of one applicant. The European Court of Human Rights found violations of Article 3 (prohibition of torture) due to inhuman treatment and ineffective investigation, and Article 14 in conjunction with Article 3, due to failure to investigate potential discrimination. However, the Court did not find sufficient evidence of racial motivation in the ill-treatment itself. This case highlights ongoing issues of police violence and discrimination against Roma in Europe, reflecting historical marginalization and systemic bias. The Court's decision underscores the necessity for effective investigations into allegations of police misconduct, particularly where racial discrimination may be involved, reinforcing the protection of minority rights under the European Convention on Human Rights.",
   "summary_generated_at": "2026-04-27T00:17:09.784768+00:00",
-  "refiltered_at": "2026-05-08T14:02:35.394441+00:00"
+  "refiltered_at": "2026-05-10T18:18:27.003116+00:00",
+  "summary_model": null
 }

@@ -1,0 +1,23 @@
+{
+  "itemid": "001-174540",
+  "title": "PALFREEMAN v. BULGARIA",
+  "date": "2017-05-16",
+  "country": "BGR",
+  "importance": "4",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "13",
+    "13+8",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2017:0516DEC005977914",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-174540",
+  "summary": "In Palfreeman v. Bulgaria, the applicant, Mr. Jock Anthony Palfreeman, an Australian national, brought a complaint against Bulgaria after being refused transfer to serve his prison sentence in Australia. The case arose from an incident in Sofia on 27 December 2007, when Mr. Palfreeman intervened in a street altercation involving a group of young people and two Roma men. According to the facts as stated in the judgment, Mr. Palfreeman claimed he acted to protect the Roma men, who were being attacked, but during the ensuing confrontation he fatally stabbed one member of the group and seriously injured another. He was convicted of murder in 2009 and sentenced to 20 years in prison.\n\nMr. Palfreeman argued that the refusal to transfer him to Australia, where his family resides, interfered with his right to respect for private and family life under Article 8 of the European Convention on Human Rights. He highlighted the hardship of maintaining family contact due to the distance and the limited ability of his relatives to visit him in Bulgaria.\n\nThe European Court of Human Rights declared the application inadmissible, finding that Article 8 did not guarantee a right to serve a sentence in one’s home country, nor did Bulgarian law or international agreements create such a right in this case. The Court concluded that the refusal to transfer Mr. Palfreeman fell outside the scope of Article 8 and thus was incompatible ratione materiae with the Convention.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:44.764802+00:00"
+}

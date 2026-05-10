@@ -1,0 +1,30 @@
+{
+  "itemid": "001-207928",
+  "title": "CASE OF BUDINOVA AND CHAPRAZOV v. BULGARIA",
+  "date": "2021-02-16",
+  "country": "BGR",
+  "importance": "1",
+  "articles": [
+    "8",
+    "8-1",
+    "10",
+    "10-1",
+    "14",
+    "14+8",
+    "17",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1",
+    "14",
+    "14+8"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life;Positive obligations;Article 8-1 - Respect for private life);Non-pecuniary damage - finding of violation sufficient (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2021:0216JUD001256713",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-207928",
+  "summary": "In Budinova and Chaprazov v. Bulgaria, the applicants, Ms. Budinova and Mr. Chaprazov, both of Roma origin and working as journalists in Sofia, brought a case against Bulgaria concerning anti-Roma hate speech by a prominent politician. The case focused on the harm caused by repeated public statements targeting Roma, which the applicants argued amounted to harassment and incitement to discrimination. Between May and June 2005, Volen Siderov, leader of the Ataka political party, made a series of televised and published remarks describing “Gypsy terror,” accusing Roma of widespread criminality, and portraying them as a threat to Bulgarian society. The applicants, personally affected as Roma and as public figures reporting on Roma issues, initiated proceedings under Bulgaria’s Protection from Discrimination Act, seeking an end to such statements and a public apology. Bulgarian courts, however, dismissed their claims, finding the statements were protected political speech.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private life) in conjunction with Article 14 (prohibition of discrimination). The Court found that Bulgaria had failed in its positive obligation to protect the applicants from discriminatory hate speech, resulting in a violation of both articles. The Court considered the finding of a violation sufficient just satisfaction for non-pecuniary damage. Notably, the judgment emphasized that states must take effective measures against hate speech targeting vulnerable minorities, especially when it comes from influential public figures.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:37:21.535769+00:00"
+}

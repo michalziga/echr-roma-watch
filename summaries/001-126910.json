@@ -1,0 +1,26 @@
+{
+  "itemid": "001-126910",
+  "title": "AFFAIRE WINTERSTEIN ET AUTRES c. FRANCE",
+  "date": "2013-10-17",
+  "country": "FRA",
+  "importance": "2",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Exception préliminaire rejetée (Article 35-1 - Epuisement des voies de recours internes);Partiellement irrecevable;Violation de l'article 8 - Droit au respect de la vie privée et familiale (Article 8-1 - Respect de la vie familiale;Respect du domicile;Respect de la vie privée);Satisfaction équitable réservée",
+  "ecli": "ECLI:CE:ECHR:2013:1017JUD002701307",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-126910",
+  "summary": "In Winterstein and Others v. France, the applicants were a group of individuals from the “Gens du voyage” community—part of the broader Roma and Travellers population as defined by the Council of Europe—living in the commune of Herblay, Val d’Oise, France. The case focused on the vulnerability of these families, who faced eviction from land they had occupied for many years, threatening their established homes, family life, and cultural identity as Travellers. Beginning in the early 2000s, the applicants, many of whom were semi-sedentary or had become settled due to repeated expulsions, lived in caravans on land in Herblay. Despite longstanding residence and efforts to regularise their situation, local authorities initiated legal proceedings that resulted in court orders for their eviction, with the threat of force and financial penalties.\n\nThe European Court of Human Rights examined the case under Article 8 of the European Convention on Human Rights, which protects the right to respect for private and family life and home. The Court found that France had violated Article 8, ruling that the authorities failed to strike a fair balance between the applicants’ rights and the public interest, particularly given their long-term ties to the land and lack of suitable alternative accommodation. The Court reserved the question of just satisfaction for a later stage.\n\nThis judgment is significant as it reinforces the protection of Roma and Traveller communities against forced evictions without adequate safeguards, reflecting a broader European context of historical marginalisation and the need for states to respect the specific circumstances of Roma and Travellers when enforcing housing and land regulations.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:29:14.414883+00:00"
+}

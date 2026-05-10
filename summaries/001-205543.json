@@ -1,0 +1,22 @@
+{
+  "itemid": "001-205543",
+  "title": "CASE OF X AND Y v. NORTH MACEDONIA",
+  "date": "2020-11-05",
+  "country": "MKD",
+  "importance": "4",
+  "articles": [
+    "3"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect)",
+  "ecli": "ECLI:CE:ECHR:2020:1105JUD000017317",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-205543",
+  "summary": "In X and Y v. North Macedonia, the applicants—two minors from Skopje, represented by the European Roma Rights Centre—brought a case against North Macedonia concerning police ill-treatment and the authorities’ response. The applicants, identified as ethnic Roma in the proceedings, alleged that on 19 May 2014, following a robbery near a Roma neighbourhood, police officers intercepted and detained X (aged sixteen) and Y (aged thirteen). Witnesses, including family members, described how both boys were punched, kicked, and subjected to ethnic slurs by police officers demanding confessions. Medical records from the following day documented bruising and bodily injury to X, while Y was described as visibly distressed, bleeding, and having urinated in his clothes.\n\nDespite these accounts and supporting medical evidence, the internal police investigation dismissed the complaint, finding no excessive force had been used. The applicants also pursued civil claims alleging discrimination on the basis of their Roma origin, but the domestic courts found no evidence of discriminatory conduct or excessive delay in the investigation.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of torture and inhuman or degrading treatment). While it found no substantive violation—meaning it did not establish beyond reasonable doubt that the applicants were ill-treated by police—it held that the authorities had failed to conduct an effective investigation into the allegations, constituting a procedural violation of Article 3. No damages were awarded, but the judgment highlights the obligation of states to thoroughly investigate credible claims of police abuse, especially where vulnerable Roma minors are concerned.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:36:52.685564+00:00"
+}

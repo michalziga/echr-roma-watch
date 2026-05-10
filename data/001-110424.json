@@ -19,8 +19,11 @@
   "full_text_length": 14523,
   "fetched_at": "2026-04-26T18:42:26.493753+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant, Mr. Mitică Costache, is explicitly identified as \"a Romanian national of Roma ethnic origin\" in the statement of facts.",
+  "filter_reason": "The applicant, Mr. Mitică Costache, is explicitly identified as a Romanian national of Roma ethnic origin in the statement of facts.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:40:51.562203+00:00",
-  "refiltered_at": "2026-05-09T13:40:51.562203+00:00"
+  "filtered_at": "2026-05-10T18:44:00.072658+00:00",
+  "refiltered_at": "2026-05-10T18:44:00.072658+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

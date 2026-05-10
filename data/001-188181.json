@@ -19,8 +19,12 @@
   "full_text_length": 120310,
   "fetched_at": "2026-04-26T18:37:03.516720+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma community as the subject of the legal dispute, specifically regarding a racially charged incident at a school primarily attended by Roma children, and the violation of freedom of expression is connected to the portrayal of this incident.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-08T19:10:46.884946+00:00",
-  "refiltered_at": "2026-05-08T19:10:46.884946+00:00"
+  "filtered_at": "2026-05-10T18:37:28.092693+00:00",
+  "refiltered_at": "2026-05-10T18:37:28.092693+00:00",
+  "recheck_reason": "the applicant is a media company (Magyar Jeti Zrt) and not identified as Roma or Traveller, and the case concerns reporting on an incident affecting Roma but does not establish Roma identity of the applicant or direct victim; no explicit or implicit identity or institutional marker is present.",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

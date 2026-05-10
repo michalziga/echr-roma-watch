@@ -1,0 +1,27 @@
+{
+  "itemid": "001-223709",
+  "title": "CASE OF SZOLCSÁN v. HUNGARY",
+  "date": "2023-03-30",
+  "country": "HUN",
+  "importance": "3",
+  "articles": [
+    "14",
+    "14+P1-2",
+    "P1-2",
+    "46",
+    "46-2",
+    "41"
+  ],
+  "violations": [
+    "14",
+    "14+P1-2",
+    "P1-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 14+P1-2 - Prohibition of discrimination (Article 14 - Discrimination) (Article 2 of Protocol No. 1 - Right to education-{general};Right to education);Respondent State to take individual measures (Article 46-2 - Individual measures);Respondent State to take measures of a general character (Article 46-2 - General measures);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2023:0330JUD002440816",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-223709",
+  "summary": "In Szolcsán v. Hungary, the applicant, a child of Roma ethnic origin living in Piliscsaba, challenged the Hungarian authorities over his experience of racial segregation in education. The case focused on the applicant’s enrolment in the Jókai Mór primary school during the 2013/14 school year—a school attended almost exclusively by Roma children, despite Roma making up only a small fraction of the local population. The applicant argued that the school’s poor curriculum and limited resources, combined with the authorities’ refusal to allow his transfer to a neighbouring, more inclusive school, amounted to discriminatory treatment and educational exclusion based on his Roma identity.\n\nAfter his transfer request to the Dózsa György school was denied on the grounds of catchment area, the applicant pursued appeals through the educational district, administrative courts, and ultimately the Constitutional Court, all of which rejected his claims. He contended that the authorities’ actions perpetuated segregation and denied him access to quality, inclusive education.\n\nThe European Court of Human Rights examined the case under Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 1 (right to education), finding that Hungary had violated these provisions. The Court awarded non-pecuniary damages and ordered both individual and general measures to address the segregation. Notably, the judgment required Hungary to take concrete steps to remedy the applicant’s situation and to prevent similar discrimination in the future.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:40:35.484295+00:00"
+}

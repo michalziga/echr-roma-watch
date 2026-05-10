@@ -1,0 +1,26 @@
+{
+  "itemid": "001-112446",
+  "title": "CASE OF FÁBER v. HUNGARY",
+  "date": "2012-07-24",
+  "country": "HUN",
+  "importance": "3",
+  "articles": [
+    "10",
+    "10-1",
+    "10-2",
+    "11",
+    "11-1",
+    "41"
+  ],
+  "violations": [
+    "10",
+    "10-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 10 - Freedom of expression -{General} (Article 10-1 - Freedom of expression) read in the light of Article 11 - (Art. 11) Freedom of assembly and association (Article 11-1 - Freedom of peaceful assembly);Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2012:0724JUD004072108",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-112446",
+  "summary": "In Fáber v. Hungary, the applicant, Mr. János Fáber, a Hungarian national, challenged his conviction for holding an Árpád-striped flag during a public demonstration in Budapest on 9 May 2007. The case did not involve a Roma or Traveller applicant, but the context is relevant to minority rights, as the demonstration organized by the Hungarian Socialist Party was specifically protesting against racism and hatred, issues central to Roma and Traveller communities in Hungary. On the day in question, Mr. Fáber stood silently with the flag near the Socialist Party’s anti-racism event, close to a simultaneous right-wing Jobbik party gathering. Police, acting on instructions not to tolerate the flag within 100 metres of the Socialist demonstration, ordered Mr. Fáber to remove it or leave. When he refused, he was detained for six hours and later fined for disobeying police instructions. His appeals in domestic courts were unsuccessful, with the courts finding his conduct provocative and likely to disturb public order.\n\nThe European Court of Human Rights examined the case under Article 10 (freedom of expression), read in light of Article 11 (freedom of assembly). The Court found that Hungary had violated Mr. Fáber’s right to freedom of expression, ruling that the authorities’ response was disproportionate and not justified by a pressing social need. The Court awarded non-pecuniary damages to Mr. Fáber. This judgment is significant for its emphasis on the high level of protection afforded to political expression, even when it is provocative or offensive, provided it does not incite violence or hatred.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:18.417766+00:00"
+}

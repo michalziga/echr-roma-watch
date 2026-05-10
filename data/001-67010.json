@@ -21,6 +21,9 @@
   "is_roma_related": "yes",
   "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:55:55.423219+00:00",
-  "refiltered_at": "2026-05-09T13:55:55.423219+00:00"
+  "filtered_at": "2026-05-10T19:32:38.924871+00:00",
+  "refiltered_at": "2026-05-10T19:32:38.924871+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

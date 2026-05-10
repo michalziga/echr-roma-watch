@@ -1,0 +1,27 @@
+{
+  "itemid": "001-158033",
+  "title": "CASE OF BALÁZS v. HUNGARY",
+  "date": "2015-10-20",
+  "country": "HUN",
+  "importance": "3",
+  "articles": [
+    "3",
+    "14",
+    "14+3",
+    "35",
+    "35-3",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection joined to merits and dismissed (Article 35-3 - Ratione materiae);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2015:1020JUD001552912",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-158033",
+  "summary": "In the case of Balázs v. Hungary, the applicant, Mr. Balázs, a young man of Roma origin living in Szeged, brought a complaint against Hungary concerning the authorities’ response to a racially motivated assault. The case highlighted the vulnerability of Roma and Travellers to racially charged violence and the failure of state authorities to adequately investigate such incidents, particularly when the victim is a member of the Roma community. On 21 January 2011, Mr. Balázs and his girlfriend were leaving a club when they were subjected to degrading, anti-Roma insults and objects thrown at them by three men. A fourth man, Mr. E.D., who falsely presented himself as a police officer, joined in the abuse and later physically assaulted Mr. Balázs. Despite visible injuries to both men, only Mr. E.D. received immediate medical attention, and the subsequent investigation by Hungarian authorities failed to properly examine the racist motive behind the attack or to take sufficient investigative steps.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found that Hungary had violated both articles, specifically noting the authorities’ failure to conduct an effective investigation into the racist nature of the assault. Mr. Balázs was awarded non-pecuniary damages as just satisfaction. This judgment is significant as it reinforces the obligation of states to actively investigate and address hate crimes against Roma and Travellers, a group historically subjected to discrimination and violence across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:31:19.853796+00:00"
+}

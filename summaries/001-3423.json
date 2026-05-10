@@ -1,0 +1,23 @@
+{
+  "itemid": "001-3423",
+  "title": "RÉKÁSI v. HUNGARY",
+  "date": "1996-11-25",
+  "country": "HUN",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6-1",
+    "10",
+    "10-1",
+    "10-2",
+    "57"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:1996:1125DEC003150696",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-3423",
+  "summary": "In the case of RÉKÁSI v. Hungary, the applicant, a Hungarian pensioner residing in Budapest, challenged the outcome of regulatory offence proceedings against her. The case arose after a street quarrel on 9 June 1994, during which the applicant addressed Mrs. H. with highly offensive language, including the phrase \"you shitty leprotic gypsy whore, you stupid goose.\" While the judgment does not explicitly confirm Mrs. H.'s identity, the applicant’s insult invoked anti-Roma slurs, suggesting the incident involved a person perceived as belonging to the Roma community. The applicant was fined for libel under Hungarian law, with the penalty confirmed after several rounds of administrative appeals. She also unsuccessfully sought criminal proceedings against Mrs. H. for alleged false accusations.\n\nThe applicant complained under Article 6 (right to a fair trial) and Article 10 (freedom of expression) of the European Convention on Human Rights, arguing that the proceedings were unfair and that her freedom of expression was violated. However, the European Commission of Human Rights declared the application inadmissible. The Commission found that Hungary’s reservation to Article 6, which excluded access to courts in regulatory offence cases, was sufficiently precise and valid under the Convention. As a result, the applicant’s lack of access to a court did not breach the Convention, and no violation was found.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:43:37.254828+00:00"
+}

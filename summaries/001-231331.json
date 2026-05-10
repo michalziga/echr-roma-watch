@@ -1,0 +1,30 @@
+{
+  "itemid": "001-231331",
+  "title": "CASE OF WA BAILE v. SWITZERLAND",
+  "date": "2024-02-20",
+  "country": "CHE",
+  "importance": "3",
+  "articles": [
+    "35",
+    "35-3-a",
+    "14",
+    "14+8-1",
+    "8",
+    "8-1",
+    "13"
+  ],
+  "violations": [
+    "14",
+    "14+8-1",
+    "8",
+    "8-1",
+    "13"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection joined to merits (Art. 35) Admissibility criteria;(Art. 35-3-a) Ratione materiae;Violation of Article 14+8-1 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8-1 - Respect for private life;Article 8 - Right to respect for private and family life);Violation of Article 13 - Right to an effective remedy (Article 13 - Effective remedy)",
+  "ecli": "ECLI:CE:ECHR:2024:0220JUD004386818",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-231331",
+  "summary": "In Wa Baile v. Switzerland, the applicant, Mr. Wa Baile, a Swiss national described in the judgment as “dark-skinned,” challenged the lawfulness of a police identity check he experienced at Zürich railway station on 5 February 2015. While the judgment does not explicitly identify Mr. Wa Baile as Roma or Traveller, it details his experience of being singled out for an identity check in a crowd he described as “almost all white,” raising concerns of racial profiling—a harm frequently reported by Roma, Travellers, and other minorities. Mr. Wa Baile was stopped by three municipal police officers, ordered to raise his hands and spread his legs, and searched until his identity was confirmed. He protested, alleging racism and noting that his identity was checked “everywhere [he] go[es].” He was subsequently fined for refusing to comply with police orders, and his appeals through the Swiss courts were unsuccessful, with authorities finding no evidence of discrimination.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private life), Article 14 (prohibition of discrimination), and Article 13 (right to an effective remedy). The Court found violations of Article 14 in conjunction with Article 8, as well as Article 13, concluding that Mr. Wa Baile had been discriminated against and lacked an effective remedy for his complaint. Notably, the Court highlighted the need for effective safeguards against ethnic profiling in police identity checks, marking a significant precedent for addressing discriminatory policing practices in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:41:27.918422+00:00"
+}

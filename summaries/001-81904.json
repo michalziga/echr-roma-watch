@@ -1,0 +1,34 @@
+{
+  "itemid": "001-81904",
+  "title": "CASE OF COBZARU v. ROMANIA",
+  "date": "2007-07-26",
+  "country": "ROU",
+  "importance": "2",
+  "articles": [
+    "3",
+    "6",
+    "6-1",
+    "13",
+    "14+3",
+    "14",
+    "14+13",
+    "29",
+    "29-3",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "13",
+    "14+3",
+    "14"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objections dismissed (six-month period, non-exhaustion of domestic remedies);Violation of Art. 3 both under its substantive and procedural aspects;Violation of Art. 13 on account of the lack of effective remedies in respect of the ill-treatment complained of;Violation of Art. 14+3 under its procedural aspect and Art. 13;Non-pecuniary damage - financial award;Costs and expenses award - domestic and Convention proceedings",
+  "ecli": "ECLI:CE:ECHR:2007:0726JUD004825499",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-81904",
+  "summary": "In Cobzaru v. Romania, the applicant, Mr. Belmondo Cobzaru, a Romanian national of Roma origin, brought a case against the Romanian state. The case highlighted the vulnerability of Roma and Travellers to police violence and the failure of authorities to investigate such abuses effectively. On 4 July 1997, after a domestic dispute in Mangalia, Mr. Cobzaru voluntarily went to the local police station to report threats against him. While there, he was assaulted by police officers—beaten, kicked, and struck with a stick—while other officers looked on. The police referenced his father’s role as a Roma association leader, suggesting ethnic bias. Mr. Cobzaru suffered significant injuries, including head trauma and multiple bruises, and was later hospitalised. Despite his complaints, the authorities failed to conduct an effective investigation, and the officers denied any wrongdoing.\n\nThe European Court of Human Rights examined violations of Article 3 (prohibition of inhuman or degrading treatment), Article 13 (right to an effective remedy), and Article 14 in conjunction with Article 3 (prohibition of discrimination). The Court found that Mr. Cobzaru had been subjected to ill-treatment by police, that the investigation was inadequate, and that he had been discriminated against as a Roma. The Court awarded him compensation for non-pecuniary damages and legal costs.\n\nThis judgment is significant as it underscores the persistent problem of police violence and institutional discrimination against Roma and Travellers in Europe, reaffirming the need for effective remedies and equal protection under the law.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:13:47.896706+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "itemid": "001-243551",
+  "title": "CASE OF B.T. AND B.K.CS. v. HUNGARY",
+  "date": "2025-06-10",
+  "country": "HUN",
+  "importance": "3",
+  "articles": [
+    "34",
+    "35",
+    "35-3-a",
+    "8",
+    "8-1",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection dismissed (Art. 34) Individual applications;(Art. 34) Petition;Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Manifestly ill-founded;Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for family life);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2025:0610JUD000458116",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-243551",
+  "summary": "In B.T. and B.K.Cs. v. Hungary, the applicants were a mother, B.T., of Roma origin, and her son, B.K.Cs., both living in Kesznyéten. The case, brought with the support of the European Roma Rights Centre, concerned the removal of B.K.Cs. from his mother immediately after birth and his subsequent placement in foster care. The authorities’ actions were rooted in concerns about B.T.’s “irresponsible lifestyle,” her previous children’s placement in care, and her living conditions, despite evidence of recent improvements. Notably, the health visitor and child welfare services recommended, without informing the parents, that the newborn should not be allowed home, citing B.T.’s smoking during pregnancy and her older children’s care status. On 7 May 2014, the Guardianship Authority suspended both parents’ rights and placed the baby in temporary care, a decision upheld on appeal. B.T. argued that the removal was based on outdated information and that the authorities failed to consider her improved circumstances, also alleging that Roma children were disproportionately taken into care in her community. After nearly two years, the child was returned to his parents when their living conditions were deemed adequate. The European Court of Human Rights found a violation of Article 8 (right to respect for family life), holding that the authorities had not sufficiently justified the removal or adequately considered less intrusive measures. The Court awarded non-pecuniary damages to the applicants.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:42:27.211243+00:00"
+}

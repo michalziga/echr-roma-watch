@@ -1,0 +1,25 @@
+{
+  "itemid": "001-241985",
+  "title": "CASE OF SALAY v. SLOVAKIA",
+  "date": "2025-02-27",
+  "country": "SVK",
+  "importance": "3",
+  "articles": [
+    "14",
+    "14+P1-2",
+    "P1-2",
+    "41"
+  ],
+  "violations": [
+    "14",
+    "14+P1-2",
+    "P1-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 14+P1-2 - Prohibition of discrimination (Article 14 - Discrimination) (Article 2 of Protocol No. 1 - Right to education;Right to education - {general});Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2025:0227JUD002935922",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-241985",
+  "summary": "In Salay v. Slovakia, the applicant, Mr. Salay, grew up in a Roma community in Plavecký Štvrtok and was represented by the European Roma Rights Centre. The case focused on the vulnerability of Roma children in Slovakia who are disproportionately placed in special education, often based on assessments that do not account for their social and linguistic backgrounds. Mr. Salay’s schooling began in 2004, when, after a school readiness test, he was placed in “Year Zero,” a preparatory class intended for children from disadvantaged backgrounds. He then entered a mainstream Year One class, but after further testing—using tools not adapted for Roma children—he was recommended for transfer to a special class for pupils with intellectual disabilities. From Year Two onwards, he remained in special classes, which, at his school, were attended exclusively by Roma pupils.\n\nThe European Court of Human Rights examined the case under Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 1 (right to education). The Court found that Mr. Salay had been discriminated against in his access to education, as the procedures and tests used failed to consider his linguistic and cultural background, resulting in his unjustified placement in special education. The Court held that Slovakia had violated both Article 14 and Article 2 of Protocol No. 1, awarding Mr. Salay non-pecuniary damages. This judgment is significant for its detailed scrutiny of the systemic bias in educational assessments affecting Roma children in Slovakia.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:42:21.988467+00:00"
+}

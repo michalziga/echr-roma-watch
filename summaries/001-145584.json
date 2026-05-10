@@ -1,0 +1,31 @@
+{
+  "itemid": "001-145584",
+  "title": "CASE OF KIM v. RUSSIA",
+  "date": "2014-07-17",
+  "country": "RUS",
+  "importance": "3",
+  "articles": [
+    "3",
+    "5",
+    "5-1",
+    "5-1-f",
+    "5-4",
+    "41",
+    "46",
+    "46-2"
+  ],
+  "violations": [
+    "3",
+    "5",
+    "5-1",
+    "5-1-f",
+    "5-4"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 5 - Right to liberty and security (Article 5-4 - Take proceedings);Violation of Article 5 - Right to liberty and security (Article 5-1 - Lawful arrest or detention;Article 5-1-f - Expulsion);Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2014:0717JUD004426013",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-145584",
+  "summary": "In the case of Kim v. Russia, the applicant, Mr. Kim, was a stateless person born in the Uzbek SSR who had lived in St Petersburg since 1990. While the judgment does not explicitly identify Mr. Kim as belonging to the Roma or Traveller communities, it notes his statelessness and lack of identity documents—circumstances often affecting Roma and Travellers across Europe. The case centered on the harm caused by prolonged detention in inhuman and degrading conditions, as well as the legal uncertainty faced by stateless individuals subject to expulsion proceedings.\n\nOn 19 July 2011, Mr. Kim was stopped by police in St Petersburg for an identity check and, lacking documents, was fined and ordered to be expelled. He was detained in a severely overcrowded detention center for aliens, where he spent over two years in cramped cells with inadequate access to water, sanitation, and outdoor exercise. Despite repeated attempts, Russian authorities were unable to secure his removal, as Uzbekistan confirmed he was not a national and would not accept him. Throughout his detention, Mr. Kim was denied effective judicial review of his situation.\n\nThe European Court of Human Rights found violations of Article 3 (prohibition of inhuman or degrading treatment) due to the appalling detention conditions, and Article 5 (right to liberty and security), including the lack of lawful basis and judicial review for his prolonged detention. The Court awarded non-pecuniary damages and highlighted the need for Russia to adopt general measures to prevent similar violations against stateless persons.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:27.566762+00:00"
+}

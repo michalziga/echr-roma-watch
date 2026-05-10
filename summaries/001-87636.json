@@ -1,0 +1,32 @@
+{
+  "itemid": "001-87636",
+  "title": "CASE OF ORŠUŠ AND OTHERS v. CROATIA",
+  "date": "2008-07-17",
+  "country": "HRV",
+  "importance": "2",
+  "articles": [
+    "6",
+    "6-1",
+    "14",
+    "29",
+    "29-3",
+    "41",
+    "P1-2",
+    "14+P1-2"
+  ],
+  "violations": [
+    "6",
+    "6-1"
+  ],
+  "nonviolations": [
+    "14+P1-2",
+    "14",
+    "P1-2"
+  ],
+  "conclusion": "Violation of Art. 6-1;No violation of P1-2;No violation of Art. 14+P1-2;Remainder inadmissible;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2008:0717JUD001576603",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-87636",
+  "summary": "In the case of Oršuš and Others v. Croatia, the applicants were fifteen schoolchildren from the Roma community, living in the villages of Orehovica, Podturen, and Trnovec. They brought a case against Croatia, arguing that their placement in Roma-only classes in local primary schools amounted to discrimination. The core harm at issue was the segregation of Roma pupils into separate classes, which the applicants claimed resulted in an inferior education and reinforced their social exclusion, a vulnerability long experienced by Roma and Traveller communities across Europe.\n\nBetween the late 1990s and early 2000s, the applicants attended primary schools where, at various times, they were placed in classes composed exclusively of Roma children. The authorities justified this separation on the grounds that many Roma pupils lacked sufficient knowledge of Croatian, the language of instruction. However, the applicants argued that this practice led to educational disadvantage and stigmatisation, as they were not given adequate opportunities to integrate into mixed classes or to overcome language barriers.\n\nThe European Court of Human Rights examined the case under Article 6 (right to a fair trial), Article 14 (prohibition of discrimination), and Article 2 of Protocol No. 1 (right to education). The Court found a violation of Article 6 § 1, concluding that the applicants had not received a fair hearing before the domestic courts. However, it found no violation of the right to education or of the prohibition of discrimination in conjunction with the right to education. The Court awarded non-pecuniary damages to the applicants.\n\nThis case is significant as it highlights the persistent challenges faced by Roma children in accessing equal education in Europe. Against a backdrop of historical segregation and marginalisation, the judgment underscores the need for states to ensure that measures addressing language barriers do not result in unjustified separation or discrimination of Roma and Traveller pupils.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:19:51.059348+00:00"
+}

@@ -19,8 +19,11 @@
   "full_text_length": 69900,
   "fetched_at": "2026-04-26T18:34:46.967737+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma applicant who alleges police mistreatment and discrimination based on her Romani origin, which is legally relevant to the violations of Articles 2 and 3 concerning her right to life and protection from inhuman treatment.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T15:53:36.230702+00:00",
-  "refiltered_at": "2026-05-08T15:53:36.230702+00:00"
+  "filtered_at": "2026-05-10T18:20:51.374394+00:00",
+  "refiltered_at": "2026-05-10T18:20:51.374394+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

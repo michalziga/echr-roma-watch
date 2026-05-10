@@ -1,0 +1,22 @@
+{
+  "itemid": "001-211043",
+  "title": "MADĚROVÁ v. THE CZECH REPUBLIC",
+  "date": "2021-06-08",
+  "country": "CZE",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6-1",
+    "8",
+    "8-1",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2021:0608DEC003281213",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-211043",
+  "summary": "In Maděrová v. the Czech Republic, the applicant, Ms Anna Maděrová, a Czech national, brought a case against the Czech Republic concerning her sterilisation in 1982 at Znojmo hospital. While the judgment does not explicitly state Ms Maděrová’s Roma or Traveller identity, it notes that she approached the Ombudsperson in 2005 during an inquiry into the forced sterilisation of Roma women, suggesting her experience was linked to this broader context of harm affecting Roma and Traveller women in the Czech Republic.\n\nThe case centred on the applicant’s sterilisation without her informed consent during her second caesarean delivery. Ms Maděrová only signed a consent form two days after the procedure and later discovered, through the Ombudsperson’s investigation, that her sterilisation had been irregular and unnecessary. Despite attempts at reversal and fertility treatments, she was unable to have more children. She sought criminal and civil remedies, but her claims for compensation were dismissed as time-barred, with courts finding she had been aware of the sterilisation since 1982 or, at the latest, 2005.\n\nThe European Court of Human Rights examined her complaints under Article 6 (right to a fair trial) and Article 8 (right to respect for private and family life), but declared the application inadmissible. The Court found that the domestic courts had properly applied limitation periods and that Ms Maděrová’s access to justice had not been unduly restricted, given the established legal framework and her personal circumstances.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:38:03.732348+00:00"
+}

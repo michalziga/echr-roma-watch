@@ -1,0 +1,23 @@
+{
+  "itemid": "001-75470",
+  "title": "GERGEL v. SLOVAKIA",
+  "date": "2006-05-04",
+  "country": "SVK",
+  "importance": "4",
+  "articles": [
+    "3",
+    "13+3",
+    "13",
+    "14+3",
+    "14",
+    "14+13"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2006:0504DEC001692603",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-75470",
+  "summary": "In the case of Gergel v. Slovakia, the applicant, Mr. Ľubomír Gergel, is a Slovak national of Roma ethnic origin, represented by lawyers from the European Roma Rights Center and the League of Human Rights Advocates. The case focused on the vulnerability of Roma individuals to racially motivated police violence and the barriers they face in seeking justice. On 19 March 2001, Mr. Gergel was stopped by Railway Police officers in Zvolen, Slovakia, who insulted him with racist remarks, physically assaulted him, and stole money from him. He suffered serious injuries, including a broken rib and kidney damage, requiring over a month of medical treatment. Despite his attempts to file a complaint, the police initially refused to accept it, and only after persistent efforts did a criminal investigation result in the conviction of one officer, who received a fine and was ordered to pay partial damages. Mr. Gergel challenged the limited scope of the conviction and the leniency of the sentence, but his appeals were dismissed on procedural grounds, and the Constitutional Court found his complaint inadmissible due to late filing. The European Court of Human Rights declared the application inadmissible, finding no violation of Articles 3, 13, or 14 of the Convention. This case highlights the procedural obstacles Roma and Traveller individuals often encounter when seeking redress for police abuse, reflecting broader historical patterns of marginalisation and limited access to justice in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:11:42.012372+00:00"
+}

@@ -1,0 +1,30 @@
+{
+  "itemid": "001-207929",
+  "title": "CASE OF BEHAR AND GUTMAN v. BULGARIA",
+  "date": "2021-02-16",
+  "country": "BGR",
+  "importance": "1",
+  "articles": [
+    "8",
+    "8-1",
+    "10",
+    "10-1",
+    "14",
+    "14+8",
+    "17",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1",
+    "14",
+    "14+8"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life;Positive obligations;Article 8-1 - Respect for private life);Non-pecuniary damage - finding of violation sufficient (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2021:0216JUD002933513",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-207929",
+  "summary": "In Behar and Gutman v. Bulgaria, the applicants, Mr. Behar and Mr. Gutman, both of Jewish ethnic origin, brought a case against Bulgaria after being personally affected by a series of public statements made by a prominent politician, Mr. Siderov, leader of the Ataka party. While the applicants themselves are not Roma or Travellers, the case is notable for its discussion of hate speech targeting multiple minorities, including Roma, and for referencing Bulgarian case-law on anti-Roma harassment. The applicants alleged that Mr. Siderov’s books and public remarks, which included deeply offensive stereotypes and conspiracy theories about Jews, amounted to harassment and incitement to discrimination, infringing their dignity and creating a hostile environment.\n\nThe events unfolded in Bulgaria from 2004 onwards, with the applicants initiating proceedings in 2006 under the Protection from Discrimination Act. They sought a court order to stop Mr. Siderov’s statements and a public apology. Bulgarian courts, however, did not provide effective protection.\n\nThe European Court of Human Rights examined the case under Articles 8 (right to respect for private life) and 14 (prohibition of discrimination), finding that Bulgaria had failed in its positive obligations to protect the applicants from discriminatory harassment. The Court found violations of Article 8 and Article 14 in conjunction with Article 8, but considered the finding of a violation sufficient just satisfaction for non-pecuniary damage. The judgment is significant for its explicit reference to domestic case-law on anti-Roma hate speech, highlighting the broader context of minority protection under the Convention.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:37:26.757882+00:00"
+}

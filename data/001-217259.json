@@ -19,10 +19,11 @@
   "full_text_length": 71528,
   "fetched_at": "2026-04-26T18:34:59.452362+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma applicant whose home was subjected to an unlawful inspection, violating Article 8, and the context includes systemic discrimination against Roma families in Hungary, with explicit reference to anti-Roma sentiments and actions by local authorities.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T15:54:36.539345+00:00",
+  "filtered_at": "2026-05-10T18:21:13.183816+00:00",
   "summary": "In the case of L.F. v. Hungary, the applicant, a member of the Roma community, challenged the legality of home inspections conducted by local authorities in Gyöngyöspata, Hungary. The case centered on the vulnerability of Roma individuals to unlawful intrusions into their homes, reflecting broader issues of discrimination and lack of respect for private life. In October 2011, following anti-Roma demonstrations, local officials, accompanied by police, entered L.F.'s home without a legal basis, purportedly to verify compliance with housing regulations. The applicant was not informed of the purpose, and similar inspections targeted other Roma families. The European Court of Human Rights found a violation of Article 8 of the European Convention on Human Rights, which protects the right to respect for private and family life, specifically the respect for one's home. The Court concluded that the inspections lacked a legal basis and constituted an unlawful interference. This case highlights ongoing challenges faced by Roma communities in Europe, particularly regarding discriminatory practices and the protection of their rights. Historically, Roma communities have faced systemic discrimination and marginalization, making legal protections against such intrusions crucial for safeguarding their rights and dignity.",
   "summary_generated_at": "2026-04-27T00:21:34.406642+00:00",
-  "refiltered_at": "2026-05-08T15:54:36.539345+00:00"
+  "refiltered_at": "2026-05-10T18:21:13.183816+00:00",
+  "summary_model": null
 }

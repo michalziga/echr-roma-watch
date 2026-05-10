@@ -1,0 +1,29 @@
+{
+  "itemid": "001-198308",
+  "title": "MEMET AND OTHERS v. ROMANIA",
+  "date": "2019-10-01",
+  "country": "ROU",
+  "importance": "4",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "13",
+    "14",
+    "14+3",
+    "14+8",
+    "14+P1-1",
+    "35",
+    "P1-1",
+    "P1-1+3",
+    "P1-1+8"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2019:1001DEC001640116",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-198308",
+  "summary": "In Memet and Others v. Romania, thirty-seven Romanian nationals of Roma ethnic origin brought a case against the Romanian state, represented by the European Roma Rights Centre. The applicants, all members of the Roma community, alleged that they had suffered discrimination and violations of their rights following the demolition of their homes in Eforie Sud. The core harm at issue was the forced eviction of Roma families, the destruction of their homes without adequate notice or alternative accommodation, and their subsequent relocation to substandard modular containers, raising concerns about discrimination and the right to adequate housing.\n\nThe events began in September 2013, when the mayor of Eforie ordered the demolition of the applicants’ homes, which were built without authorisation on public land. On 27 September 2013, their homes were demolished, leaving them homeless. The applicants were initially offered shelter in an abandoned school, but were later evicted again in July 2014 and moved to small modular containers, which they claimed lacked basic utilities at first. The applicants pursued domestic remedies, and in 2017 the Romanian courts ordered the authorities to provide social housing and awarded compensation.\n\nThe European Court of Human Rights examined complaints under Articles 3, 8, 13, and 14 of the Convention, as well as Article 1 of Protocol No. 1, but ultimately declared the application inadmissible. The Court found that the applicants had obtained adequate redress at the national level, including compensation and orders for social housing. This case highlights the importance of effective domestic remedies for Roma and Traveller communities facing eviction, reflecting ongoing challenges in securing housing rights and combating discrimination in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:36:06.454904+00:00"
+}

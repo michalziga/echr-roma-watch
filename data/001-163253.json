@@ -19,8 +19,11 @@
   "full_text_length": 12977,
   "fetched_at": "2026-04-26T18:39:21.269866+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a complaint regarding the inability of applicants, including individuals identifying as belonging to the Roma minority, to participate in elections due to their non-affiliation with the \"constituent peoples,\" raising issues of discrimination under Article 14 and the right to free elections under Protocol 1, Article 3.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as three of the applicants describe themselves as belonging to the Roma ethnic minority, which is explicitly stated in paragraph 16 of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T22:22:14.595552+00:00",
-  "refiltered_at": "2026-05-08T22:22:14.595552+00:00"
+  "filtered_at": "2026-05-10T18:40:25.649429+00:00",
+  "refiltered_at": "2026-05-10T18:40:25.649429+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

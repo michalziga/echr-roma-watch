@@ -1,0 +1,32 @@
+{
+  "itemid": "001-60505",
+  "title": "CASE OF ANGUELOVA v. BULGARIA",
+  "date": "2002-06-13",
+  "country": "BGR",
+  "importance": "1",
+  "articles": [
+    "2",
+    "2-1",
+    "3",
+    "5",
+    "5-1",
+    "13",
+    "14",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "3",
+    "5",
+    "13"
+  ],
+  "nonviolations": [
+    "14"
+  ],
+  "conclusion": "Violation of Art. 2 in respect of death of applicant's son;Violation of Art. 2 in respect of failure to provide timely medical care;Violation of Art. 2 due to lack of effective investigation;Violation of Art. 3;Violation of Art. 5;Violation of Art. 13;No violation of Art. 14",
+  "ecli": "ECLI:CE:ECHR:2002:0613JUD003836197",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-60505",
+  "summary": "In Anguelova v. Bulgaria, the applicant, Mrs. Assya Anguelova, a Bulgarian national of Roma origin, brought a case against Bulgaria concerning the death of her 17-year-old son, Anguel Zabchekov, who also belonged to the Roma community. The case highlighted the acute vulnerability of Roma and Travellers to police violence and neglect, particularly in situations of police custody, where systemic discrimination and lack of accountability have historically placed Roma individuals at heightened risk.\n\nOn the night of 28–29 January 1996 in Razgrad, Bulgaria, Anguel Zabchekov was arrested by police after being suspected of attempted theft. Witnesses confirmed he was in good health before his arrest. However, after several hours in police custody, he died from a fatal skull injury. The authorities claimed the injury predated his arrest and attributed other injuries to accidental falls, but Mrs. Anguelova contested this, pointing to inconsistencies in the investigation and evidence of possible ill-treatment.\n\nThe European Court of Human Rights examined violations of Articles 2 (right to life), 3 (prohibition of inhuman or degrading treatment), 5 (right to liberty and security), and 13 (right to an effective remedy). The Court found Bulgaria responsible for the death, for failing to provide timely medical care, for not conducting an effective investigation, and for other violations, awarding just satisfaction to the applicant.\n\nThis judgment is significant for Roma rights as it underscores the urgent need for effective safeguards against police abuse and impunity, especially for Roma and Travellers, who have long faced disproportionate risks in police custody across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:06:54.782757+00:00"
+}

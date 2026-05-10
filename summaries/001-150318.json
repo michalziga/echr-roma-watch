@@ -1,0 +1,20 @@
+{
+  "itemid": "001-150318",
+  "title": "CASE OF M.A. v. SLOVENIA",
+  "date": "2015-01-15",
+  "country": "SVN",
+  "importance": "4",
+  "articles": [
+    "3"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Positive obligations) (Procedural aspect)",
+  "ecli": "ECLI:CE:ECHR:2015:0115JUD000340007",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-150318",
+  "summary": "In the case of M.A. v. Slovenia, the applicant, a woman of Roma origin, brought a complaint against Slovenia concerning the authorities’ handling of her case after she was subjected to a violent rape in 1983. The vulnerability at the heart of this case lies in the applicant’s experience as a Roma woman, a group encompassed by the Council of Europe’s definition of “Roma and Travellers,” who often face heightened risks of violence and barriers to justice due to discrimination and marginalisation.\n\nOn the evening of 3 November 1983, while eight months pregnant and returning home from work in Maribor, the applicant was abducted and raped by three men, all of whom were also of Roma origin. She immediately reported the crime, and the suspects were arrested. However, the ensuing criminal proceedings were plagued by repeated delays, adjournments, and absences of the accused or their counsel. Despite the gravity of the crime, it took over twenty-five years for the case to reach a final judgment, with significant portions of the proceedings occurring after Slovenia ratified the European Convention on Human Rights in 1994.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of torture and inhuman or degrading treatment), focusing on the State’s procedural obligations. The Court found a violation of Article 3, concluding that the Slovenian authorities failed to conduct an effective and prompt investigation and trial. This judgment highlights the critical importance of timely justice for victims of serious crimes, especially for Roma and Traveller women, who have historically faced systemic obstacles in accessing protection and redress in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:30:20.215419+00:00"
+}

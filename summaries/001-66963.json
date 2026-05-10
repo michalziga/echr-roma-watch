@@ -1,0 +1,23 @@
+{
+  "itemid": "001-66963",
+  "title": "OLAH v. HUNGARY",
+  "date": "2004-09-14",
+  "country": "HUN",
+  "importance": "4",
+  "articles": [
+    "2",
+    "3",
+    "6",
+    "13",
+    "14",
+    "34"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2004:0914DEC005655800",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-66963",
+  "summary": "In Oláh v. Hungary, the applicant, Mrs. Józsefné Oláh, a Hungarian national of Roma origin, brought a case against Hungary following the fatal shooting of her Roma husband, Mr. Oláh, by a police officer in Budapest. The case highlighted the vulnerability of Roma and Travellers to excessive use of force by law enforcement and the challenges they face in seeking accountability for such incidents. On the night of 24 July 1997, Mr. Oláh and an accomplice were pursued by Sergeant L.T. after allegedly stealing a car radio near the French Embassy. Despite repeated orders to stop and two warning shots, Mr. Oláh continued to flee. In a dark courtyard, as Mr. Oláh made a sudden movement, Sergeant L.T. fired a shot that struck Mr. Oláh in the chest, leading to his death two days later. Administrative and criminal proceedings were initiated against the officer, but both concluded that the use of force had been lawful, and Sergeant L.T. was acquitted. Mrs. Oláh alleged violations of Articles 2 (right to life), 3, 6, 13, 14, and 34 of the European Convention on Human Rights, but the European Court of Human Rights declared the application inadmissible. This case underscores the persistent difficulties Roma and Traveller families encounter in obtaining effective remedies for deaths involving state agents, reflecting broader patterns of marginalisation in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:08:39.293224+00:00"
+}

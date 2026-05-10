@@ -19,8 +19,11 @@
   "full_text_length": 27257,
   "fetched_at": "2026-04-26T18:43:46.770513+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant, Nevresa Hamidovic, is explicitly identified as being of Roma origin in the facts section of the judgment.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicant, Nevresa Hamidovic, is explicitly identified as being of Roma origin in the facts section of the judgment.",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-09T13:41:36.242450+00:00",
-  "refiltered_at": "2026-05-09T13:41:36.242450+00:00"
+  "filtered_at": "2026-05-10T18:44:34.172296+00:00",
+  "refiltered_at": "2026-05-10T18:44:34.172296+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

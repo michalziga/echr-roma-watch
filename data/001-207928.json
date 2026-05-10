@@ -19,10 +19,11 @@
   "full_text_length": 111254,
   "fetched_at": "2026-04-26T18:35:38.874428+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves two Roma applicants who were directly affected by discriminatory statements made by a political leader, leading to a violation of their rights under Articles 8 and 14, with their Roma identity being central to the discrimination alleged.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:24:52.479221+00:00",
+  "filtered_at": "2026-05-10T18:22:16.755237+00:00",
   "summary": "In the case of Budinova and Chaprazov v. Bulgaria, the applicants, Ms. Kremena Goshova Budinova and Mr. Vasil Stoyanov Chaprazov, are Bulgarian nationals of Roma ethnic origin. The case centers on the vulnerability of Roma communities to discrimination and hate speech. The applicants filed a complaint against Mr. Volen Siderov, a politician and journalist, for making public statements that negatively stereotyped Roma in Bulgaria. They sought a court order for him to apologize and refrain from future discriminatory remarks. The Bulgarian courts dismissed their claim, failing to provide redress under anti-discrimination legislation. The European Court of Human Rights found a violation of Articles 8 and 14, determining that the Bulgarian courts did not fulfill their positive obligation to protect the applicants' private life from discrimination. The Court ruled that the statements reached a threshold of severity impacting the applicants' private life. This case is significant as it highlights ongoing challenges Roma communities face in Europe regarding discrimination and the need for effective legal protection. Historically, Roma have been marginalized across Europe, and this judgment underscores the importance of safeguarding their rights under the European Convention on Human Rights.",
   "summary_generated_at": "2026-04-27T00:24:11.777631+00:00",
-  "refiltered_at": "2026-05-08T18:24:52.479221+00:00"
+  "refiltered_at": "2026-05-10T18:22:16.755237+00:00",
+  "summary_model": null
 }

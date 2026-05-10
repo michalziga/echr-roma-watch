@@ -19,8 +19,11 @@
   "full_text_length": 6354,
   "fetched_at": "2026-04-26T18:48:12.205317+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are explicitly identified as \"Serbian nationals of Ashkaelia/ Roma ethnic origin\" in the facts section of the judgment.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicants are explicitly identified as \"Serbian nationals of Ashkaelia/ Roma ethnic origin\" in the facts section of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:52:30.226731+00:00",
-  "refiltered_at": "2026-05-09T13:52:30.226731+00:00"
+  "filtered_at": "2026-05-10T19:30:12.825430+00:00",
+  "refiltered_at": "2026-05-10T19:30:12.825430+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

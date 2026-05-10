@@ -1,0 +1,30 @@
+{
+  "itemid": "001-72629",
+  "title": "CASE OF SEJDOVIC v. ITALY",
+  "date": "2006-03-01",
+  "country": "ITA",
+  "importance": "1",
+  "articles": [
+    "6",
+    "6-1",
+    "6-2",
+    "6-3",
+    "36",
+    "36-2",
+    "46",
+    "46-2",
+    "41",
+    "35",
+    "35-1"
+  ],
+  "violations": [
+    "6"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection rejected (non-exhaustion of domestic remedies);Violation of Art. 6;Pecuniary damage - claim dismissed;Non-pecuniary damage - finding of violation sufficient;Costs and expenses partial award - domestic proceedings;Costs and expenses partial award - Convention proceedings",
+  "ecli": "ECLI:CE:ECHR:2006:0301JUD005658100",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-72629",
+  "summary": "In Sejdovic v. Italy, the applicant, Mr. Cloce Sejdovic, identified as a member of the Roma and Travellers community, brought a case against Italy after being convicted in absentia for murder and illegal possession of a weapon. The case highlighted the particular vulnerability of Roma and Travellers, who often face barriers to fair trial rights, especially when proceedings occur without their presence or effective participation. On 8 September 1992, a fatal shooting took place at a travellers’ encampment in Rome. Mr. Sejdovic, then untraceable, was declared a fugitive by Italian authorities and tried in his absence. He was assigned a lawyer, but was never personally notified of the charges or the trial. In 1996, he was convicted and sentenced to over twenty-one years in prison. Years later, after his arrest in Germany, Italian authorities sought his extradition, but German courts refused, citing concerns about his right to a retrial. The European Court of Human Rights examined Article 6 (right to a fair trial) and found a violation, noting that Mr. Sejdovic had not been given a genuine opportunity to defend himself or to have his case reheard. The Court awarded partial costs and expenses, finding the acknowledgment of the violation sufficient for non-pecuniary damage. This judgment is significant as it reinforces the right to a fair trial for Roma and Travellers, who have historically faced exclusion and procedural disadvantages in European justice systems.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:11:17.437217+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "itemid": "001-110720",
+  "title": "CASE OF KLEYN AND ALEKSANDROVICH v. RUSSIA",
+  "date": "2012-05-03",
+  "country": "RUS",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "3",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "2-1"
+  ],
+  "nonviolations": [
+    "2",
+    "2-1"
+  ],
+  "conclusion": "Remainder inadmissible (Article 35-1 - Six month period);No violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2012:0503JUD004065704",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-110720",
+  "summary": "In the case of Kleyn and Aleksandrovich v. Russia, the applicants were Mr. Kleyn, a Russian national, and his son, both of whom are Russian nationals living in the Pskov Region. The case concerned the death of Ms. Fatsima Aleksandrovich, Mr. Kleyn’s late wife and the mother of his son, who was a Belarus national of Roma ethnicity. The applicants’ Roma identity is central, as the events unfolded against a backdrop of ethnic prejudice.\n\nThe vulnerability at the heart of the case was the discriminatory treatment and lack of protection afforded to Ms. Aleksandrovich as a Roma woman in police custody, culminating in her death and the authorities’ failure to conduct an effective investigation. The harm was compounded by the police officer’s assumption of guilt based on her ethnicity and the subsequent inadequate response by the authorities.\n\nOn 20 May 2002, Ms. Aleksandrovich was arrested on a bus in Pskov after a police officer’s purse went missing. Despite the purse being found, she was accused of theft solely because of her Roma background, struck on the head, and taken to the police station. While in custody, she complained of severe pain and was later found unconscious in the police yard, having apparently jumped from a window. She died four days later from her injuries. The ensuing investigation was marked by delays and significant shortcomings.\n\nThe European Court of Human Rights examined Article 2 (right to life) of the Convention. While it found no substantive violation regarding the cause of death, it held that Russia had violated the procedural aspect of Article 2 by failing to conduct an effective investigation. The Court awarded non-pecuniary damages to the applicants.\n\nThis case is significant as it highlights the persistent risks Roma and Traveller individuals face in police custody and the critical importance of thorough, unbiased investigations into deaths involving vulnerable minorities. It reflects a broader historical context of systemic discrimination against Roma and Travellers in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:21:18.957555+00:00"
+}

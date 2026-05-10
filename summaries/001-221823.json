@@ -1,0 +1,24 @@
+{
+  "itemid": "001-221823",
+  "title": "CALDARAS ET LUPU c. FRANCE",
+  "date": "2022-11-17",
+  "country": "FRA",
+  "importance": "4",
+  "articles": [
+    "3",
+    "8",
+    "13",
+    "13+3",
+    "14",
+    "14+3",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Irrecevable",
+  "ecli": "ECLI:CE:ECHR:2022:1117DEC001356115",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-221823",
+  "summary": "In the case of Caldaras and Lupu v. France, the applicants, Mr. Stefan Caldaras and Mr. Vasile Lupu, are Romanian nationals belonging to the Roma community, represented by the European Roma Rights Centre. Their complaint was brought against France and concerned the dismantling of a makeshift camp at Porte de Paris, Saint-Denis, where they and their families, as Roma, lived in precarious conditions. The core vulnerability at issue was the forced eviction of Roma families from informal settlements without provision of alternative accommodation, raising concerns of inhuman and degrading treatment and ethnic discrimination.\n\nThe facts unfolded between 2012 and 2014. After the authorities noted the presence of the camp in late 2012, the public landowner sought a court order for immediate eviction. Although initially refused, the Paris Court of Appeal ultimately ordered the expulsion of the applicants and other occupants in January 2014, following a social assessment as required by French policy. The applicants argued that their eviction, without rehousing, violated Articles 3 (prohibition of inhuman or degrading treatment), 8 (right to respect for private and family life), 13 (right to an effective remedy), and 14 (prohibition of discrimination) of the European Convention on Human Rights.\n\nHowever, the European Court of Human Rights declared the application inadmissible, finding no violation of the Convention. This decision highlights the ongoing legal and social challenges faced by Roma and Travellers in Europe regarding housing rights and forced evictions, reflecting a broader historical context of marginalisation and inadequate protection for these communities.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:38:09.696500+00:00"
+}

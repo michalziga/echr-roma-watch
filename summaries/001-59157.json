@@ -1,0 +1,29 @@
+{
+  "itemid": "001-59157",
+  "title": "CASE OF LEE v. THE UNITED KINGDOM",
+  "date": "2001-01-18",
+  "country": "GBR",
+  "importance": "2",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "14",
+    "36",
+    "36-2",
+    "P1-1",
+    "P1-1-1",
+    "P1-2"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "14"
+  ],
+  "conclusion": "No violation of Art. 8;No violation of P1-1;No violation of P1-2;No violation of Art. 14",
+  "ecli": "ECLI:CE:ECHR:2001:0118JUD002528994",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-59157",
+  "summary": "In the case of Lee v. the United Kingdom, the applicant, Mr. Lee, and his wife, both Gypsies by birth and part of the broader Roma and Traveller communities, brought a complaint against the United Kingdom. The case highlighted the vulnerability of Gypsy families who, due to their nomadic lifestyle and lack of authorised sites, faced repeated evictions and legal obstacles to securing a permanent home. Over a four-year period, Mr. Lee and his family were evicted from more than 40 sites in Kent, England, prompting him to purchase a small plot of land in 1991 to provide a settled base for his family, including his children and grandchildren.\n\nDespite their efforts to establish a lawful residence and contribute to the local economy through agricultural work, the local council issued an enforcement notice in 1992 requiring the removal of their caravans, citing planning policies protecting the landscape. Mr. Lee’s appeal was dismissed, and the authorities maintained that the site’s location in a Special Landscape Area outweighed the family’s needs, despite a recognised shortfall in authorised Gypsy pitches.\n\nThe European Court of Human Rights examined the case under Articles 8 (right to respect for private and family life), 14 (prohibition of discrimination), and Article 1 of Protocol No. 1 (protection of property), but found no violation. The Court concluded that the planning controls pursued legitimate aims and were proportionate in the circumstances. This case is significant as it reflects the persistent challenges faced by Roma and Traveller families in securing lawful accommodation in the UK, against a backdrop of historical marginalisation and restrictive planning regimes.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:06:31.844347+00:00"
+}

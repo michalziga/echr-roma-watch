@@ -1,0 +1,22 @@
+{
+  "itemid": "001-193078",
+  "title": "CASE OF ZAYKINA v. RUSSIA",
+  "date": "2019-05-21",
+  "country": "RUS",
+  "importance": "4",
+  "articles": [
+    "8",
+    "8-1"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for home)",
+  "ecli": "ECLI:CE:ECHR:2019:0521JUD001462009",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-193078",
+  "summary": "In Zaykina v. Russia, the applicant, Ms. Dinara Vyacheslavovna Zaykina, a Russian national, brought a case against Russia concerning her right to remain in her long-term home. While the judgment does not explicitly state her Roma or Traveller identity, Ms. Zaykina’s circumstances reflect the precarious housing situations often faced by vulnerable minorities, including those from Roma settlements. The case centered on the risk of eviction from a flat in St Petersburg, which Ms. Zaykina had shared with her grandmother since childhood and where she was officially registered as a resident.\n\nThe dispute began after the death of Ms. Zaykina’s uncle in 1998, when questions arose over the right to occupy the flat. Ms. Zaykina and her grandmother initiated court proceedings to clarify that a minor, registered at the address but never having lived there, had no right to the premises. In response, the minor’s mother sought Ms. Zaykina’s eviction. Despite her longstanding residence and contributions to the household, a district court ordered her eviction in 2007, a decision later quashed on appeal for failing to consider key evidence of her family ties and residence.\n\nThe European Court of Human Rights found a violation of Article 8 (right to respect for home), holding that the Russian authorities had not adequately balanced Ms. Zaykina’s right to her home against competing interests. The Court awarded her compensation, emphasizing the need for careful scrutiny in eviction cases where long-term residence and family life are at stake.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:36:34.537022+00:00"
+}

@@ -19,10 +19,11 @@
   "full_text_length": 16851,
   "fetched_at": "2026-04-26T18:33:07.287300+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a violation of Article 3 concerning inhuman treatment by police against the applicants, who are identified as Roma, making their ethnic identity legally relevant to the alleged violation.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T13:27:02.525867+00:00",
+  "filtered_at": "2026-05-10T18:17:19.063345+00:00",
   "summary": "In the case of Bystrý v. Slovakia, the applicants, Andrej and Marian Bystrý, members of the Roma community in Slovakia, alleged police ill-treatment during an intervention in Bardejov. The case centers on police violence against Roma individuals, a significant vulnerability for this community. On April 12, 2020, during Easter celebrations amidst COVID-19 restrictions, police intervened in a Roma community. Andrej Bystrý was arrested for not wearing a mask, resulting in a confrontation where he was allegedly beaten by police, sustaining multiple injuries. Marian Bystrý, arriving later, was also allegedly beaten with a baton, resulting in severe injuries. The police claimed the force used was justified due to the applicants' aggressive behavior. The European Court of Human Rights found a violation of Article 3, both substantively and procedurally, citing inhuman and degrading treatment and a lack of effective investigation. This case highlights ongoing issues of police violence and inadequate investigations in Roma communities, reflecting historical patterns of discrimination and marginalization in Europe. The Court's decision underscores the need for accountability and protection of minority rights under the European Convention on Human Rights.",
   "summary_generated_at": "2026-04-27T00:15:50.227740+00:00",
-  "refiltered_at": "2026-05-08T13:27:02.525867+00:00"
+  "refiltered_at": "2026-05-10T18:17:19.063345+00:00",
+  "summary_model": null
 }

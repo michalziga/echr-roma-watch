@@ -21,6 +21,10 @@
   "is_roma_related": "yes",
   "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-09T13:40:57.245996+00:00",
-  "refiltered_at": "2026-05-09T13:40:57.245996+00:00"
+  "filtered_at": "2026-05-10T18:44:04.577004+00:00",
+  "refiltered_at": "2026-05-10T18:44:04.577004+00:00",
+  "recheck_reason": "No Roma/Traveller identity signal is present; the summary identifies the applicants as Somali and Eritrean asylum-seekers and explicitly states \"They are not Roma or Travellers\" (facts section), with no Roma-specific organisation intervening.",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

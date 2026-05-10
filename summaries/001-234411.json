@@ -1,0 +1,24 @@
+{
+  "itemid": "001-234411",
+  "title": "AFFAIRE CONSEIL NATIONAL DE LA JEUNESSE DE MOLDOVA c. RÉPUBLIQUE DE MOLDOVA",
+  "date": "2024-06-25",
+  "country": "MDA",
+  "importance": "3",
+  "articles": [
+    "10",
+    "10-1",
+    "10-2",
+    "41"
+  ],
+  "violations": [
+    "10",
+    "10-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation de l'article 10 - Liberté d'expression - {général} (Article 10-1 - Liberté d'expression);Préjudice moral - constat de violation suffisant (Article 41 - Préjudice moral;Satisfaction équitable)",
+  "ecli": "ECLI:CE:ECHR:2024:0625JUD001537913",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-234411",
+  "summary": "In the case of National Youth Council of Moldova v. Republic of Moldova, the applicant was a non-governmental organization based in Chișinău, which participated in the Coalition Non-Discrimination, a group of NGOs combating discrimination. The case arose from the applicant’s attempt in December 2011 to display a public awareness poster in Chișinău, promoting a free anti-discrimination hotline. The poster featured caricatures representing various marginalized groups, including a couple depicted as Roma—a man drawn with a wide-brimmed hat, long moustache, and vest, and a woman with exaggerated features and traditional clothing. The SINTI association, representing Roma in Chișinău, objected to the portrayal, arguing it was unflattering and misrepresented Roma people.\n\nThe city authorities, citing concerns from both Roma and disability organizations, refused permission to display the poster, claiming it could divide society and contravened advertising laws requiring honesty and decency. The applicant challenged this decision in court, arguing it violated their freedom of expression. However, Moldovan courts upheld the refusal, emphasizing the negative feedback from affected groups.\n\nThe European Court of Human Rights examined the case under Article 10 (freedom of expression) and found a violation, holding that the authorities’ refusal was not a proportionate restriction. The Court considered the finding of a violation sufficient just satisfaction for any non-pecuniary damage. This judgment highlights the need for careful balancing between freedom of expression and the sensitivities of minority groups, especially when anti-discrimination efforts intersect with contested representations.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:41:40.208035+00:00"
+}

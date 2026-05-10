@@ -1,0 +1,26 @@
+{
+  "itemid": "001-22264",
+  "title": "VELIKOVA v. BULGARIA",
+  "date": "1999-05-18",
+  "country": "BGR",
+  "importance": "1",
+  "articles": [
+    "2",
+    "2-1",
+    "6",
+    "6-1",
+    "13",
+    "14",
+    "34",
+    "35",
+    "35-1"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Admissible",
+  "ecli": "ECLI:CE:ECHR:1999:0518DEC004148898",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-22264",
+  "summary": "In Velikova v. Bulgaria, the applicant, Ms. Velikova, a Bulgarian national, brought a case concerning the death of her long-term partner, Mr. T., who belonged to the Roma community, against the Bulgarian state. The case highlights the particular vulnerability of Roma and Travellers to ill-treatment and neglect while in police custody, as well as the risk of bias and inadequate investigation into their deaths. On 24 September 1994, Mr. T. was arrested in the village of B., Pleven district, on suspicion of cattle theft. He was reportedly healthy at the time of arrest but was described as intoxicated by police and witnesses. Over the next twelve hours in police custody, Mr. T. exhibited signs of severe illness, including vomiting and difficulty walking, yet received no meaningful medical care despite the arrival of emergency medical staff. He died in the early hours of 25 September 1994 at the police station. The applicant alleged violations of Article 2 (right to life) due to the authorities’ failure to protect Mr. T.’s life and to conduct an effective investigation, as well as Article 6 (right to a fair trial) regarding the excessive length and inadequacy of the criminal proceedings. The case was declared admissible, allowing the Court to examine whether Bulgaria fulfilled its obligations under the Convention. Velikova v. Bulgaria is significant as it exposes systemic failings in the protection of Roma individuals in police custody and the persistent lack of accountability for deaths in detention, reflecting broader patterns of discrimination against Roma and Travellers in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:38:31.053232+00:00"
+}

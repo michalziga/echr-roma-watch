@@ -19,10 +19,11 @@
   "full_text_length": 63625,
   "fetched_at": "2026-04-26T18:33:46.466235+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is explicitly identified as being of Roma origin, and the case involves a violation of Article 4 concerning trafficking and exploitation, which is directly linked to her identity and vulnerability as a member of the Roma community.",
+  "filter_reason": "6 non-citational Roma/Traveller identity mentions (incl. 1 unambiguous) found in full text — Roma relevance confirmed without LLM (Signal 1 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:03:04.800419+00:00",
+  "filtered_at": "2026-05-10T18:18:47.354890+00:00",
   "summary": "In the case of B.B. v. Slovakia, the applicant, a Roma woman, brought a case against Slovakia concerning human trafficking vulnerabilities. B.B. was raised in state care and later exploited by a Roma family, who forced her into marriage and subsequently into prostitution in the UK. The Slovak authorities failed to effectively investigate her trafficking claims, focusing instead on convicting the perpetrator for the lesser crime of pimping. The European Court of Human Rights found Slovakia in violation of Article 4 of the European Convention on Human Rights, which prohibits slavery and forced labor, due to their inadequate investigation into the trafficking allegations. The Court highlighted the state's failure to pursue obvious lines of inquiry and to understand the complexities of human trafficking. This case underscores the persistent issue of inadequate legal responses to human trafficking in Slovakia, despite international criticism. The decision is significant in the context of ongoing efforts to improve the protection of vulnerable groups, such as the Roma, who are disproportionately affected by trafficking and exploitation across Europe. The Court awarded non-pecuniary damages to B.B., emphasizing the need for effective state action in combating human trafficking.",
   "summary_generated_at": "2026-04-27T00:17:36.801938+00:00",
-  "refiltered_at": "2026-05-08T14:03:04.800419+00:00"
+  "refiltered_at": "2026-05-10T18:18:47.354890+00:00",
+  "summary_model": null
 }

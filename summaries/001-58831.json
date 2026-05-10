@@ -1,0 +1,30 @@
+{
+  "itemid": "001-58831",
+  "title": "CASE OF VELIKOVA v. BULGARIA",
+  "date": "2000-05-18",
+  "country": "BGR",
+  "importance": "1",
+  "articles": [
+    "1",
+    "2",
+    "2-1",
+    "6",
+    "6-1",
+    "13",
+    "14",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "13"
+  ],
+  "nonviolations": [
+    "14"
+  ],
+  "conclusion": "Violation of Art. 2 with regard to the applicant's death;Violation of Art. 2 with regard to the lack of effective investigation;Violation of Art. 13;No violation of Art. 14;Non-pecuniary damage - financial award;Pecuniary damage - financial award;Costs and expenses partial award",
+  "ecli": "ECLI:CE:ECHR:2000:0518JUD004148898",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-58831",
+  "summary": "In Velikova v. Bulgaria, the applicant, Ms. Velikova, a Bulgarian national residing in the village of Bukovlak, brought a case to the European Court of Human Rights following the death of her long-term partner, Mr. Slavtcho Tsonchev, who belonged to the Roma community. The case highlighted the vulnerability of Roma and Travellers to police violence and the lack of effective state protection, particularly in situations involving police custody. On 24 September 1994, Mr. Tsonchev was arrested by police in connection with cattle theft and was held in custody in Pleven. He died after approximately twelve hours in detention, during which time there were allegations of ill-treatment and neglect by the authorities. Despite the suspicious circumstances of his death, the investigation by Bulgarian authorities was inadequate and failed to clarify the cause or assign responsibility.\n\nThe Court examined violations of Article 2 (right to life), Article 13 (right to an effective remedy), and Article 14 (prohibition of discrimination), among others. It found that Bulgaria had violated Article 2 both in relation to Mr. Tsonchev’s death and the lack of an effective investigation, as well as Article 13 due to the absence of an effective remedy. However, it did not find a violation of Article 14. The Court awarded Ms. Velikova both pecuniary and non-pecuniary damages.\n\nThis judgment is significant for Roma rights as it underscores the duty of states to protect the lives of Roma and Travellers in custody and to conduct thorough investigations into deaths, reflecting longstanding concerns about police violence and impunity affecting these communities in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:05:56.416888+00:00"
+}

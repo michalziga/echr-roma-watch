@@ -1,0 +1,24 @@
+{
+  "itemid": "001-22015",
+  "title": "LAKATOS v. THE CZECH REPUBLIC",
+  "date": "2001-10-23",
+  "country": "CZE",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6-1",
+    "8",
+    "8-1",
+    "8-2",
+    "35",
+    "35-1"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2001:1023DEC004205298",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-22015",
+  "summary": "In the case of Lakatos v. the Czech Republic, the applicant, Mr. Lakatos, is a Slovak national who identified himself as a member of the Roma minority. He brought a complaint against the Czech Republic, where he had lived since 1984, primarily with relatives in Prague. The case centred on the vulnerability of Roma and Travellers facing expulsion from countries where they have established deep personal, social, and family ties, raising concerns about the disproportionate impact such measures can have on Roma individuals who have long faced exclusion and marginalisation.\n\nMr. Lakatos, who had a history of criminal convictions in Slovakia and the Czech Republic, was sentenced in 1996 by Czech courts to two years’ imprisonment and expulsion from the Czech Republic following an assault conviction. The courts justified the expulsion by citing his repeated criminal behaviour and lack of close family ties in the Czech Republic, despite his long residence and employment there. Mr. Lakatos argued that the expulsion was disproportionate and would severely disrupt his private and family life, invoking Article 8 (right to respect for private and family life) and Article 6 (right to a fair trial) of the European Convention on Human Rights.\n\nThe European Court of Human Rights declared the application inadmissible, finding that Mr. Lakatos had not exhausted all domestic remedies, particularly regarding his fair trial complaints. The Court also reiterated that expulsion proceedings do not generally fall under Article 6 protections. This case highlights the procedural barriers Roma and Travellers often face in accessing justice at the European level, reflecting broader historical patterns of exclusion and the ongoing struggle for effective protection of their rights.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:37:53.669805+00:00"
+}

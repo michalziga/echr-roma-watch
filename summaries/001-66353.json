@@ -1,0 +1,31 @@
+{
+  "itemid": "001-66353",
+  "title": "AFFAIRE CONNORS c. ROYAUME-UNI",
+  "date": "2004-05-27",
+  "country": "GBR",
+  "importance": "2",
+  "articles": [
+    "6",
+    "8",
+    "8-1",
+    "8-2",
+    "13",
+    "14+8",
+    "14",
+    "41",
+    "P1-1"
+  ],
+  "violations": [
+    "8"
+  ],
+  "nonviolations": [
+    "6",
+    "13"
+  ],
+  "conclusion": "Violation de l'art. 8;Aucune question distincte au regard de l'art. 14+8;Aucune question distincte au regard de P1-1;Aucune question distincte au regard de l'art. 6;Non-violation de l'art. 6;Non-violation de l'art. 13;Préjudice moral - réparation pécuniaire;Remboursement partiel frais et dépens - procédure de la Convention",
+  "ecli": "ECLI:CE:ECHR:2004:0527JUD006674601",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-66353",
+  "summary": "In Connors v. the United Kingdom, the applicant, Mr. Thomas Connors, is a member of the Gypsy community—a group encompassed by the Council of Europe’s definition of Roma and Travellers—who brought a case against the United Kingdom. The case highlighted the particular vulnerability of Roma and Traveller families facing eviction from public caravan sites, often without adequate procedural safeguards or consideration of their traditional way of life. Mr. Connors and his family had lived for many years on the Cottingley Springs municipal caravan site in Leeds, but in 2000, following disputes with the local council and allegations of antisocial behaviour by some family members and visitors, the council terminated their licence and sought their eviction. The family was ordered to leave without being given detailed reasons or a meaningful opportunity to challenge the allegations in court.\n\nThe European Court of Human Rights examined the case under Article 8 of the European Convention on Human Rights, which protects the right to respect for private and family life and home. The Court found a violation of Article 8, ruling that the eviction process lacked sufficient procedural safeguards and failed to balance the needs of the Connors family as a vulnerable minority. The Court awarded Mr. Connors compensation for non-pecuniary damage and partial costs.\n\nThis judgment is significant as it was the first time the Court found the United Kingdom in breach of Article 8 in the context of Roma and Traveller accommodation, marking a turning point in the recognition of the specific rights and vulnerabilities of these communities in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:08:26.635915+00:00"
+}

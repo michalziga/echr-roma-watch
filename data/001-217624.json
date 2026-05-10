@@ -19,10 +19,11 @@
   "full_text_length": 48712,
   "fetched_at": "2026-04-26T18:34:58.224388+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves Roma and Egyptian children as applicants, with their identity being central to the claim of discrimination in education under Article 1 of Protocol No. 12, highlighting systemic segregation in schools.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T15:54:25.539108+00:00",
+  "filtered_at": "2026-05-10T18:21:11.691205+00:00",
   "summary": "In the case of X and Others v. Albania, the applicants, eighteen Albanian nationals of Roma and Egyptian ethnic origin, challenged the Albanian government's failure to implement desegregation measures in the \"Naim Frashëri\" elementary school in Korça. The case centered on the vulnerability of Roma and Egyptian children facing educational segregation, as the school was attended almost exclusively by these minorities. Despite recommendations from the Commissioner for the Protection from Discrimination and the People’s Advocate to address the over-representation of Roma and Egyptian pupils, the government’s measures were insufficient and delayed. The European Court of Human Rights found a violation of Article 1 of Protocol No. 12, which prohibits discrimination, due to the lack of swift and comprehensive desegregation efforts. The Court ordered Albania to take individual measures to end the discrimination and awarded non-pecuniary damages to the applicants. This case highlights ongoing challenges in addressing educational segregation of Roma and Egyptian communities in Europe, reflecting historical patterns of marginalization and discrimination that persist despite legal frameworks intended to ensure equality and integration.",
   "summary_generated_at": "2026-04-27T00:21:22.723697+00:00",
-  "refiltered_at": "2026-05-08T15:54:25.539108+00:00"
+  "refiltered_at": "2026-05-10T18:21:11.691205+00:00",
+  "summary_model": null
 }

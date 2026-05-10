@@ -19,8 +19,11 @@
   "full_text_length": 161780,
   "fetched_at": "2026-04-26T18:36:27.772218+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves Roma applicants who are directly affected by the lack of access to essential services such as water and sanitation, which is relevant to their rights under Articles 3 and 8, and the Court's findings indicate a potential violation of their rights due to systemic discrimination against Roma communities.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicants are explicitly identified as members of the Roma community in the statement of facts, specifically in paragraph 3 where it states they are \"membres de la communauté rom.\"",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-08T18:46:03.830986+00:00",
-  "refiltered_at": "2026-05-08T18:46:03.830986+00:00"
+  "filtered_at": "2026-05-10T18:36:33.555872+00:00",
+  "refiltered_at": "2026-05-10T18:36:33.555872+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

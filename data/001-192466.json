@@ -19,8 +19,11 @@
   "full_text_length": 46171,
   "fetched_at": "2026-04-26T18:36:51.395763+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are explicitly identified as Roma, and the case involves allegations of police violence and discrimination, which are directly linked to their Roma identity, thus engaging Articles 3 and 14 of the Convention.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:59:06.998918+00:00",
-  "refiltered_at": "2026-05-08T18:59:06.998918+00:00"
+  "filtered_at": "2026-05-10T18:37:08.909802+00:00",
+  "refiltered_at": "2026-05-10T18:37:08.909802+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

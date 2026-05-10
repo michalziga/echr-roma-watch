@@ -21,6 +21,9 @@
   "is_roma_related": "yes",
   "filter_reason": "35 non-citational Roma/Traveller identity mentions (incl. 35 unambiguous) found in full text — Roma relevance confirmed without LLM (Signal 1 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T14:02:04.831846+00:00",
-  "refiltered_at": "2026-05-09T14:02:04.831846+00:00"
+  "filtered_at": "2026-05-10T19:35:44.302183+00:00",
+  "refiltered_at": "2026-05-10T19:35:44.302183+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

@@ -19,8 +19,11 @@
   "full_text_length": 21643,
   "fetched_at": "2026-04-26T18:42:23.210501+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are explicitly identified as \"Romanian nationals of Roma origin\" in the statement of facts (paragraph 4).",
+  "filter_reason": "The statement of facts explicitly identifies the applicants as \"Romanian nationals of Roma origin\" in paragraph 1 of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:40:48.594937+00:00",
-  "refiltered_at": "2026-05-09T13:40:48.594937+00:00"
+  "filtered_at": "2026-05-10T18:43:57.614723+00:00",
+  "refiltered_at": "2026-05-10T18:43:57.614723+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

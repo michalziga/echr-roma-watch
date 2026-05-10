@@ -1,0 +1,23 @@
+{
+  "itemid": "001-90743",
+  "title": "CASE OF F.H. v. SWEDEN",
+  "date": "2009-01-20",
+  "country": "SWE",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "3"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "2",
+    "3"
+  ],
+  "conclusion": "No violation of Art. 2;No violation of Art. 3",
+  "ecli": "ECLI:CE:ECHR:2009:0120JUD003262106",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-90743",
+  "summary": "In the case of F.H. v. Sweden, the applicant, F.H., an Iraqi national of Roma origin, sought asylum in Sweden after fleeing Iraq with his children in 1993, later joined by his wife. The case focused on the applicant’s vulnerability as a member of the Roma and Travellers community, who faced heightened risks of persecution and violence in Iraq, particularly given his background as a former officer in the Republican Guard and his desertion from the military. F.H. claimed that, as a Roma and a deserter, he would be at risk of execution or ill-treatment if returned to Iraq, citing both his ethnicity and his perceived association with the former regime as grounds for protection.\n\nUpon arrival in Sweden, F.H. applied for asylum, detailing his military service, desertion, and subsequent flight from Iraq. Swedish authorities conducted several interviews and ultimately rejected his asylum claim, doubting the credibility of his account and the immediacy of the risks he described. F.H. argued before the European Court of Human Rights that his removal to Iraq would violate Article 2 (right to life) and Article 3 (prohibition of torture or inhuman or degrading treatment) of the European Convention on Human Rights.\n\nThe Court examined the evidence and concluded that there was insufficient proof that F.H. faced a real and personal risk of death or ill-treatment upon return to Iraq. Accordingly, it found no violation of Articles 2 or 3 and did not award any remedies. This case is significant for Roma and Travellers’ rights as it highlights the challenges Roma applicants face in substantiating claims of vulnerability and risk in asylum proceedings, against a backdrop of historical marginalisation and ongoing discrimination in Europe and beyond.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:20:06.009104+00:00"
+}

@@ -1,0 +1,22 @@
+{
+  "itemid": "001-208889",
+  "title": "CASE OF PASTRAMA v. UKRAINE",
+  "date": "2021-04-01",
+  "country": "UKR",
+  "importance": "4",
+  "articles": [
+    "8",
+    "8-1"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 8 - Right to respect for private and family life (Article 8 - Positive obligations;Article 8-1 - Respect for private life)",
+  "ecli": "ECLI:CE:ECHR:2021:0401JUD005447614",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-208889",
+  "summary": "In Pastrama v. Ukraine, the applicant, Ms. Pastrama, lived in an unauthorised tent encampment in Kyiv inhabited by Roma, as described in the judgment. On 30 May 2012, plain-clothed police officers arrived at the encampment, led the Roma residents out, and set fire to their tents and belongings, firing shots in the air and killing a dog. Male residents were forced to strip to the waist and were photographed. The officers reportedly stated they were acting under orders to clear the area ahead of the 2012 UEFA European Football Championship. These events, witnessed by children, left the Roma residents homeless and dispossessed.\n\nFollowing the incident, Ms. Pastrama and other former residents sought assistance from human rights organisations, which prompted calls for a criminal investigation. However, the authorities repeatedly refused to open or pursue a thorough investigation, citing lack of evidence or inability to locate the victims, despite having their contact information. Appeals by Ms. Pastrama and her lawyer were dismissed on procedural grounds, and the investigation was discontinued multiple times without meaningful steps to clarify the facts or hold anyone accountable.\n\nThe European Court of Human Rights found a violation of Article 8 (right to respect for private and family life), holding that Ukraine failed in its positive obligation to protect the applicant’s home and private life and to conduct an effective investigation into the destruction of the Roma encampment.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:37:47.653074+00:00"
+}

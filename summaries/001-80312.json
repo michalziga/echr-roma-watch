@@ -1,0 +1,24 @@
+{
+  "itemid": "001-80312",
+  "title": "CASE OF KONSTATINOV v. THE NETHERLANDS",
+  "date": "2007-04-26",
+  "country": "NLD",
+  "importance": "3",
+  "articles": [
+    "8",
+    "8-2",
+    "8-1",
+    "29",
+    "29-3"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8"
+  ],
+  "conclusion": "No violation of Art. 8",
+  "ecli": "ECLI:CE:ECHR:2007:0426JUD001635103",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-80312",
+  "summary": "In the case of Konstatinov v. the Netherlands, the applicant, Ms. Jadranka Konstatinov, is of Roma origin and was born in Serbia. She challenged the Netherlands’ decision to refuse her a residence permit and to declare her an undesirable alien, which would result in her expulsion and separation from her husband and son, both of whom held residence permits in the Netherlands. The case highlighted the vulnerability of Roma and Travellers, particularly regarding the risk of family separation and the difficulties faced in securing legal residence due to strict immigration requirements and the impact of criminal records.\n\nMs. Konstatinov entered the Netherlands as a young woman, married a man of Roma background who had permanent residence, and had a son there. Despite living in the Netherlands for many years, her applications for a residence permit were repeatedly denied, partly due to her husband’s insufficient income and her own criminal convictions. Administrative delays further complicated her situation, and in 1998, she was declared an undesirable alien, facing a five-year exclusion order.\n\nThe European Court of Human Rights examined her complaint under Article 8 of the European Convention on Human Rights, which protects the right to respect for private and family life. The Court ultimately found no violation, concluding that the Dutch authorities had struck a reasonable balance between Ms. Konstatinov’s family life and the public interest in preventing crime and maintaining public order.\n\nThis case is significant for Roma and Traveller rights as it illustrates the persistent barriers faced by Roma families in securing residence and family unity in Western Europe, reflecting broader historical patterns of exclusion and administrative obstacles for Roma and Travellers across the continent.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:13:08.130887+00:00"
+}

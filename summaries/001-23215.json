@@ -1,0 +1,22 @@
+{
+  "itemid": "001-23215",
+  "title": "BALOGH v. HUNGARY",
+  "date": "2003-05-13",
+  "country": "HUN",
+  "importance": "4",
+  "articles": [
+    "3",
+    "6",
+    "6-1",
+    "13",
+    "14"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Admissible",
+  "ecli": "ECLI:CE:ECHR:2003:0513DEC004794099",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-23215",
+  "summary": "In the case of Balogh v. Hungary, the applicant, Mr. Sándor Balogh, is a Hungarian national of Roma origin living in Miskolc, Hungary. Mr. Balogh’s case highlights the vulnerability of Roma individuals to police ill-treatment and the challenges they face in seeking justice for such abuses. On 9 August 1995, while selling coal door-to-door in Orosháza, Mr. Balogh was taken to the local police station after a dispute over fuel vouchers. During police interrogation, he alleged that officers slapped him repeatedly and punched him, demanding information about the vouchers. Following his release, witnesses observed his swollen and reddened face, and medical examinations confirmed a traumatic perforation of his left eardrum, requiring surgery and resulting in lasting hearing loss.\n\nDespite medical evidence and witness testimony, criminal proceedings against the police officers were discontinued due to inconclusive evidence, and Mr. Balogh’s subsequent attempts to seek compensation were rejected on procedural grounds. He complained to the European Court of Human Rights under Articles 3 (prohibition of inhuman or degrading treatment), 6 (right to a fair trial), 13 (right to an effective remedy), and 14 (prohibition of discrimination), alleging police brutality, lack of effective investigation, and discrimination based on his Roma identity. The Court found the application admissible, recognising the seriousness of the allegations and the procedural barriers faced.\n\nThis case is significant as it underscores the persistent obstacles Roma and Traveller communities encounter in accessing justice and protection from ill-treatment, reflecting broader patterns of discrimination in post-communist Europe during the 1990s.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:39:14.059470+00:00"
+}

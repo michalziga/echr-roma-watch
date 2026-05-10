@@ -19,8 +19,11 @@
   "full_text_length": 19591,
   "fetched_at": "2026-04-26T18:50:12.949132+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are explicitly identified as of Roma origin (\"d’origine ethnique rom (tzigane)\") in the statement of facts.",
+  "filter_reason": "The applicants are explicitly identified as being of Roma origin (tzigane) in the statement of facts.",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-09T13:55:36.402555+00:00",
-  "refiltered_at": "2026-05-09T13:55:36.402555+00:00"
+  "filtered_at": "2026-05-10T19:32:29.804179+00:00",
+  "refiltered_at": "2026-05-10T19:32:29.804179+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

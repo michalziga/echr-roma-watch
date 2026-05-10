@@ -1,0 +1,31 @@
+{
+  "itemid": "001-159914",
+  "title": "CASE OF BOACĂ AND OTHERS v. ROMANIA",
+  "date": "2016-01-12",
+  "country": "ROU",
+  "importance": "3",
+  "articles": [
+    "3",
+    "14",
+    "14+3",
+    "34",
+    "35",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "conclusion": "Remainder inadmissible;Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);No violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Degrading treatment);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2016:0112JUD004035511",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-159914",
+  "summary": "In the case of Boacă and Others v. Romania, the applicants were Romanian nationals of Roma origin, including the heirs of I.B., who had initiated proceedings before his death. The case focused on the vulnerability of Roma and Travellers to police brutality and ethnic discrimination, particularly in the context of law enforcement interventions. On 30 March 2006, following an altercation in Clejani, members of the Boacă family, including I.B. and his sons, were apprehended by police. The applicants alleged that police officers, accompanied by a rapid intervention squad, forcibly detained them, subjected them to physical violence, and used ethnic slurs such as “wretched disgraceful gypsies.” I.B. was severely beaten, lost consciousness, and required hospital treatment, while other family members, including minors, were also mistreated and coerced into signing confessions.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of degrading treatment), Article 14 (prohibition of discrimination), and their combination. The Court found violations of Article 3 both substantively (due to police brutality) and procedurally (due to the lack of an effective investigation), as well as a violation of Article 14 taken together with Article 3 regarding the authorities’ failure to investigate possible racist motives. The applicants were awarded compensation for non-pecuniary damage.\n\nThis judgment is significant for Roma and Travellers’ rights, as it highlights the persistent problem of police violence and the necessity for authorities to investigate potential ethnic discrimination, reflecting broader historical patterns of marginalisation faced by Roma communities in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:31:24.356311+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "itemid": "001-145566",
+  "title": "CASE OF ZORNIĆ v. BOSNIA AND HERZEGOVINA",
+  "date": "2014-07-15",
+  "country": "BIH",
+  "importance": "3",
+  "articles": [
+    "14",
+    "14+P1-3",
+    "46",
+    "46-2",
+    "P1-3",
+    "P12-1"
+  ],
+  "violations": [
+    "14",
+    "14+P1-3",
+    "P1-3",
+    "P12-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 14+P1-3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 of Protocol No. 1 - Stand for election;Right to free elections-{general});Violation of Article 1 of Protocol No. 12 - General prohibition of discrimination;Violation of Article 1 of Protocol No. 12 - General prohibition of discrimination",
+  "ecli": "ECLI:CE:ECHR:2014:0715JUD000368106",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-145566",
+  "summary": "In Zornić v. Bosnia and Herzegovina, the applicant, Ms. Azra Zornić, a citizen of Bosnia and Herzegovina residing in Sarajevo, brought a case against the State after being barred from standing for election to the House of Peoples and the Presidency. Ms. Zornić does not declare affiliation with any of the “constituent peoples” (Bosniacs, Croats, or Serbs), identifying instead simply as a citizen. This exclusion reflects a broader vulnerability faced by those, including members of Roma and Traveller communities and others, who do not or cannot identify with the three constituent groups recognized by the Constitution. In 2002, Ms. Zornić stood as a candidate for the Social Democratic Party in parliamentary elections but was ineligible for higher office due to her refusal to declare ethnic affiliation. The European Court of Human Rights examined her complaints under Article 14 (prohibition of discrimination), Article 3 of Protocol No. 1 (right to free elections), and Article 1 of Protocol No. 12 (general prohibition of discrimination). The Court found violations of Article 14 in conjunction with Article 3 of Protocol No. 1, and of Article 1 of Protocol No. 12, holding that the constitutional arrangements unjustifiably discriminated against citizens not affiliated with a constituent people. The judgment reinforced the need for Bosnia and Herzegovina to amend its constitution and electoral laws to ensure equal political participation for all citizens, regardless of ethnic identification.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:22.958270+00:00"
+}

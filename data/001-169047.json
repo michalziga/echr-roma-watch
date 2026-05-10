@@ -19,10 +19,10 @@
   "full_text_length": 27768,
   "fetched_at": "2026-04-26T18:38:56.949449+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are strongly implied to belong to the Roma/Traveller minority as they are described as having spent time in a location where \"other Roma families were staying\" (paragraph 24), indicating their connection to the Roma community.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicants are identified as Serbian nationals, and the context of their situation strongly implies their Roma identity, particularly as they are described as having lived in a settlement with other Roma families (paragraph 24).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T14:29:33.652714+00:00",
-  "refiltered_at": "2026-05-09T14:29:33.652714+00:00",
+  "filtered_at": "2026-05-10T18:40:02.549237+00:00",
+  "refiltered_at": "2026-05-10T18:40:02.549237+00:00",
   "summary": "[PARTIES]  \nThe applicants were V.M., S.G.M., and their five children, Serbian nationals of Roma origin, who applied to the European Court of Human Rights against Belgium. Their Roma identity is confirmed by their association with other Roma families and their migration history. The respondent state was Belgium.\n\n[VULNERABILITY]  \nThe central vulnerability concerned the applicants’ status as Roma asylum-seekers facing destitution, inadequate reception conditions, and the risk of forced removal under the Dublin II Regulation, compounded by the disability of one child.\n\n[FACTS]  \nIn 2011, the Roma family fled Serbia, seeking asylum in France and then Belgium. After Belgium determined France was responsible for their asylum claim, the family was ordered to leave. Their reception in Belgium ended in September 2011, leaving them homeless in Brussels. Their eldest, disabled daughter died in December 2011. The applicants lost contact with their lawyer during proceedings, and their whereabouts became unknown.\n\n[DECISION]  \nThe Grand Chamber struck the case out of its list under Article 37(1)(a) of the Convention, finding the applicants no longer intended to pursue the application due to loss of contact. No violation was found or remedies awarded, as the case was not examined on the merits.\n\n[SIGNIFICANCE]  \nThis case highlights the extreme precarity and procedural obstacles faced by Roma asylum-seekers in Europe. It reflects a broader pattern of Roma exclusion and vulnerability in asylum and migration systems, especially post-2010.",
   "summary_model": "gpt-4.1-2025-04-14",
   "summary_generated_at": "2026-05-09T14:20:00.781103+00:00"

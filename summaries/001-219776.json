@@ -1,0 +1,30 @@
+{
+  "itemid": "001-219776",
+  "title": "CASE OF PAKETOVA AND OTHERS v. BULGARIA",
+  "date": "2022-10-04",
+  "country": "BGR",
+  "importance": "3",
+  "articles": [
+    "34",
+    "35",
+    "35-3-a",
+    "14",
+    "14+8",
+    "8",
+    "8-1",
+    "41"
+  ],
+  "violations": [
+    "14",
+    "14+8",
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection joined to merits and dismissed (Art. 34) Individual applications;(Art. 34) Victim;Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Manifestly ill-founded;Violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life;Positive obligations;Article 8-1 - Respect for family life;Respect for home;Respect for private life);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2022:1004JUD001780819",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-219776",
+  "summary": "In Paketova and Others v. Bulgaria, the applicants were members of several Roma families living in the village of Voyvodinovo, Plovdiv region. Their case arose from a series of events beginning on 6 January 2019, when a fight involving a Roma youth and a non-Roma member of the military led to the arrest and detention of the Roma youth. That evening, anti-Roma protests erupted in the village, with demonstrators—including followers of radical groups—shouting threats and anti-Roma slogans. Fearing for their safety, nearly all Roma residents fled their homes overnight, leaving the neighbourhood deserted.\n\nOver the following days, protests continued, accompanied by inflammatory statements from public officials, including the Deputy Prime Minister, who made derogatory remarks about the Roma and called for the demolition of their homes. Local authorities swiftly issued demolition orders for buildings in the Roma neighbourhood, and several structures were razed. The applicants, displaced and unable to return home due to ongoing threats and lack of police protection, faced severe disruption to their family life, housing, and education of their children.\n\nThe European Court of Human Rights found violations of Article 8 (right to respect for private and family life) and Article 14 (prohibition of discrimination) of the Convention, ruling that the authorities had failed to protect the applicants from discriminatory treatment and had not taken adequate measures to safeguard their rights. The Court awarded non-pecuniary damages to the applicants. Notably, the judgment highlighted the role of official rhetoric and state action in exacerbating the applicants’ vulnerability and exclusion.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:39:42.847152+00:00"
+}

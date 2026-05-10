@@ -19,10 +19,11 @@
   "full_text_length": 66134,
   "fetched_at": "2026-04-26T18:34:26.474052+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a group of Roma individuals alleging segregation in education, with their Roma identity being legally relevant to the discrimination claim under Article 14 and Protocol 1-2, and it is represented by the European Roma Rights Centre, indicating a substantive Roma dimension.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:46:26.258415+00:00",
+  "filtered_at": "2026-05-10T18:20:16.190169+00:00",
   "summary": "In the case of Elmazova and Others v. North Macedonia, the applicants, 87 Macedonian citizens of Roma origin, alleged discrimination in education. The case centered on the segregation of Roma pupils in two state-run primary schools in Bitola and Shtip, North Macedonia. The applicants claimed that Roma children were placed in predominantly Roma schools or classes, while ethnic Macedonian children attended different schools or classes, leading to educational inequality. The European Court of Human Rights found a violation of Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 1 (right to education) of the European Convention on Human Rights. The Court ruled that the segregation was not objectively justified and ordered North Macedonia to take measures to end this practice. This case is significant as it highlights ongoing issues of educational segregation faced by Roma communities in Europe, reflecting historical patterns of discrimination and marginalization. The Court's decision underscores the need for states to actively combat segregation and promote equal access to education for all ethnic groups, reinforcing the importance of desegregation measures in achieving social inclusion and integration.",
   "summary_generated_at": "2026-04-27T00:19:47.414463+00:00",
-  "refiltered_at": "2026-05-08T14:46:26.258415+00:00"
+  "refiltered_at": "2026-05-10T18:20:16.190169+00:00",
+  "summary_model": null
 }

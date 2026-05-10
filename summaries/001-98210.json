@@ -1,0 +1,27 @@
+{
+  "itemid": "001-98210",
+  "title": "CASE OF PARASKEVA TODOROVA v. BULGARIA - [English Translation] by European Roma Rights Centre \"ERRC\"",
+  "date": "2010-03-25",
+  "country": "BGR",
+  "importance": "2",
+  "articles": [
+    "6",
+    "6-1",
+    "14",
+    "14+6-1",
+    "41"
+  ],
+  "violations": [
+    "14+6-1",
+    "14",
+    "6",
+    "6-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Art. 14+6-1;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2010:0325JUD003719307",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-98210",
+  "summary": "In the case of Paraskeva Todorova v. Bulgaria, the applicant, Ms. Paraskeva Todorova, is a Bulgarian citizen of Roma origin living in the village of Trud, Plovdiv region. The case highlights the vulnerability of Roma and Travellers to discriminatory treatment within the criminal justice system, particularly when courts rely on ethnic stereotypes in their reasoning. In 2005, Ms. Todorova was prosecuted for fraud involving the alleged appropriation of money and jewellery from a local resident. Despite presenting an alibi and medical evidence, she was convicted by the Plovdiv District Court in May 2006 and sentenced to three years’ imprisonment. Notably, the court explicitly referenced her Roma origin in its judgment and justified the refusal to suspend her sentence by invoking a supposed “feeling of impunity, especially among members of minority groups,” suggesting that conditional sentences were ineffective for Roma. The European Court of Human Rights examined the case under Article 6 (right to a fair trial) and Article 14 (prohibition of discrimination), finding a violation of Article 14 taken together with Article 6 § 1. The Court awarded Ms. Todorova non-pecuniary damages. This judgment is significant as it condemns the use of ethnic stereotypes in judicial decisions and affirms the right of Roma and Travellers to equal treatment before the law, against a backdrop of persistent discrimination in Europe’s courts.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:21:53.734873+00:00"
+}

@@ -19,8 +19,11 @@
   "full_text_length": 32297,
   "fetched_at": "2026-04-26T18:36:44.940181+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves Roma applicants facing forced eviction and demolition of their homes, with their Roma identity being legally relevant to the alleged violation of Article 8 and the claim of racial discrimination under Article 14, supported by third-party intervention from the European Roma Rights Centre.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:58:37.327823+00:00",
-  "refiltered_at": "2026-05-08T18:58:37.327823+00:00"
+  "filtered_at": "2026-05-10T18:36:59.733999+00:00",
+  "refiltered_at": "2026-05-10T18:36:59.733999+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

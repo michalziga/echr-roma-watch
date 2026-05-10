@@ -19,8 +19,11 @@
   "full_text_length": 66659,
   "fetched_at": "2026-04-26T18:36:24.657520+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a group of Romanian nationals identified as belonging to the Roma community, and their Roma identity is legally relevant to the violations of Articles 3 and 8 concerning their treatment during forced eviction and the lack of adequate housing, highlighting their vulnerability as a marginalized group.",
+  "filter_reason": "Institutional marker 'ERRC' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-08T18:45:47.454080+00:00",
-  "refiltered_at": "2026-05-08T18:45:47.454080+00:00"
+  "filtered_at": "2026-05-10T18:36:27.333681+00:00",
+  "refiltered_at": "2026-05-10T18:36:27.333681+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

@@ -1,0 +1,30 @@
+{
+  "itemid": "001-150648",
+  "title": "CASE OF CIORCAN AND OTHERS v. ROMANIA",
+  "date": "2015-01-27",
+  "country": "ROU",
+  "importance": "4",
+  "articles": [
+    "2",
+    "2-1",
+    "3",
+    "14",
+    "14+2"
+  ],
+  "violations": [
+    "2",
+    "2-1",
+    "3",
+    "14",
+    "14+2"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 14+2 - Prohibition of discrimination (Article 14 - Discrimination) (Article 2 - Right to life;Article 2-1 - Effective investigation)",
+  "ecli": "ECLI:CE:ECHR:2015:0127JUD002941409",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-150648",
+  "summary": "In the case of Ciorcan and Others v. Romania, thirty-seven Romanian nationals of Roma origin from the Apalina neighbourhood in Reghin brought a complaint against the Romanian state. The applicants, all identifying as Roma, alleged that they were subjected to excessive police violence and discriminatory treatment during a police operation. The case centred on the vulnerability of Roma communities to disproportionate use of force by law enforcement and the lack of effective investigations into such incidents, reflecting broader patterns of marginalisation.\n\nOn 7 September 2006, following a quarrel between a Roma resident and a police officer, a large contingent of police, including special forces, entered the Apalina neighbourhood to summon suspects. As residents, including women and children, gathered in the street, police used tear gas and fired shots—some into the crowd—resulting in over twenty-five Roma being injured, several seriously. Medical evidence confirmed gunshot wounds and life-threatening injuries among the applicants. Despite the gravity of the incident, the authorities failed to conduct an effective investigation into the use of force and the possible discriminatory motives behind the operation.\n\nThe European Court of Human Rights found violations of Article 2 (right to life), both substantively and procedurally, Article 3 (prohibition of inhuman or degrading treatment, procedural aspect), and Article 14 (prohibition of discrimination) in conjunction with Article 2. The Court emphasised the need for effective remedies and investigations in cases involving vulnerable minorities. This judgment is significant as it highlights the persistent risks faced by Roma and Traveller communities in Europe, particularly regarding police violence and the failure of states to protect their rights and dignity, against a backdrop of historical discrimination.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:30:25.477896+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "itemid": "001-86798",
+  "title": "CASE OF SAMPANIS AND OTHERS v. GREECE - [English Translation] by European Roma Rights Centre \"ERRC\"",
+  "date": "2008-06-05",
+  "country": "GRC",
+  "importance": "2",
+  "articles": [
+    "13",
+    "14",
+    "29",
+    "29-3",
+    "35",
+    "35-1",
+    "41",
+    "P1-2",
+    "14+P1-2"
+  ],
+  "violations": [
+    "13",
+    "14+P1-2",
+    "14",
+    "P1-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection joined to merits and dismissed (non-exhaustion of domestic remedies);Violation of Art. 13;Violation of Art. 14+P1-2;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2008:0605JUD003252605",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-86798",
+  "summary": "In Sampanis and Others v. Greece, the applicants were families of Romani origin living in the Psari area near Aspropyrgos, a municipality in western Attica. The case focused on the vulnerability of Romani children who faced systemic barriers to accessing mainstream primary education, highlighting the persistent exclusion and segregation experienced by Roma and Travellers in Greece. In 2004, despite efforts by Romani parents to enrol their children in local primary schools, school directors refused registration, citing a lack of instructions from the Ministry of Education. Instead, authorities proposed separate preparatory classes for Romani children, effectively segregating them from their non-Romani peers. The applicants, supported by human rights organisations, repeatedly sought intervention from national authorities, but their children remained excluded from ordinary classes.\n\nThe European Court of Human Rights examined the case under Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 1 (right to education), and Article 13 (right to an effective remedy). The Court found that Greece had violated these provisions by failing to ensure equal access to education and by not providing an effective remedy for the discrimination suffered. The applicants were awarded non-pecuniary damages.\n\nThis judgment is significant as it was among the first to address the segregation of Romani children in education in Greece, reinforcing the principle that Roma and Traveller children must have equal access to mainstream schooling, in line with broader European efforts to combat educational discrimination against these communities.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:19:43.882752+00:00"
+}

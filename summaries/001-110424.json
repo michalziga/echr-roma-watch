@@ -1,0 +1,20 @@
+{
+  "itemid": "001-110424",
+  "title": "COSTACHE v. ROMANIA",
+  "date": "2012-03-27",
+  "country": "ROU",
+  "importance": "4",
+  "articles": [
+    "3",
+    "8",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2012:0327DEC002561507",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-110424",
+  "summary": "In Costache v. Romania, the applicant, Mr. Mitică Costache, is a Romanian national of Roma origin living in Slobozia. His case highlighted the vulnerability of Roma and Travellers facing inadequate housing and the compounded difficulties experienced by those with severe health conditions. After suffering a stroke in 2005, Mr. Costache was left paralysed on one side and later diagnosed with chronic hepatitis, brain damage, and epilepsy. Unable to secure proper accommodation, he and his partner, C.C., lived for several years in a deserted horse stable lacking basic amenities such as water, electricity, and sanitation—conditions repeatedly documented by social services as unsuitable for human habitation.\n\nMr. Costache complained to the European Court of Human Rights that the authorities’ failure to provide adequate housing, given his health and vulnerability, amounted to inhuman and degrading treatment under Article 3 and a violation of his right to respect for private and family life under Article 8 of the European Convention on Human Rights. However, the Court ultimately found the application inadmissible, reasoning that Article 8 does not guarantee a right to housing and that the authorities had eventually provided social accommodation once it became available.\n\nThis case is significant as it underscores the persistent housing insecurity faced by Roma and Travellers in Europe, particularly those with disabilities, and clarifies the limited scope of positive obligations under the Convention regarding social housing, even amid ongoing marginalisation of Roma communities.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:21:03.418243+00:00"
+}

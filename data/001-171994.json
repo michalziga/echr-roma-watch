@@ -21,9 +21,10 @@
   "is_roma_related": "yes",
   "filter_reason": "8 non-citational Roma/Traveller identity mentions (incl. 4 unambiguous) found in full text — Roma relevance confirmed without LLM (Signal 1 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T14:29:20.601745+00:00",
-  "refiltered_at": "2026-05-09T14:29:20.601745+00:00",
+  "filtered_at": "2026-05-10T18:39:43.190960+00:00",
+  "refiltered_at": "2026-05-10T18:39:43.190960+00:00",
   "summary": null,
   "summary_model": null,
-  "summary_generated_at": null
+  "summary_generated_at": null,
+  "recheck_reason": "the applicant Ms. Mihaela Talpis is explicitly identified as a Moldovan national with no mention or implication of Roma or Traveller identity in the facts or Court's assessment."
 }

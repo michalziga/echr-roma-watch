@@ -1,0 +1,25 @@
+{
+  "itemid": "001-93532",
+  "title": "V.C. v. SLOVAKIA",
+  "date": "2009-06-16",
+  "country": "SVK",
+  "importance": "2",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "12",
+    "13",
+    "14",
+    "35",
+    "35-1"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Admissible",
+  "ecli": "ECLI:CE:ECHR:2009:0616DEC001896807",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-93532",
+  "summary": "In the case of V.C. v. Slovakia, the applicant, Ms. V.C., is a Slovak national of Roma origin living in Šarišská Poruba. Her case was brought against Slovakia, highlighting the specific vulnerabilities faced by Roma women in the healthcare system. The central harm in this case was the non-consensual sterilisation of Ms. V.C., a practice that has disproportionately affected Roma women and is rooted in a broader context of discrimination and marginalisation.\n\nOn 23 August 2000, while in labour with her second child at Prešov Hospital, Ms. V.C. was sterilised without her full and informed consent. During the final stages of labour and in considerable pain, she was told by medical staff that another pregnancy would be fatal for her or her baby. Under duress and without understanding the term \"sterilisation,\" she signed a form authorising the procedure. The operation was performed immediately after her Caesarean section. The medical records noted her Roma origin, and following the procedure, Ms. V.C. suffered significant psychological and social consequences, including ostracism from her community and the breakdown of her relationship.\n\nThe European Court of Human Rights examined the case under Articles 3 (prohibition of inhuman or degrading treatment), 8 (right to respect for private and family life), 12 (right to marry and found a family), 13 (right to an effective remedy), and 14 (prohibition of discrimination). The case was declared admissible, allowing the Court to consider whether Slovakia had violated these fundamental rights.\n\nThis case is significant as it addresses the legacy of forced sterilisation policies targeting Roma women in Central and Eastern Europe, reflecting a history of systemic discrimination. The Court’s scrutiny of such practices marks an important step in affirming the reproductive rights and dignity of Roma and Traveller women across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:20:32.757770+00:00"
+}

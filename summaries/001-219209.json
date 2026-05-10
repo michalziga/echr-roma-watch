@@ -1,0 +1,26 @@
+{
+  "itemid": "001-219209",
+  "title": "CASE OF Y.P. v. RUSSIA",
+  "date": "2022-09-20",
+  "country": "RUS",
+  "importance": "3",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "35",
+    "35-3-a",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Ratione materiae;Violation of Article 8 - Right to respect for private and family life (Article 8 - Positive obligations;Article 8-1 - Respect for private life);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2022:0920JUD004339913",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-219209",
+  "summary": "In Y.P. v. Russia, the applicant, a woman from Krasnoyarsk described in the judgment as living in a Roma settlement, brought a case against Russia after being sterilised without her informed consent. The case highlights the vulnerability of women from Roma settlements to medical interventions that disregard their autonomy and reproductive rights. In August 2008, while in her thirtieth week of pregnancy, the applicant was admitted to a municipal maternity hospital due to complications. She signed a consent form for a Caesarean section explicitly excluding sterilisation. During surgery, doctors discovered a uterine rupture and, after a panel discussion, decided to suture the uterus but also sealed her only remaining fallopian tube, effectively sterilising her. The applicant was not properly informed about the sterilisation or its consequences, and was even advised not to tell her husband. She only learned the full implications two years later when she was unable to conceive. The European Court of Human Rights found a violation of Article 8 (right to respect for private and family life), emphasising the lack of informed consent and the disregard for the applicant’s autonomy. The Court awarded her compensation for non-pecuniary damage. This judgment underscores the necessity of respecting patient autonomy, particularly for women from vulnerable communities, in medical decision-making.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:39:34.859843+00:00"
+}

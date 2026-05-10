@@ -1,0 +1,23 @@
+{
+  "itemid": "001-63485",
+  "title": "AFFAIRE ROMA c. ITALIE",
+  "date": "2000-11-07",
+  "country": "ITA",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6-1",
+    "41"
+  ],
+  "violations": [
+    "6",
+    "6-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation de l'art. 6-1;Dommage matériel - demande rejetée;Préjudice moral - réparation pécuniaire;Frais et dépens - demande rejetée",
+  "ecli": "ECLI:CE:ECHR:2000:1107JUD004588799",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-63485",
+  "summary": "In the case of Roma v. Italy, the applicant, Mr. Nicola Roma, brought proceedings against the Italian State. While the applicant’s surname is “Roma,” the judgment does not indicate that he belongs to any Roma or Traveller group as defined by the Council of Europe; rather, he is an individual creditor involved in a civil dispute. The case focused on the harm caused by excessive delays in civil proceedings, a problem that has affected many litigants in Italy. Mr. Roma initiated proceedings in 1989 to recover a debt from the municipality of Controne, Salerno. Despite an initial payment order, the municipality contested the claim, leading to a protracted trial before the Salerno tribunal. Over the next decade, the case was repeatedly postponed due to procedural delays, expert appointments, and administrative issues, with the final settlement only reached in April 2000—almost eleven years after the proceedings began.\n\nThe European Court of Human Rights examined the case under Article 6 § 1 of the European Convention on Human Rights, which guarantees the right to a fair trial within a reasonable time. The Court found a violation of this provision, noting that the length of the proceedings reflected a broader pattern of systemic delays in Italy. Mr. Roma was awarded 12,600,000 Italian lire for non-pecuniary damage, but his claims for material damages and legal costs were rejected. The judgment specifically highlights the aggravating circumstance of repeated failures by Italian courts to ensure timely justice.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:44:03.057285+00:00"
+}

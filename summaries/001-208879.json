@@ -1,0 +1,26 @@
+{
+  "itemid": "001-208879",
+  "title": "CASE OF M.B. AND OTHERS v. SLOVAKIA",
+  "date": "2021-04-01",
+  "country": "SVK",
+  "importance": "3",
+  "articles": [
+    "3",
+    "14",
+    "35",
+    "35-3-a",
+    "41"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Manifestly ill-founded;No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2021:0401JUD004532217",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-208879",
+  "summary": "In M.B. and Others v. Slovakia, the applicants—three young men from Košice, described in the judgment as living near a housing project mainly inhabited by Roma—brought a case against Slovakia concerning their treatment by police. The case focused on the applicants’ vulnerability as individuals from a Roma-populated area, alleging they were subjected to police violence and that their ethnicity was a factor in their ill-treatment.\n\nOn 21 March 2009, following an assault and robbery near their neighborhood, the applicants were apprehended by police. While being transported in a police car, they claimed that Officer J.C. struck each of them in the face with a gloved hand, causing injuries, in an attempt to extract information about the other assailants. The applicants later alleged that their Roma background contributed to their treatment. Although a separate, widely publicized incident of police abuse at the station occurred later that day, the Court’s examination was limited to the events in the police car.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination). The Court found no substantive violation of Article 3 regarding the alleged ill-treatment itself, but it did find a procedural violation of Article 3 due to the authorities’ failure to conduct an effective investigation into the applicants’ complaints. The applicants were awarded compensation for non-pecuniary damage. The judgment specifically noted concerns about the independence of police investigations into police misconduct, highlighting systemic shortcomings in Slovakia’s investigative procedures.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:37:43.042420+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "itemid": "001-248592",
+  "title": "CASE OF STALOVIĆ v. SERBIA",
+  "date": "2026-02-17",
+  "country": "SRB",
+  "importance": "4",
+  "articles": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Degrading treatment;Inhuman treatment;Effective investigation)",
+  "ecli": "ECLI:CE:ECHR:2026:0217JUD003578622",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-248592",
+  "summary": "In Stalović v. Serbia, the applicants were Mr. Marko Stalović, a Serbian national of Roma origin, and his wife, Ms. Sandra Stalović, an Austrian national. The case focused on racially motivated police ill-treatment and the failure of Serbian authorities to conduct an effective investigation, highlighting the vulnerability of Roma individuals to discriminatory abuse by law enforcement. On 21 April 2017, after reporting a car theft at the Mladenovac Police Station, the couple was subjected to polygraph testing and informal, unrecorded questioning at the Belgrade Police Directorate. Mr. Stalović alleged that he was forced to kneel, beaten, suffocated with a plastic bag, threatened with violence, and subjected to anti-Roma insults and threats regarding his children. Ms. Stalović reported threats, racist insults, and intimidation. Medical examinations shortly after the incident documented injuries and later diagnosed Mr. Stalović with PTSD. Despite their criminal complaint against eight police officers, the investigation was delayed, incomplete, and conducted by officers hierarchically superior to those implicated. The authorities dismissed key medical evidence and failed to address Ms. Stalović’s psychological ill-treatment. The European Court of Human Rights found violations of Article 3 (prohibition of torture and inhuman or degrading treatment) both substantively and procedurally, and Article 14 (prohibition of discrimination) in conjunction with Article 3. Notably, the Court criticised the lack of independence and thoroughness in the investigation, setting a precedent for addressing racially motivated police violence against Roma in Serbia.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:43:18.821465+00:00"
+}

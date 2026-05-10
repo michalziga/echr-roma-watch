@@ -1,0 +1,29 @@
+{
+  "itemid": "001-113119",
+  "title": "CASE OF FEDORCHENKO AND LOZENKO v. UKRAINE",
+  "date": "2012-09-20",
+  "country": "UKR",
+  "importance": "4",
+  "articles": [
+    "2",
+    "2-1",
+    "14",
+    "14+2"
+  ],
+  "violations": [
+    "2",
+    "2-1",
+    "14",
+    "14+2"
+  ],
+  "nonviolations": [
+    "2",
+    "2-1"
+  ],
+  "conclusion": "Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect);No violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);Violation of Article 14+2 - Prohibition of discrimination (Article 14 - Discrimination) (Article 2 - Right to life;Article 2-1 - Effective investigation)",
+  "ecli": "ECLI:CE:ECHR:2012:0920JUD000038703",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-113119",
+  "summary": "In the case of Fedorchenko and Lozenko v. Ukraine, the applicants, Mr. Fedorchenko and Ms. Lozenko, are members of the Roma community living in Ukraine. Their case brought to the European Court of Human Rights centred on the vulnerability of Roma families to violent attacks and the failure of state authorities to protect their lives and investigate such crimes effectively. On 28 October 2001, the applicants’ home was set on fire in an arson attack in the town of Novi Sanzghary. The first applicant survived with injuries, but five family members, including children, died as a result of the fire or from burns sustained. The applicants alleged that a police officer, Major I., was involved in the attack, motivated by extortion and previous threats, and that the authorities failed to conduct a thorough investigation, ignoring evidence and not questioning key witnesses.\n\nThe Court examined the case under Article 2 (right to life) and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. It found a violation of the procedural aspect of Article 2, as the investigation into the deaths was inadequate, and a violation of Article 14 in conjunction with Article 2, recognising that the authorities failed to take into account possible racist motives behind the attack. No violation was found regarding the substantive aspect of Article 2. The Court awarded the applicants compensation for non-pecuniary damage.\n\nThis judgment is significant as it highlights the persistent dangers faced by Roma and Traveller families in Europe and the historical failure of authorities to protect them or investigate crimes against them with due diligence and without discrimination.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:22:38.041107+00:00"
+}

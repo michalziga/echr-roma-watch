@@ -1,0 +1,24 @@
+{
+  "itemid": "001-185495",
+  "title": "CASE OF JANSEN v. NORWAY",
+  "date": "2018-09-06",
+  "country": "NOR",
+  "importance": "3",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for family life);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2018:0906JUD000282216",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-185495",
+  "summary": "In Jansen v. Norway, the applicant, Ms. Jansen, is a Norwegian national of Roma origin who brought a case against Norway concerning the removal of her daughter, A, from her care and the severe restrictions placed on their contact. The case highlighted the particular vulnerability of Roma and Traveller families to child welfare interventions, especially where cultural misunderstandings and stereotypes may influence decisions about parental capacity and family life. After A’s birth in 2011, Ms. Jansen, then 19, faced instability and violence within her family home, leading to repeated stays at a parent-child centre. Following incidents involving her father, including violence and threats, the Norwegian Child Welfare Service placed A in emergency foster care in June 2012, citing concerns about Ms. Jansen’s ability to protect her child and the risk of abduction by her family. Contact between mother and child was limited to supervised sessions, sometimes as little as one hour per month, with police presence. The European Court of Human Rights examined the case under Article 8 of the European Convention on Human Rights, which protects the right to respect for private and family life, and found that Norway had violated this right by failing to sufficiently consider less intrusive alternatives and the evolving circumstances of the applicant. The Court awarded Ms. Jansen non-pecuniary damages. This judgment is significant as it underscores the need for child welfare authorities to avoid disproportionate interference in Roma and Traveller family life, reflecting a broader European context of historical overrepresentation of Roma children in care systems.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:34:39.883529+00:00"
+}

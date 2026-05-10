@@ -19,8 +19,11 @@
   "full_text_length": 62606,
   "fetched_at": "2026-04-26T18:34:37.278182+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant's Roma identity is relevant to the alleged violation of Article 3, as she was subjected to degrading treatment and racial abuse by police officers who explicitly referred to her as a \"black bitch,\" indicating a discriminatory motive linked to her ethnic background.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicant was referred to as having been thought to be of Roma origin and was subjected to racially derogatory remarks, specifically the phrase \"black bitch\" in paragraph 6 of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T15:31:48.340383+00:00",
-  "refiltered_at": "2026-05-08T15:31:48.340383+00:00"
+  "filtered_at": "2026-05-10T18:20:35.545556+00:00",
+  "refiltered_at": "2026-05-10T18:20:35.545556+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

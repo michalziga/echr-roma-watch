@@ -19,10 +19,11 @@
   "full_text_length": 12279,
   "fetched_at": "2026-04-26T18:35:01.901392+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma individual as the first applicant, and the Court explicitly acknowledges the poorer response from police to complaints of gender-based violence against women of Roma ethnic origin, making their identity legally relevant to the violation of Article 3.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T16:05:52.925890+00:00",
+  "filtered_at": "2026-05-10T18:21:16.015448+00:00",
   "summary": "In the case of A.Ö. and H.Ö. v. Romania, the applicants, belonging to the Roma community, brought a case against Romania concerning the ineffective investigation of sexual abuse allegations. The case centers on the vulnerability of Roma children in state care, specifically the failure to protect a minor from sexual abuse. A.Ö., a 13-year-old girl, was allegedly sexually abused while in a privately run child-care home. Her father, H.Ö., lodged complaints in January 2019, but the investigation was closed due to contradictory statements and a miscalculation of the victim's age. The prosecutor concluded that no crime occurred as the victim was deemed over the age limit for the crime of sexual act with a minor. The European Court of Human Rights found a violation of Article 3, citing the lack of an effective investigation into the allegations. This case highlights systemic issues in protecting Roma children from abuse and ensuring effective legal recourse. Historically, Roma communities in Europe have faced discrimination and inadequate protection from authorities, making this judgment significant in addressing these ongoing vulnerabilities.",
   "summary_generated_at": "2026-04-27T00:21:41.787122+00:00",
-  "refiltered_at": "2026-05-08T16:05:52.925890+00:00"
+  "refiltered_at": "2026-05-10T18:21:16.015448+00:00",
+  "summary_model": null
 }

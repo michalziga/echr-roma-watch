@@ -1,0 +1,24 @@
+{
+  "itemid": "001-179040",
+  "title": "KOKKONIS AND CHALILOPOULOU v. GREECE",
+  "date": "2017-10-31",
+  "country": "GRC",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6-1",
+    "6-2",
+    "6-3",
+    "13",
+    "14",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2017:1031DEC007638611",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-179040",
+  "summary": "In Kokkonis and Chalilopoulou v. Greece, the applicants, Mr. Zois Kokkonis and Ms. Nikolitsa Chalilopoulou, a married couple from Patra, Greece, described themselves as being of Roma origin. Their case centered on alleged discrimination and procedural unfairness following their conviction for theft. On 7 January 2009, they were convicted in absentia by the Patras Court of First Instance and sentenced to twelve months’ imprisonment. After appealing, their hearing was adjourned once due to their lawyer’s absence, but on the rescheduled date—3 May 2011—neither the applicants nor their lawyer attended. The court proceeded to try them “as if present” and reduced their sentence to ten months. The applicants sought annulment of the proceedings, citing force majeure: Mr. Kokkonis had been hospitalized with acute illness, and Ms. Chalilopoulou was caring for him and their children. Their applications were dismissed as inadmissible, as Greek law only allowed annulment for those tried strictly in absentia, not “as if present.” Before the European Court of Human Rights, they argued violations of Articles 6 (fair trial), 13 (effective remedy), and 14 (non-discrimination), specifically referencing their Roma identity. The Court found the application inadmissible, holding that Article 6 did not apply to the annulment proceedings, and thus Articles 13 and 14 were also inapplicable. No remedies were awarded.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:48.456331+00:00"
+}

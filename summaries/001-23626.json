@@ -1,0 +1,24 @@
+{
+  "itemid": "001-23626",
+  "title": "GERGELY v. ROMANIA",
+  "date": "2003-12-09",
+  "country": "ROU",
+  "importance": "4",
+  "articles": [
+    "3",
+    "6",
+    "6-1",
+    "8",
+    "P1-1",
+    "13",
+    "14"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Partly inadmissible",
+  "ecli": "ECLI:CE:ECHR:2003:1209DEC005788500",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-23626",
+  "summary": "In the case of Gergely v. Romania, the applicant, Ms. Iren Gergely, is a Romanian national of Roma origin who lived in the hamlet of Caşinul Nou, Harghita County. Represented by the European Roma Rights Centre, Ms. Gergely brought her case against the Romanian state, highlighting the vulnerability of Roma and Travellers to collective violence and the failure of authorities to protect their rights. The case arose from a violent incident on 11 August 1990, when, following rising tensions and accusations against local Roma, a large group of non-Roma villagers attacked the Roma community. The attackers burned or destroyed Roma homes, including Ms. Gergely’s, leaving around 150 people homeless and forcing families, including Ms. Gergely and her four children, to flee for their lives. Despite criminal complaints and some witness statements identifying perpetrators, the authorities failed to conduct an effective investigation, repeatedly discontinuing proceedings and neglecting to identify those responsible. The European Court of Human Rights examined the case under several articles, including Article 3 (prohibition of inhuman or degrading treatment), Article 6 (right to a fair trial), Article 8 (right to respect for private and family life), Article 13 (right to an effective remedy), and Article 14 (prohibition of discrimination), but ultimately found the application partly inadmissible and did not establish a violation. This case remains significant as it highlights the persistent challenges Roma and Traveller communities face in seeking justice for ethnically motivated violence, reflecting a broader historical pattern of impunity and marginalisation in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:39:42.423656+00:00"
+}

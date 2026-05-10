@@ -19,10 +19,11 @@
   "full_text_length": 84630,
   "fetched_at": "2026-04-26T18:33:11.249693+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma applicant, B.T., whose identity is explicitly stated, and the violation of Article 8 concerning the right to respect for family life is directly linked to her Roma background, highlighting systemic discrimination in child protection measures against Roma families in Hungary.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T13:27:28.125165+00:00",
+  "filtered_at": "2026-05-10T18:17:46.972838+00:00",
   "summary": "In the case of B.T. and B.K.Cs. v. Hungary, the applicants, a Roma mother and her child, challenged the Hungarian authorities' decision to place the child in temporary State care immediately after birth. The case centered on the vulnerability of Roma families facing disproportionate interference in family life. The mother, B.T., had her newborn son, B.K.Cs., removed based on her past conduct and living conditions, despite improvements noted by authorities. The decision was made without adequately involving the mother or considering the family's current situation. The European Court of Human Rights found a violation of Article 8, which protects the right to respect for private and family life, due to the authorities' failure to conduct a genuine balancing exercise and their disproportionate interference. The Court awarded non-pecuniary damages under Article 41. This case highlights ongoing issues of systemic discrimination against Roma families in Europe, where historical prejudices often lead to unjustified separations of Roma children from their families, reflecting broader patterns of marginalization and exclusion faced by Roma communities.",
   "summary_generated_at": "2026-04-27T00:16:07.548859+00:00",
-  "refiltered_at": "2026-05-08T13:27:28.125165+00:00"
+  "refiltered_at": "2026-05-10T18:17:46.972838+00:00",
+  "summary_model": null
 }

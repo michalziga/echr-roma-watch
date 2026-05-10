@@ -1,0 +1,25 @@
+{
+  "itemid": "001-220672",
+  "title": "CASE OF BAKIRDZI AND E.C. v. HUNGARY",
+  "date": "2022-11-10",
+  "country": "HUN",
+  "importance": "3",
+  "articles": [
+    "14",
+    "14+P1-3",
+    "41",
+    "P1-3"
+  ],
+  "violations": [
+    "14",
+    "14+P1-3",
+    "P1-3"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 14+P1-3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 of Protocol No. 1 - Right to free elections-{general};Elections by secret ballot;Free expression of the opinion of the people;Stand for election);Non-pecuniary damage - finding of violation sufficient (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2022:1110JUD004963614",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-220672",
+  "summary": "In Bakirdzi and E.C. v. Hungary, the applicants—Ms. K. Bakirdzi, of Greek national minority background, and E.C., of Armenian national minority background—challenged Hungary’s system for parliamentary representation of national minorities. While neither applicant belonged to the Roma or Traveller communities, the case is relevant for all recognised minorities, including Roma, as Hungary’s electoral law applies the same rules to each group. The applicants argued that the system, introduced in 2014, effectively excluded minority voters from meaningful participation: once registered as minority voters, individuals could only vote for a single, closed list of candidates submitted by their own minority’s self-government, with no influence over candidate selection or order, and were barred from voting for national party lists. In the 2014 elections, none of the thirteen recognised minorities—including the Roma, who had over 14,000 registered voters—were able to reach the preferential threshold required for a parliamentary seat, leaving minority voters without effective representation.\n\nThe European Court of Human Rights examined the case under Article 3 of Protocol No. 1 (right to free elections) and Article 14 (prohibition of discrimination). It found that the system discriminated against minority voters by restricting their electoral choices and failing to ensure genuine representation, in violation of both articles. The Court held that the finding of a violation constituted sufficient just satisfaction for non-pecuniary damage. This judgment is significant for its explicit recognition that Hungary’s minority voting system, as applied, failed to provide real and effective political participation for national minorities.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:39:53.600543+00:00"
+}

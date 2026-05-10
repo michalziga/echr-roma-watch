@@ -1,0 +1,26 @@
+{
+  "itemid": "001-59155",
+  "title": "CASE OF BEARD v. THE UNITED KINGDOM",
+  "date": "2001-01-18",
+  "country": "GBR",
+  "importance": "2",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "14",
+    "36",
+    "36-2"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "14"
+  ],
+  "conclusion": "No violation of Art. 8;No violation of Art. 14",
+  "ecli": "ECLI:CE:ECHR:2001:0118JUD002488294",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-59155",
+  "summary": "In the case of Beard v. the United Kingdom, the applicants, Mr. and Mrs. Beard, identified as Gypsies by birth and long-standing members of the Roma and Traveller community, brought a complaint against the United Kingdom. Their case centred on the vulnerability of Roma and Traveller families who, due to their traditional nomadic lifestyle, face significant barriers in securing lawful sites for their caravans, often resulting in forced evictions and instability. In 1986, the Beards purchased a plot of land in Lancashire with the intention of establishing a small family caravan site. After cleaning up the land, they moved onto it in August 1991 and applied for planning permission, which was refused on grounds of highway safety and visual impact. Despite appeals, the authorities issued an enforcement notice requiring them to vacate the land, and the Beards were ultimately forced to leave, becoming homeless and unable to find suitable alternative accommodation.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life) and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found no violation of either article, concluding that the planning controls pursued legitimate aims and that the authorities had sufficiently considered the applicants’ circumstances. No remedies were awarded. This case is significant as it highlights the persistent challenges faced by Roma and Traveller communities in accessing secure accommodation, reflecting broader historical patterns of exclusion and the ongoing tension between planning law and minority rights in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:06:19.460449+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "itemid": "001-66841",
+  "title": "CASE OF MOLNAR v. HUNGARY",
+  "date": "2004-10-05",
+  "country": "HUN",
+  "importance": "4",
+  "articles": [
+    "29",
+    "29-3",
+    "41",
+    "6",
+    "6-1",
+    "13"
+  ],
+  "violations": [
+    "6",
+    "6-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Art. 6-1 with regard to the length of the proceedings;Inadmissible under Art. 6-1 with regard to the fairness of the proceedings, Art. 13 and 14;Pecuniary damage - claim dismissed;Non-pecuniary damage - financial award;Costs and expenses award - domestic proceedings;Costs and expenses award - Convention proceedings",
+  "ecli": "ECLI:CE:ECHR:2004:1005JUD002259202",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-66841",
+  "summary": "In the case of Molnar v. Hungary, the applicant, Ms. Molnar, a member of the Roma ethnic minority, brought a complaint against Hungary concerning the excessive length of civil proceedings. The case highlighted the particular vulnerability of Roma and Travellers, who often face systemic barriers in accessing justice and timely legal remedies. Ms. Molnar, born in 1943 and residing in Budapest, initiated legal action on 3 October 1996 to have a flat she had purchased vacated. However, the proceedings became entangled in a parallel dispute over the validity of the sale contract, leading to repeated suspensions and delays. Despite her efforts to resolve administrative obstacles—such as the misplacement of the original contract by the authorities—the case remained unresolved for nearly eight years, with the courts failing to deliver a timely decision.\n\nThe European Court of Human Rights examined the case under Article 6 § 1 of the European Convention on Human Rights, which guarantees the right to a hearing within a reasonable time. The Court found a violation of this provision, noting that the length of the proceedings was excessive and unjustified. Ms. Molnar was awarded €6,000 for non-pecuniary damage and €392 for costs and expenses. This judgment is significant as it reaffirms the right of Roma and Traveller individuals to timely justice, addressing a persistent issue of judicial delay that has historically affected these communities across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:08:32.880399+00:00"
+}

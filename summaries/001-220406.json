@@ -1,0 +1,22 @@
+{
+  "itemid": "001-220406",
+  "title": "HYSENAJ v. ALBANIA",
+  "date": "2022-09-27",
+  "country": "ALB",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6-1",
+    "13",
+    "14",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2022:0927DEC007896111",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-220406",
+  "summary": "In the case of Hysenaj v. Albania, the applicant, Ms. Xhevrije Hysenaj, an Albanian national of Roma origin, brought a complaint against the Republic of Albania. The case focused on the vulnerability of Roma individuals in accessing justice, particularly when their rights as victims are at stake. In February 2011, Ms. Hysenaj’s home in Tirana was set on fire by two individuals, B.V. and D.V. Although the authorities opened a criminal investigation and Ms. Hysenaj requested to be kept informed and to lodge a civil claim, she was not notified about the progress of the case or the trial. The accused were convicted and sentenced to four months’ imprisonment, but Ms. Hysenaj only learned of the judgment after the trial had concluded, effectively preventing her from participating or seeking compensation within those proceedings.\n\nMs. Hysenaj argued that this failure violated her right of access to a court under Article 6, as well as her rights under Articles 13 and 14 of the European Convention on Human Rights, alleging discrimination based on her Roma origin. However, the European Court of Human Rights found the application inadmissible, noting that Ms. Hysenaj could have pursued a separate civil claim for compensation regardless of the criminal proceedings. No violation was found, and no remedies were awarded.\n\nThis case highlights the procedural barriers Roma and Traveller individuals may face in seeking justice, but also clarifies the Court’s approach to access to court claims. It reflects ongoing challenges for Roma communities in Europe, who have historically encountered obstacles in securing equal treatment before the law.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:37:58.696489+00:00"
+}

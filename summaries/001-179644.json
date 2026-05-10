@@ -1,0 +1,21 @@
+{
+  "itemid": "001-179644",
+  "title": "NATIONALDEMOKRATISCHE PARTEI DEUTSCHLANDS (NPD) v. GERMANY",
+  "date": "2017-11-21",
+  "country": "DEU",
+  "importance": "4",
+  "articles": [
+    "10",
+    "10-1",
+    "10-2",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2017:1121DEC003705417",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-179644",
+  "summary": "In the case of Nationaldemokratische Partei Deutschlands (NPD) v. Germany, the applicant was the National Democratic Party of Germany, a political party, which is not a member of the Roma or Traveller communities as defined by the Council of Europe. The case did, however, centre on harm directed at Roma and Sinti, as the NPD’s press release promoted negative stereotypes about the immigration of Sinti and Roma from Bulgaria and Romania, alleging welfare abuse and high crime rates—claims that perpetuate stigma and discrimination against these groups. \n\nThe events unfolded in May 2014, during the campaign for the European Parliament elections. The NPD published a press release on its website announcing a panel discussion on “immigration of Sinti and Roma,” naming several public figures as participants without their consent. The venue was falsely advertised, and the individuals named, including the chairperson of the Central Council of German Sinti and Roma, had not agreed to participate. After requests to cease using their names were ignored, legal action was taken, resulting in a court injunction against the NPD.\n\nThe European Court of Human Rights examined the case under Article 10 (freedom of expression) but found the application inadmissible. The Court held that the German courts had struck a fair balance between the NPD’s freedom of expression and the protection of the reputation and rights of others, particularly those targeted by the press release.\n\nThis case is significant as it highlights the ongoing challenges Roma and Sinti face regarding harmful public discourse and the importance of legal protections against the spread of discriminatory narratives, especially in the context of political campaigning in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:03:27.874258+00:00"
+}

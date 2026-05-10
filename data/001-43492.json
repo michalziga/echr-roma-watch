@@ -21,6 +21,9 @@
   "is_roma_related": "yes",
   "filter_reason": "The applicants are explicitly identified as \"d'origine tzigane\" in the statement of facts, indicating their Roma origin.",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-09T13:59:11.737147+00:00",
-  "refiltered_at": "2026-05-09T13:59:11.737147+00:00"
+  "filtered_at": "2026-05-10T19:33:52.164482+00:00",
+  "refiltered_at": "2026-05-10T19:33:52.164482+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

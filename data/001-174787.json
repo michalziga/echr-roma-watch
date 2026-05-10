@@ -19,8 +19,11 @@
   "full_text_length": 2821,
   "fetched_at": "2026-04-26T18:38:17.467356+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a complaint related to the death of a prisoner, with representation by the European Roma Rights Center, indicating a Roma identity dimension; the vulnerability of Roma in the context of prison conditions and treatment is relevant, particularly in the former Yugoslav Republic of Macedonia, where Roma communities face systemic discrimination.",
+  "filter_reason": "Condition 3 is met as the European Roma Rights Center is mentioned as the representative of the applicant's heir in the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T20:40:09.297061+00:00",
-  "refiltered_at": "2026-05-08T20:40:09.297061+00:00"
+  "filtered_at": "2026-05-10T18:39:16.422603+00:00",
+  "refiltered_at": "2026-05-10T18:39:16.422603+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

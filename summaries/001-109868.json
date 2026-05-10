@@ -1,0 +1,33 @@
+{
+  "itemid": "001-109868",
+  "title": "CASE OF KONSTANTIN MARKIN v. RUSSIA ",
+  "date": "2012-03-22",
+  "country": "RUS",
+  "importance": "1",
+  "articles": [
+    "8",
+    "8-1",
+    "14",
+    "14+8",
+    "34",
+    "35",
+    "37",
+    "37-1-b",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1",
+    "14",
+    "14+8"
+  ],
+  "nonviolations": [
+    "34"
+  ],
+  "conclusion": "Preliminary objection dismissed (Article 34 - Victim);Preliminary objection dismissed (Article 37-1-b - Matter resolved);Remainder inadmissible;Violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8-1 - Respect for family life;Article 8 - Right to respect for private and family life);No violation of Article 34 - Individual applications (Article 34 - Hinder the exercise of the right of petition);Non-pecuniary damage - award;Pecuniary damage - claim dismissed",
+  "ecli": "ECLI:CE:ECHR:2012:0322JUD003007806",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-109868",
+  "summary": "The case of Konstantin Markin v. Russia concerned Mr. Markin, a Russian national and military serviceman, who sought three years’ parental leave to care for his three children after his divorce in 2005. The applicant, who is not identified as belonging to the Roma or Traveller communities, became the sole carer for his children when his former wife moved to St Petersburg. When Mr. Markin requested parental leave from his military unit, his request was denied on the grounds that, under Russian law, only female military personnel were entitled to such leave. He was granted a short period of leave but was soon recalled to duty, prompting him to challenge the decision in Russian courts, which ultimately upheld the restriction.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life) and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found that denying parental leave to male servicemen, while granting it to servicewomen, constituted unjustified gender discrimination and violated Article 14 in conjunction with Article 8. The Court awarded Mr. Markin compensation for non-pecuniary damage.\n\nThis judgment is significant for its clear stance that states must avoid gender-based discrimination in parental leave policies, even within the context of military service, and that the special status of the armed forces does not justify blanket exclusions based on sex.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:13.434660+00:00"
+}

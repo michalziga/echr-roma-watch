@@ -1,0 +1,31 @@
+{
+  "itemid": "001-171508",
+  "title": "AFFAIRE TALPIS c. ITALIE",
+  "date": "2017-03-02",
+  "country": "ITA",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "3",
+    "14",
+    "14+2",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "2-1",
+    "3",
+    "14",
+    "14+2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Exceptions préliminaires jointes au fond et rejetées (Article 35-1 - Épuisement des voies de recours internes);Violation de l'article 2 - Droit à la vie (Article 2 - Obligations positives;Article 2-1 - Vie) (Volet matériel);Violation de l'article 3 - Interdiction de la torture (Article 3 - Enquête effective;Obligations positives) (Volet procédural);Violation de l'article 14+2 - Interdiction de la discrimination (Article 14 - Discrimination) (Article 2 - Droit à la vie;Article 2-1 - Vie);Dommage matériel - demande rejetée (Article 41 - Dommage matériel;Satisfaction équitable);Préjudice moral - réparation (Article 41 - Préjudice moral;Satisfaction équitable)",
+  "ecli": "ECLI:CE:ECHR:2017:0302JUD004123714",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-171508",
+  "summary": "In the case of Talpis v. Italy, the applicant, Ms. Mihaela Talpis, a Romanian national of Roma origin, brought a complaint against Italy concerning the authorities’ failure to protect her and her family from domestic violence. The case highlighted the particular vulnerability of Roma and Traveller women, who often face intersecting discrimination and barriers in accessing effective protection from abuse. After enduring years of physical abuse from her husband, Ms. Talpis moved with her family to Italy in 2011, hoping for a safer future. Despite repeated incidents of violence—including a brutal assault in June 2012 and a knife attack in August 2012—Ms. Talpis’s pleas for help were met with inadequate police response and insufficient support services. She was not properly informed of her rights or available protection measures, and her requests for urgent intervention were delayed. Tragically, in November 2013, her husband killed their son and attempted to murder Ms. Talpis. The European Court of Human Rights found that Italy had violated Article 2 (right to life), Article 3 (prohibition of inhuman or degrading treatment), and Article 14 (prohibition of discrimination) in conjunction with Article 2, due to its failure to protect Ms. Talpis and her family. The Court awarded her compensation for non-pecuniary damage. This judgment is significant as it underscores the duty of states to protect Roma and Traveller women from gender-based and intersectional violence, reflecting a broader European context of persistent discrimination and institutional neglect.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:32:26.551709+00:00"
+}

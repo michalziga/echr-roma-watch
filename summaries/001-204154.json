@@ -1,0 +1,29 @@
+{
+  "itemid": "001-204154",
+  "title": "CASE OF R.R. AND R.D. v. SLOVAKIA",
+  "date": "2020-09-01",
+  "country": "SVK",
+  "importance": "3",
+  "articles": [
+    "3",
+    "14",
+    "14+3",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation);No violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Degrading treatment;Inhuman treatment);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2020:0901JUD002064918",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-204154",
+  "summary": "In R.R. and R.D. v. Slovakia, the applicants, R.R. and R.D., are members of the Roma community living in Moldava nad Bodvou, a town in eastern Slovakia with a significant Roma population. The case centers on a police operation conducted on 19 June 2013 in their neighborhood, which the applicants argued was a form of collective punishment and retaliation following an earlier altercation between local Roma residents and police. During the operation, both applicants alleged that police officers forcibly entered their homes, subjected them to physical violence—including beatings with batons and, in R.R.’s case, the use of an electroshock weapon—and humiliated them, causing injuries and severe distress. Medical reports confirmed injuries consistent with their accounts.\n\nDespite the seriousness of these allegations, the authorities’ investigation into the incident was found to be inadequate and ineffective. The European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found that both applicants had suffered inhuman and degrading treatment at the hands of the police, and that the authorities had failed to conduct an effective investigation. Importantly, the Court also found a violation of Article 14 in conjunction with Article 3, recognizing that the applicants’ Roma ethnicity was a factor in their ill-treatment and the lack of proper investigation. The Court awarded non-pecuniary damages to both applicants. This judgment is significant for its explicit acknowledgment of ethnic discrimination as a central element in police violence and investigative failures against Roma individuals in Slovakia.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:36:47.894708+00:00"
+}

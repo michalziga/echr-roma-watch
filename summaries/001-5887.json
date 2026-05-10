@@ -1,0 +1,24 @@
+{
+  "itemid": "001-5887",
+  "title": "CLARK AND OTHERS v. THE UNITED KINGDOM",
+  "date": "2001-05-22",
+  "country": "GBR",
+  "importance": "4",
+  "articles": [
+    "P1-1",
+    "P1-1-1",
+    "P1-2",
+    "8",
+    "8-2",
+    "8-1",
+    "14"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2001:0522DEC002857595",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-5887",
+  "summary": "In Clark and Others v. the United Kingdom, the applicants—Susan Clark, Fred Clark, Claudine Clark, Yvonne Clark, Irene Clark, and Clara Cartwright—were members of the Roma and Traveller community living in Braintree, Essex. Their case highlighted the vulnerability of Roma and Traveller families facing eviction and criminal penalties due to planning laws that restrict their ability to live according to their traditional way of life. In 1993, after being forced to leave a previous site, the applicants purchased land and stationed their caravans there, seeking retrospective planning permission for a residential caravan site for seven families. The local council refused permission, citing harm to the rural landscape and road safety concerns, and issued enforcement notices requiring the applicants to vacate the land. Despite appeals and efforts to find alternative sites, the applicants were ultimately convicted for failing to comply with the enforcement notices and fined.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life), Article 14 (prohibition of discrimination), and Article 1 of Protocol No. 1 (protection of property). The Court found the application inadmissible, referencing its earlier decision in Buckley v. the United Kingdom and concluding that the planning authorities had sufficiently considered the applicants’ interests within the existing legal framework.\n\nThis case is significant as it reflects the persistent challenges Roma and Traveller communities face in securing lawful accommodation in Europe, at a time when planning policies often failed to accommodate their cultural needs and contributed to their marginalisation.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:06:01.543452+00:00"
+}

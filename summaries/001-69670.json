@@ -1,0 +1,39 @@
+{
+  "itemid": "001-69670",
+  "title": "CASE OF MOLDOVAN AND OTHERS  v. ROMANIA (No. 2)",
+  "date": "2005-07-12",
+  "country": "ROU",
+  "importance": "1",
+  "articles": [
+    "1",
+    "3",
+    "6",
+    "6-1",
+    "8",
+    "8-1",
+    "14+6",
+    "14",
+    "14+8",
+    "35",
+    "35-3"
+  ],
+  "violations": [
+    "8",
+    "3",
+    "6",
+    "6-1",
+    "14+6",
+    "14",
+    "14+8"
+  ],
+  "nonviolations": [
+    "6",
+    "6-1"
+  ],
+  "conclusion": "Violation of Art. 8;Violation of Art. 3;No violation of Art. 6-1 (access to court);Violation of Art. 6-1 (length of proceedings);Violation of Art. 14+6;Violation of Art. 14+8;Pecuniary damage - financial award;Non-pecuniary damage - financial award",
+  "ecli": "ECLI:CE:ECHR:2005:0712JUD004113898",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-69670",
+  "summary": "In Moldovan and Others v. Romania (No. 2), the applicants were Romanian nationals of Roma origin who had lived in the village of Hădăreni, Mureş district. Their case highlighted the acute vulnerability of Roma and Traveller communities to racially motivated violence and the failure of state authorities to protect them. On 20 September 1993, following a fatal altercation in a village bar, a mob of non-Roma villagers, joined by local police officers, attacked Roma residents. Three Roma men were killed—two beaten to death and one burned alive—while the mob, with police complicity, destroyed thirteen Roma homes and property. Many Roma families, including the applicants, were left homeless, and some were forced to flee the village or live in dire conditions for years. Despite clear evidence, the authorities failed to properly investigate or prosecute those responsible, particularly among the police, and the reconstruction of homes was inadequate and marred by mismanagement.\n\nThe European Court of Human Rights found violations of Article 3 (prohibition of inhuman or degrading treatment), Article 8 (right to respect for private and family life), Article 6 (right to a fair trial, specifically the excessive length of proceedings), and Article 14 (prohibition of discrimination) in conjunction with Articles 6 and 8. The Court awarded both pecuniary and non-pecuniary damages to the applicants. This landmark judgment is significant as it exposed the systemic discrimination and violence faced by Roma and Traveller communities in post-communist Romania, setting a precedent for state accountability in protecting minority rights across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:10:11.903262+00:00"
+}

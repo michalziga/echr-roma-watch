@@ -1,0 +1,22 @@
+{
+  "itemid": "001-220517",
+  "title": "CASE OF SLÁDKOVÁ v. THE CZECH REPUBLIC",
+  "date": "2022-11-10",
+  "country": "CZE",
+  "importance": "4",
+  "articles": [
+    "3"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment)",
+  "ecli": "ECLI:CE:ECHR:2022:1110JUD001574115",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-220517",
+  "summary": "In the case of Sládková v. the Czech Republic, the applicant, Ms. Sládková, a woman perceived by police officers as being of Roma origin, brought a complaint against the Czech Republic. The case focused on the vulnerability of Roma and Traveller individuals to racially motivated police abuse and the failure of authorities to investigate such incidents effectively. On 18 February 2013, while intoxicated in a Prague restaurant, Ms. Sládková was arrested following an altercation and taken to the Nové Město police station. There, she was handcuffed, her legs tied, and she was subjected to rough treatment, including choking, racial insults such as “black bitch,” and sexually degrading remarks. Despite her disability and requests for medication, officers denied her anxiolytics and continued to threaten and insult her during her transfer the next day. Medical examinations documented bruises and psychological trauma.\n\nThe European Court of Human Rights examined the case under Article 3 of the European Convention on Human Rights, which prohibits torture and inhuman or degrading treatment. The Court found a violation of Article 3 due to the authorities’ failure to conduct an effective investigation into Ms. Sládková’s allegations but did not find that the substantive threshold for inhuman or degrading treatment was met. This judgment is significant as it highlights the persistent risks of police mistreatment and inadequate investigations faced by Roma and Traveller communities in Europe, reflecting a broader historical pattern of institutional discrimination.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:38:04.905299+00:00"
+}

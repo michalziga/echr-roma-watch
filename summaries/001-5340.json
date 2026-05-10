@@ -1,0 +1,27 @@
+{
+  "itemid": "001-5340",
+  "title": "ANGUELOVA v. BULGARIA",
+  "date": "2000-06-06",
+  "country": "BGR",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "3",
+    "5",
+    "5-1",
+    "13",
+    "14",
+    "34",
+    "35",
+    "35-1"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Admissible",
+  "ecli": "ECLI:CE:ECHR:2000:0606DEC003836197",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-5340",
+  "summary": "In Anguelova v. Bulgaria, the applicant, Ms. Anguelova, a Bulgarian national of Roma origin, brought a case against Bulgaria following the death of her 17-year-old son, Anguel Zabchekov, who was also Roma. The case highlighted the vulnerability of Roma and Travellers to police mistreatment and inadequate investigations, particularly when ethnic bias is alleged to play a role in state responses to deaths in custody. On 29 January 1996, Anguel Zabchekov died after several hours in police custody in Razgrad, Bulgaria, following his arrest for attempted theft. Witnesses confirmed that he was in good health before his arrest, but he died soon after being apprehended by an off-duty police officer. The authorities concluded that his death was due to an accidental injury predating his arrest, a finding contested by his mother, who also pointed to the use of ethnic slurs by police and alleged that her son’s Roma identity influenced the officers’ actions and the subsequent investigation.\n\nThe European Court of Human Rights examined alleged violations of Articles 2 (right to life), 3 (prohibition of inhuman or degrading treatment), 5 (right to liberty and security), 13 (right to an effective remedy), and 14 (prohibition of discrimination) of the European Convention on Human Rights. The case was declared admissible, allowing the Court to proceed to a full examination of the merits. This case is significant as it addresses the persistent issue of police violence and impunity affecting Roma and Travellers in Europe, reflecting a broader historical context of systemic discrimination and the urgent need for effective protection of minority rights.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:05:04.501089+00:00"
+}

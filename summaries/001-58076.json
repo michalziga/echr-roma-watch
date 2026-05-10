@@ -1,0 +1,28 @@
+{
+  "itemid": "001-58076",
+  "title": "CASE OF BUCKLEY v. THE UNITED KINGDOM",
+  "date": "1996-09-25",
+  "country": "GBR",
+  "importance": "2",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "14",
+    "10",
+    "10-1",
+    "14+8"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "14+8",
+    "14"
+  ],
+  "conclusion": "No violation of Art. 8;No violation of Art. 14+8",
+  "ecli": "ECLI:CE:ECHR:1996:0925JUD002034892",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-58076",
+  "summary": "In the case of Buckley v. the United Kingdom, the applicant, Mrs. Jane Buckley, a British citizen identifying as a Gypsy and thus part of the broader Roma and Traveller communities, brought a complaint against the United Kingdom. The case focused on the vulnerability of Roma and Traveller individuals facing difficulties in securing lawful accommodation for their traditional way of life, particularly due to restrictive planning laws and enforcement actions that disproportionately affect their ability to live in caravans.\n\nMrs. Buckley and her children had lived in caravans on land she owned in Willingham, Cambridgeshire, a practice consistent with her family’s longstanding Gypsy heritage. In 1989, she applied retrospectively for planning permission to station her caravans on her land but was refused by the local council, which cited overprovision of Gypsy sites, landscape protection, and road safety concerns. An enforcement notice was issued, requiring her to remove the caravans. Despite appeals, the authorities maintained their position, leaving Mrs. Buckley at risk of eviction and unable to lawfully continue her traditional lifestyle.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life and home) and Article 14 (prohibition of discrimination), but ultimately found no violation. The Court concluded that the interference with Mrs. Buckley’s home was justified in the interests of environmental protection and planning control, and that the procedures had been fair. This case is significant as it highlights the persistent challenges faced by Roma and Traveller communities in Europe regarding accommodation rights, reflecting a broader historical context of marginalisation and legal obstacles to their traditional ways of life.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:05:32.760963+00:00"
+}

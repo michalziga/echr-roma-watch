@@ -1,0 +1,26 @@
+{
+  "itemid": "001-63725",
+  "title": "AFFAIRE BEARD c. ROYAUME-UNI",
+  "date": "2001-01-18",
+  "country": "GBR",
+  "importance": "2",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "14",
+    "36",
+    "36-2"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "14"
+  ],
+  "conclusion": "Non-violation de l'art. 8;Non-violation de l'art. 14",
+  "ecli": "ECLI:CE:ECHR:2001:0118JUD002488294",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-63725",
+  "summary": "In Beard v. the United Kingdom, the applicants, Mr. and Mrs. Beard, identified as Gypsies (a term included within the Council of Europe’s definition of Roma and Travellers), brought a case against the United Kingdom. The heart of the case was the vulnerability of Roma and Traveller families who, due to planning restrictions, face obstacles in maintaining their traditional way of life—specifically, living in caravans on land they own. The Beards, after years of moving between official and unofficial sites in Lancashire, purchased a plot of land in 1986 to establish a permanent family base. In 1991, they settled on this land and applied for planning permission to station six caravans. Their application was refused on grounds of landscape protection and road safety, and they were fined for illegal occupation, ordered to remove their caravans, and required to restore the land.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life and home) and Article 14 (prohibition of discrimination). The Court acknowledged that living in caravans is integral to the applicants’ identity as Gypsies and that the planning decisions interfered with their rights. However, it found no violation of either Article 8 or Article 14, concluding that the interference was justified by legitimate planning considerations and was proportionate.\n\nThis case is significant as it highlights the ongoing tension between the rights of Roma and Traveller communities to preserve their traditional lifestyles and the enforcement of planning laws in Europe. It reflects the historical challenges faced by Roma and Travellers in securing legal recognition and accommodation for their way of life.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:08:11.275875+00:00"
+}

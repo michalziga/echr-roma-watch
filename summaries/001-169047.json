@@ -1,0 +1,20 @@
+{
+  "itemid": "001-169047",
+  "title": "CASE OF V.M. AND OTHERS v. BELGIUM",
+  "date": "2016-11-17",
+  "country": "BEL",
+  "importance": "2",
+  "articles": [
+    "37",
+    "37-1",
+    "37-1-c"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Struck out of the list (Article 37-1 - Striking out applications;Article 37-1-c - Continued examination not justified)",
+  "ecli": "ECLI:CE:ECHR:2016:1117JUD006012511",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-169047",
+  "summary": "In V.M. and Others v. Belgium, the applicants were a family from Serbia, including several children, who had spent most of their lives in Serbia before seeking asylum in France and later in Belgium. The family, described in the judgment as having stayed at Place Gaucheret in Brussels “where other Roma families were staying,” were thus implied to be from a Roma settlement. Their case centered on the vulnerability of Roma families facing exclusion from asylum reception facilities and the risk of destitution during asylum proceedings.\n\nAfter unsuccessful asylum applications in France, the family arrived in Belgium in March 2011 and were placed in a reception centre. Belgian authorities, applying the Dublin II Regulation, sought to transfer them back to France, which eventually agreed to accept them. The applicants challenged this decision, citing poor reception conditions previously experienced in France and the health needs of their disabled daughter. Following the expiry of their leave to remain, the family was excluded from their Belgian reception centre and spent several days in precarious conditions in Brussels.\n\nThe European Court of Human Rights ultimately struck the case out of its list under Article 37(1)(a) of the Convention, as the applicants had lost contact with their lawyer and were deemed no longer interested in pursuing the application. The Court found no evidence that the loss of contact was due to actions by the Belgian authorities or to the applicants’ precarious living conditions. No violation was found, and no remedies were awarded.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:37.089553+00:00"
+}

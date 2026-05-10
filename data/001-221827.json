@@ -19,8 +19,11 @@
   "full_text_length": 16763,
   "fetched_at": "2026-04-26T18:34:31.883342+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a group of Romanian nationals identified as belonging to the Roma community, alleging inhuman and degrading treatment due to their forced eviction from a camp, which is directly linked to their ethnic identity and relevant under Articles 3 and 8 of the Convention.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-08T15:31:12.708921+00:00",
-  "refiltered_at": "2026-05-08T15:31:12.708921+00:00"
+  "filtered_at": "2026-05-10T18:20:25.932597+00:00",
+  "refiltered_at": "2026-05-10T18:20:25.932597+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

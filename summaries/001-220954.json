@@ -1,0 +1,25 @@
+{
+  "itemid": "001-220954",
+  "title": "CASE OF G.M. AND OTHERS v. THE REPUBLIC OF MOLDOVA",
+  "date": "2022-11-22",
+  "country": "MDA",
+  "importance": "3",
+  "articles": [
+    "3",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Preliminary objection joined to merits and dismissed (Art. 35) Admissibility criteria;(Art. 35-1) Exhaustion of domestic remedies;Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment;Positive obligations) (Substantive aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment;Positive obligations) (Substantive aspect);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2022:1122JUD004439415",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-220954",
+  "summary": "In G.M. and Others v. the Republic of Moldova, the applicants—three women with intellectual disabilities who had been institutionalised in the Bălți neuropsychiatric residential asylum—brought a case against Moldova. The applicants were described as residents of the asylum, and while the judgment does not explicitly confirm their Roma or Traveller identity, it notes that they were part of a particularly vulnerable group due to their disabilities and institutionalisation. The case centred on grave abuses: the applicants alleged that, during their stays at the asylum between 1988 and 2013, they were repeatedly raped by a senior doctor, became pregnant, and were subjected to forced abortions and the non-consensual insertion of intrauterine contraceptive devices.\n\nThe authorities failed to conduct an effective investigation into these allegations. Despite the applicants’ criminal complaints in 2014, the Moldovan police and prosecutors repeatedly refused to initiate proceedings, relying on incomplete or inadequate evidence and disregarding the applicants’ lack of consent. Domestic law at the time did not require patient consent for abortion, and the applicants’ intellectual disabilities were used to justify the interventions.\n\nThe European Court of Human Rights found violations of Article 3 (prohibition of torture and inhuman or degrading treatment), both in its substantive and procedural aspects, due to the forced medical interventions and the authorities’ failure to investigate. The Court awarded non-pecuniary damages to the applicants. This judgment is significant for its recognition of the compounded vulnerability of institutionalised women with intellectual disabilities and the need for robust safeguards against abuse.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:40:00.971630+00:00"
+}

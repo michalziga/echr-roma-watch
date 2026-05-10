@@ -1,0 +1,26 @@
+{
+  "itemid": "001-188181",
+  "title": "AFFAIRE MAGYAR JETI ZRT c. HONGRIE",
+  "date": "2018-12-04",
+  "country": "HUN",
+  "importance": "1",
+  "articles": [
+    "8",
+    "8-1",
+    "10",
+    "10-1",
+    "10-2",
+    "41"
+  ],
+  "violations": [
+    "10",
+    "10-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation de l'article 10 - Liberté d'expression-{général} (Article 10-1 - Liberté d'expression);Dommage matériel - réparation (Article 41 - Dommage matériel;Satisfaction équitable)",
+  "ecli": "ECLI:CE:ECHR:2018:1204JUD001125716",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-188181",
+  "summary": "In Magyar Jeti Zrt v. Hungary, the applicant was Magyar Jeti Zrt, a media company operating the Hungarian news website 444.hu. The case arose from an incident on 5 September 2013 in Konyár, Hungary, where a group of football supporters stopped near a primary school attended mainly by Roma children. The supporters, reportedly intoxicated, shouted racist abuse and threats at the children, prompting teachers to hide the pupils and call the police. The head of the local Roma minority self-government, J.Gy., gave an interview to a Roma-focused media outlet, attributing the incident to members of the Jobbik political party. This interview was posted on YouTube.\n\nThe next day, 444.hu published an article about the incident, including a hyperlink to the YouTube video. The article described the targeted threats against the Roma pupils and referenced the statements made by J.Gy. Jobbik sued for defamation, arguing that the hyperlink disseminated false and damaging claims about the party. Hungarian courts found Magyar Jeti Zrt liable, ordering the removal of the hyperlink and publication of the judgment.\n\nThe European Court of Human Rights examined the case under Article 10 (freedom of expression) and found a violation, holding that imposing objective liability for merely linking to third-party content unduly restricted press freedom. The Court awarded just satisfaction for pecuniary damage. This judgment is significant for clarifying that holding media strictly liable for hyperlinks, without considering intent or context, is incompatible with Article 10.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:36:20.095775+00:00"
+}

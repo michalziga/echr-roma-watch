@@ -19,8 +19,11 @@
   "full_text_length": 19545,
   "fetched_at": "2026-04-26T18:49:22.358835+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is explicitly identified as \"a Bulgarian national of Roma origin\" in the statement of facts.",
+  "filter_reason": "The applicant is explicitly identified as a Bulgarian national of Roma origin in the statement of facts.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:54:05.684211+00:00",
-  "refiltered_at": "2026-05-09T13:54:05.684211+00:00"
+  "filtered_at": "2026-05-10T19:31:27.262684+00:00",
+  "refiltered_at": "2026-05-10T19:31:27.262684+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

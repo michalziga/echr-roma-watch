@@ -1,0 +1,21 @@
+{
+  "itemid": "001-5700",
+  "title": "PORTER v. THE UNITED KINGDOM",
+  "date": "2001-01-30",
+  "country": "GBR",
+  "importance": "4",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "14"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2001:0130DEC004795399",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-5700",
+  "summary": "In Porter v. the United Kingdom, the applicant, Ms. Porter, a British national of Gypsy origin, brought a case against the United Kingdom after she and her husband, both identifying as Gypsies within the broader Roma and Traveller communities, faced eviction from their own land in Buckinghamshire. The core issue was the vulnerability of Roma and Traveller families to planning laws that restrict their ability to live according to their traditional way of life, particularly when local authorities refuse permission for caravan sites. In 1984, Ms. Porter and her husband purchased land and settled there in their caravans, but repeated applications for planning permission were denied by the local council, citing the land’s location within the Green Belt and environmental concerns. After years of legal challenges, the High Court ordered the removal of their caravans in 2000, with the matter later adjourned pending the entry into force of the Human Rights Act 1998.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life and home) and Article 14 (prohibition of discrimination). While the Court acknowledged that the applicant’s occupation of caravans was integral to her ethnic identity as a Gypsy and that the planning measures interfered with her rights, it ultimately found the application inadmissible. The Court held that the interference pursued a legitimate aim—environmental protection—and that national authorities had a wide margin of appreciation in balancing these interests.\n\nThis case is significant as it highlights the persistent tension between environmental planning policies and the rights of Roma and Traveller communities to maintain their traditional lifestyles. It reflects the historical challenges faced by these minorities in securing accommodation that respects both their cultural identity and legal requirements.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:05:21.295211+00:00"
+}

@@ -19,8 +19,11 @@
   "full_text_length": 84528,
   "fetched_at": "2026-04-26T18:43:48.838693+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants' Roma origin is explicitly identified in the Government's version of events, which states that Z.Ð. was insulted because of his Roma origin (paragraph 9).",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the Government's version of events explicitly states that the applicants were insulted because of their Roma origin (paragraph 9).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:41:40.809657+00:00",
-  "refiltered_at": "2026-05-09T13:41:40.809657+00:00"
+  "filtered_at": "2026-05-10T18:44:37.857298+00:00",
+  "refiltered_at": "2026-05-10T18:44:37.857298+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

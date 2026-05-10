@@ -1,0 +1,24 @@
+{
+  "itemid": "001-109138",
+  "title": "CASE OF EREMIASOVA AND PECHOVA v. THE CZECH REPUBLIC",
+  "date": "2012-02-16",
+  "country": "CZE",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "35",
+    "35-1"
+  ],
+  "violations": [
+    "2",
+    "2-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);Violation of Article 2 - Right to life (Article 2-1 - Effective investigation) (Procedural aspect)",
+  "ecli": "ECLI:CE:ECHR:2012:0216JUD002394404",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-109138",
+  "summary": "In Eremiasova and Pechova v. Czech Republic, the applicants are Ms. Eremiasova and Ms. Pechova, Czech nationals living in Brno who identify as Roma. They challenge the Czech Republic after V.P., the partner of the first applicant, died in police custody.\n\nThe case centers on Roma vulnerability in policing. V.P., Roma by origin, died after a police escort, raising questions about treatment of Roma in custody and investigations into deaths tied to law enforcement.\n\nOn 18 June 2002, V.P. was detained on suspicion of burglary in Brno. After questioning and fingerprinting, he was escorted; on mezzanine he turned, struck an officer, and jumped through a closed window, dying the next morning. Autopsy linked death to violent injuries from a fall, not excluding third-party involvement. Investigations followed, with conflicting statements on which wrist was held and adequacy of inquiries.\n\nThe Court examined Articles 2 and 2-1, finding violations of the substantive right to life and the procedural obligation to conduct an effective investigation into deaths in police custody.\n\nSignificance: The decision reinforces the obligation to protect life and investigate deaths in custody, especially where Roma individuals are involved, within the Court’s broader focus on Roma rights in Europe.",
+  "model": "gpt-5-nano-2025-08-07",
+  "summarized_at": "2026-05-09T17:17:09.842213+00:00"
+}

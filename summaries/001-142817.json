@@ -1,0 +1,25 @@
+{
+  "itemid": "001-142817",
+  "title": "Z.K. v. SLOVAKIA",
+  "date": "2014-04-01",
+  "country": "SVK",
+  "importance": "4",
+  "articles": [
+    "3",
+    "8",
+    "12",
+    "14",
+    "14+12",
+    "14+3",
+    "14+8",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2014:0401DEC001360611",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-142817",
+  "summary": "In Z.K. v. Slovakia, the applicant, Ms Z.K., is a Slovak national of Roma origin who brought a case against Slovakia, alleging serious violations of her rights as a member of the Roma and Travellers community. The case centred on the vulnerability of Roma women to non-consensual sterilisation, a practice that has disproportionately affected Roma women in Slovakia and elsewhere, raising grave concerns about discrimination and bodily autonomy. In February 1993, when she was still a minor, Ms Z.K. gave birth by caesarean section at Prešov Hospital. Over a decade later, she discovered a medical record indicating she had been sterilised during that delivery, without her knowledge or consent, and without the involvement of her legal guardians. This revelation led to years of infertility treatment, significant psychological distress, and social ostracism within her community.\n\nMs Z.K. pursued civil proceedings, seeking an apology and compensation, arguing violations of Articles 3 (prohibition of inhuman or degrading treatment), 8 (right to respect for private and family life), 12 (right to marry and found a family), and 14 (prohibition of discrimination) of the European Convention on Human Rights. However, the Slovak courts found insufficient evidence that the sterilisation had actually occurred, citing conflicting medical records and the applicant’s refusal to undergo further invasive testing. The European Court of Human Rights ultimately declared the application inadmissible, as the facts could not be established to the required standard.\n\nThis case highlights the ongoing challenges Roma women face in seeking justice for alleged forced sterilisation, a practice rooted in historical discrimination and mistrust of Roma and Travellers by state institutions. The decision underscores the evidentiary hurdles that can impede access to remedies for members of vulnerable minorities, even in the face of credible allegations.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:29:24.960175+00:00"
+}

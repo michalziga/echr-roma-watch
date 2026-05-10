@@ -19,8 +19,11 @@
   "full_text_length": 21708,
   "fetched_at": "2026-04-26T18:48:59.109176+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants complained of discriminatory treatment based on their Roma origin, which is explicitly mentioned in the text under \"Applicants’ complaints\" in the facts section.",
+  "filter_reason": "The applicants complained of discriminatory treatment based on their Roma origin, which is explicitly mentioned in the facts section of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:53:37.506245+00:00",
-  "refiltered_at": "2026-05-09T13:53:37.506245+00:00"
+  "filtered_at": "2026-05-10T19:30:57.684469+00:00",
+  "refiltered_at": "2026-05-10T19:30:57.684469+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

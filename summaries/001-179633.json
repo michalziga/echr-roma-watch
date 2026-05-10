@@ -1,0 +1,22 @@
+{
+  "itemid": "001-179633",
+  "title": "KÓSA v. HUNGARY",
+  "date": "2017-11-21",
+  "country": "HUN",
+  "importance": "3",
+  "articles": [
+    "14",
+    "14+P1-2",
+    "35",
+    "35-1",
+    "P1-2"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible (Art. 35) Admissibility criteria;(Art. 35-1) Exhaustion of domestic remedies",
+  "ecli": "ECLI:CE:ECHR:2017:1121DEC005346115",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-179633",
+  "summary": "In Kósa v. Hungary, the applicant, Ms. Amanda Kósa, is a Hungarian national who identifies as Roma, living in the Huszár township of Nyíregyháza—a neighbourhood predominantly inhabited by Roma and marked by poverty and social exclusion. The case focused on the vulnerability of Roma children to educational segregation, particularly following the closure of the local school and the subsequent opening of a new school by the Greek Catholic Church, which was attended almost exclusively by Roma pupils. After the original township school was closed in 2007 as part of a desegregation effort, Roma children, including Ms. Kósa, were distributed among other schools, but faced exclusion and hostility. In 2011, a new church-run school opened in the township, and Ms. Kósa’s parents enrolled her there, citing her asthma and the lack of a school bus as reasons for not sending her to a more distant school. Ms. Kósa later transferred to a mainstream school in the town centre. She alleged that her placement in the church-run school amounted to segregation and discrimination on the basis of her Roma identity. The European Court of Human Rights examined the case under Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 1 (right to education), but ultimately declared the application inadmissible, finding that Ms. Kósa had not exhausted all available domestic remedies. This case highlights the procedural barriers Roma and Traveller applicants may face in challenging educational segregation, a persistent issue in Europe given the long history of Roma exclusion from mainstream education.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:34:07.887357+00:00"
+}

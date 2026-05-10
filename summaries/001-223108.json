@@ -1,0 +1,31 @@
+{
+  "itemid": "001-223108",
+  "title": "CASE OF M.B. AND OTHERS v. SLOVAKIA (No. 2)",
+  "date": "2023-02-07",
+  "country": "SVK",
+  "importance": "3",
+  "articles": [
+    "35",
+    "35-1",
+    "3",
+    "14",
+    "14+3",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [
+    "14",
+    "14+3",
+    "3"
+  ],
+  "conclusion": "Preliminary objection joined to merits and dismissed (Art. 35) Admissibility criteria;(Art. 35-1) Exhaustion of domestic remedies;Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);No violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Degrading treatment;Inhuman treatment);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2023:0207JUD006396219",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-223108",
+  "summary": "In M.B. and Others v. Slovakia (No. 2), the applicants were six boys from a housing estate in Košice mainly inhabited by Roma, with their Roma identity implied throughout the judgment. The case concerned their treatment by police following their arrest on 21 March 2009, after an assault and robbery for which some of the applicants were later convicted. At the police station, the boys alleged they were subjected to severe abuse: they were thrown on the floor in front of unmuzzled, barking dogs, some were bitten, and all were beaten, kicked, and verbally abused, including with anti-Roma slurs. Video footage later surfaced showing police officers ordering the boys to slap and kiss each other, strip naked, and threatening them with dogs, accompanied by racist language.\n\nDespite the gravity of the allegations and the existence of video evidence, the domestic investigation and prosecution were protracted and ultimately ineffective. The District Court acquitted the accused officers, refusing to admit the video evidence, and the applicants were referred to civil courts for damages.\n\nThe European Court of Human Rights found violations of Article 3 (prohibition of inhuman or degrading treatment) both substantively and procedurally, and a violation of Article 14 (prohibition of discrimination) in conjunction with Article 3 regarding the failure to investigate possible racist motives. However, the Court did not find a substantive violation of Article 14 taken with Article 3. The applicants were awarded non-pecuniary damages. The judgment is significant for its finding that the authorities failed to investigate the potential racist motivation behind the police abuse.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:40:24.401771+00:00"
+}

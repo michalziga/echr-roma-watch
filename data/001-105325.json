@@ -21,6 +21,9 @@
   "is_roma_related": "yes",
   "filter_reason": "The applicants are explicitly identified as \"stateless persons of Roma origin\" in the facts section of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:42:01.364497+00:00",
-  "refiltered_at": "2026-05-09T13:42:01.364497+00:00"
+  "filtered_at": "2026-05-10T18:44:51.375816+00:00",
+  "refiltered_at": "2026-05-10T18:44:51.375816+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

@@ -1,0 +1,24 @@
+{
+  "itemid": "001-210683",
+  "title": "CASE OF MEMEDOV v. NORTH MACEDONIA",
+  "date": "2021-06-24",
+  "country": "MKD",
+  "importance": "4",
+  "articles": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation)",
+  "ecli": "ECLI:CE:ECHR:2021:0624JUD003101617",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-210683",
+  "summary": "In Memedov v. North Macedonia, the applicant, Mr. Memedov, was represented by the European Roma Rights Centre and described himself as of Roma origin. The case arose from an incident on 5 May 2013 in the Topaana Roma neighbourhood of Skopje, where police intervened to arrest a fugitive. After the arrest, tensions escalated and police reinforcements arrived. Mr. Memedov was among several people arrested inside a local shop. He alleged that police officers insulted him with anti-Roma slurs and physically assaulted him, including being punched and struck with batons, despite his lack of resistance. Medical records documented significant bruising and later post-traumatic stress disorder. The applicant claimed that the ill-treatment was racially motivated and that authorities failed to investigate this aspect, amounting to institutional anti-Gypsyism.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found that Mr. Memedov had suffered ill-treatment of sufficient severity to engage Article 3 and that the authorities failed to investigate the possible racist motives behind the police conduct. It held that there had been a violation of Article 3, both substantively and procedurally, and a violation of Article 14 taken together with Article 3. The judgment specifically recognised the failure to address potential institutional racism in the investigation of police violence against a Roma individual.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:37:57.256383+00:00"
+}

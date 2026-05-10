@@ -1,0 +1,18 @@
+{
+  "itemid": "001-99033",
+  "title": "GASHI v. SWEDEN",
+  "date": "2010-05-04",
+  "country": "SWE",
+  "importance": "4",
+  "articles": [
+    "3"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2010:0504DEC006116708",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-99033",
+  "summary": "In Gashi v. Sweden, the applicants—Mr. Besim Gashi, Ms. Sylvana Osmanis, and their four children—are Serbian nationals of Roma origin, with the first applicant born in Kosovo. They sought asylum in Sweden, arguing that, as Roma, they would face harassment and discrimination if returned to Serbia or Kosovo. The core vulnerability in this case was the risk of inhuman or degrading treatment due to their Roma identity, a group historically subjected to widespread discrimination and violence in the region.\n\nThe family arrived in Sweden in 2004 and repeatedly applied for asylum, citing fears of persecution as Roma. Their applications were consistently rejected by Swedish migration authorities, and subsequent appeals were unsuccessful. Despite efforts to obtain travel documents, Serbia would not accept them, and the exact country of potential deportation remained uncertain, though Sweden intended to focus on Serbia unless another country agreed to receive them.\n\nThe European Court of Human Rights examined the case under Article 3 of the European Convention on Human Rights, which prohibits torture and inhuman or degrading treatment. The Court found that the applicants had not demonstrated a real risk of treatment contrary to Article 3 if deported to Serbia or Kosovo, and declared the application inadmissible as manifestly ill-founded.\n\nThis case highlights the high evidentiary threshold required for Roma and Traveller applicants to demonstrate a real risk of Article 3 violations in expulsion cases, reflecting ongoing challenges for Roma communities seeking protection in Europe amid persistent discrimination.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:22:12.984902+00:00"
+}

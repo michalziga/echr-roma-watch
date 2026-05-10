@@ -19,8 +19,11 @@
   "full_text_length": 27243,
   "fetched_at": "2026-04-26T18:36:57.623532+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are identified as belonging to the Roma minority, and their Roma identity is legally relevant to the violation of Article 3 due to the police's discriminatory treatment and use of excessive force against them, which was exacerbated by their ethnic background.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:59:41.398429+00:00",
-  "refiltered_at": "2026-05-08T18:59:41.398429+00:00"
+  "filtered_at": "2026-05-10T18:37:19.100280+00:00",
+  "refiltered_at": "2026-05-10T18:37:19.100280+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

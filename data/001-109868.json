@@ -21,6 +21,10 @@
   "is_roma_related": "yes",
   "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:40:53.253368+00:00",
-  "refiltered_at": "2026-05-09T13:40:53.253368+00:00"
+  "filtered_at": "2026-05-10T18:44:01.547469+00:00",
+  "refiltered_at": "2026-05-10T18:44:01.547469+00:00",
+  "recheck_reason": "the applicant, Konstantin Markin, is explicitly identified as not belonging to Roma or Traveller communities, and the case concerns gender discrimination in parental leave, with no mention of Roma/Traveller identity in the facts or Court's assessment.",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

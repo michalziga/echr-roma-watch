@@ -1,0 +1,31 @@
+{
+  "itemid": "001-188279",
+  "title": "CASE OF DIMOVIĆ AND OTHERS v. SERBIA",
+  "date": "2018-12-11",
+  "country": "SRB",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6+6-3-d",
+    "6-1",
+    "6-3-d"
+  ],
+  "violations": [
+    "6",
+    "6+6-3-d",
+    "6-1",
+    "6-3-d"
+  ],
+  "nonviolations": [
+    "6",
+    "6+6-3-d",
+    "6-1",
+    "6-3-d"
+  ],
+  "conclusion": "Violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6 - Right to a fair trial;Article 6-3-d - Examination of witnesses);No violation of Article 6+6-3-d - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6 - Right to a fair trial;Article 6-3-d - Examination of witnesses)",
+  "ecli": "ECLI:CE:ECHR:2018:1211JUD000720312",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-188279",
+  "summary": "In the case of Dimović and Others v. Serbia, the applicants—three Serbian nationals of Roma origin—brought a complaint against the Serbian state. Their Roma identity was central to the case, as it raised concerns about the fairness of criminal proceedings involving members of the Roma and Traveller communities, who have historically faced prejudice and stereotyping in the justice system. The applicants were accused and later convicted of robbery and burglary following incidents in March 2008 near Subotica, where property was stolen from a local resident and the victim was violently assaulted. The prosecution relied heavily on a statement made by a co-accused, R.K., who later retracted his testimony, and on witness accounts that described the suspects as “Roma men.” The applicants argued that they were unable to question R.K. in court, undermining their right to a fair trial.\n\nThe European Court of Human Rights examined the case under Article 6 of the European Convention on Human Rights, focusing on the right to a fair trial and the right to examine witnesses. The Court found a violation of Article 6 §§ 1 and 3(d), concluding that the applicants’ convictions were based on untested evidence and that the safeguards for a fair hearing had not been met. This judgment is significant as it highlights the need for robust procedural protections for Roma and Traveller defendants, especially in contexts where anti-Roma bias may influence criminal proceedings. The case reflects ongoing concerns about institutional discrimination against Roma and Travellers in Europe’s justice systems.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:35:30.483247+00:00"
+}

@@ -1,0 +1,24 @@
+{
+  "itemid": "001-192466",
+  "title": "CASE OF LINGURAR v. ROMANIA",
+  "date": "2019-04-16",
+  "country": "ROU",
+  "importance": "4",
+  "articles": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Degrading treatment);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation)",
+  "ecli": "ECLI:CE:ECHR:2019:0416JUD004847414",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-192466",
+  "summary": "In Lingurar v. Romania, the applicants—members of a Roma family living in Vâlcele—brought a case against Romania following a violent police raid on their home. The applicants, all identifying as Roma, alleged that they were targeted and mistreated by law enforcement because of their ethnicity. The case centred on the vulnerability of Roma communities to discriminatory policing and the use of ethnic stereotypes, which often result in excessive force and a lack of effective investigation into abuses.\n\nOn 15 December 2011, at around 5 a.m., a large group of police officers and gendarmes, many wearing balaclavas, forcibly entered the Lingurar family’s home. The applicants described being dragged from their beds, beaten, and humiliated in front of their family, including a young child. Two male applicants were taken outside without being allowed to dress, further assaulted, and then transported to the police station. Despite medical evidence of injuries, the authorities justified the raid by referencing alleged criminality within the Roma community and dismissed the applicants’ complaints, relying on stereotypes and failing to conduct an impartial investigation.\n\nThe European Court of Human Rights found violations of Article 3 (prohibition of degrading treatment) and Article 14 (prohibition of discrimination) in conjunction with Article 3, both in the substantive ill-treatment and in the authorities’ failure to investigate effectively. The Court awarded damages to the applicants. This judgment is significant as it highlights the persistent problem of ethnic profiling and police violence against Roma and Travellers in Europe, reflecting a broader historical pattern of discrimination and impunity.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:35:45.080391+00:00"
+}

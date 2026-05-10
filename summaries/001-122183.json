@@ -1,0 +1,24 @@
+{
+  "itemid": "001-122183",
+  "title": "CASE OF VONA v. HUNGARY",
+  "date": "2013-07-09",
+  "country": "HUN",
+  "importance": "1",
+  "articles": [
+    "11",
+    "11-1",
+    "11-2",
+    "17"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "11",
+    "11-1"
+  ],
+  "conclusion": "No violation of Article 11 - Freedom of assembly and association (Article 11-1 - Freedom of association)",
+  "ecli": "ECLI:CE:ECHR:2013:0709JUD003594310",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-122183",
+  "summary": "In the case of Vona v. Hungary, the applicant, Mr. Gábor Vona, was the chairman of the Hungarian Guard Association, an organisation closely linked to the Hungarian Guard Movement. While Mr. Vona himself was not a member of the Roma or Traveller communities, the case directly concerned the rights and safety of Roma populations in Hungary. The central issue was the harm caused to Roma communities by the Movement’s activities, which included uniformed rallies and demonstrations in villages with large Roma populations, accompanied by rhetoric about defending “ethnic Hungarians” against so-called “Gypsy criminality.” These actions generated fear and intimidation among Roma residents, who became a captive audience to exclusionary and hostile messages.\n\nBetween 2007 and 2008, the Hungarian Guard Movement, under the auspices of the Association, organised several public events, including a high-profile rally in Tatárszentgyörgy and similar demonstrations in Fadd and Sárbogárd. These events featured military-style uniforms, formations, and commands, and were often staged in areas with significant Roma populations. The authorities, responding to complaints and the evident impact on Roma communities, initiated legal proceedings to dissolve the Association, arguing that its activities infringed the rights of others by generating fear and promoting exclusion.\n\nThe European Court of Human Rights examined the case under Article 11 (freedom of assembly and association) and Article 17 (prohibition of abuse of rights). The Court found no violation of Article 11, holding that the dissolution of the Association was necessary in a democratic society to protect the rights of the Roma minority from intimidation and the threat of exclusion. No remedies were awarded to the applicant.\n\nThis case is significant for Roma rights as it affirms that states may take decisive action against organisations whose activities intimidate or threaten vulnerable minorities. Against the backdrop of a history of anti-Roma sentiment and violence in Europe, the judgment underscores the importance of protecting Roma and Traveller communities from organised campaigns of fear and exclusion.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:03:14.521310+00:00"
+}

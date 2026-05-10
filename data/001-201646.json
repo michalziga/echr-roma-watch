@@ -19,8 +19,11 @@
   "full_text_length": 152040,
   "fetched_at": "2026-04-26T18:36:29.281841+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves Roma applicants who allege violations of their rights to access basic public utilities, specifically safe drinking water and sanitation, which are directly linked to their identity as a marginalized community facing systemic exclusion and discrimination.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:51:02.651022+00:00",
-  "refiltered_at": "2026-05-08T18:51:02.651022+00:00"
+  "filtered_at": "2026-05-10T18:36:35.050403+00:00",
+  "refiltered_at": "2026-05-10T18:36:35.050403+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

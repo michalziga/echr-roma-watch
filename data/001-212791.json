@@ -19,8 +19,12 @@
   "full_text_length": 21993,
   "fetched_at": "2026-04-26T18:35:18.136159+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma family as the direct subject of the legal dispute, and the applicant's assistance to them is relevant to the allegations of a contact ban, which raises issues of their rights under Article 6 and potentially Article 8, reflecting the vulnerability of the Roma community in legal proceedings.",
+  "filter_reason": "Condition 4 is met as the case directly concerns harm to a Roma family, specifically the children of a Roma family, who are the subject of the contested contact ban, as stated in the facts section.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:16:46.407517+00:00",
-  "refiltered_at": "2026-05-08T18:16:46.407517+00:00"
+  "filtered_at": "2026-05-10T18:21:43.437124+00:00",
+  "refiltered_at": "2026-05-10T18:21:43.437124+00:00",
+  "recheck_reason": "the applicant is explicitly identified as Mr. Karl-Reiner Riedlinger, a German national assisting a Roma family, but he himself is not Roma, and the Roma family is not the applicant or direct victim; no explicit or implicit identity signal or Roma-specific organisation representing the applicant is present.",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

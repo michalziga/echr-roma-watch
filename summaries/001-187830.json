@@ -1,0 +1,24 @@
+{
+  "itemid": "001-187830",
+  "title": "CASE OF POPOV AND OTHERS v. RUSSIA",
+  "date": "2018-11-27",
+  "country": "RUS",
+  "importance": "3",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for home);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction);Non-pecuniary damage - claim dismissed (Article 41 - Pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2018:1127JUD004456011",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-187830",
+  "summary": "In Popov and Others v. Russia, the applicants were members of four families residing in a Moscow dormitory building originally provided by the Ministry of Finance’s security service as employment-related accommodation. While the applicants’ Roma or Traveller identity is not explicitly stated in the judgment, the case was brought by families from a Roma settlement. The core issue was the vulnerability of these families to eviction without alternative housing, raising concerns about exclusion and the right to respect for their home.\n\nThe facts reveal that, beginning in the 1990s, the adult male applicants were granted accommodation in the dormitory due to their employment, and their wives and children joined them over the following years. Despite long-term residence—some for over five years—their legal status in the building was challenged. In 2007 and again in 2009, the Federal Treasury initiated eviction proceedings against the adult female applicants, arguing they had moved in without permission. Russian courts ordered their eviction without providing alternative accommodation, despite the presence of minor children and the families’ arguments that they had a lawful right to reside together.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life, and home) and found a violation, holding that the eviction orders constituted a disproportionate interference with the applicants’ right to respect for their home. The Court awarded non-pecuniary damages, recognizing the significant impact of the threat of eviction on the families’ lives. Notably, the judgment referenced Connors v. the United Kingdom, affirming that the protection of “home” under Article 8 applies broadly, not only to cases involving Roma or Travellers.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:36:05.558302+00:00"
+}

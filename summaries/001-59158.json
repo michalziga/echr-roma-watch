@@ -1,0 +1,33 @@
+{
+  "itemid": "001-59158",
+  "title": "CASE OF JANE SMITH v. THE UNITED KINGDOM",
+  "date": "2001-01-18",
+  "country": "GBR",
+  "importance": "2",
+  "articles": [
+    "6",
+    "6-1",
+    "8",
+    "8-1",
+    "8-2",
+    "14",
+    "36",
+    "36-2",
+    "P1-1",
+    "P1-1-1",
+    "P1-2"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "6",
+    "6-1",
+    "14"
+  ],
+  "conclusion": "No violation of Art. 8;No violation of P1-1;No violation of P1-2;No violation of Art. 6-1;No violation of Art. 14",
+  "ecli": "ECLI:CE:ECHR:2001:0118JUD002515494",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-59158",
+  "summary": "In the case of Jane Smith v. the United Kingdom, the applicant, Ms. Jane Smith, identified herself as a Gypsy by birth—a group included within the Council of Europe’s definition of “Roma and Travellers.” She and her family had lived a nomadic life in Surrey, England, facing persistent difficulties in securing lawful and stable accommodation due to their identity and way of life. The core harm in this case was the repeated exclusion of Ms. Smith and her family from official and private caravan sites, forcing them to move constantly and live in precarious conditions, which affected their health, education, and well-being.\n\nOver many years, Ms. Smith and her husband, both illiterate due to lack of formal education, unsuccessfully applied for places on local sites. In 1993, after purchasing a plot of land in a Green Belt area, they moved their mobile home there, only to face planning refusals and enforcement actions from the local council, citing environmental and planning policies. Despite government guidance encouraging flexibility for Gypsy site applications, the family was denied permission to remain, and their appeals were dismissed.\n\nThe European Court of Human Rights examined the case under Articles 6 (right to a fair trial), 8 (right to respect for private and family life), 14 (prohibition of discrimination), and Article 1 of Protocol No. 1 (protection of property). The Court found no violation of these rights, concluding that the planning controls pursued legitimate aims and were proportionate in the circumstances.\n\nThis case is significant as it highlights the ongoing challenges faced by Roma and Traveller families in accessing secure accommodation in the United Kingdom, reflecting broader historical patterns of exclusion and the tension between planning law and minority rights.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:06:37.457486+00:00"
+}

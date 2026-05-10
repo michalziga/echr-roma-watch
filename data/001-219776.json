@@ -19,10 +19,11 @@
   "full_text_length": 122566,
   "fetched_at": "2026-04-26T18:34:41.392072+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves multiple applicants who are explicitly identified as members of a Roma community, and it addresses violations of their rights under Articles 14 and 8, highlighting discrimination and threats to their safety and housing, which are central to their Roma identity.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T15:32:21.447418+00:00",
+  "filtered_at": "2026-05-10T18:20:43.085308+00:00",
   "summary": "In the case of Paketova and Others v. Bulgaria, the applicants, members of the Roma community in Bulgaria, faced forced displacement from their homes due to anti-Roma protests. The case centers on the vulnerability of Roma communities to discrimination and lack of protection from authorities. On January 6, 2019, following a physical altercation involving a Roma individual and a non-Roma military member, local protests erupted in Voyvodinovo, leading to threats and violence against Roma residents. The village mayor instructed Roma inhabitants to leave, resulting in their mass departure. Despite police presence, the Roma community was unable to return due to ongoing hostility and official statements against them. The European Court of Human Rights found violations of Articles 14 and 8, highlighting discrimination and failure to protect the applicants' right to respect for private and family life. The Court emphasized the need for special protection for Roma communities, awarding non-pecuniary damages. This case underscores the historical and ongoing discrimination faced by Roma in Europe, reflecting broader societal challenges in ensuring their rights and safety.",
   "summary_generated_at": "2026-04-27T00:20:27.319221+00:00",
-  "refiltered_at": "2026-05-08T15:32:21.447418+00:00"
+  "refiltered_at": "2026-05-10T18:20:43.085308+00:00",
+  "summary_model": null
 }

@@ -19,8 +19,11 @@
   "full_text_length": 235126,
   "fetched_at": "2026-04-26T18:45:09.812143+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant Mr Ali Berisha is explicitly identified as being from a Roma ethnic community in the additional context section (paragraph 145).",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicant Mr. Ali Berisha is explicitly identified as being from a Roma ethnic community in the additional context section.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:42:55.969844+00:00",
-  "refiltered_at": "2026-05-09T13:42:55.969844+00:00"
+  "filtered_at": "2026-05-10T18:45:46.363811+00:00",
+  "refiltered_at": "2026-05-10T18:45:46.363811+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

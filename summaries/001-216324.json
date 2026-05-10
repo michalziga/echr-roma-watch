@@ -1,0 +1,21 @@
+{
+  "itemid": "001-216324",
+  "title": "MIHALACHE v. ROMANIA",
+  "date": "2022-02-08",
+  "country": "ROU",
+  "importance": "4",
+  "articles": [
+    "6",
+    "14",
+    "14+6",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2022:0208DEC001997615",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-216324",
+  "summary": "In Mihalache v. Romania, the applicant, Mr. Mihalache, described in the proceedings as a member of the Roma community, brought a case against Romania after being denied the right to claim compensation following the accidental death of a child he considered his own. The case centered on the applicant’s inability to assert paternity after the child’s death, a situation with particular resonance for Roma and Traveller families, where formal recognition of parenthood may not always align with community or familial realities. The events took place in Romania, where, after the child’s fatal accident, the applicant was not permitted to participate as a civil party in the compensation proceedings because he had not been legally recognised as the child’s father during the child’s lifetime. Romanian law at the time did not allow posthumous recognition of paternity in such circumstances. The European Court of Human Rights examined the case under Article 6 (right to a fair trial) and Article 14 (prohibition of discrimination), both alone and in combination. The Court found no evidence that the applicant’s exclusion was linked to his Roma origin or that Roma were disproportionately affected by the legal provisions. As a result, the application was declared inadmissible as manifestly ill-founded, with no violation found.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:38:37.721710+00:00"
+}

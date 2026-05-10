@@ -1,0 +1,26 @@
+{
+  "itemid": "001-80278",
+  "title": "CASE OF GERGELY v. ROMANIA",
+  "date": "2007-04-26",
+  "country": "ROU",
+  "importance": "3",
+  "articles": [
+    "3",
+    "6",
+    "6-1",
+    "8",
+    "8-1",
+    "13",
+    "14",
+    "37",
+    "37-1-c"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Struck out of the list",
+  "ecli": "ECLI:CE:ECHR:2007:0426JUD005788500",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-80278",
+  "summary": "In the case of Gergely v. Romania, the applicant, Ms. Irene Gergely, a member of the Roma community, brought a complaint against the Romanian state following a violent attack on Roma residents in the hamlet of Caşinul Nou, Harghita County. The case highlighted the acute vulnerability of Roma and Travellers to racially motivated violence and the failure of state authorities to protect them or provide justice. On the night of 11 August 1990, after escalating tensions and accusations against local Roma, a large group of non-Roma villagers gathered and set fire to several Roma homes, including Ms. Gergely’s, leaving around 150 people homeless. Ms. Gergely and her four young children fled in fear for their lives, hiding in a nearby field as their house was destroyed. Despite immediate criminal complaints and repeated requests for investigation, Romanian authorities discontinued proceedings, citing the difficulty of identifying perpetrators and, later, the expiry of statutory time limits. The European Court of Human Rights received a unilateral declaration from the Romanian government, acknowledging violations of Articles 3, 6, 8, 13, and 14 of the Convention—prohibiting torture, ensuring fair trial, respect for private life, effective remedy, and non-discrimination—and offering compensation and commitments to systemic reforms. The case was struck out following this declaration. Gergely v. Romania is significant as it reflects both the historical pattern of anti-Roma violence in post-communist Europe and the persistent institutional failures to address such discrimination.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:13:02.807538+00:00"
+}

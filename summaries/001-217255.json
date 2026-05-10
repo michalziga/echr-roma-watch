@@ -1,0 +1,24 @@
+{
+  "itemid": "001-217255",
+  "title": "AFFAIRE Y.P. c. BULGARIE",
+  "date": "2022-05-17",
+  "country": "BGR",
+  "importance": "4",
+  "articles": [
+    "3",
+    "8",
+    "8-1"
+  ],
+  "violations": [
+    "3",
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation de l'article 3 - Interdiction de la torture (Article 3 - Enquête effective) (Volet procédural);Violation de l'article 8 - Droit au respect de la vie privée et familiale (Article 8-1 - Respect de la vie privée)",
+  "ecli": "ECLI:CE:ECHR:2022:0517JUD002361420",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-217255",
+  "summary": "In the case of Y.P. v. Bulgaria, the applicant, Y.P., was a minor living in a Roma settlement in Bulgaria, as indicated by the judgment’s references to her community context. The case concerned the vulnerability of a young Roma girl who alleged she had been the victim of sexual assault, and the subsequent failure of the authorities to conduct an effective investigation. In April or May 2015, Y.P. reported to the authorities that she had been raped. The investigation involved multiple witness interviews, medical and psychiatric examinations, and DNA analysis. One suspect admitted to consensual relations, but the evidence was contradictory, and the authorities could not conclusively establish non-consensual intercourse. Despite indications of sexual activity with a minor under fourteen, the investigation stalled: after September 2017, there were significant delays, and ultimately, the case was suspended without identifying or prosecuting any perpetrator. The European Court of Human Rights examined the case under Article 3 (prohibition of torture and inhuman or degrading treatment) and Article 8 (right to respect for private and family life), finding violations of both due to the lack of an effective investigation. The Court awarded Y.P. 20,000 euros in non-pecuniary damages. Notably, the Court observed that while there was no evidence the investigation was tainted by ethnic bias, the authorities’ procedural failures left the applicant without justice or remedy.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:38:58.527031+00:00"
+}

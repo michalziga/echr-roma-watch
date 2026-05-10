@@ -1,0 +1,31 @@
+{
+  "itemid": "001-228661",
+  "title": "CASE OF MEMEDOVA AND OTHERS v. NORTH MACEDONIA",
+  "date": "2023-10-24",
+  "country": "MKD",
+  "importance": "3",
+  "articles": [
+    "34",
+    "35",
+    "35-3-a",
+    "P4-2",
+    "P4-2-2",
+    "14",
+    "14+P4-2",
+    "41",
+    "P4-2-3"
+  ],
+  "violations": [
+    "P4-2",
+    "P4-2-2",
+    "14",
+    "14+P4-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection dismissed (Art. 34) Individual applications;(Art. 34) Victim;Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Manifestly ill-founded;Violation of Article 2 of Protocol No. 4 - Freedom of movement-{general} (Article 2 para. 2 of Protocol No. 4 - Freedom to leave a country);Violation of Article 14+P4-2 - Prohibition of discrimination (Article 14 - Discrimination) (Article 2 para. 2 of Protocol No. 4 - Freedom to leave a country;Article 2 of Protocol No. 4 - Freedom of movement-{general});Pecuniary and non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2023:1024JUD004242916",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-228661",
+  "summary": "In Memedova and Others v. North Macedonia, the applicants were Macedonian nationals from the Roma community who challenged the authorities’ refusal to let them leave the country. The case focused on the vulnerability of Roma and Travellers facing ethnic profiling and discriminatory restrictions on freedom of movement. On 29 November 2014, Ms. Memedova was stopped at Skopje Airport, her passport stamped and then cancelled, and she was told she could not travel because she allegedly posed a threat to public policy and lacked sufficient financial means or a return ticket. She reported that a border officer had remarked she would seek asylum “like other Roma persons.” Despite providing evidence of her family in Germany and previous lawful travel, her appeals in domestic courts were unsuccessful, with authorities insisting she failed to justify her travel purpose.\n\nThe European Court of Human Rights examined Article 2 of Protocol No. 4 (freedom of movement) and Article 14 (prohibition of discrimination), finding violations of both. The Court held that the authorities had applied additional, arbitrary requirements to Roma individuals and had failed to justify the restrictions, amounting to ethnic discrimination. The applicants were awarded compensation for pecuniary and non-pecuniary damage. Notably, the judgment highlighted the systemic nature of ethnic profiling at North Macedonian borders, referencing domestic court findings and Ombudsman reports confirming discriminatory practices against Roma and Travellers.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:41:18.699344+00:00"
+}

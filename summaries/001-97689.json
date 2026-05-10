@@ -1,0 +1,29 @@
+{
+  "itemid": "001-97689",
+  "title": "CASE OF ORŠUŠ AND OTHERS v. CROATIA",
+  "date": "2010-03-16",
+  "country": "HRV",
+  "importance": "1",
+  "articles": [
+    "6",
+    "6-1",
+    "14",
+    "14+P1-2",
+    "P1-2",
+    "41"
+  ],
+  "violations": [
+    "6",
+    "6-1",
+    "14+P1-2",
+    "14",
+    "P1-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection dismissed;Violation of Art. 6-1;Violation of Art. 14+P1-2;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2010:0316JUD001576603",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-97689",
+  "summary": "In Oršuš and Others v. Croatia, the applicants were fifteen Croatian nationals of Roma origin, all of whom attended primary schools in the villages of Podturen and Macinec in Međimurje County. The case focused on the vulnerability of Roma children subjected to educational segregation, as they were placed in separate classes consisting only of Roma pupils, which the applicants argued amounted to discrimination and hindered their educational development. Between the late 1990s and early 2000s, the applicants were assigned to Roma-only classes, often following a reduced curriculum and with limited opportunities to transfer to mixed classes, primarily due to their insufficient command of the Croatian language. Despite some measures such as the introduction of Roma assistants and preparatory programmes, the applicants faced significant barriers, including high dropout rates and lower educational attainment compared to the general population.\n\nThe European Court of Human Rights examined the case under Article 6 (right to a fair trial), Article 14 (prohibition of discrimination), and Article 2 of Protocol No. 1 (right to education), finding violations of Article 6 § 1 and Article 14 in conjunction with Article 2 of Protocol No. 1. The Court held that the placement of Roma children in separate classes constituted discrimination and awarded non-pecuniary damages to the applicants. This landmark judgment is significant for Roma and Traveller rights, as it established that segregating Roma children in education, even if based on language needs, can perpetuate systemic discrimination—a persistent issue in Europe’s history of marginalising Roma and Traveller communities.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:21:40.086010+00:00"
+}

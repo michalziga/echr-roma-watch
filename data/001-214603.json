@@ -19,10 +19,11 @@
   "full_text_length": 3132,
   "fetched_at": "2026-04-26T18:35:08.243374+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a complaint under Article 2 regarding the ineffective investigation of a death, with the applicant explicitly represented by the European Roma Rights Centre, indicating a Roma identity relevance in the context of the alleged violation.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T16:06:40.004309+00:00",
+  "filtered_at": "2026-05-10T18:21:28.250810+00:00",
   "summary": "Sofija Djafer, a member of the Roma community, brought a case against North Macedonia concerning the death of her son in Skopje prison. The case centered on the vulnerability of Roma individuals in detention, specifically addressing the alleged ineffective investigation into her son's death, which raised issues under Article 2 of the European Convention on Human Rights. The applicant was represented by the European Roma Rights Centre and a local lawyer. The Court communicated the complaint to the Government of North Macedonia, which led to a friendly settlement. The parties agreed that the Government would pay the applicant €12,000 for non-pecuniary damages and costs, resolving the case. Consequently, the European Court of Human Rights decided to strike the case out of its list under Article 39, as the settlement respected human rights principles. This case highlights ongoing concerns about the treatment and protection of Roma individuals within the criminal justice system in Europe, reflecting historical patterns of discrimination and neglect. The resolution through a friendly settlement underscores the importance of addressing systemic issues and ensuring effective investigations into deaths in custody, particularly for vulnerable groups like the Roma.",
   "summary_generated_at": "2026-04-27T00:22:17.451393+00:00",
-  "refiltered_at": "2026-05-08T16:06:40.004309+00:00"
+  "refiltered_at": "2026-05-10T18:21:28.250810+00:00",
+  "summary_model": null
 }

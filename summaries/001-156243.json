@@ -1,0 +1,32 @@
+{
+  "itemid": "001-156243",
+  "title": "CASE OF V.M. AND OTHERS v. BELGIUM",
+  "date": "2015-07-07",
+  "country": "BEL",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "3",
+    "13",
+    "13+3",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "13",
+    "13+3"
+  ],
+  "nonviolations": [
+    "2",
+    "2-1"
+  ],
+  "conclusion": "Preliminary objection joined to merits (Article 35-1 - Exhaustion of domestic remedies);Preliminary objection dismissed (Article 35-1 - Exhaustion of domestic remedies);Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);No violation of Article 2 - Right to life (Article 2-1 - Life) (Substantive aspect);Violation of Article 13+3 - Right to an effective remedy (Article 13 - Effective remedy) (Article 3 - Prohibition of torture;Degrading treatment);Pecuniary damage - award (Article 41 - Pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2015:0707JUD006012511",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-156243",
+  "summary": "In the case of V.M. and Others v. Belgium, the applicants were a Serbian Roma family—Mr. V.M., Mrs. G.S.M., and their children—who sought asylum in Belgium after experiencing severe discrimination and hardship in Serbia and Kosovo due to their Roma identity. The family’s vulnerability was heightened by their eldest daughter’s significant disabilities and the mother’s pregnancy, making their need for stability and medical care especially urgent. After unsuccessful asylum attempts in France and a return to Serbia, the family arrived in Belgium in March 2011, where they applied for asylum. Belgian authorities, applying the Dublin II Regulation, ordered their return to France, despite the family’s explanations of their precarious situation and health needs. The applicants were given only seven days to leave, and their attempts to provide evidence of their circumstances were not adequately considered.\n\nThe European Court of Human Rights examined Articles 3 (prohibition of inhuman or degrading treatment) and 13 (right to an effective remedy), finding that Belgium had violated both. The Court held that the authorities failed to assess the family’s vulnerability and health needs before ordering their removal, and that the available remedies were not sufficiently effective. Pecuniary damages were awarded to the applicants. This judgment is significant as it reinforces the obligation of states to consider the specific vulnerabilities of Roma and Traveller families, particularly in asylum and removal proceedings, against a backdrop of persistent discrimination and exclusion across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:31:05.004515+00:00"
+}

@@ -1,0 +1,28 @@
+{
+  "itemid": "001-107364",
+  "title": "CASE OF V.C. v. SLOVAKIA",
+  "date": "2011-11-08",
+  "country": "SVK",
+  "importance": "1",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "13",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "8"
+  ],
+  "nonviolations": [
+    "3",
+    "13"
+  ],
+  "conclusion": "Violation of Art. 3 (substantive aspect);No violation of Art. 3 (procedural aspect);Violation of Art. 8;No violation of Art. 13;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2011:1108JUD001896807",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-107364",
+  "summary": "The applicant, Ms V.C., born in 1980, is a Roma woman from Jarovnice, Slovakia, with Slovakia as the State respondent before the European Court of Human Rights. She identifies as Roma, and Slovakia is the State against which the case was brought.\n\nHer vulnerability centers on forced sterilisation of a Roma woman, an irreversible medical intervention carried out under coercive circumstances, accompanied by segregation in hospital facilities.\n\nOn 23 August 2000 she was admitted for delivery at Prešov Hospital. During labour she requested sterilisation; she was told a further pregnancy could be fatal. In fear she signed the record \"Patient requests sterilisation\" and the tubal ligation was performed at 12:10 p.m. The record notes her Roma origin; she was placed in a Roma-only ward. Later she faced infertility and psychological distress, including a false pregnancy (2007–2008) and psychiatric treatment in 2008, with divorce in 2009.\n\nThe Court examined Articles 3, 8, 8-1 and 13, and awarded non-pecuniary damages under Article 41, finding a violation of Article 3, substantive, and of Article 8; it found no violation of Article 3 procedural or Article 13.\n\nSignificance: The ruling affirms Roma bodily integrity and private life against coercive medical practices, highlighting ongoing discrimination; it sits within a broader history of forced sterilisation of Roma women in Slovakia.",
+  "model": "gpt-5-nano-2025-08-07",
+  "summarized_at": "2026-05-09T17:14:30.919613+00:00"
+}

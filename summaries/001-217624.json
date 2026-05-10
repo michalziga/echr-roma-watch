@@ -1,0 +1,26 @@
+{
+  "itemid": "001-217624",
+  "title": "CASE OF X AND OTHERS v. ALBANIA",
+  "date": "2022-05-31",
+  "country": "ALB",
+  "importance": "3",
+  "articles": [
+    "14",
+    "37",
+    "37-1-a",
+    "41",
+    "46",
+    "46-2",
+    "P12-1"
+  ],
+  "violations": [
+    "P12-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Struck out of the list (Art. 37) Striking out applications-{general};(Art. 37-1-a) Absence of intention to pursue application;Violation of Article 1 of Protocol No. 12 - General prohibition of discrimination (Article 1 of Protocol No. 12 - General prohibition of discrimination);Respondent State to take individual measures (Article 46-2 - Individual measures);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2022:0531JUD007354817",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-217624",
+  "summary": "In X and Others v. Albania, the applicants were children from Roma and Egyptian communities attending the “Naim Frashëri” elementary school in Korça, Albania. The case focused on the vulnerability of Roma and Egyptian pupils who, over several academic years, made up between 89% and 100% of the school’s population. This concentration resulted from a food assistance programme intended to boost attendance among Roma and Egyptian children, but which inadvertently led to their segregation from other pupils. Despite recommendations from Albania’s Commissioner for the Protection from Discrimination and the People’s Advocate to address this imbalance, the authorities’ measures—such as expanding food support and proposing school mergers—failed to significantly alter the school’s ethnic composition. By the 2019/20 academic year, Roma and Egyptian pupils still accounted for 60–90% of the school’s enrolment, with applicants alleging that non-Roma/Egyptian pupils were only nominally registered.\n\nThe European Court of Human Rights examined the case under Article 1 of Protocol No. 12 (general prohibition of discrimination) and found a violation, recognising that the applicants had suffered indirect discrimination in access to education. The Court awarded non-pecuniary damages and required Albania to take individual measures. Notably, the judgment underscores that even well-intentioned policies can perpetuate segregation if not carefully implemented and monitored.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:39:13.050402+00:00"
+}

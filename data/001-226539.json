@@ -19,10 +19,11 @@
   "full_text_length": 12797,
   "fetched_at": "2026-04-26T18:34:16.267265+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves applicants explicitly identified as part of a Roma community, alleging police violence (Art. 3) and racial discrimination (Art. 14) during an intervention in their community, highlighting their vulnerability and the relevance of their Roma identity to the alleged violations.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:31:03.046308+00:00",
+  "filtered_at": "2026-05-10T18:20:00.377160+00:00",
   "summary": "In the case of Kováčová and Others v. Slovakia, the applicants, Veronika Kováčová, Nikola Miková, and Milan Miko, belong to the Roma community in Slovakia. The case centers on alleged police violence against Roma individuals during a police intervention in Zborov on April 16, 2017. The police were called to address escalating violence within the Roma community, which led to the use of coercive measures, including batons. The applicants claimed they were subjected to racially motivated ill-treatment by the police and that the investigation into these actions was ineffective and biased. The European Court of Human Rights found the application inadmissible, concluding that there was no objective evidence of ill-treatment or racial motivation, and the investigation was deemed sufficiently independent. Articles 3, 8, 13, and 14 of the European Convention on Human Rights were considered, but no violations were found. This case highlights ongoing concerns about police conduct and accountability in Roma communities, reflecting historical tensions and systemic issues of discrimination and marginalization faced by Roma and Travellers in Europe.",
   "summary_generated_at": "2026-04-27T00:18:55.263150+00:00",
-  "refiltered_at": "2026-05-08T14:31:03.046308+00:00"
+  "refiltered_at": "2026-05-10T18:20:00.377160+00:00",
+  "summary_model": null
 }

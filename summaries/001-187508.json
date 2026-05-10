@@ -1,0 +1,35 @@
+{
+  "itemid": "001-187508",
+  "title": "CASE OF BURLYA AND OTHERS v. UKRAINE",
+  "date": "2018-11-06",
+  "country": "UKR",
+  "importance": "3",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "14",
+    "14+3",
+    "14+8-1",
+    "35",
+    "35-3-a",
+    "37",
+    "37-1",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "8",
+    "8-1",
+    "14",
+    "14+3",
+    "14+8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Struck out of the list (Art. 37) Striking out applications-{general};(Art. 37-1) Striking out applications;Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Manifestly ill-founded;(Art. 35-3-a) Ratione materiae;Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Degrading treatment);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation);Violation of Article 14+8-1 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life;Article 8-1 - Respect for family life;Respect for home;Respect for private life);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2018:1106JUD000328910",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-187508",
+  "summary": "In the case of Burlya and Others v. Ukraine, the applicants were Ukrainian nationals of Roma ethnicity who had lived in the village of Petrivka, Odessa Region. The case concerned the vulnerability of Roma and Travellers to collective violence and the failure of state authorities to protect them from discrimination and forced displacement. On 7 September 2002, following the murder of a local youth allegedly by a Romany man, tensions escalated in the village. Over the next days, local officials and police attended meetings where the expulsion of Roma residents was discussed and ultimately supported. On 9 September, the applicants were warned by police to leave the village as a violent mob was expected. That night, a crowd ransacked and destroyed Roma homes, while police present failed to intervene, resulting in the applicants losing their homes and being forced to sell their properties at a loss.\n\nThe European Court of Human Rights examined violations of Article 3 (prohibition of inhuman or degrading treatment), Article 8 (right to respect for private and family life), and Article 14 (prohibition of discrimination), including their intersections. The Court found that Ukraine had failed to protect the applicants from discriminatory violence and had not conducted an effective investigation, awarding non-pecuniary damages. This judgment is significant as it highlights the persistent vulnerability of Roma and Travellers in Europe to mob violence and state inaction, reflecting a long history of discrimination and forced displacement across the continent.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:35:03.808436+00:00"
+}

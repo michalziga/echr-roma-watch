@@ -1,0 +1,28 @@
+{
+  "itemid": "001-96100",
+  "title": "CASE OF MUÑOZ DÍAZ v. SPAIN",
+  "date": "2009-12-08",
+  "country": "ESP",
+  "importance": "1",
+  "articles": [
+    "12",
+    "14",
+    "14+12",
+    "14+P1-1",
+    "P1-1",
+    "P1-1-1",
+    "41"
+  ],
+  "violations": [
+    "14+P1-1",
+    "14",
+    "P1-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Remainder inadmissible;Violation of Art. 14+P1-1;Pecuniary and non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2009:1208JUD004915107",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-96100",
+  "summary": "In the case of Muñoz Díaz v. Spain, the applicant, Ms. María del Rosario Muñoz Díaz, a Spanish national belonging to the Roma community, brought a complaint against Spain after being denied a survivor’s pension following her husband’s death. The case highlighted the vulnerability of Roma individuals whose marriages, solemnised according to their community’s customs, are not recognised by state authorities, leading to exclusion from social security benefits. Ms. Muñoz Díaz and her late husband were married in 1971 in a Roma ceremony, a union fully recognised within their community and by Spanish society, as evidenced by their family record book and large-family status. However, when her husband died in 2000 after nearly two decades of social security contributions, Ms. Muñoz Díaz’s application for a survivor’s pension was rejected solely because their marriage was not registered under Spanish civil or religious law. The European Court of Human Rights examined the case under Article 14 (prohibition of discrimination) in conjunction with Article 1 of Protocol No. 1 (protection of property), finding that Spain’s refusal amounted to discrimination based on her Roma identity and marital status. The Court awarded both pecuniary and non-pecuniary damages. This judgment is significant as it recognises the rights of Roma and Travellers to have their family life and community traditions respected, addressing a long history of legal and social marginalisation in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:21:21.691185+00:00"
+}

@@ -19,8 +19,11 @@
   "full_text_length": 20208,
   "fetched_at": "2026-04-26T18:49:09.243623+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are explicitly identified as residing in \"Roma\" in the statement of facts (paragraph 5), which indicates their Roma identity.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicants are explicitly identified as residing in \"Roma\" in paragraph 5 of the facts section.",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-09T13:53:47.126396+00:00",
-  "refiltered_at": "2026-05-09T13:53:47.126396+00:00"
+  "filtered_at": "2026-05-10T19:31:07.817910+00:00",
+  "refiltered_at": "2026-05-10T19:31:07.817910+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

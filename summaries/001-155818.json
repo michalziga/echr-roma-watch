@@ -1,0 +1,32 @@
+{
+  "itemid": "001-155818",
+  "title": "AFFAIRE V.M. ET AUTRES c. BELGIQUE",
+  "date": "2015-07-07",
+  "country": "BEL",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "3",
+    "13",
+    "13+3",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "13",
+    "13+3"
+  ],
+  "nonviolations": [
+    "2",
+    "2-1"
+  ],
+  "conclusion": "Exception préliminaire jointe au fond (Article 35-1 - Epuisement des voies de recours internes);Exception préliminaire rejetée (Article 35-1 - Epuisement des voies de recours internes);Violation de l'article 3 - Interdiction de la torture (Article 3 - Traitement dégradant) (Volet matériel);Non-violation de l'article 2 - Droit à la vie (Article 2-1 - Vie) (Volet matériel);Violation de l'article 13+3 - Droit à un recours effectif (Article 13 - Recours effectif) (Article 3 - Interdiction de la torture;Traitement dégradant);Dommage matériel - réparation (Article 41 - Dommage matériel;Satisfaction équitable)",
+  "ecli": "ECLI:CE:ECHR:2015:0707JUD006012511",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-155818",
+  "summary": "In the case of V.M. and Others v. Belgium, the applicants were a Serbian Roma family—Mr. V.M., Ms. G.S.M., and their children—who sought asylum in Belgium after fleeing discrimination and hardship in Serbia and Kosovo. Their vulnerability was heightened by their Roma identity and the severe health needs of their eldest daughter, who was disabled and suffered from epilepsy. After unsuccessful asylum attempts in France and a return to Serbia, the family arrived in Belgium in March 2011 and applied for asylum. Belgian authorities, applying the EU “Dublin II” Regulation, ordered the family to return to France and, crucially, withdrew their access to reception facilities and material support before their asylum procedure was fully resolved. As a result, from late September 2011, the family, including young children and a pregnant mother, were left homeless in Brussels for several weeks, relying on public spaces and charity for survival.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and Article 13 (right to an effective remedy). The Court found that Belgium had violated Article 3 by exposing the family to degrading living conditions and Article 13 in conjunction with Article 3 for failing to provide an effective remedy. The applicants were awarded compensation for material damage. This judgment is significant as it highlights the particular risks faced by Roma and Traveller families in the asylum process, especially when state procedures fail to account for their heightened vulnerability—a recurring issue in Europe’s recent migration history.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:30:53.842311+00:00"
+}

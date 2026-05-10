@@ -1,0 +1,25 @@
+{
+  "itemid": "001-110918",
+  "title": "CASE OF NACIC AND OTHERS v. SWEDEN",
+  "date": "2012-05-15",
+  "country": "SWE",
+  "importance": "3",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "8-2"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "3",
+    "8",
+    "8-1"
+  ],
+  "conclusion": "No violation of Article 3 - Prohibition of torture (Article 3 - Expulsion) (Conditional) (Serbia);No violation of Article 8 - Right to respect for private and family life (Article 8 - Expulsion;Article 8-1 - Respect for family life)",
+  "ecli": "ECLI:CE:ECHR:2012:0515JUD001656710",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-110918",
+  "summary": "In the case of Nacic and Others v. Sweden, the applicants—Mr. Sladjan Nacic, his wife Jelena Nacic, and their two sons—are a family of Roma descent who fled Kosovo in 1999 due to threats and violence linked to the conflict and their ethnicity. The core vulnerability in this case was the risk of harm the family faced as Roma, including discrimination and difficulties accessing health care if returned to Kosovo or Serbia, compounded by serious mental health issues within the family. After hiding in Kosovo for several years, the family arrived in Sweden in 2006 and sought asylum, citing both past trauma and ongoing psychological distress. Swedish authorities rejected their applications, questioning their Roma identity and finding insufficient evidence of persecution or risk upon return, despite medical reports indicating depression, post-traumatic stress disorder, and suicide attempts among the applicants. The European Court of Human Rights examined their complaints under Article 3 (prohibition of inhuman or degrading treatment) and Article 8 (right to respect for private and family life) of the Convention. The Court found no violation of either article, concluding that the applicants had not demonstrated a real risk of treatment contrary to Article 3 or a breach of their family life under Article 8 if returned. This case highlights the ongoing challenges Roma and Traveller families face in proving both their identity and the specific risks of discrimination and exclusion in asylum proceedings, against a backdrop of persistent marginalisation in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:21:24.128671+00:00"
+}

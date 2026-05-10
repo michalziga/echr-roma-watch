@@ -1,0 +1,27 @@
+{
+  "itemid": "001-93258",
+  "title": "CASE OF BEGANOVIĆ v. CROATIA",
+  "date": "2009-06-25",
+  "country": "HRV",
+  "importance": "2",
+  "articles": [
+    "3",
+    "14",
+    "14+3",
+    "41"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [
+    "14+3",
+    "14",
+    "3"
+  ],
+  "conclusion": "Violation of Art. 3;No violation of Art. 14+3;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2009:0625JUD004642306",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-93258",
+  "summary": "In the case of Beganović v. Croatia, the applicant, Mr. Darko Beganović, is of Roma origin and resides in Luka, Croatia. The case highlights the vulnerability of Roma individuals to violent attacks and the failure of state authorities to provide effective protection and investigation, particularly when the victim belongs to a minority group. On 23 April 2000, Mr. Beganović was attacked by a group of young men, some of whom had previously been involved in a conflict with him. The assailants, who had planned the attack, beat him severely, causing him to lose consciousness and sustain grievous bodily injuries, as confirmed by hospital records. Despite Mr. Beganović’s repeated complaints and the clear evidence of serious harm, the Croatian authorities failed to conduct an effective investigation into the incident, especially regarding any possible racist motives behind the attack.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination) in conjunction with Article 3. The Court found a violation of Article 3 due to the authorities’ failure to investigate the attack effectively but did not find a separate violation of Article 14 taken together with Article 3. Mr. Beganović was awarded non-pecuniary damages for the harm suffered.\n\nThis judgment is significant as it reinforces the obligation of states to protect Roma and Traveller individuals from violence and to ensure prompt, thorough investigations, reflecting ongoing concerns about the treatment of Roma communities in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:20:27.352932+00:00"
+}

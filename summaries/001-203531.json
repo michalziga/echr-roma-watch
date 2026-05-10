@@ -1,0 +1,21 @@
+{
+  "itemid": "001-203531",
+  "title": "RAYNOVI v. BULGARIA",
+  "date": "2020-06-02",
+  "country": "BGR",
+  "importance": "4",
+  "articles": [
+    "2",
+    "2-1",
+    "13",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2020:0602DEC005330418",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-203531",
+  "summary": "In Raynovi v. Bulgaria, the applicants, Mr. Dragomir Lyubomirov Raynov and Ms. Galina Borisova Raynova, Bulgarian nationals, brought a case against Bulgaria following the violent death of their son, B.R., during a neighbourhood conflict in Sofia on 4 July 2010. The events unfolded in a predominantly Roma neighbourhood, with the applicants’ son becoming involved in a brawl that escalated into mob violence. The initial quarrel began between two neighbours—one allegedly of Bulgarian ethnic origin and the other allegedly of Roma origin—over property occupation. After the dispute intensified, a large group, apparently from the Roma community, gathered, and B.R. was fatally beaten by several individuals after a series of confrontations.\n\nThe applicants argued that the police failed to protect their son’s life, invoking Article 2 of the European Convention on Human Rights (right to life). They claimed the authorities should have anticipated the risk of escalation, given the location and the dynamics of the conflict, and criticised the delayed and insufficient police response. The European Court of Human Rights examined whether the police had a positive obligation to prevent the killing. The Court found no evidence that the authorities knew or ought to have known of a real and immediate risk to B.R.’s life before the violence erupted, nor that the situation was so volatile as to require a different operational response. The application was declared inadmissible, with the Court concluding that the police response did not breach Article 2.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:36:43.914389+00:00"
+}

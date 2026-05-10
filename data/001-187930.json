@@ -19,8 +19,11 @@
   "full_text_length": 106051,
   "fetched_at": "2026-04-26T18:37:06.486776+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma community, specifically schoolchildren who were threatened by football supporters, and the Court's judgment highlights the importance of freedom of expression in addressing hate speech against Roma, making their identity legally relevant to the violation of Article 10.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T19:10:57.126166+00:00",
-  "refiltered_at": "2026-05-08T19:10:57.126166+00:00"
+  "filtered_at": "2026-05-10T18:37:34.101000+00:00",
+  "refiltered_at": "2026-05-10T18:37:34.101000+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

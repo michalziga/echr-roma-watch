@@ -1,0 +1,32 @@
+{
+  "itemid": "001-167089",
+  "title": "AFFAIRE BAGDONAVICIUS ET AUTRES c. RUSSIE",
+  "date": "2016-10-11",
+  "country": "RUS",
+  "importance": "3",
+  "articles": [
+    "8",
+    "8-1",
+    "8-2",
+    "34",
+    "35",
+    "35-1",
+    "35-3",
+    "37",
+    "37-1",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [
+    "34"
+  ],
+  "conclusion": "Exception préliminaire rejetée (Article 35-1 - Epuisement des voies de recours internes);Exception préliminaire rejetée (Article 35-3 - Requête abusive);Exception préliminaire jointe au fond et rejetée (Article 34 - Victime);Radiation du rôle (Article 37-1 - Radiation du rôle);Partiellement irrecevable (Article 35-1 - Epuisement des voies de recours internes);Violation de l'article 8 - Droit au respect de la vie privée et familiale (Article 8-1 - Respect du domicile);Non-violation de l'article 34 - Requêtes individuelles (Article 34 - Entraver l'exercice du droit de recours);Dommage matériel et préjudice moral - réparation (Article 41 - Préjudice moral;Dommage matériel;Satisfaction équitable)",
+  "ecli": "ECLI:CE:ECHR:2016:1011JUD001984106",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-167089",
+  "summary": "In the case of Bagdonavicius and Others v. Russia, the applicants were members of six Roma families who had lived for decades in the village of Dorojnoe, in the Kaliningrad region. As Roma, they belonged to a group historically subjected to forced settlement policies and ongoing discrimination in Russia. The heart of the case was the vulnerability of these Roma families, who faced eviction and demolition of their homes, threatening their right to respect for private and family life and their established community ties.\n\nThe facts revealed that, following a 1956 Soviet decree forcing Roma to settle, the applicants’ families built homes in Dorojnoe, some registering their addresses and obtaining official documents. However, after the dissolution of the USSR, many did not formalise property rights. In the early 2000s, local authorities initially planned to develop the village but later reversed course, instead targeting the Roma community with negative public statements and associating the village with drug trafficking. Between 2005 and 2006, authorities initiated proceedings that led to the demolition of the applicants’ homes, despite their attempts to regularise their situation.\n\nThe European Court of Human Rights examined the case under Article 8 of the Convention, which protects the right to respect for private and family life and home. The Court found a violation of Article 8, holding that the evictions and demolitions were disproportionate and failed to adequately consider the applicants’ long-standing ties to their homes. The Court awarded both pecuniary and non-pecuniary damages.\n\nThis judgment is significant as it highlights the persistent challenges Roma and Traveller communities face regarding housing rights and state-led evictions, reflecting a broader historical context of marginalisation and forced displacement across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:32:05.241006+00:00"
+}

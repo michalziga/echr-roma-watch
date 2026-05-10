@@ -1,0 +1,23 @@
+{
+  "itemid": "001-77218",
+  "title": "AFFAIRE PREZIOSI c. ITALIE",
+  "date": "2006-10-05",
+  "country": "ITA",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6-1",
+    "29",
+    "29-3",
+    "P1-1",
+    "P1-1-1"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Violation de P1-1;Non-lieu à examiner l'art. 6-1;Satisfaction équitable réservée",
+  "ecli": "ECLI:CE:ECHR:2006:1005JUD006712501",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-77218",
+  "summary": "In Preziosi v. Italy, the applicants—members of the Roma and Travellers community—brought a case against the Italian state concerning the loss of their property rights. The core vulnerability at issue was the deprivation of land owned by the applicants, a harm that has historically affected Roma and Travellers, who often face insecure property rights and inadequate legal protection. The applicants, born in 1930, 1909, and 1928 and residing in Rome, owned a plot of land in Avellino. In 1979, the municipality authorised the urgent occupation of their land for public housing construction, with a maximum period of five years. However, after the expiry of this period, the authorities continued to occupy the land without formal expropriation or compensation. Despite legal proceedings initiated by the applicants in 1985, the land was never formally expropriated, and compensation was delayed and contested for years, with the case still pending domestically at the time of the Strasbourg judgment.\n\nThe European Court of Human Rights examined the case under Article 1 of Protocol No. 1 (protection of property) and found a violation, holding that the applicants had been deprived of their property in circumstances incompatible with the Convention. The Court reserved the question of just satisfaction for a later stage. This judgment is significant for Roma and Travellers’ rights, as it highlights the persistent risks of property loss and legal uncertainty faced by these communities in Europe, reflecting a broader historical pattern of marginalisation and dispossession.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:12:02.799241+00:00"
+}

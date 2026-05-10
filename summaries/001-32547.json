@@ -1,0 +1,19 @@
+{
+  "itemid": "001-32547",
+  "title": "ROMA contre l'ITALIE",
+  "date": "1999-10-26",
+  "country": "ITA",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6-1"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Recevable",
+  "ecli": "ECLI:CE:ECHR:1999:1026DEC004588799",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-32547",
+  "summary": "In the case of Roma v. Italy, the applicant, Mr. Roma, an Italian national residing in Salerno, brought a complaint against the Italian state. The applicant’s surname is “Roma,” but the judgment does not indicate that he belongs to the Roma or Traveller communities as defined by the Council of Europe; rather, he is described simply as an Italian citizen. The case does not concern Roma-related vulnerability or exclusion, but instead focuses on the excessive length of civil proceedings in Italy.\n\nThe facts of the case began on 15 May 1989, when Mr. Roma obtained a payment order against the municipality of Controne. The municipality opposed the order, and litigation commenced before the Salerno tribunal on 13 June 1989. Over the next decade, the proceedings were marked by repeated delays: hearings were postponed for various reasons, including judicial strikes, the absence of an expert, and administrative issues. By 20 September 1999, more than ten years after the case began, the proceedings were still pending.\n\nThe European Court of Human Rights examined the complaint under Article 6 § 1 of the Convention, which guarantees the right to a fair trial within a reasonable time. The Court declared the application admissible, finding that the length of the proceedings warranted further examination. No violation or remedy was determined at this stage, as the decision was limited to admissibility. This case is notable for its focus on procedural delay rather than minority rights.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:43:32.951744+00:00"
+}

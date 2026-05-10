@@ -19,8 +19,11 @@
   "full_text_length": 112500,
   "fetched_at": "2026-04-26T18:38:25.724229+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Rule 3 hard check).",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T20:40:38.588010+00:00",
-  "refiltered_at": "2026-05-08T20:40:38.588010+00:00"
+  "filtered_at": "2026-05-10T18:39:28.959551+00:00",
+  "refiltered_at": "2026-05-10T18:39:28.959551+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

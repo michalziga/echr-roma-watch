@@ -1,0 +1,24 @@
+{
+  "itemid": "001-249250",
+  "title": "CASE OF KURUOVÁ AND HORVÁTHOVÁ v. SLOVAKIA",
+  "date": "2026-03-26",
+  "country": "SVK",
+  "importance": "4",
+  "articles": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Effective investigation)",
+  "ecli": "ECLI:CE:ECHR:2026:0326JUD002922922",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-249250",
+  "summary": "In Kuruová and Horváthová v. Slovakia, the applicants, Ms Katarína Kuruová and Ms Helena Horváthová, are two sisters of Roma origin living in Milhosť, eastern Slovakia. Their case concerned police violence and ethnic discrimination during and after their arrest on 23 July 2019. The incident began after an altercation involving their relatives at a local pub, which led to police intervention. When the applicants arrived at the scene to understand the situation, a police patrol later came to Ms Kuruová’s house, arrested both women, and took them to the police station in Čaňa. During the arrest, the applicants alleged that police officers used excessive force—grabbing, hitting, and kicking them—and subjected them to ethnic slurs such as “gypsies” and “degenerates.” Medical examinations the following day confirmed injuries consistent with their account, including a fractured finger, contusions, and spinal injuries.\n\nDespite the applicants’ prompt complaints and medical evidence, the domestic investigation was suspended, with authorities relying heavily on an expert report that did not rule out police involvement but also suggested the injuries could have resulted from a fall. The European Court of Human Rights found Slovakia in violation of Article 3 (prohibition of inhuman and degrading treatment) both substantively and procedurally, and Article 14 taken with Article 3 (prohibition of discrimination), citing the authorities’ failure to adequately investigate the possibility of ethnically motivated police violence. The Court specifically noted the discriminatory language used by police and the lack of a thorough, impartial investigation into the applicants’ Roma identity as a factor in their treatment.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:43:28.957469+00:00"
+}

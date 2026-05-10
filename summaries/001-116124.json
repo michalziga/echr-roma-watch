@@ -1,0 +1,25 @@
+{
+  "itemid": "001-116124",
+  "title": "CASE OF HORVÁTH AND KISS v. HUNGARY",
+  "date": "2013-01-29",
+  "country": "HUN",
+  "importance": "3",
+  "articles": [
+    "14",
+    "14+P1-2",
+    "35",
+    "P1-2"
+  ],
+  "violations": [
+    "14",
+    "14+P1-2",
+    "P1-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Remainder inadmissible;Violation of Article 14+P1-2 - Prohibition of discrimination (Article 14 - Discrimination) (Article 2 of Protocol No. 1 - Right to education-{general})",
+  "ecli": "ECLI:CE:ECHR:2013:0129JUD001114611",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-116124",
+  "summary": "In Horváth and Kiss v. Hungary, the applicants, two young Roma men from Nyíregyháza, challenged the Hungarian state after being placed in a remedial school for children with mental disabilities. Both applicants, who identify as Roma, argued that their misdiagnosis and subsequent segregation into special education reflected a broader pattern of discrimination against Roma and Traveller children in Hungary. The heart of the case lay in the vulnerability of Roma children to systemic misdiagnosis, which led to their overrepresentation in special schools and limited their educational and professional opportunities.\n\nThe events unfolded in the early 2000s, when the applicants were diagnosed as having mental disabilities and sent to the Göllesz Viktor Remedial Primary and Vocational School, where Roma students made up nearly half the population despite being a small minority in the general student body. This placement restricted their access to mainstream education and the Baccalaureate, curtailing their ambitions and future prospects. The applicants’ parents were not properly informed of the process or their rights, and the diagnostic procedures failed to consider cultural and linguistic differences.\n\nThe European Court of Human Rights examined the case under Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 1 (right to education), finding that Hungary had violated both provisions. The Court held that the state had failed to take adequate safeguards to prevent discrimination against Roma children in the education system. This judgment is significant as it highlights the persistent issue of educational segregation of Roma and Traveller children in Europe, a practice rooted in decades of systemic discrimination and misdiagnosis.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:28:56.799840+00:00"
+}

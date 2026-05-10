@@ -1,0 +1,23 @@
+{
+  "itemid": "001-163437",
+  "title": "CASE OF PILAV v. BOSNIA AND HERZEGOVINA",
+  "date": "2016-06-09",
+  "country": "BIH",
+  "importance": "3",
+  "articles": [
+    "34",
+    "41",
+    "P1-3",
+    "P12-1"
+  ],
+  "violations": [
+    "P12-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection joined to merits and dismissed (Article 34 - Victim);Violation of Article 1 of Protocol No. 12 - General prohibition of discrimination;Pecuniary damage - claim dismissed (Article 41 - Pecuniary damage;Just satisfaction);Non-pecuniary damage - finding of violation sufficient (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2016:0609JUD004193907",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-163437",
+  "summary": "The case of Pilav v. Bosnia and Herzegovina concerned Dr. Ilijaz Pilav, a Bosniac (Bosniak) politician from Srebrenica, in the Republika Srpska entity. Although not a member of the Roma or Traveller communities, Dr. Pilav’s situation is relevant for understanding discrimination based on ethnic origin in the context of political participation. In 2006, Dr. Pilav sought to stand as a candidate for the Presidency of Bosnia and Herzegovina. However, the Central Election Commission rejected his candidacy, explaining that under the Constitution and Election Act, only Serbs residing in Republika Srpska could stand for election from that entity, while Bosniacs and Croats could only stand from the Federation of Bosnia and Herzegovina. Dr. Pilav’s appeals to the domestic courts were unsuccessful, with the Constitutional Court justifying the restriction as necessary for maintaining peace and the constitutional order established by the Dayton Agreement.\n\nThe European Court of Human Rights examined the case under Article 1 of Protocol No. 12, which prohibits discrimination. The Court found that Dr. Pilav had been excluded from standing for election solely because of his ethnic origin and place of residence, amounting to unjustified discrimination. The Court held that Bosnia and Herzegovina had violated Article 1 of Protocol No. 12. No pecuniary damages were awarded, and the finding of a violation was deemed sufficient satisfaction. This judgment reinforces the principle that constitutional arrangements, even those rooted in peace agreements, must not perpetuate ethnic discrimination in political rights.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:35:31.815517+00:00"
+}

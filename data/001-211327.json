@@ -19,10 +19,11 @@
   "full_text_length": 46608,
   "fetched_at": "2026-04-26T18:35:19.491870+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a group of Roma applicants represented by the European Roma Rights Centre (ERRC), alleging violations of Articles 3 and 8 due to the demolition of their homes and lack of alternative accommodation, with their Roma identity being central to the context of vulnerability and discrimination in the eviction process.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:16:57.531308+00:00",
+  "filtered_at": "2026-05-10T18:21:44.862397+00:00",
   "summary": "In the case of Bekir and Others v. North Macedonia, the applicants, belonging to the Roma community, challenged the demolition of their informal settlement in Skopje. The case centered on the vulnerability of Roma communities regarding housing rights and forced evictions. The applicants, including children, a pregnant woman, and a disabled child, lived in makeshift dwellings on state-owned land intended for a public road. Despite poor living conditions, they refused alternative accommodation in a homeless shelter, seeking social flats instead. On August 1, 2016, authorities demolished the settlement, allegedly without proper notification, destroying homes and belongings. The applicants claimed violations of Articles 3, 8, 13, and 14 of the European Convention on Human Rights, among others. However, the European Court of Human Rights declared the application inadmissible, finding no violation of the Convention. This case highlights the ongoing challenges faced by Roma communities in securing adequate housing and the complexities of state obligations under the Convention. Historically, Roma communities in Europe have faced systemic discrimination and marginalization, making access to secure housing a persistent issue.",
   "summary_generated_at": "2026-04-27T00:22:48.259828+00:00",
-  "refiltered_at": "2026-05-08T18:16:57.531308+00:00"
+  "refiltered_at": "2026-05-10T18:21:44.862397+00:00",
+  "summary_model": null
 }

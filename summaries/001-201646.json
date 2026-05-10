@@ -1,0 +1,34 @@
+{
+  "itemid": "001-201646",
+  "title": "CASE OF HUDOROVIČ AND OTHERS v. SLOVENIA",
+  "date": "2020-03-10",
+  "country": "SVN",
+  "importance": "1",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "14",
+    "14+3",
+    "14+8",
+    "34",
+    "35",
+    "35+8-1",
+    "35-3-a"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "3",
+    "8",
+    "8-1",
+    "14",
+    "14+3",
+    "14+8"
+  ],
+  "conclusion": "Preliminary objection joined to merits (Art. 35) Admissibility criteria;(Art. 35-3-a) Abuse of the right of application;Preliminary objection joined to merits (Art. 34) Individual applications;(Art. 34) Victim;Preliminary objection joined to merits (Art. 35) Admissibility criteria;(Art. 35-3-a) Ratione materiae;No violation of Article 8 - Right to respect for private and family life (Article 8 - Positive obligations;Article 8-1 - Respect for home;Respect for private life);No violation of Article 8 - Right to respect for private and family life (Article 8 - Positive obligations;Article 8-1 - Respect for home;Respect for private life);No violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8-1 - Respect for home;Respect for private life;Article 8 - Right to respect for private and family life;Positive obligations);No violation of Article 3 - Prohibition of torture (Article 3 - Positive obligations);No violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture;Positive obligations)",
+  "ecli": "ECLI:CE:ECHR:2020:0310JUD002481614",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-201646",
+  "summary": "In Hudorovič and Others v. Slovenia, the applicants, Mr. Branko Hudorovič and his son Aleks Kastelic, are members of the Roma community living in the informal settlement of Goriča vas in Ribnica Municipality, Slovenia. Their case highlighted the acute vulnerability of Roma and Travellers who, due to irregular settlement status, face exclusion from essential public utilities such as safe drinking water and sanitation. The applicants lived in makeshift wooden huts without access to water, sewage, or sanitation, relying on polluted streams or distant sources for water and using open areas for defecation. Despite repeated requests to local authorities and attempts to regularise their situation, the settlement’s informal status and legal restrictions on building permits prevented connection to public infrastructure. The European Court of Human Rights examined the case under Articles 3 (prohibition of inhuman or degrading treatment), 8 (right to respect for private and family life), and 14 (prohibition of discrimination), but found no violation, concluding that Slovenia had not failed in its positive obligations given the complex legal and factual context. This judgment is significant as it underscores the persistent barriers Roma and Traveller communities face in accessing basic services, reflecting broader historical patterns of marginalisation across Europe despite evolving legal protections.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:36:19.308701+00:00"
+}

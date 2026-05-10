@@ -1,0 +1,31 @@
+{
+  "itemid": "001-83258",
+  "title": "AFFAIRE D.H. ET AUTRES c. REPUBLIQUE TCHEQUE",
+  "date": "2007-11-13",
+  "country": "CZE",
+  "importance": "1",
+  "articles": [
+    "14+P1-2",
+    "14",
+    "P1-2",
+    "35",
+    "35-1",
+    "36",
+    "36-2",
+    "41",
+    "46",
+    "46-2"
+  ],
+  "violations": [
+    "14+P1-2",
+    "14",
+    "P1-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Exception préliminaire rejetée (non-épuisement des voies de recours internes);Violation de l'art. 14+P1-2;Mesures générales rejetées;Préjudice moral - réparation pécuniaire;Remboursement partiel frais et dépens",
+  "ecli": "ECLI:CE:ECHR:2007:1113JUD005732500",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-83258",
+  "summary": "In the landmark case of D.H. and Others v. the Czech Republic, the applicants were eighteen children of Roma origin living in Ostrava, Czech Republic. They challenged the practice of placing Roma children in “special schools” intended for pupils with mental disabilities, a system that disproportionately affected Roma and Traveller children. The core harm at issue was the systemic segregation of Roma children in education, which resulted in limited educational opportunities and reinforced social exclusion. Between 1996 and 1999, the applicants were assigned to these special schools based on psychological tests and decisions by school directors, with parental consent often given without full understanding of the consequences. Statistical evidence showed that Roma children in Ostrava were vastly overrepresented in special schools—making up over half of the pupils in such schools, despite being a small minority in the general population. The European Court of Human Rights examined the case under Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 1 (right to education), finding that the Czech Republic had violated these provisions by failing to ensure that placement procedures did not have a disproportionately negative impact on Roma children. The Court awarded moral damages and partial costs to the applicants. This judgment is a milestone for Roma and Traveller rights, highlighting the persistence of educational segregation in Europe and affirming the need for equal access to quality education for all children, regardless of ethnic origin.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:14:24.765926+00:00"
+}

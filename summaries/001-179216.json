@@ -1,0 +1,27 @@
+{
+  "itemid": "001-179216",
+  "title": "CASE OF ALKOVIĆ v. MONTENEGRO",
+  "date": "2017-12-05",
+  "country": "MNE",
+  "importance": "3",
+  "articles": [
+    "8",
+    "8-1",
+    "14",
+    "14+8",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1",
+    "14",
+    "14+8"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 14+8 - Prohibition of discrimination (Article 14 - Discrimination) (Article 8 - Right to respect for private and family life;Positive obligations;Article 8-1 - Respect for private life);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2017:1205JUD006689510",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-179216",
+  "summary": "In the case of Alkovic v. Montenegro, the applicant, Mr. Alkovic, is a Roma and Muslim man who, at the relevant time, lived with his family in Podgorica, Montenegro. The case focused on the vulnerability of Roma and Traveller communities to ethnically and religiously motivated hostility, particularly when state authorities fail to provide effective protection or investigation. Between May and September 2009, Mr. Alkovic and his family endured a series of threatening and degrading incidents from neighbours, including gunshots fired in the direction of his home, repeated use of anti-Roma and anti-Muslim slurs, and a menacing message and cross drawn on his apartment door during a religious holiday. Despite Mr. Alkovic’s repeated complaints and the evidence he provided, the Montenegrin authorities failed to conduct an effective investigation into these incidents or to address the discriminatory motives behind them.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life) in conjunction with Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found that Montenegro had violated both articles by failing to protect Mr. Alkovic from discriminatory attacks and by not investigating the incidents adequately. The Court awarded Mr. Alkovic non-pecuniary damages for the harm suffered. This judgment is significant as it highlights the persistent risks faced by Roma and Traveller communities in Europe and reinforces the obligation of states to actively protect minorities from hate-motivated violence and discrimination, a concern rooted in the long history of marginalisation of Roma and Travellers across the continent.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:33:45.495343+00:00"
+}

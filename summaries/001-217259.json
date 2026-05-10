@@ -1,0 +1,22 @@
+{
+  "itemid": "001-217259",
+  "title": "CASE OF L.F. v. HUNGARY",
+  "date": "2022-05-19",
+  "country": "HUN",
+  "importance": "4",
+  "articles": [
+    "8",
+    "8-1"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for home)",
+  "ecli": "ECLI:CE:ECHR:2022:0519JUD000062114",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-217259",
+  "summary": "In L.F. v. Hungary, the applicant, Mr. L.F., was a resident of Gyöngyöspata and identified in the judgment as a member of the Roma community. The case arose from a period of heightened anti-Roma sentiment in the town, following paramilitary marches and the election of a new mayor associated with the Jobbik party in July 2011. Amidst these tensions, on 13 October 2011, the mayor, accompanied by municipal officials and police officers, entered and inspected every room of Mr. L.F.’s home without prior notice or explanation. The applicant’s wife and children were present during the inspection, which was allegedly recorded on video. The stated justification was to check compliance with housing regulations and to verify eligibility for social benefits, but subsequent investigations revealed there was no legal basis or ongoing procedure that would have permitted such an intrusion.\n\nThe European Court of Human Rights examined the case under Article 8 of the Convention, which protects the right to respect for private and family life, including the home. The Court found that the authorities’ actions constituted an unjustified interference with Mr. L.F.’s home, violating Article 8. The judgment noted that similar inspections had targeted other Roma families in Gyöngyöspata, as reported by the Parliamentary Commissioner for the Rights of National and Ethnic Minorities. This case is significant for its recognition of the discriminatory context in which the violation occurred, highlighting the vulnerability of Roma families to arbitrary and unlawful state action.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:39:05.368909+00:00"
+}

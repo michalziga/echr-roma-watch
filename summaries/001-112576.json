@@ -1,0 +1,26 @@
+{
+  "itemid": "001-112576",
+  "title": "CASE OF M. AND OTHERS v. ITALY AND BULGARIA",
+  "date": "2012-07-31",
+  "country": "BGR;ITA",
+  "importance": "2",
+  "articles": [
+    "3",
+    "4",
+    "4-1",
+    "34",
+    "35"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Preliminary objection partially dismissed (Article 34 - Victim);Preliminary objection partially allowed (Article 34 - Victim);Remainder inadmissible;No violation of Article 3 - Prohibition of torture (Article 3 - Inhuman treatment) (Substantive aspect) (Italy);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect) (Italy)",
+  "ecli": "ECLI:CE:ECHR:2012:0731JUD004002003",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-112576",
+  "summary": "In the case of M. and Others v. Italy and Bulgaria, the applicants—a Roma family from Novo Selo in Bulgaria—brought a complaint against both Italy and Bulgaria. The applicants, who are of Roma ethnic origin, included a minor and her parents, highlighting the particular vulnerability of Roma and Traveller communities to exploitation and abuse, especially when seeking work abroad. In May 2003, the family travelled to Italy after being promised employment by another Roma individual. Upon arrival, they were accommodated in a villa in Ghislarengo, where the minor was allegedly subjected to forced labour, physical abuse, and repeated sexual violence, while her parents were threatened and forced to return to Bulgaria. The mother later returned to Italy to report the kidnapping and abuse to the police, but the authorities responded slowly, and the minor was only rescued after an eighteen-day delay. During police questioning, the applicants alleged further mistreatment and inadequate interpretation.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of torture and inhuman or degrading treatment) of the European Convention on Human Rights. While the Court found no substantive violation of Article 3 by Italy regarding the treatment itself, it held that Italy had failed to conduct an effective investigation into the applicants’ allegations, thus violating the procedural aspect of Article 3. This case is significant as it underscores the persistent risks of trafficking and abuse faced by Roma and Traveller communities in Europe, and the critical importance of prompt, thorough investigations by authorities—a concern that remains highly relevant given the historical marginalisation of Roma and Travellers across the continent.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:22:33.599667+00:00"
+}

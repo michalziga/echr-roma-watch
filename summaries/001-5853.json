@@ -1,0 +1,22 @@
+{
+  "itemid": "001-5853",
+  "title": "SMITH v. THE UNITED KINGDOM",
+  "date": "2001-05-03",
+  "country": "GBR",
+  "importance": "4",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "8-2",
+    "14"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2001:0503DEC003433496",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-5853",
+  "summary": "In Smith v. the United Kingdom, the applicants, Beatrice and John Smith, are Romany Gypsies—members of the Roma and Travellers communities—who brought a case against the United Kingdom. Their complaint centred on the difficulties and harm they faced as Roma in securing a lawful place to live in accordance with their traditional way of life, highlighting the vulnerability of Roma and Travellers to eviction and lack of suitable accommodation. Between 1993 and 1997, after moving their caravans onto their own land in Headcorn, Kent, the Smiths repeatedly sought planning permission to reside there but were consistently refused by local authorities, who cited harm to the rural landscape. The Smiths faced enforcement actions, fines, and eventual eviction, leading them to move from site to site, including public spaces and relatives’ gardens, while their children’s schooling and family life were disrupted. The European Court of Human Rights examined their complaints under Articles 3 (prohibition of inhuman or degrading treatment), 8 (right to respect for private and family life and home), and 14 (prohibition of discrimination), but ultimately declared the application inadmissible, finding that the authorities had offered alternative accommodation and had not acted disproportionately. This case is significant as it illustrates the persistent barriers Roma and Travellers face in securing culturally appropriate housing in the UK, reflecting broader historical patterns of exclusion and marginalisation across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:05:50.477133+00:00"
+}

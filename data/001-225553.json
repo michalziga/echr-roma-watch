@@ -19,10 +19,11 @@
   "full_text_length": 12735,
   "fetched_at": "2026-04-26T18:34:18.770413+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves Roma pupils who were subjected to segregation in education, with the Court acknowledging discrimination based on their ethnic identity, thus implicating Articles 14 and P1-1 regarding discrimination and the right to education.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:45:31.443057+00:00",
+  "filtered_at": "2026-05-10T18:20:04.476409+00:00",
   "summary": "In the case of Avdiu and Others v. Albania, the applicants, belonging to the Roma community in Moravë, Albania, alleged discrimination due to educational segregation. The case centered on the vulnerability of Roma children facing segregation in education, as they attended Avdyl Avdya school, which exclusively enrolled Roma pupils. This segregation was acknowledged by the Regional Educational Department and the Albanian Commissioner for Protection from Discrimination, who ordered measures to end it, including school closure and transport to an integrated school. By 2018, the Avdyl Avdya school was closed, and Roma children were attending Shaban Sollaku school with transport provided by the authorities. The European Court of Human Rights found the application inadmissible, as the national authorities had acknowledged the discrimination and provided redress, thus fulfilling their obligations under Article 1 of Protocol No. 12. This case highlights the ongoing challenges of educational segregation faced by Roma communities in Europe, reflecting historical patterns of marginalization and the necessity for effective state intervention to ensure inclusive education.",
   "summary_generated_at": "2026-04-27T00:19:11.813410+00:00",
-  "refiltered_at": "2026-05-08T14:45:31.443057+00:00"
+  "refiltered_at": "2026-05-10T18:20:04.476409+00:00",
+  "summary_model": null
 }

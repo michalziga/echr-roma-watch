@@ -1,0 +1,25 @@
+{
+  "itemid": "001-3521",
+  "title": "TURNER v. THE UNITED KINGDOM",
+  "date": "1997-02-26",
+  "country": "GBR",
+  "importance": "4",
+  "articles": [
+    "P1-1",
+    "P1-1-1",
+    "6",
+    "6-1",
+    "8",
+    "8-1",
+    "8-2",
+    "14"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:1997:0226DEC003029496",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-3521",
+  "summary": "In Turner v. the United Kingdom, the applicant, Ms. Turner, is a British citizen who identifies as a Gypsy, falling within the Council of Europe’s definition of Roma and Travellers. Her case focused on the vulnerability of Roma and Traveller communities facing barriers to living according to their traditional lifestyle, particularly through restrictive planning policies that disproportionately affect their ability to reside in caravans on private land. Ms. Turner had lived in her own caravan on a former British Telecom depot in Ibsley since 1993. In 1994, she applied for planning permission to remain on the site, but the local council refused, citing policies aimed at protecting the countryside and the New Forest Heritage Area. Her appeals, including to the High Court, were unsuccessful, with the courts upholding the planning policy and finding no discrimination or violation of her rights under domestic law.\n\nMs. Turner brought her case to the European Commission of Human Rights, alleging violations of Article 8 (right to respect for private and family life), Article 1 of Protocol No. 1 (protection of property), Article 14 (prohibition of discrimination), and Article 6 (right to a fair hearing). The Commission examined whether the planning and judicial procedures provided sufficient safeguards and found the application inadmissible, concluding that the review available in the High Court met the requirements of the Convention.\n\nThis case is significant as it highlights the persistent challenges Roma and Traveller individuals face in securing legal recognition and protection for their traditional way of life, particularly in the context of restrictive land use policies—a recurring issue in the United Kingdom and across Europe during the late twentieth century.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:40:43.145905+00:00"
+}

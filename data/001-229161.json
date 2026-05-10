@@ -19,10 +19,11 @@
   "full_text_length": 15270,
   "fetched_at": "2026-04-26T18:34:05.675065+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is explicitly identified as a Roma, and the case involves a violation of her rights under Article 1 of Protocol No. 7 concerning procedural safeguards related to her expulsion, which is relevant to her minority identity and the vulnerabilities faced by Roma communities in similar situations.",
+  "filter_reason": "The applicant is explicitly identified as a Roma in the statement of facts, specifically noted in paragraph 2 of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:30:03.155783+00:00",
+  "filtered_at": "2026-05-10T18:19:37.596478+00:00",
   "summary": "In the case of S.B. v. North Macedonia, the applicant, S.B., a Roma woman from Kosovo, challenged her expulsion from North Macedonia. The case centers on the vulnerability of Roma individuals facing expulsion without adequate procedural safeguards. S.B., who fled Kosovo in 1999 and was granted refugee status in North Macedonia, was ordered to leave the country in 2017 on national security grounds. The Ministry of the Interior's decision was based on undisclosed evidence, and S.B. was not given the opportunity to challenge this evidence. Her appeals were dismissed by the Administrative and Higher Administrative Courts, which upheld the Ministry's decision. The European Court of Human Rights found a violation of Article 1 of Protocol No. 7, which concerns procedural safeguards in expulsion cases, as S.B. was not able to effectively challenge the evidence against her. This case highlights the ongoing challenges Roma individuals face in Europe regarding expulsion and procedural fairness. Historically, Roma communities have been marginalized and face systemic discrimination, making the protection of their rights under the European Convention on Human Rights crucial.",
   "summary_generated_at": "2026-04-27T00:18:19.630263+00:00",
-  "refiltered_at": "2026-05-08T14:30:03.155783+00:00"
+  "refiltered_at": "2026-05-10T18:19:37.596478+00:00",
+  "summary_model": null
 }

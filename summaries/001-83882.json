@@ -1,0 +1,29 @@
+{
+  "itemid": "001-83882",
+  "title": "CASE OF PETROPOULOU-TSAKIRIS v. GREECE",
+  "date": "2007-12-06",
+  "country": "GRC",
+  "importance": "3",
+  "articles": [
+    "3",
+    "14",
+    "14+3",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "14",
+    "14+3"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Preliminary objection joined to merits and dismissed (Article 35-1 - Exhaustion of domestic remedies);No violation of Article 3 - Prohibition of torture (Article 3 - Inhuman treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 14+3 - Prohibition of discrimination (Article 14 - Discrimination) (Article 3 - Prohibition of torture);Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2007:1206JUD004480304",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-83882",
+  "summary": "In the case of Petropoulou-Tsakiris v. Greece, the applicant, Ms. Petropoulou-Tsakiris, is a member of the Roma community living in the Nea Zoe settlement in Aspropyrgos, western Attica. The case highlights the vulnerability of Roma and Travellers to police violence and the lack of effective protection and investigation when abuses occur. On 28 January 2002, during a large-scale police operation targeting alleged drug trafficking in the Roma settlement, Ms. Petropoulou-Tsakiris, who was two and a half months pregnant, was forcefully pushed and kicked in the back by police officers despite her protests that she was pregnant. She began bleeding but was not taken to hospital, and, as an unregistered stateless person, she feared seeking medical help alone. The following day, she was admitted to hospital, and on 1 February 2002, she suffered a miscarriage. Despite her criminal complaint and requests for an impartial investigation, the inquiry was conducted by officers from the same police station involved in the operation, and the authorities failed to identify or punish those responsible. The European Court of Human Rights found no substantive violation of Article 3 (prohibition of inhuman treatment) but held that there was a procedural violation of Article 3 due to the ineffective investigation, and a violation of Article 14 (prohibition of discrimination) in conjunction with Article 3, awarding non-pecuniary damages. This judgment is significant as it underscores the persistent barriers Roma and Travellers face in accessing justice and protection from discriminatory police practices, reflecting a broader historical context of marginalisation in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:19:04.778266+00:00"
+}

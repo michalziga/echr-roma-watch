@@ -1,0 +1,27 @@
+{
+  "itemid": "001-105691",
+  "title": "CASE OF ĐURĐEVIĆ v. CROATIA",
+  "date": "2011-07-19",
+  "country": "HRV",
+  "importance": "1",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "No violation of Art. 3 (substantive aspect);Violation of Art. 3 (procedural aspect);Remainder inadmissible;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2011:0719JUD005244209",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-105691",
+  "summary": "In the case of Đurđević v. Croatia, the applicants are three individuals, born in 1967, 1966 and 1994, who live in Kloštar-Ivanić and who are Roma. They challenged the Croatian authorities before the European Court of Human Rights, alleging violations of the European Convention on Human Rights. The state named is Croatia.\n\nThe vulnerability at issue concerns Roma-related harm: the events revolve around violence against a Roma family and the state’s corresponding responsibility to protect individuals from such harm and to investigate ill-treatment, with particular attention to whether authorities properly addressed incidents connected with Roma individuals and Roma-origin suspects or victims. The case examines whether Article 3 of the Convention (prohibition of torture and of inhuman or degrading treatment) was violated in both private- and police-violence contexts.\n\nChronology and facts: On 16 June 2009, in Ivanić Grad, a confrontation outside the Yogi restaurant involved the third applicant and his brother against a man who insulted them because of their Roma origin; a group of Roma subsequently returned to the scene, and the third applicant was beaten. Police intervened; the second applicant sustained contusions during the incident at the police station. The private-violence events were followed by medical assessments and divergent official accounts, with the Government’s version emphasizing the involvement of a Roma group, while the applicants reported police involvement in the aftermath.\n\nThe Court examined Article 3, finding no violation in the 9:30 p.m. incident involving private individuals (the authorities’ findings and penalties were deemed sufficient). However, regarding the incident at about 10:30 p.m. and the alleged ill-treatment by police, the Court found a procedural violation of Article 3, and awarded non-pecuniary damages. The remainder of the complaints were deemed inadmissible.\n\nThis case matters for Roma rights because it underscores the obligation of states to ensure effective investigations into alleged police ill-treatment and to address risks of violence against Roma communities; it sits within a broader pattern of Roma minority protection in Europe, including ongoing scrutiny of Croatia’s handling of Roma incidents in the early 2010s.",
+  "model": "gpt-5-nano-2025-08-07",
+  "summarized_at": "2026-05-09T17:12:05.388913+00:00"
+}

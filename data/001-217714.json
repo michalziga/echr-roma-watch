@@ -19,10 +19,11 @@
   "full_text_length": 39791,
   "fetched_at": "2026-04-26T18:34:55.585566+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are explicitly identified as members of a family of Roma ethnic origin, and their complaints of police violence and the failure of authorities to investigate these allegations are directly linked to their Roma identity, raising issues under Article 3 and Article 14 of the Convention.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T15:54:02.545286+00:00",
+  "filtered_at": "2026-05-10T18:21:07.468367+00:00",
   "summary": "In the case of Balkasi and Others v. Albania, the applicants, a Roma family from Albania, alleged police misconduct and inadequate investigation into their claims of ill-treatment. The case centered on the vulnerability of Roma communities to police violence and ineffective legal recourse. On December 13, 2013, police officers, in pursuit of a fugitive, allegedly entered the applicants' property without proper identification, leading to a violent confrontation. The applicants claimed they were assaulted by the officers, who later threatened them against filing complaints. Despite seeking medical and legal assistance, their grievances were not formally recorded by the police. The European Court of Human Rights found a violation of Article 3 of the European Convention on Human Rights concerning the lack of an effective investigation into the applicants' claims but did not find a substantive violation regarding the alleged ill-treatment itself. This case highlights the systemic issues of police accountability and the procedural barriers faced by Roma communities in accessing justice. Historically, Roma and Travellers have faced discrimination and marginalization in Europe, making effective legal protection crucial for safeguarding their rights.",
   "summary_generated_at": "2026-04-27T00:21:11.502298+00:00",
-  "refiltered_at": "2026-05-08T15:54:02.545286+00:00"
+  "refiltered_at": "2026-05-10T18:21:07.468367+00:00",
+  "summary_model": null
 }

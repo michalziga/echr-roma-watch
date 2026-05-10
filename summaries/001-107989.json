@@ -1,0 +1,23 @@
+{
+  "itemid": "001-107989",
+  "title": "CASE OF AJDARIC v. CROATIA",
+  "date": "2011-12-13",
+  "country": "HRV",
+  "importance": "3",
+  "articles": [
+    "6",
+    "6-1",
+    "41"
+  ],
+  "violations": [
+    "6",
+    "6-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Art. 6-1;Non-pecuniary damage - award;Pecuniary damage - claim dismissed",
+  "ecli": "ECLI:CE:ECHR:2011:1213JUD002088309",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-107989",
+  "summary": "In Ajdarić v. Croatia, the applicant, Mr. Nedjeljko Ajdarić, was described in the judgment as having connections to a Roma settlement near Banja Luka, though his Roma identity is implied rather than explicitly confirmed. The case centered on the applicant’s vulnerability as a detainee whose conviction for a triple murder in Kutina in 1998 was based primarily on the testimony of a fellow inmate, S.Š., who claimed to have overheard incriminating conversations between Ajdarić and another accused while they were all held in Zagreb Prison Hospital in late 2005 and early 2006. S.Š. later contacted the police and provided detailed statements, including references to a Roma settlement, which played a significant role in the prosecution.\n\nAjdarić argued that his right to a fair trial under Article 6 § 1 of the European Convention on Human Rights had been violated, as his conviction relied heavily on uncorroborated prison testimony, and he was unable to effectively challenge this evidence. The European Court of Human Rights found a violation of Article 6 § 1, concluding that the proceedings had not been fair due to the decisive reliance on the prison witness without sufficient safeguards for the defense. The Court awarded Ajdarić non-pecuniary damages but dismissed his claim for pecuniary loss. This judgment is notable for its scrutiny of the use of prison informant testimony and the procedural protections required to ensure a fair trial.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:34:58.403186+00:00"
+}

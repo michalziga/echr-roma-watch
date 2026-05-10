@@ -19,10 +19,11 @@
   "full_text_length": 9513,
   "fetched_at": "2026-04-26T18:34:52.584913+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma individual, Mr. Péter Mata, who alleged police ill-treatment with potentially racist motives, raising issues under Article 3 and implicating discrimination under Article 14, thus establishing a substantive Roma dimension.",
+  "filter_reason": "The applicant's Roma origin is explicitly identified in the Court's assessment, stating the potentially racist motives behind the incident, given the applicant’s Roma origin.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T15:53:52.327881+00:00",
+  "filtered_at": "2026-05-10T18:21:02.130301+00:00",
   "summary": "In the case of Mata v. Hungary, the applicant, Mr. Péter Mata, a Hungarian national of Roma origin, alleged police ill-treatment with potential racial motives. The case centers on the vulnerability of Roma individuals to police violence and racial discrimination. On the night of September 8-9, 2014, police responded to a disturbance in Fulókércs, where Mata was attending a party. An altercation led to his arrest, during which he claimed to have been physically assaulted and subjected to anti-Roma insults by officers. Despite signing a statement of no injuries upon release, Mata later sought medical attention, revealing chest contusions and a wrist wound. His complaints to authorities were dismissed for lack of evidence. The European Court of Human Rights found a violation of Article 3, citing inhuman treatment, as the Hungarian authorities failed to provide a satisfactory explanation for Mata's injuries. This case underscores the persistent issue of police brutality against Roma in Europe, reflecting historical patterns of discrimination and inadequate legal recourse for minority communities. The Court's decision highlights the need for effective investigations into racially motivated violence, reinforcing the protection of Roma rights under the European Convention on Human Rights.",
   "summary_generated_at": "2026-04-27T00:21:04.145739+00:00",
-  "refiltered_at": "2026-05-08T15:53:52.327881+00:00"
+  "refiltered_at": "2026-05-10T18:21:02.130301+00:00",
+  "summary_model": null
 }

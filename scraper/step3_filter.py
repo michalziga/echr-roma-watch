@@ -9,7 +9,7 @@
 # Run: python3 scraper/step4_export.py
 # ============================================================
 
-import json, time, re, os
+import json, time, re, os, argparse
 from datetime import datetime, timezone
 from pathlib import Path
 from openai import OpenAI
@@ -21,16 +21,17 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
 # ── Paths ─────────────────────────────────────────────────────
 
-PROJECT_ROOT = Path(__file__).parent.parent
-SCRAPED_JSON = PROJECT_ROOT / "scraped_cases.json"
-DATA_DIR     = PROJECT_ROOT / "data"
+PROJECT_ROOT  = Path(__file__).parent.parent
+SCRAPED_JSON  = PROJECT_ROOT / "scraped_cases.json"
+DATA_DIR      = PROJECT_ROOT / "data"
+SUMMARIES_DIR = PROJECT_ROOT / "summaries"
 DATA_DIR.mkdir(exist_ok=True)
 
 
 # ── Settings ──────────────────────────────────────────────────
 
 FILTER_MODEL = "gpt-4o-mini-2024-07-18"
-BATCH_SIZE   = 100
+BATCH_SIZE   = 500
 DELAY        = 1.0
 
 
@@ -49,78 +50,89 @@ KEYWORD_MAX_SNIPPETS  = 5       # max extra snippets appended beyond section bud
 # Everything below is infrastructure — don't touch it.
 # ============================================================
 
-COE_DEFINITION = """The term 'Roma and Travellers' encompasses: Roma, Sinti/Manush, \
+COE_DEFINITION_EN = """The term 'Roma and Travellers' encompasses: Roma, Sinti/Manush, \
 Calé, Kaale, Romanichals, Boyash/Rudari; Balkan Egyptians (Egyptians and Ashkali); \
 Eastern groups (Dom, Lom and Abdal); as well as Travellers, Yenish, Gens du voyage, \
 and persons who identify themselves as Gypsies."""
 
-FILTER_SYSTEM_PROMPT = f"""You are a legal expert at the European Court of Human Rights \
-specialising in Roma and Traveller minority rights.
+COE_DEFINITION_FR = """Le terme « Roms » utilisé au Conseil de l'Europe fait référence \
+aux Roms, Sinti, Kalé et groupes apparentés en Europe, y compris les Voyageurs \
+(Travellers) et les groupes de l'Est (Dom et Lom), et couvre la grande diversité des \
+groupes concernés, y compris les personnes qui s'identifient eux-mêmes comme Tsiganes."""
 
-Apply the following Council of Europe definition throughout this task:
-"{COE_DEFINITION}"
+FILTER_SYSTEM_PROMPT = f"""You are a legal expert at the European Court of Human Rights \
+specialising in Roma and Traveller minority rights. Cases may be in English or French; \
+apply the appropriate definition below regardless of the language of the judgment.
+
+Council of Europe definition (English):
+"{COE_DEFINITION_EN}"
+
+Définition du Conseil de l'Europe (français) :
+"{COE_DEFINITION_FR}"
 
 ---
 
-TASK: Determine whether the applicant(s) in this ECHR case belong to the Roma/Traveller \
-minority, making this a Roma-relevant case.
+TASK: Determine whether this ECHR case is Roma-relevant.
 
-A case is Roma-relevant if ANY ONE of the following three signals is present:
+A case is Roma-relevant if ANY ONE of the following conditions is met:
 
   1. EXPLICIT IDENTITY
-     The judgment, in its statement of facts or the Court's own assessment, explicitly \
-identifies the applicant or a direct victim as Roma, Sinti, Gypsy, Traveller, or any \
-group covered by the CoE definition above.
+     The statement of facts or the Court's own assessment explicitly identifies the \
+applicant, a co-applicant, or a direct victim as Roma, Sinti, Gypsy, Traveller, or \
+any group covered by either CoE definition above — including French-language terms \
+such as Tsigane, Voyageur, Kalé, or Gens du voyage.
 
   2. IMPLICIT IDENTITY
-     The applicant's Roma/Traveller origin is not stated outright but is strongly implied \
-by the facts — for example, references to the applicant living in a Roma settlement, \
-being subject to measures targeting a nomadic or itinerant community, or being \
-described in terms that contextually indicate Roma origin.
+     The applicant's Roma/Traveller origin is not stated outright but is strongly \
+implied by the facts — for example, the applicant lives in a Roma settlement, is \
+subject to measures targeting a nomadic or itinerant community, or is described in \
+terms that contextually indicate Roma origin.
 
   3. INSTITUTIONAL MARKER
-     A Roma-specific legal organisation — including but not limited to the European Roma \
-Rights Centre (ERRC), Minority Rights Group, or similar Roma rights NGOs — is acting \
-as representative or third-party intervener in the case. This is a strong independent \
-signal of Roma identity even where the applicant is not explicitly labelled as Roma.
+     A Roma-specific legal organisation — including but not limited to the European \
+Roma Rights Centre (ERRC), Minority Rights Group, or similar Roma rights NGOs — \
+appears as the applicant's representative or as a third-party intervener.
+
+  4. ROMA AS DIRECT VICTIM OR AFFECTED GROUP
+     The applicant is not Roma themselves (e.g. a journalist, NGO, or public official) \
+but the case directly concerns harm to, or discrimination against, Roma individuals \
+or communities, who are the direct victims or subject of the contested act.
 
 ---
 
-IMPORTANT — what does NOT qualify:
+WHAT DOES NOT QUALIFY — read carefully before deciding:
 
-  - Roma/Traveller terms appear only inside quoted legal instruments, cited ECtHR \
-precedents, domestic legislation, policy documents, or sections titled "Relevant law" \
-/ "International materials". Citational mentions do not establish that the applicant \
-is Roma.
+  - CITATIONAL MENTIONS: Roma/Traveller terms appear only inside quoted legal \
+instruments, cited ECtHR precedents, domestic legislation, policy documents, or \
+sections titled "Relevant law", "International materials", "Droit pertinent", or \
+"Textes internationaux". These do not establish Roma relevance.
 
-  - The word "Roma" refers to the Italian city of Rome. Watch for geographic and \
-institutional references such as "tribunale di Roma", "prefetto di Roma", "in Roma", \
-"a Roma", "di Roma". If "Roma" appears only in this form with no other minority \
-indicator, the case is not Roma-relevant.
+  - GEOGRAPHIC FALSE POSITIVE: "Roma" refers to the Italian city of Rome. Disregard \
+references such as "tribunale di Roma", "prefetto di Roma", "in Roma", "a Roma", \
+"di Roma". If "Roma" appears only in this geographic or institutional form with no \
+other minority indicator, the case is not Roma-relevant.
 
-  - The word "Roma" appears in an Appendix or Annexe section of the judgment — for \
-example, in a list of Italian applicants, Italian courts, or Italian laws where "Roma" \
-denotes the city of Rome. Any mention of "Roma" that occurs after the last section \
-marked "Appendix" or "Annexe" (or the French equivalent "Annexe") in the document \
-must be treated as a geographic reference only and is not a Roma/Traveller identity \
-signal.
+  - APPENDIX/ANNEXE FALSE POSITIVE: "Roma" appears only in an Appendix or Annexe \
+section — for example, in lists of Italian applicants, courts, or laws where "Roma" \
+denotes the city. Treat any "Roma" mention occurring after the last section marked \
+"Appendix", "Annexe", or "Annexe" as a geographic reference only.
 
-  - A Roma or Traveller community is mentioned as background context or a reference \
-group, but the applicant themselves is not identified as Roma.
+  - BACKGROUND MENTION: A Roma or Traveller community is cited only as background \
+context — drawn from legal instruments, public policies, reports, or comparative statistics — with no Roma applicant, victim, or intervener present.
 
 ---
 
-Mark as UNSURE (for manual review) only if:
-  - Roma identity is suggested but the evidence is too thin or ambiguous to decide.
+If Roma identity is suggested but the evidence is too thin or ambiguous to decide, \
+mark as UNSURE. Unsure cases will be sent for manual review.
 
 ---
 
 Respond strictly in English using this exact format — no additional text:
 
 DECISION: yes / no / unsure
-REASON: one sentence explaining which signal was found (or why none was), identifying \
-the specific evidence in the text (e.g. the phrase or organisation name) and where it \
-appears (facts, Court's assessment, representation section)."""
+REASON: one sentence identifying which condition was met (or why none was), naming \
+the specific evidence (e.g. phrase or organisation) and where it appears in the \
+judgment (facts, Court's assessment, representation section, appendix)."""
 
 # ── Section extractor ─────────────────────────────────────────
 
@@ -351,6 +363,18 @@ def call_openai(system_prompt, user_message, model):
         return None
 
 
+# ── File cleanup ─────────────────────────────────────────────
+
+def remove_stale_files(item_id: str, label: str):
+    for path, name in [
+        (DATA_DIR      / f"{item_id}.json", "data/"),
+        (SUMMARIES_DIR / f"{item_id}.json", "summaries/"),
+    ]:
+        if path.exists():
+            path.unlink()
+            print(f"    → removed stale {name}{item_id}.json ({label})")
+
+
 # ── Save scraped_cases.json ───────────────────────────────────
 
 def save_progress(data):
@@ -361,12 +385,25 @@ def save_progress(data):
 # ── Main ──────────────────────────────────────────────────────
 
 if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--reset", action="store_true",
+        help="Clear refiltered_at for all cases so every case is re-processed from scratch.",
+    )
+    args = parser.parse_args()
+
     print(f"📂 Loading {SCRAPED_JSON.name}...")
     with open(SCRAPED_JSON, encoding="utf-8") as f:
         data = json.load(f)
 
     cases = data["cases"]
     print(f"   {len(cases)} cases loaded\n")
+
+    if args.reset:
+        for case in cases:
+            case["refiltered_at"] = None
+        save_progress(data)
+        print(f"🔄 Reset refiltered_at for all {len(cases)} cases — starting fresh.\n")
 
     # Backfill schema fields missing from cases created before these fields existed
     SCHEMA_DEFAULTS = {
@@ -438,6 +475,7 @@ if __name__ == "__main__":
             case["text_source_language"] = case.get("language", "ENG")
             case["filtered_at"]          = now
             case["refiltered_at"]        = now
+            remove_stale_files(item_id, "no_text")
             save_progress(data)
             batch_results.append((item_id, title, "no_text", "No text available"))
             continue
@@ -503,11 +541,8 @@ CASE TEXT (extracted sections):
                 json.dump(case, f, indent=2, ensure_ascii=False)
             print(f"    ✅ YES → exported to data/{item_id}.json")
         else:
-            if data_path.exists():
-                data_path.unlink()
-                print(f"    → {decision.upper()} (removed stale file from data/)")
-            else:
-                print(f"    → {decision.upper()}")
+            remove_stale_files(item_id, decision)
+            print(f"    → {decision.upper()}")
 
         save_progress(data)
         batch_results.append((item_id, title, decision, reason))

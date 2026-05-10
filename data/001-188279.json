@@ -19,8 +19,11 @@
   "full_text_length": 40019,
   "fetched_at": "2026-04-26T18:37:00.534563+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves three applicants who are identified as Roma men, and the European Roma Rights Centre intervened, highlighting issues of institutional anti-Gypsyism in the criminal justice system, which is relevant to the alleged violation of their right to a fair trial under Article 6.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T19:10:37.003514+00:00",
-  "refiltered_at": "2026-05-08T19:10:37.003514+00:00"
+  "filtered_at": "2026-05-10T18:37:25.193477+00:00",
+  "refiltered_at": "2026-05-10T18:37:25.193477+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

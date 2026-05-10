@@ -1,0 +1,32 @@
+{
+  "itemid": "001-69630",
+  "title": "CASE OF NACHOVA AND OTHERS v. BULGARIA",
+  "date": "2005-07-06",
+  "country": "BGR",
+  "importance": "1",
+  "articles": [
+    "2",
+    "2-1",
+    "2-2",
+    "13",
+    "14+2",
+    "14",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "14+2",
+    "14"
+  ],
+  "nonviolations": [
+    "14+2",
+    "14",
+    "2"
+  ],
+  "conclusion": "Violation of Art. 2 (deaths);Violation of Art. 2 (failure to conduct an effective investigation);No separate issue under Art. 13;No violation of Art. 14+2 (alleged act of racial violence);Violation of Art. 14+2 (failure to investigate possible racist motives);Pecuniary damage - financial award;Non-pecuniary damage - financial award;Costs and expenses partial award - Convention proceedings",
+  "ecli": "ECLI:CE:ECHR:2005:0706JUD004357798",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-69630",
+  "summary": "In Nachova and Others v. Bulgaria, the applicants were Bulgarian nationals of Roma origin: Ms. Anelia Kunchova Nachova, her mother Ms. Aksiniya Hristova, and Mr. Todorka and Mr. Rangel Rangelov, the parents of the second victim. The case concerned the fatal shooting of two young Roma men, Mr. Angelov and Mr. Petkov, by a military police officer during an attempted arrest. The vulnerability at the heart of the case was the exposure of Roma individuals to excessive and potentially lethal force by law enforcement, compounded by the failure to investigate possible racist motives behind such actions.\n\nOn 19 July 1996, in the Roma district of Lesura, Bulgaria, military police sought to arrest Mr. Angelov and Mr. Petkov, both 21-year-old conscripts who had escaped from a work site. Neither man was armed. During the operation, after warnings and shots fired in the air, Major G. fired directly at the fleeing men, killing both. The subsequent investigation failed to consider whether racism played a role in the use of lethal force.\n\nThe European Court of Human Rights found violations of Article 2 (right to life) for both the deaths and the lack of an effective investigation, and a violation of Article 14 (prohibition of discrimination) taken with Article 2, specifically for failing to investigate possible racist motives. The Court awarded both pecuniary and non-pecuniary damages to the applicants.\n\nThis landmark judgment is significant for Roma and Traveller rights, as it established the duty of states to investigate not only the facts of lethal force but also any potential racist motives, against a backdrop of longstanding discrimination against Roma communities in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:09:57.974217+00:00"
+}

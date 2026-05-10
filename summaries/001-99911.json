@@ -1,0 +1,28 @@
+{
+  "itemid": "001-99911",
+  "title": "CASE OF CARABULEA v. ROMANIA",
+  "date": "2010-07-13",
+  "country": "ROU",
+  "importance": "3",
+  "articles": [
+    "2",
+    "2-1",
+    "3",
+    "13",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "2",
+    "3",
+    "13"
+  ],
+  "nonviolations": [],
+  "conclusion": "Preliminary objection joined to merits and dismissed (non-exhaustion of domestic remedies);Violation of Art. 2 (substantive aspect);Violation of Art. 2 (procedural aspect);Violation of Art. 3 (substantive aspect);Violation of Art. 3 (procedural aspect);Violation of Art. 13 (procedural aspect);Pecuniary damage - award;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2010:0713JUD004566199",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-99911",
+  "summary": "In the case of Carabulea v. Romania, the applicant, Viorel Carabulea, a Romanian national of Roma origin, brought a complaint against the Romanian state following the death of his brother, Gabriel Carabulea, in police custody. The case highlighted the acute vulnerability of Roma and Travellers to police violence and the lack of effective investigations into deaths in custody, which disproportionately affect these communities. On 13 April 1996, Gabriel Carabulea was arrested in Bucharest and transferred between police stations. Initially in good health, he soon showed signs of severe physical distress, and his family observed a rapid deterioration. Despite repeated requests for information and medical attention, Gabriel died on 3 May 1996. The authorities attributed his death to natural causes, but the family contested this, pointing to evidence of injuries and procedural irregularities in the investigation.\n\nThe European Court of Human Rights examined violations of Article 2 (right to life), Article 3 (prohibition of inhuman or degrading treatment), and Article 13 (right to an effective remedy) of the European Convention on Human Rights. The Court found both substantive and procedural violations of Articles 2 and 3, as well as a violation of Article 13, and awarded pecuniary and non-pecuniary damages to the applicant. This judgment is significant as it underscores the persistent risks faced by Roma and Travellers in police custody and the historical failure of authorities in Europe to provide effective protection and accountability for these communities.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:22:32.033565+00:00"
+}

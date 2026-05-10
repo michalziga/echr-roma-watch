@@ -19,8 +19,11 @@
   "full_text_length": 72504,
   "fetched_at": "2026-04-26T18:47:02.602613+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is identified as a member of a family of Travellers, which explicitly indicates their Roma/Traveller identity in the facts section of the judgment.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicant and her brother, Joselito Renolde, are explicitly identified as members of a family of Travellers in paragraph 6 of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:51:23.869476+00:00",
-  "refiltered_at": "2026-05-09T13:51:23.869476+00:00"
+  "filtered_at": "2026-05-10T19:29:19.681767+00:00",
+  "refiltered_at": "2026-05-10T19:29:19.681767+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

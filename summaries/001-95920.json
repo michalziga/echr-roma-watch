@@ -1,0 +1,23 @@
+{
+  "itemid": "001-95920",
+  "title": "CASE OF KARSAI v. HUNGARY",
+  "date": "2009-12-01",
+  "country": "HUN",
+  "importance": "2",
+  "articles": [
+    "10",
+    "10-1",
+    "10-2",
+    "41"
+  ],
+  "violations": [
+    "10"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Art. 10;Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2009:1201JUD000538007",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-95920",
+  "summary": "In Karsai v. Hungary, the applicant, Mr. László Karsai, is a historian and university professor whose research focuses on the Second World War and the extermination of Jews and Roma. Although Mr. Karsai is not himself identified as Roma, his work addresses issues central to Roma and Jewish history in Hungary. The case arose from a 2004 public debate over whether to erect a statue of Pál Teleki, a controversial Hungarian prime minister associated with anti-Semitic and anti-Roma legislation. In a published article, Mr. Karsai criticized right-wing media and a specific journalist, Mr. B.T., for downplaying Teleki’s responsibility for such laws and for using language that, in Karsai’s view, amounted to “cautious Jew-bashing.” Mr. B.T. sued for defamation, claiming the article implied he personally engaged in anti-Semitic rhetoric. While the first-instance court dismissed the claim, the Budapest Court of Appeal and the Supreme Court ruled against Mr. Karsai, ordering him to publish a rectification and pay legal costs.\n\nThe European Court of Human Rights examined the case under Article 10 (freedom of expression) and found a violation. The Court held that Mr. Karsai’s statements were part of a debate on matters of significant public interest, including Hungary’s historical treatment of Jews and Roma, and that the interference with his freedom of expression was not “necessary in a democratic society.” The Court awarded Mr. Karsai non-pecuniary damages, emphasizing the importance of robust public debate on sensitive historical issues.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:44:27.388951+00:00"
+}

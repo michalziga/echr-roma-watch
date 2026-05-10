@@ -1,0 +1,26 @@
+{
+  "itemid": "001-99994",
+  "title": "CASE OF AKSU v. TURKEY",
+  "date": "2010-07-27",
+  "country": "TUR",
+  "importance": "2",
+  "articles": [
+    "8",
+    "8-1",
+    "14",
+    "14+8",
+    "34"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "14+8",
+    "14",
+    "8"
+  ],
+  "conclusion": "Preliminary objection dismissed (victim);No violation of Art. 14+8",
+  "ecli": "ECLI:CE:ECHR:2010:0727JUD000414904",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-99994",
+  "summary": "In the case of Aksu v. Turkey, the applicant, Mr. Faik Aksu, a Turkish national of Roma (Gypsy) origin, brought a complaint against Turkey concerning the publication of a book titled “The Gypsies of Turkey” by the Ministry of Culture. Mr. Aksu argued that the book contained numerous derogatory stereotypes about Roma and Gypsies, including descriptions of them as thieves, swindlers, and beggars, which he claimed were deeply offensive and damaging to his identity as a member of the Roma and Traveller communities.\n\nThe harm at the centre of the case was the perpetuation of negative stereotypes and the resulting stigmatisation of Roma people in Turkey through a state-published book, raising concerns about discrimination and the protection of minority dignity. Mr. Aksu, acting on behalf of Turkish Gypsy associations, sought to have the book withdrawn and compensation awarded for non-pecuniary damage, arguing that the language used amounted to an attack on his ethnic identity.\n\nThe events unfolded between 2000 and 2004, beginning with the book’s publication and Mr. Aksu’s subsequent petitions and legal actions against both the Ministry of Culture and the book’s author. Turkish courts ultimately dismissed his claims, finding the book to be academic research rather than an insult.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private life) and Article 14 (prohibition of discrimination) of the European Convention on Human Rights. The Court found no violation of Article 14 in conjunction with Article 8, concluding that the domestic authorities had struck a fair balance between freedom of expression and the applicant’s right to respect for his private life.\n\nThis case is significant for Roma and Traveller rights as it highlights the ongoing struggle against negative stereotyping in public discourse and the challenges of balancing minority protection with academic freedom, set against a backdrop of historical prejudice faced by Roma communities in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:22:56.504111+00:00"
+}

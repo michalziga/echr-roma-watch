@@ -19,8 +19,11 @@
   "full_text_length": 278076,
   "fetched_at": "2026-04-26T18:33:42.614353+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves applicants who are victims of trafficking and forced labor, with a violation of Article 4 and Article 14, and their identity as vulnerable individuals is relevant to the discrimination and exploitation they faced, indicating a Roma/Traveller dimension given the context of migrant labor exploitation in Russia.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the applicants are identified as Kazakhstani and Uzbekistani nationals, and the context of their trafficking and exploitation strongly implies a connection to Roma and Traveller issues, particularly given the mention of discrimination against migrants from Central Asia and the Caucasus, which includes Roma individuals, in the additional context.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:02:42.603060+00:00",
-  "refiltered_at": "2026-05-08T14:02:42.603060+00:00"
+  "filtered_at": "2026-05-10T18:18:34.036050+00:00",
+  "refiltered_at": "2026-05-10T18:18:34.036050+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

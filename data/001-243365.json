@@ -19,8 +19,11 @@
   "full_text_length": 12311,
   "fetched_at": "2026-04-26T18:33:12.656943+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma applicant represented by the European Roma Rights Centre, alleging police ill-treatment, which is relevant to the violation of Article 3 and indicates a vulnerability linked to his Roma identity.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T13:51:43.234958+00:00",
-  "refiltered_at": "2026-05-08T13:51:43.234958+00:00"
+  "filtered_at": "2026-05-10T18:17:49.587245+00:00",
+  "refiltered_at": "2026-05-10T18:17:49.587245+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

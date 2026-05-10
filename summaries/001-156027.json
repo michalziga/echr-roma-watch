@@ -1,0 +1,21 @@
+{
+  "itemid": "001-156027",
+  "title": "G.H. v. HUNGARY",
+  "date": "2015-06-09",
+  "country": "HUN",
+  "importance": "4",
+  "articles": [
+    "3",
+    "8",
+    "34",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2015:0609DEC005404114",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-156027",
+  "summary": "In the case of G.H. v. Hungary, the applicant, Ms G.H., a Hungarian national represented by the European Roma Rights Centre, brought a complaint against Hungary. While the applicant’s own ethnic identity is not explicitly stated, her husband is identified as Roma, and the case was supported by an organisation specialising in Roma and Traveller rights, situating the matter within the broader context of Roma and Traveller vulnerability. The harm at the centre of the case concerned the risk of forced or non-consensual sterilisation, a practice that has disproportionately affected Roma and Traveller women in Europe, raising serious concerns about reproductive rights and discrimination.\n\nOn 8 February 2008, Ms G.H., then 34 and pregnant with twins, was admitted to Miskolc Hospital for an emergency Caesarean section. During her admission, she discussed sterilisation with her doctors and verbally consented to the procedure, but her written consent was not obtained as required by law. After the operation, Ms G.H. sued the hospital, arguing that the lack of written consent violated her rights to self-determination, privacy, and equal treatment. Hungarian courts acknowledged the procedural breach and awarded her compensation and an apology, but found no evidence of racial discrimination or that the sterilisation was performed against her will.\n\nThe European Court of Human Rights examined the case under Articles 3 (prohibition of inhuman or degrading treatment) and 8 (right to respect for private life), but declared the application inadmissible. The Court found that Ms G.H. had given informed oral consent, that domestic courts had thoroughly examined her claims, and that she had received adequate redress, including compensation and an apology.\n\nThis case is significant as it highlights the importance of procedural safeguards in protecting the reproductive rights of Roma and Traveller women, while also demonstrating the Court’s approach when domestic remedies have been provided. Historically, Roma and Traveller communities have faced systemic violations of reproductive rights, making judicial scrutiny of such cases essential for upholding human dignity and equality.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:30:59.779579+00:00"
+}

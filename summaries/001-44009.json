@@ -1,0 +1,26 @@
+{
+  "itemid": "001-44009",
+  "title": "DAVIES et AUTRES contre la ROUMANIE",
+  "date": "2003-01-07",
+  "country": "ROU",
+  "importance": "4",
+  "articles": [
+    "6",
+    "6-1",
+    "8",
+    "8-1",
+    "13",
+    "P7-1",
+    "14",
+    "P1-1",
+    "P4-2"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Irrecevable",
+  "ecli": "ECLI:CE:ECHR:2003:0107DEC004012298",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-44009",
+  "summary": "In Davies and Others v. Romania, the applicants were a British family—husband, wife, and four children—who settled in Miercurea-Ciuc, Transylvania, in 1990. While not themselves Roma or Travellers, the applicants became involved in supporting disadvantaged children from the Roma minority through charitable work. The case arose after Romanian authorities, citing concerns about illegal international adoptions, revoked the husband’s residence permit in May 1995 and barred his re-entry. This decision was based on reports and witness statements alleging his involvement in facilitating the illegal removal of newborns from Romania for adoption abroad, though no criminal charges were ultimately brought. The husband challenged the exclusion order in Romanian courts, arguing the allegations were unfounded and that he had only cared for abandoned Romanian children in Hungary. His appeals were dismissed, with courts relying on witness testimony and official reports. The rest of the family remained in Romania for another year before joining him in Hungary, and later the UK.\n\nThe European Court of Human Rights examined complaints under Articles 6 (fair trial), 8 (private and family life), 13 (effective remedy), and Protocol No. 7 (expulsion of aliens), but found them inadmissible. The Court held that decisions on entry and residence of foreigners do not engage Article 6, and that Article 8 does not guarantee a right to choose one’s country of residence. The applicants’ claims under Articles 13 and Protocol No. 7 were also rejected, as the husband had access to judicial review and was not formally expelled. The case is notable for its clarification that Article 8 does not oblige states to accept non-nationals as residents, even where family life is affected.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:43:52.561914+00:00"
+}

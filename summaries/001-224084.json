@@ -1,0 +1,26 @@
+{
+  "itemid": "001-224084",
+  "title": "CASE OF JÍROVÁ AND OTHERS v. THE CZECH REPUBLIC",
+  "date": "2023-04-13",
+  "country": "CZE",
+  "importance": "3",
+  "articles": [
+    "35",
+    "35-1",
+    "35-3-a",
+    "8",
+    "8-1",
+    "8-2"
+  ],
+  "violations": [],
+  "nonviolations": [
+    "8",
+    "8-1"
+  ],
+  "conclusion": "Preliminary objection dismissed (Art. 35) Admissibility criteria;(Art. 35-1) Exhaustion of domestic remedies;Remainder inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Manifestly ill-founded;No violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for family life)",
+  "ecli": "ECLI:CE:ECHR:2023:0413JUD006601517",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-224084",
+  "summary": "In Jírová and Others v. the Czech Republic, the applicants—two adults and a child—challenged the Czech authorities’ handling of a foster care placement. The applicants lived in Hodkovice nad Mohelkou; the third applicant, a child born in 1998, had been placed in institutional care as an infant due to his mother’s inability to care for him and the absence of a named father. The case materials do not explicitly state a Roma or Traveller identity for the applicants, nor do they indicate that the child came from a Roma settlement.\n\nThe core issue was the disruption of the foster care arrangement: after being placed with the first and second applicants in 2004 and officially entrusted to their care in 2005, the child remained with them until 2011. The applicants argued that the authorities’ decisions regarding the child’s placement and subsequent contact restrictions violated their right to respect for family life under Article 8 of the European Convention on Human Rights.\n\nThe Court examined whether the Czech authorities had acted in the best interests of the child and whether the applicants’ Article 8 rights had been breached. It found that the authorities had considered the child’s welfare and the evolving family situation, and that the procedural safeguards were adequate. Ultimately, the Court declared the complaints inadmissible as manifestly ill-founded and found no violation of Article 8. The judgment did not establish any new precedent or make specific remarks distinguishing the case.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:40:43.672690+00:00"
+}

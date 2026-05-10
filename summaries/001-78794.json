@@ -1,0 +1,33 @@
+{
+  "itemid": "001-78794",
+  "title": "CASE OF BORISOVA v. BULGARIA",
+  "date": "2006-12-21",
+  "country": "BGR",
+  "importance": "3",
+  "articles": [
+    "6",
+    "6+6",
+    "6-1",
+    "6-3",
+    "6-3-a",
+    "6-3-b",
+    "6-3-d",
+    "41"
+  ],
+  "violations": [
+    "6",
+    "6+6",
+    "6-1",
+    "6-3",
+    "6-3-a",
+    "6-3-b",
+    "6-3-d"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 6+6 - Right to a fair trial (Article 6 - Criminal proceedings;Article 6-1 - Fair hearing) (Article 6 - Right to a fair trial;Article 6-3 - Rights of defence;Article 6-3-a - Information on nature and cause of accusation;Prompt information;Article 6-3-b - Adequate facilities;Adequate time;Preparation of defence;Article 6-3-d - Examination of witnesses;Same conditions);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2006:1221JUD005689100",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-78794",
+  "summary": "In the case of Borisova v. Bulgaria, the applicant, Ms. Borisova, a woman of Roma origin, brought a complaint against Bulgaria concerning the fairness of criminal proceedings initiated against her. The case highlighted the particular vulnerability of Roma and Traveller individuals, who often face rapid and summary justice without adequate procedural safeguards, especially in situations involving public order and minor offences. On 8 September 1999, Ms. Borisova was waiting in line at the Employment Office in Pazardzhik with other Roma women when a disturbance occurred. Although she was not involved in the initial incident, a police officer accused her of pushing others and, after a brief altercation, arrested her. She was detained, denied access to a lawyer or the opportunity to contact family, and brought before a court within hours, where she was convicted of minor hooliganism and sentenced to five days’ detention, without being able to call witnesses or properly prepare her defence.\n\nThe European Court of Human Rights examined the case under Article 6 of the European Convention on Human Rights, which guarantees the right to a fair trial, including the rights to be informed of the accusation, to have adequate time and facilities to prepare a defence, and to examine witnesses. The Court found multiple violations of Article 6, noting that Ms. Borisova was not promptly or adequately informed of the charges, was denied sufficient time and facilities to prepare her defence, and was unable to call witnesses on her behalf. The Court awarded her compensation for non-pecuniary damage.\n\nThis judgment is significant for Roma and Traveller rights, as it underscores the need for fair trial guarantees even in expedited proceedings, particularly for members of groups historically subjected to discrimination and summary justice in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T18:12:26.055950+00:00"
+}

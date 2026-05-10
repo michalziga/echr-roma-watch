@@ -21,6 +21,10 @@
   "is_roma_related": "yes",
   "filter_reason": "6 non-citational Roma/Traveller identity mentions (incl. 1 unambiguous) found in full text — Roma relevance confirmed without LLM (Signal 1 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:40:08.606481+00:00",
-  "refiltered_at": "2026-05-09T13:40:08.606481+00:00"
+  "filtered_at": "2026-05-10T18:43:27.806745+00:00",
+  "refiltered_at": "2026-05-10T18:43:27.806745+00:00",
+  "recheck_reason": "the applicant Mr. János Fáber is not identified as Roma or Traveller, nor is there any implicit indication of such identity in the facts or Court's assessment; the case concerns minority rights generally but does not involve a Roma/Traveller applicant.",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

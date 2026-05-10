@@ -1,0 +1,26 @@
+{
+  "itemid": "001-98539",
+  "title": "AFFAIRE UDOROVIC c. ITALIE",
+  "date": "2010-05-18",
+  "country": "ITA",
+  "importance": "3",
+  "articles": [
+    "6",
+    "6-1",
+    "41"
+  ],
+  "violations": [
+    "6",
+    "6-1"
+  ],
+  "nonviolations": [
+    "6",
+    "6-1"
+  ],
+  "conclusion": "Non-violation de l'art. 6-1;Violation de l'art. 6-1;Préjudice moral - réparation",
+  "ecli": "ECLI:CE:ECHR:2010:0518JUD003853202",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-98539",
+  "summary": "In the case of Udorovic v. Italy, the applicant, Mr. Udorovic, is an Italian national belonging to the Sinti community, a group included within the Council of Europe’s definition of Roma and Travellers. The case focused on the vulnerability of Sinti families living in authorized and informal camps in Rome, who faced the threat of eviction and alleged discrimination by local authorities. In November 1995, municipal police conducted inspections of all nomadic camps in Rome, including the camp on Via Luigi Nono where Mr. Udorovic lived. Subsequent decisions by the mayor in 1996 and 1999 imposed strict residency criteria for Roma and Sinti families and ultimately ordered the evacuation of the Nono camp, citing inadequate sanitary conditions and over-occupancy.\n\nMr. Udorovic challenged these decisions before Italian courts, arguing they were discriminatory and violated his rights. However, both the civil tribunal and the court of appeal rejected his claims, finding no discriminatory intent. He then brought his case to the European Court of Human Rights, alleging a violation of Article 6 (right to a fair trial) due to the lack of public hearings in his discrimination proceedings. The Court found a violation of Article 6 § 1, holding that the absence of public hearings in a case concerning civil rights was unjustified, and awarded Mr. Udorovic compensation for non-pecuniary damage.\n\nThis judgment is significant as it reinforces the procedural rights of Roma and Traveller individuals in discrimination cases, highlighting the importance of transparency and fairness in legal proceedings. The case reflects ongoing challenges faced by Roma and Sinti communities in Italy during the late 1990s and early 2000s, particularly regarding housing rights and access to justice.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:22:08.179957+00:00"
+}

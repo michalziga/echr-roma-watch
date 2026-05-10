@@ -19,8 +19,11 @@
   "full_text_length": 31619,
   "fetched_at": "2026-04-26T18:38:45.988163+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a violation of Article 3 concerning police brutality against applicants who are explicitly identified as Romanian nationals of Roma origin, highlighting their vulnerability to discrimination and violence in the context of law enforcement actions in Romania.",
+  "filter_reason": "The applicants are explicitly identified as \"Romanian nationals of Roma origin\" in the facts section of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T21:01:16.627962+00:00",
-  "refiltered_at": "2026-05-08T21:01:16.627962+00:00"
+  "filtered_at": "2026-05-10T18:39:45.713381+00:00",
+  "refiltered_at": "2026-05-10T18:39:45.713381+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

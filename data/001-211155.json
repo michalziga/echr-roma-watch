@@ -19,10 +19,11 @@
   "full_text_length": 3896,
   "fetched_at": "2026-04-26T18:35:24.032203+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicants are identified as citizens of North Macedonia of Roma origin, and their Roma identity is relevant to the alleged violations concerning freedom of movement and discrimination, as indicated by the involvement of the European Roma Rights Centre.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:17:19.414658+00:00",
+  "filtered_at": "2026-05-10T18:21:47.813819+00:00",
   "summary": "In the case of Asanovski and Others v. North Macedonia, the applicants, Vites Asanovski and others, are members of the Roma community in North Macedonia. The case centers on the vulnerability of Roma individuals concerning freedom of movement. The applicants, all Macedonian citizens of Roma origin, were involved in border incidents where they were not allowed to leave North Macedonia. They lodged complaints under Article 2 of Protocol No. 4 (freedom of movement), Article 14 in conjunction with Article 2 of Protocol No. 4, and Article 1 of Protocol No. 12 of the European Convention on Human Rights. The European Court of Human Rights noted that a friendly settlement was reached between the parties, with the government agreeing to pay compensation to the applicants. Consequently, the Court decided to strike the case out of its list, as the settlement respected human rights as defined by the Convention. This case highlights ongoing issues of discrimination and restricted movement faced by Roma communities in Europe, reflecting historical patterns of marginalization and exclusion. The friendly settlement underscores the importance of addressing such vulnerabilities through legal and compensatory measures.",
   "summary_generated_at": "2026-04-27T00:23:00.371368+00:00",
-  "refiltered_at": "2026-05-08T18:17:19.414658+00:00"
+  "refiltered_at": "2026-05-10T18:21:47.813819+00:00",
+  "summary_model": null
 }

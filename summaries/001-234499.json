@@ -1,0 +1,21 @@
+{
+  "itemid": "001-234499",
+  "title": "DIAN v. DENMARK",
+  "date": "2024-05-21",
+  "country": "DNK",
+  "importance": "1",
+  "articles": [
+    "8",
+    "8-1",
+    "35",
+    "35-3-a"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible (Art. 35) Admissibility criteria;(Art. 35-3-a) Ratione materiae",
+  "ecli": "ECLI:CE:ECHR:2024:0521DEC004400222",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-234499",
+  "summary": "In DIAN v. Denmark, the applicant, a Romanian national born in 1957, challenged his conviction and imprisonment for begging in Copenhagen. While the judgment does not explicitly confirm his Roma or Traveller identity, the applicant is described as a Romanian national who alternated between periods in Denmark and Romania, living as a homeless person during his stays in Denmark and relying on activities such as selling newspapers, collecting bottles, and begging for survival. The case centered on the harm of criminal penalties imposed on a person in a precarious situation for non-aggressive begging, raising questions about the proportionality of such measures under the European Convention on Human Rights.\n\nThe applicant was cautioned for begging in 2013, convicted and imprisoned for seven days in 2015, and again convicted in 2019 for begging on a pedestrian street, receiving a twenty-day prison sentence. He argued that he was unable to earn a living in Romania, was illiterate, and had no access to public income support. Danish courts acknowledged his vulnerable circumstances but found that he was not in a situation where begging was his only means of survival, noting his ability to travel, possession of cash, and support from his adult son.\n\nThe European Court of Human Rights declared the application inadmissible under Article 35, finding that the applicant’s situation did not reach the threshold of vulnerability required to engage Article 8 protections as interpreted in Lacatus v. Switzerland. No violation was found, and no remedies were awarded.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:41:44.510050+00:00"
+}

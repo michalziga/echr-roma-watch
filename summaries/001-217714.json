@@ -1,0 +1,22 @@
+{
+  "itemid": "001-217714",
+  "title": "CASE OF BALKASI AND OTHERS v. ALBANIA",
+  "date": "2022-06-14",
+  "country": "ALB",
+  "importance": "4",
+  "articles": [
+    "3"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect)",
+  "ecli": "ECLI:CE:ECHR:2022:0614JUD001480018",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-217714",
+  "summary": "In Balkasi and Others v. Albania, the applicants were members of a Roma family living in Tirana, who alleged police ill-treatment and a lack of effective investigation following a violent incident in their former home village of Fier. On 13 December 2013, police officers entered the applicants’ garden while searching for a fugitive. According to the applicants, the officers—masked and armed—forced entry, assaulted several family members, and threatened reprisals if they complained. The applicants sought medical attention the next day but were told to file a criminal complaint first. When they attempted to do so at the local police station, officers refused to record their complaint and discouraged further action, with one officer apologizing and suggesting a friendly settlement. The family also reported the incident to the People’s Advocate, Albania’s ombudsman institution.\n\nThe European Court of Human Rights examined the case under Article 3 of the Convention, which prohibits torture and inhuman or degrading treatment. The Court found no substantive violation of Article 3, as the evidence did not conclusively establish that the applicants suffered treatment reaching the threshold of inhuman or degrading treatment. However, the Court found a procedural violation of Article 3, holding that Albanian authorities failed to conduct an effective investigation into the applicants’ credible allegations of police violence. This judgment highlights the obligation of states to investigate claims of ill-treatment, especially when raised by vulnerable groups such as Roma families.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:39:21.036337+00:00"
+}

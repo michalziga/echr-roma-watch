@@ -19,8 +19,11 @@
   "full_text_length": 4691,
   "fetched_at": "2026-04-26T18:41:37.822211+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is explicitly identified as \"Guido ROMA\" in the title of the case, indicating a Roma identity as per the Council of Europe definition.",
+  "filter_reason": "The applicant is explicitly identified as \"Guido ROMA\" in the title and preamble of the judgment, indicating Roma identity.",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-09T13:39:53.506886+00:00",
-  "refiltered_at": "2026-05-09T13:39:53.506886+00:00"
+  "filtered_at": "2026-05-10T18:43:16.451972+00:00",
+  "refiltered_at": "2026-05-10T18:43:16.451972+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

@@ -1,0 +1,26 @@
+{
+  "itemid": "001-221826",
+  "title": "STAN c. FRANCE",
+  "date": "2022-11-17",
+  "country": "FRA",
+  "importance": "4",
+  "articles": [
+    "3",
+    "8",
+    "13",
+    "13+3",
+    "13+8",
+    "14",
+    "14+3",
+    "14+8",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Irrecevable",
+  "ecli": "ECLI:CE:ECHR:2022:1117DEC004196916",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-221826",
+  "summary": "In the case of Stan v. France, the applicant, Ms. Silvia-Clara Stan, a Romanian national belonging to the Roma community, brought a complaint against France. The case focused on the vulnerability of Roma families living in informal settlements and the impact of forced evictions without adequate alternative accommodation. Ms. Stan and her family had been living in a makeshift camp in Champs-sur-Marne since March 2015, when local authorities issued an eviction order citing public safety concerns. Although emergency accommodation was offered, Ms. Stan refused the temporary hotel stay, and the authorities also made available a gymnasium for temporary shelter. Ms. Stan challenged the eviction before the administrative court, arguing that the expulsion without proper rehousing amounted to inhuman and degrading treatment and violated her right to respect for private and family life, as protected by Articles 3 and 8 of the European Convention on Human Rights, both alone and in conjunction with Article 14 (prohibition of discrimination), and Article 13 (right to an effective remedy). The European Court of Human Rights declared the application inadmissible, finding that the authorities had taken reasonable steps to offer emergency accommodation and that Ms. Stan had access to legal remedies. This decision highlights the ongoing legal complexities surrounding Roma settlements in Europe, reflecting the persistent challenges Roma and Traveller communities face in securing stable housing and protection from forced evictions.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:38:14.007484+00:00"
+}

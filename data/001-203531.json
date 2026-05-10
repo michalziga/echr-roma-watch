@@ -19,8 +19,12 @@
   "full_text_length": 27022,
   "fetched_at": "2026-04-26T18:36:21.890231+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a violent incident in a predominantly Roma neighbourhood, with the applicants' son being a victim of mob violence, and the context of the dispute highlights the ethnic dynamics and police response relevant to Roma identity, fulfilling the criteria for a Roma dimension under Articles 2 and 14.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the case involves a predominantly Roma neighbourhood and references to individuals of alleged Roma ethnic origin, specifically in the context of the events leading to the death of the applicants' son, as detailed in paragraphs 5 and 9 of the judgment.",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:45:24.509984+00:00",
-  "refiltered_at": "2026-05-08T18:45:24.509984+00:00"
+  "filtered_at": "2026-05-10T18:36:22.962871+00:00",
+  "refiltered_at": "2026-05-10T18:36:22.962871+00:00",
+  "recheck_reason": "the applicants are identified as Bulgarian ethnic origin and not Roma, with only the opposing group described as Roma in the facts section, so no signal of Roma identity for the applicants is present.",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

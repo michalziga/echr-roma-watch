@@ -19,8 +19,11 @@
   "full_text_length": 9008,
   "fetched_at": "2026-04-26T18:34:42.599646+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is explicitly identified as of Roma origin, and her complaint regarding the denial of access to a court is connected to her Roma identity, raising issues of discrimination under Article 14 of the Convention.",
+  "filter_reason": "The applicant is explicitly identified as of Roma origin in the statement of facts (paragraph 1).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T15:32:27.007627+00:00",
-  "refiltered_at": "2026-05-08T15:32:27.007627+00:00"
+  "filtered_at": "2026-05-10T18:20:45.684066+00:00",
+  "refiltered_at": "2026-05-10T18:20:45.684066+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

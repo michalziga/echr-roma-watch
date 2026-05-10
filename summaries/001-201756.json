@@ -1,0 +1,22 @@
+{
+  "itemid": "001-201756",
+  "title": "CASE OF DZAUROVA v. RUSSIA",
+  "date": "2020-03-17",
+  "country": "RUS",
+  "importance": "4",
+  "articles": [
+    "8",
+    "8-1"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 8 - Right to respect for private and family life (Article 8-1 - Respect for home)",
+  "ecli": "ECLI:CE:ECHR:2020:0317JUD004419914",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-201756",
+  "summary": "In Dzaurova v. Russia, the applicant, Ms. Isiyat Israilovna Dzaurova, a Russian national born in 1979, brought a case against the Russian Federation. While the judgment does not explicitly state her Roma or Traveller identity, Ms. Dzaurova was among a group of internally displaced persons (IDPs) who settled in the town of Karabulak, Ingushetia, after leaving Chechnya in 1994. The case centers on the vulnerability of displaced families—many from marginalized backgrounds—facing eviction from emergency accommodation without adequate alternative housing.\n\nAfter being granted IDP status in 1996, Ms. Dzaurova and her children lived in a municipal facility known as “Promzhilbaza” from 2003 until their eviction in 2014. The authorities initiated eviction proceedings, citing fire safety violations and the lack of formal tenancy agreements. In September 2013, the local court ordered the eviction of Ms. Dzaurova and others, despite her absence from the hearing and her claim that she had not been properly notified. Her appeals, arguing that she remained in need of housing and had lawfully resided as an IDP, were dismissed.\n\nThe European Court of Human Rights found a violation of Article 8 (right to respect for private and family life), specifically regarding respect for home. The Court held that the authorities failed to balance the applicant’s need for housing against public interests and did not provide sufficient procedural safeguards before eviction. This judgment highlights the requirement for careful scrutiny and procedural fairness in eviction cases involving vulnerable displaced persons.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:36:38.529564+00:00"
+}

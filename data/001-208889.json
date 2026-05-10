@@ -19,10 +19,11 @@
   "full_text_length": 44887,
   "fetched_at": "2026-04-26T18:35:33.492690+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma individual, Ms. Pastrama, whose encampment was destroyed by police, raising issues under Article 8 regarding respect for private and family life, and the Court recognized the potential anti-Roma sentiment behind the actions, making her Roma identity legally relevant to the violation.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:24:17.402471+00:00",
+  "filtered_at": "2026-05-10T18:22:07.479318+00:00",
   "summary": "In the case of Pastrama v. Ukraine, the applicant, Ms. Rita Oleksiyivna Pastrama, a member of the Roma community, brought a case against Ukraine. The central issue was the destruction of a Roma encampment, highlighting vulnerabilities related to housing and discrimination. On 30 May 2012, plain-clothed police officers allegedly led residents out of their encampment in Kyiv, set their tents on fire, and fired shots in the air, purportedly to clear the area for the 2012 UEFA European Championship. The applicant claimed the authorities failed to conduct an effective investigation into the incident, which was allegedly motivated by anti-Roma sentiment. The European Court of Human Rights found a violation of Article 8 of the European Convention on Human Rights, which protects the right to respect for private and family life, due to the authorities' failure to fulfill their positive obligations. This case underscores the ongoing challenges faced by Roma communities in Europe, particularly regarding forced evictions and inadequate state responses. Historically, Roma communities have faced systemic discrimination and marginalization, making the Court's decision significant in reinforcing state obligations to protect minority rights and ensure effective investigations into discriminatory actions.",
   "summary_generated_at": "2026-04-27T00:23:47.500073+00:00",
-  "refiltered_at": "2026-05-08T18:24:17.402471+00:00"
+  "refiltered_at": "2026-05-10T18:22:07.479318+00:00",
+  "summary_model": null
 }

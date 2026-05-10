@@ -19,8 +19,11 @@
   "full_text_length": 100653,
   "fetched_at": "2026-04-26T18:42:43.276312+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant's Roma origin is explicitly identified in the text, specifically in paragraph 6 where it states that V.P., the partner of the first applicant, is of Roma origin.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the facts explicitly state that V.P., the partner of the first applicant, is of Roma origin (paragraph 6).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-09T13:41:02.359755+00:00",
-  "refiltered_at": "2026-05-09T13:41:02.359755+00:00"
+  "filtered_at": "2026-05-10T18:44:09.902396+00:00",
+  "refiltered_at": "2026-05-10T18:44:09.902396+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

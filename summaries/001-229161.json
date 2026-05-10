@@ -1,0 +1,21 @@
+{
+  "itemid": "001-229161",
+  "title": "CASE OF S.B. v. NORTH MACEDONIA",
+  "date": "2023-11-30",
+  "country": "MKD",
+  "importance": "4",
+  "articles": [
+    "P7-1",
+    "P7-1-1"
+  ],
+  "violations": [
+    "P7-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation of Article 1 of Protocol No. 7 - Procedural safeguards relating to expulsion of aliens",
+  "ecli": "ECLI:CE:ECHR:2023:1130JUD006416319",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-229161",
+  "summary": "In S.B. v. North Macedonia, the applicant, S.B., is a Serbian national who identifies as Roma and fled Kosovo in 1999. She was granted refugee status in North Macedonia, where she has lived with her partner and five children. The case centers on her vulnerability as a Roma refugee facing expulsion on national security grounds, without being given a meaningful opportunity to know or challenge the evidence against her.\n\nOn 9 March 2017, the Ministry of the Interior terminated S.B.’s refugee status and ordered her to leave the country, citing national security but providing no factual basis for this assessment. S.B., represented by a lawyer, contested the decision, arguing there was no evidence she posed a threat. Both the Administrative Court and the Higher Administrative Court upheld the Ministry’s decision, with the latter referencing unspecified information about Kosovo and the applicant’s family situation, but again without disclosing the evidence or allowing S.B. to respond to it.\n\nThe European Court of Human Rights examined the case under Article 1 of Protocol No. 7, which guarantees procedural safeguards in expulsion proceedings. The Court found a violation, concluding that S.B. was denied the opportunity to know and comment on the evidence used against her, undermining the essence of her procedural rights. The judgment underscores the necessity for adversarial proceedings and effective judicial scrutiny, especially when expulsion measures affect fundamental rights.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:41:22.387363+00:00"
+}

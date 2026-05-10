@@ -1,0 +1,27 @@
+{
+  "itemid": "001-23755",
+  "title": "HIDA v. DENMARK",
+  "date": "2004-02-19",
+  "country": "DNK",
+  "importance": "4",
+  "articles": [
+    "3",
+    "5",
+    "7",
+    "8",
+    "10",
+    "11",
+    "13",
+    "14",
+    "P1-1",
+    "P4-4"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2004:0219DEC003802502",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-23755",
+  "summary": "In Hida v. Denmark, the applicant, Muhammad Hida, a national of Serbia and Montenegro of Roma origin, brought a case against Denmark after his asylum application was refused. Mr. Hida, his spouse (according to Roma traditions), and their son entered Denmark in February 2001, fleeing Kosovo after suffering violence and harassment due to their Roma identity. He claimed that, as a Roma, he had faced persecution in Kosovo and Serbia since 1995, including beatings by the Kosovo Liberation Army, and argued that returning would expose him and his family to further harm.\n\nThe case centred on the vulnerability of Roma and related groups, who have historically faced discrimination, violence, and exclusion in the Balkans, particularly during and after the Kosovo conflict. Mr. Hida’s asylum and humanitarian residence requests were denied by Danish authorities, who found inconsistencies in his account and concluded that the incidents described did not meet the threshold for persecution under Danish law. They also noted improvements in Kosovo’s security situation and suggested he could safely reside elsewhere in Serbia and Montenegro.\n\nThe European Court of Human Rights examined the case primarily under Article 3 (prohibition of torture and inhuman or degrading treatment), but declared the application inadmissible. The Court found that, while the general situation for Roma in Kosovo remained difficult, Mr. Hida had not demonstrated a real and personal risk of ill-treatment if returned. This case highlights the ongoing challenges Roma and Travellers face in securing international protection, reflecting broader patterns of marginalisation and the high evidentiary threshold required for asylum claims in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:39:57.413051+00:00"
+}

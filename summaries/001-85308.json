@@ -1,0 +1,30 @@
+{
+  "itemid": "001-85308",
+  "title": "CASE OF STOICA v. ROMANIA",
+  "date": "2008-03-04",
+  "country": "ROU",
+  "importance": "3",
+  "articles": [
+    "3",
+    "13",
+    "14",
+    "29",
+    "29-3",
+    "41",
+    "14+3"
+  ],
+  "violations": [
+    "3",
+    "14+3",
+    "14"
+  ],
+  "nonviolations": [
+    "13"
+  ],
+  "conclusion": "Violation of Art. 3;No violation of Art. 13;Violation of Art. 14+3;Remainder inadmissible;Non-pecuniary damage - award;Pecuniary damage - claim dismissed",
+  "ecli": "ECLI:CE:ECHR:2008:0304JUD004272202",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-85308",
+  "summary": "In the case of Stoica v. Romania, the applicant, Constantin Stoica, a young boy of Roma origin living in Gulia—a village with a predominantly Roma population—brought a complaint against the Romanian state. The case centred on the vulnerability of Roma and Traveller communities to racially motivated violence and the failure of authorities to protect them or investigate abuses effectively. On the evening of 3 April 2001, during an enforcement operation involving police officers, public guards, and the deputy mayor, a confrontation occurred outside a local bar frequented by Roma residents. According to Stoica, then 14 years old and suffering from a serious brain condition, he was singled out, beaten, and left unconscious by a police officer after being asked about his Roma identity, while officials shouted racist insults. Medical examinations confirmed his injuries, and witnesses corroborated his account, but the authorities dismissed the allegations and failed to conduct an impartial investigation.\n\nThe European Court of Human Rights examined the case under Article 3 (prohibition of inhuman or degrading treatment) and Article 14 (prohibition of discrimination), finding that Stoica had suffered ill-treatment at the hands of state agents and that this was aggravated by racial discrimination. The Court found violations of both Article 3 and Article 14 taken together with Article 3, and awarded non-pecuniary damages to Stoica. This judgment is significant as it highlights the persistent problem of racially motivated violence against Roma and Travellers in Europe and the need for states to ensure effective protection and accountability, especially given the historical context of systemic discrimination faced by these communities.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:19:11.726569+00:00"
+}

@@ -19,10 +19,11 @@
   "full_text_length": 21282,
   "fetched_at": "2026-04-26T18:32:56.461366+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a Roma individual as the first applicant, and their Roma identity is legally relevant to the allegations of racially motivated police ill-treatment and the lack of an effective investigation, which are violations of Articles 3 and 14 of the Convention.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T12:51:58.923075+00:00",
+  "filtered_at": "2026-05-10T18:16:47.581677+00:00",
   "summary": "In the case of Stalović v. Serbia, the applicants, Mr. Marko Stalović, of Roma origin, and Ms. Sandra Stalović, an Austrian national, brought a case against Serbia. The central issue was racially motivated police ill-treatment and the lack of an effective investigation. On April 21, 2017, after reporting a car theft, the applicants were subjected to informal questioning by police in Belgrade. Mr. Stalović alleged physical abuse, including being slapped, kicked, and suffocated, while both faced racial insults and threats. Despite medical evidence of injuries, the Serbian authorities dismissed their criminal complaint, citing lack of identification and credibility issues. The European Court of Human Rights found violations of Article 3 (prohibition of torture) and Article 14 (prohibition of discrimination), both substantively and procedurally. The Court highlighted the failure to conduct an effective investigation and recognized the discriminatory nature of the treatment. This case underscores the ongoing challenges Roma communities face in Europe, particularly concerning police violence and systemic discrimination. It reflects historical patterns of marginalization and the need for robust legal protections to ensure accountability and equality for Roma and Travellers.",
   "summary_generated_at": "2026-04-27T00:15:05.487780+00:00",
-  "refiltered_at": "2026-05-08T12:51:58.923075+00:00"
+  "refiltered_at": "2026-05-10T18:16:47.581677+00:00",
+  "summary_model": null
 }

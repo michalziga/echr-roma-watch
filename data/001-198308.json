@@ -19,8 +19,11 @@
   "full_text_length": 38307,
   "fetched_at": "2026-04-26T18:36:38.934859+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves thirty-seven Romanian nationals of Roma ethnic origin represented by the European Roma Rights Centre, alleging violations of Articles 3, 8, and 14 due to discriminatory treatment and inhumane living conditions following forced evictions, highlighting their vulnerability as a Roma community.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:51:50.863668+00:00",
-  "refiltered_at": "2026-05-08T18:51:50.863668+00:00"
+  "filtered_at": "2026-05-10T18:36:49.866014+00:00",
+  "refiltered_at": "2026-05-10T18:36:49.866014+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

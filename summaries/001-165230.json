@@ -1,0 +1,25 @@
+{
+  "itemid": "001-165230",
+  "title": "CASE OF ADAM v. SLOVAKIA",
+  "date": "2016-07-26",
+  "country": "SVK",
+  "importance": "3",
+  "articles": [
+    "3",
+    "35",
+    "35-1",
+    "41"
+  ],
+  "violations": [
+    "3"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Preliminary objection joined to merits and dismissed (Article 35-1 - Exhaustion of domestic remedies);Remainder inadmissible;No violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment) (Substantive aspect);Violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2016:0726JUD006806612",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-165230",
+  "summary": "In the case of Adam v. Slovakia, the applicant, Mr. Adam, is a Slovak national of Romani origin who brought a complaint against Slovakia. The case highlights the vulnerability of Roma and Travellers, focusing on the risk of ill-treatment and inadequate protection during police custody—a situation where Roma individuals have historically faced disproportionate harm and lack of effective remedies. On 18 December 2010, when Adam was sixteen, he and two other Romani minors were arrested by police in south-eastern Slovakia after being identified as suspects in a mugging. Adam alleged that, during his detention, police officers subjected him to psychological pressure and physical violence, including slaps and punches to the head, and denied him food, water, and rest. Although a medical report noted a bruised and swollen cheek, the authorities dismissed his complaint, and the investigation into his allegations was cursory and inconclusive.\n\nThe European Court of Human Rights examined the case under Article 3 of the European Convention on Human Rights, which prohibits torture and inhuman or degrading treatment. While the Court found no substantive violation of Article 3 regarding the alleged ill-treatment itself, it held that Slovakia had violated the procedural aspect of Article 3 by failing to conduct an effective investigation into Adam’s claims. The Court awarded Adam compensation for non-pecuniary damage.\n\nThis judgment is significant for Roma and Traveller rights, as it reinforces the obligation of states to thoroughly investigate credible allegations of police abuse, especially given the historical context of systemic discrimination and mistrust between Roma communities and law enforcement in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:31:57.872237+00:00"
+}

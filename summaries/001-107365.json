@@ -1,0 +1,28 @@
+{
+  "itemid": "001-107365",
+  "title": "AFFAIRE V.C. c. SLOVAQUIE [Extraits]",
+  "date": "2011-11-08",
+  "country": "SVK",
+  "importance": "1",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "13",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "8"
+  ],
+  "nonviolations": [
+    "3",
+    "13"
+  ],
+  "conclusion": "Violation de l'art. 3 (volet matériel);Non-violation de l'art. 3 (volet procédural);Violation de l'art. 8;Non-violation de l'art. 13;Préjudice moral - réparation",
+  "ecli": "ECLI:CE:ECHR:2011:1108JUD001896807",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-107365",
+  "summary": "The applicant is V.C., a Romani woman born in 1980 and residing in Jarovnice, Slovakia. She identifies as Roma, speaks Romani, and challenged Slovakia before the European Court of Human Rights. The case centers on Roma identity within the framework of the Council of Europe’s definition of Roma and Travellers, with Slovakia as the respondent state.\n\nHer vulnerability lies in a Roma-related harm: a sterilization performed during childbirth, reportedly without freely given, informed consent, and accompanied by Roma-specific hospital practices, including placement in a Romani-only ward and denial of access to shared facilities for non-Romani patients.\n\nChronology: On 23 August 2000, at the Prešov hospital, during a cesarean for her second child, she reportedly asked for sterilization; the request was noted and she signed under a tremulous hand. Anesthesia began at 11:30 and the tubal ligation ended at 12:10. She had previously delivered in 1998 by cesarean. Post-operatively she suffered infertility and psychological distress, faced social ostracism within the Roma community, and her marriage ended in 2009.\n\nThe Court examined Articles 3 and 8, and Article 13. It found a violation of Article 3 in its substantive, or material, aspect for the inhumane treatment of sterilization; it did not find a procedural violation of Article 3. It also found a violation of Article 8 (respect for private life and family life) and no violation of Article 13, awarding moral damages. The judgment underscores state responsibility for coercive medical practices targeting Roma women.\n\nThis case matters for Roma rights as a sustained Court endorsement that coercive sterilization and discriminatory hospital treatment of Roma women violate core human rights, reinforcing the imperative to protect bodily autonomy and dignity; it sits in a broader post-communist European context, with Slovakia addressing Roma rights in the early 2000s and the Court delivering its ruling in 2011.",
+  "model": "gpt-5-nano-2025-08-07",
+  "summarized_at": "2026-05-09T17:15:16.588855+00:00"
+}

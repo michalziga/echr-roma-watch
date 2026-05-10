@@ -1,0 +1,31 @@
+{
+  "itemid": "001-86797",
+  "title": "AFFAIRE SAMPANIS ET AUTRES c. GRECE",
+  "date": "2008-06-05",
+  "country": "GRC",
+  "importance": "2",
+  "articles": [
+    "13",
+    "14",
+    "29",
+    "29-3",
+    "35",
+    "35-1",
+    "41",
+    "P1-2",
+    "14+P1-2"
+  ],
+  "violations": [
+    "13",
+    "14+P1-2",
+    "14",
+    "P1-2"
+  ],
+  "nonviolations": [],
+  "conclusion": "Exception préliminaire jointe au fond et rejetée (non-épuisement de voies de recours internes);Violation de l'art. 13;Violation de l'art. 14+P1-2;Préjudice moral - réparation",
+  "ecli": "ECLI:CE:ECHR:2008:0605JUD003252605",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-86797",
+  "summary": "In Sampanis and Others v. Greece, the applicants were eleven Greek nationals of Roma origin, residing with their families in the Psari area near Aspropyrgos, in western Attica. The case focused on the vulnerability of Roma children who faced systemic barriers to accessing mainstream education, highlighting the persistent segregation and exclusion experienced by Roma and Traveller communities in Europe. In September 2004, as the new school year began, the applicants attempted to enrol their children in local primary schools. Despite encouragement from some school officials, the directors refused to register the Roma children, citing a lack of instructions from the Ministry of Education. Instead, authorities proposed placing older Roma children in separate preparatory classes, physically isolated from other pupils, and even considered constructing a distinct building for Roma students. The European Court of Human Rights examined the case under Article 14 (prohibition of discrimination) in conjunction with Article 2 of Protocol No. 1 (right to education), as well as Article 13 (right to an effective remedy). The Court found that Greece had violated these provisions by discriminating against Roma children and failing to provide effective remedies. The applicants were awarded compensation for moral damage. This judgment is significant as it was among the first to address the segregation of Roma children in education, setting a precedent for challenging discriminatory practices against Roma and Traveller communities across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T19:19:39.386202+00:00"
+}

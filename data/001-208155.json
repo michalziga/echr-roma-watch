@@ -19,10 +19,11 @@
   "full_text_length": 3146,
   "fetched_at": "2026-04-26T18:35:42.830647+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves a complaint regarding the death of a young man of Roma origin while in prison, with representation by the European Roma Rights Centre, indicating that Roma identity is legally relevant to the alleged violation under Article 2.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:25:24.566682+00:00",
+  "filtered_at": "2026-05-10T18:35:36.395790+00:00",
   "summary": "The case of Redjepovi v. North Macedonia involves applicants Nehru Redjepov and Djemile Redjepova, members of the Roma community, against the state of North Macedonia. The central vulnerability in this case pertains to the death of their son, a young Roma man, while serving a prison sentence, raising concerns under Article 2 of the European Convention on Human Rights, which protects the right to life. The applicants, represented by the European Roma Rights Centre, lodged a complaint regarding the circumstances of their son's death. The case was resolved through a friendly settlement between the parties, with the North Macedonian government agreeing to compensate the applicants. The European Court of Human Rights decided to strike the case out of its list, as the settlement respected human rights as defined by the Convention. This case highlights the ongoing issues faced by Roma communities in Europe, particularly regarding their treatment within the criminal justice system. Historically, Roma individuals have faced systemic discrimination and marginalization, making the protection of their rights under the Convention crucial. The friendly settlement underscores the importance of addressing such vulnerabilities through legal and compensatory measures.",
   "summary_generated_at": "2026-04-27T00:24:31.068492+00:00",
-  "refiltered_at": "2026-05-08T18:25:24.566682+00:00"
+  "refiltered_at": "2026-05-10T18:35:36.395790+00:00",
+  "summary_model": null
 }

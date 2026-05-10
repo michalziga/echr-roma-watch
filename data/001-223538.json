@@ -19,10 +19,11 @@
   "full_text_length": 3284,
   "fetched_at": "2026-04-26T18:34:23.963365+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves applicants represented by the European Roma Rights Centre, indicating a Roma identity relevant to the alleged violation of discrimination under Article 14 and Protocol 12-1, reflecting the vulnerability of the Roma community in North Macedonia.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:46:01.876970+00:00",
+  "filtered_at": "2026-05-10T18:20:10.472691+00:00",
   "summary": "The case of Salim and Others v. North Macedonia involves applicants Sevdija Salim and others, who belong to the Roma community, against the nation state of North Macedonia. The central vulnerability in this case is the alleged discrimination against Roma individuals in their right to leave the country, highlighting issues of freedom of movement and racial discrimination. The applicants, represented by the European Roma Rights Centre, claimed they were discriminated against based on their Roma origin, which impeded their ability to exit North Macedonia. The case was resolved through a friendly settlement, with the government agreeing to compensate the applicants, leading the European Court of Human Rights to strike the case out of its list. No specific articles were found violated as the case was settled amicably. This case is significant as it underscores ongoing challenges faced by Roma communities in Europe regarding freedom of movement and discrimination. Historically, Roma communities have faced systemic discrimination and marginalization across Europe, making legal recognition and resolution of such cases crucial for advancing their rights and integration.",
   "summary_generated_at": "2026-04-27T00:19:37.861524+00:00",
-  "refiltered_at": "2026-05-08T14:46:01.876970+00:00"
+  "refiltered_at": "2026-05-10T18:20:10.472691+00:00",
+  "summary_model": null
 }

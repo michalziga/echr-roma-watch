@@ -1,0 +1,20 @@
+{
+  "itemid": "001-88354",
+  "title": "AFFAIRE PETRULIAN IOANOVICI c. ROUMANIE",
+  "date": "2008-09-16",
+  "country": "ROU",
+  "importance": "4",
+  "articles": [
+    "P1-1"
+  ],
+  "violations": [
+    "P1-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Violation de l'article 1 du Protocole n° 1 - Protection de la propriété",
+  "ecli": "ECLI:CE:ECHR:2008:0916JUD003030702",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-88354",
+  "summary": "In Petrulian Ioanovici v. Romania, the applicant, Ms. Petrulian Ioanovici, brought a case against Romania concerning the loss of property rights over an apartment and adjoining land in Bucharest. The judgment does not explicitly state that Ms. Ioanovici is a member of the Roma or Traveller communities, but the property in question was located on Roma Street in Bucharest, suggesting a possible connection to a Roma settlement.\n\nThe harm at the heart of the case was Ms. Ioanovici’s inability to regain possession of her family’s apartment and land, which had been nationalized by the state in 1950 and later sold to third parties, despite a 1996 court judgment recognizing her ownership. After the state transferred the property to a government agency, it was sold in 1996 to former tenants. Ms. Ioanovici’s repeated legal efforts to reclaim the property or obtain compensation were unsuccessful, and her administrative requests for restitution remained unaddressed for years.\n\nThe European Court of Human Rights found a violation of Article 1 of Protocol No. 1 (protection of property), holding that the state’s actions amounted to a de facto deprivation of property without compensation. The Court ordered restitution of the property or, if not possible, payment of compensation. This case follows established ECtHR precedent on property restitution in Romania, emphasizing the incompatibility of such uncompensated deprivation with the Convention.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-10T20:44:18.475153+00:00"
+}

@@ -19,10 +19,11 @@
   "full_text_length": 64807,
   "fetched_at": "2026-04-26T18:36:14.897358+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves two applicants who explicitly identify as ethnic Roma and allege racially motivated police brutality, which is relevant to the violation of Article 3 concerning inhuman treatment and the lack of an effective investigation, thus fulfilling both the legal and identity criteria for a substantive Roma dimension.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:44:34.160913+00:00",
+  "filtered_at": "2026-05-10T18:36:09.454901+00:00",
   "summary": "In the case of X and Y v. North Macedonia, the applicants, ethnic Roma minors, alleged police brutality and ineffective investigation by the state. The case centered on the vulnerability of Roma individuals to racially motivated violence and inadequate state response. On May 19, 2014, X and Y, aged 16 and 13, were accused of robbery near a Roma neighborhood in Skopje. X was arrested and later claimed to have been beaten by police, resulting in bruising. Despite medical evidence and witness statements supporting the allegations, the national authorities failed to conduct an effective investigation. The European Court of Human Rights found a procedural violation of Article 3, citing the state's failure to investigate the claims of police brutality effectively. However, it did not find a substantive violation of Article 3, as the Court could not establish inhuman or degrading treatment due to the lack of effective investigation. This case highlights the ongoing challenges Roma communities face in Europe, particularly concerning police violence and systemic discrimination. The Court's decision underscores the importance of effective investigations to uphold human rights protections for vulnerable groups like the Roma.",
   "summary_generated_at": "2026-04-27T00:25:24.657777+00:00",
-  "refiltered_at": "2026-05-08T18:44:34.160913+00:00"
+  "refiltered_at": "2026-05-10T18:36:09.454901+00:00",
+  "summary_model": null
 }

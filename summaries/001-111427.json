@@ -1,0 +1,29 @@
+{
+  "itemid": "001-111427",
+  "title": "CASE OF N.B. v. SLOVAKIA",
+  "date": "2012-06-12",
+  "country": "SVK",
+  "importance": "3",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "34",
+    "35",
+    "41"
+  ],
+  "violations": [
+    "3",
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [
+    "3"
+  ],
+  "conclusion": "Preliminary objection dismissed (Article 34 - Victim);Remainder inadmissible;Violation of Article 3 - Prohibition of torture (Article 3 - Degrading treatment;Inhuman treatment) (Substantive aspect);No violation of Article 3 - Prohibition of torture (Article 3 - Effective investigation) (Procedural aspect);Violation of Article 8 - Right to respect for private and family life (Article 8 - Positive obligations;Article 8-1 - Respect for family life;Respect for private life);Non-pecuniary damage - award",
+  "ecli": "ECLI:CE:ECHR:2012:0612JUD002951810",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-111427",
+  "summary": "In the case of N.B. v. Slovakia, the applicant, Ms. N.B., is a woman of Roma origin living in Nálepkovo, Slovakia. Her case brought to the European Court of Human Rights highlighted the particular vulnerability of Roma women to non-consensual sterilisation, a practice that has disproportionately affected Roma and Traveller communities in Europe. On 25 April 2001, at the age of 17 and while in labour with her second child at Gelnica Hospital, Ms. N.B. was sterilised without her full and informed consent. Under the influence of sedative medication and in a highly vulnerable state, she was asked to sign documents authorising the procedure, without any explanation and without the involvement or consent of her mother, who was her legal representative as she was still a minor. Ms. N.B. only learned of the sterilisation’s nature over a year later, suffering significant psychological harm and social ostracism as a result.\n\nThe Court examined the case under Articles 3 (prohibition of inhuman or degrading treatment) and 8 (right to respect for private and family life) of the European Convention on Human Rights. It found that Slovakia had violated both articles, recognising the sterilisation as inhuman and degrading treatment and a breach of her private and family life. The Court awarded Ms. N.B. non-pecuniary damages. This judgment is significant as it addresses the historical pattern of forced sterilisation of Roma women in Central and Eastern Europe, affirming the need for robust safeguards to protect the reproductive rights and dignity of Roma and Traveller women.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:22:12.638756+00:00"
+}

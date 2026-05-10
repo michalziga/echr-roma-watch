@@ -19,10 +19,11 @@
   "full_text_length": 52301,
   "fetched_at": "2026-04-26T18:34:22.710026+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves applicants who are explicitly identified as Roma and alleges violations of Article 3 concerning inhuman and degrading treatment by police, with their ethnic identity being relevant to the treatment they received and the context of discrimination.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T14:45:50.234645+00:00",
+  "filtered_at": "2026-05-10T18:20:08.951748+00:00",
   "summary": "In the case of M.B. and Others v. Slovakia (No. 2), the applicants, minors of Roma ethnicity, alleged inhuman and degrading treatment by police officers at a Slovak police station. The case centered on police violence and discrimination against Roma individuals. On March 21, 2009, following their arrest for an assault, the applicants were taken to a police station where they claimed to have been physically abused, threatened with dogs, and subjected to ethnic slurs. Video evidence purportedly depicting this abuse was later released to the public. The European Court of Human Rights found violations of Article 3 (prohibition of torture) in both its substantive and procedural aspects, due to the inhuman treatment and ineffective investigation. Additionally, a violation of Article 14 in conjunction with Article 3 was found, as authorities failed to investigate potential racial motives. However, no direct evidence of racial motivation was established. The Court awarded non-pecuniary damages to the applicants. This case highlights ongoing issues of police violence and discrimination against Roma communities in Europe, reflecting historical patterns of marginalization and inadequate legal protection for Roma individuals.",
   "summary_generated_at": "2026-04-27T00:19:29.880586+00:00",
-  "refiltered_at": "2026-05-08T14:45:50.234645+00:00"
+  "refiltered_at": "2026-05-10T18:20:08.951748+00:00",
+  "summary_model": null
 }

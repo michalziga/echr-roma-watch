@@ -19,8 +19,11 @@
   "full_text_length": 51559,
   "fetched_at": "2026-04-26T18:36:32.315197+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The applicant is explicitly identified as being of Roma origin, and the case involves allegations of degrading treatment by police officers, which is a violation of Article 3; the applicant's Roma identity is relevant to the context of police violence and the investigation's effectiveness, reflecting broader issues of discrimination against Roma in Slovakia.",
+  "filter_reason": "Institutional marker 'European Roma Rights Centre' found in judgment — Roma relevance confirmed without LLM (Signal 3 hard check).",
   "text_source_language": "ENG",
-  "filtered_at": "2026-05-08T18:51:23.049494+00:00",
-  "refiltered_at": "2026-05-08T18:51:23.049494+00:00"
+  "filtered_at": "2026-05-10T18:36:39.803282+00:00",
+  "refiltered_at": "2026-05-10T18:36:39.803282+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }

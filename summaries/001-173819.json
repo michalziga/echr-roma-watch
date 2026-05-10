@@ -1,0 +1,24 @@
+{
+  "itemid": "001-173819",
+  "title": "CIOBAN v. ROMANIA",
+  "date": "2017-04-25",
+  "country": "ROU",
+  "importance": "4",
+  "articles": [
+    "5",
+    "5-1-c",
+    "6",
+    "6-1",
+    "13",
+    "14",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2017:0425DEC005861613",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-173819",
+  "summary": "In the case of Cioban v. Romania, the applicants, all Romanian nationals of Roma origin, brought a complaint against the Romanian state. The case focused on the vulnerability of Roma individuals to police abuse and the alleged failure of authorities to investigate such incidents effectively, particularly when discrimination is involved. On 18 May 2009, outside a shopping centre in Oradea, the applicants were accused by local police of parking violations and littering, with officers explicitly referencing their Roma identity as the basis for suspicion. When the applicants denied the accusations and refused to sign the offence report, they alleged that police officers threatened, physically assaulted, and verbally abused them. One applicant, who attempted to film the incident, was forcibly removed from his car, beaten, handcuffed, and taken to the police station, where he was compelled to sign the report without being allowed to read it. Medical evidence later confirmed his injuries.\n\nThe applicants lodged a criminal complaint, but the investigation was closed without prosecution. They argued that the authorities’ actions and the subsequent investigation were discriminatory and ineffective, invoking Articles 5, 6, 13, and 14 of the European Convention on Human Rights. However, the European Court of Human Rights declared the application inadmissible, finding that the applicants had failed to comply with domestic procedural requirements, particularly the time limits for challenging prosecutorial decisions.\n\nThis case highlights the procedural barriers Roma and Traveller communities often face when seeking justice for alleged police misconduct. It underscores the importance of accessible remedies and timely legal action, especially given the historical context of systemic discrimination against Roma and Travellers in Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:33:04.454194+00:00"
+}

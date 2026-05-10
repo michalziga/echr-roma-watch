@@ -1,0 +1,27 @@
+{
+  "itemid": "001-161983",
+  "title": "CASE OF R.B. v. HUNGARY",
+  "date": "2016-04-12",
+  "country": "HUN",
+  "importance": "2",
+  "articles": [
+    "3",
+    "8",
+    "8-1",
+    "14",
+    "35",
+    "35-3",
+    "41"
+  ],
+  "violations": [
+    "8",
+    "8-1"
+  ],
+  "nonviolations": [],
+  "conclusion": "Remainder inadmissible (Article 35-3 - Manifestly ill-founded);Violation of Article 8 - Right to respect for private and family life (Article 8 - Positive obligations;Article 8-1 - Respect for private life);Non-pecuniary damage - award (Article 41 - Non-pecuniary damage;Just satisfaction)",
+  "ecli": "ECLI:CE:ECHR:2016:0412JUD006460212",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-161983",
+  "summary": "In the case of R.B. v. Hungary, the applicant, Ms. R.B., is a member of the Roma community living in the village of Gyöngyöspata. The case focused on the vulnerability of Roma residents who faced intimidation and threats from right-wing paramilitary groups, highlighting the persistent risk of ethnically motivated harassment. In March 2011, following a demonstration by a right-wing political party, several paramilitary groups marched through the Roma neighbourhood, shouting racist insults and making violent threats. On 10 March 2011, four men passed by Ms. R.B.’s house, yelling anti-Roma slurs and threatening her and her family, with one man swinging an axe towards her. Despite her complaints and the clear evidence of intimidation, the authorities discontinued criminal proceedings, reasoning that the threats were not directed at a specific person and thus did not meet the threshold for prosecution.\n\nThe European Court of Human Rights examined the case under Article 8 (right to respect for private and family life) and found a violation, concluding that the Hungarian authorities failed in their positive obligation to protect Ms. R.B. from intimidation and to adequately investigate the racist motives behind the threats. The Court awarded Ms. R.B. non-pecuniary damages. This judgment is significant as it reinforces the duty of states to protect Roma and Traveller communities from ethnically motivated intimidation, especially in a historical context where such groups have faced systemic discrimination and insufficient state protection across Europe.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-09T17:31:29.372671+00:00"
+}

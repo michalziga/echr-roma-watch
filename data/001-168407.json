@@ -19,8 +19,11 @@
   "full_text_length": 17696,
   "fetched_at": "2026-04-26T18:39:06.801979+00:00",
   "is_roma_related": "yes",
-  "filter_reason": "The case involves the applicants, who are identified as Romanian nationals residing in a center for emergency housing, and explicitly references their situation as related to their ethnic identity as Roma, highlighting their vulnerability and the discriminatory nature of the proposed housing solution, which is relevant under Articles 3, 8, and 14 of the Convention.",
+  "filter_reason": "Condition 1 (EXPLICIT IDENTITY) is met as the case explicitly mentions that the proposed accommodation site, \"Villaggio della Solidarietà,\" is intended exclusively for individuals of Roma ethnicity, as stated in paragraph 11 of the facts section.",
   "text_source_language": "FRE",
-  "filtered_at": "2026-05-08T21:19:10.701856+00:00",
-  "refiltered_at": "2026-05-08T21:19:10.701856+00:00"
+  "filtered_at": "2026-05-10T18:40:13.054563+00:00",
+  "refiltered_at": "2026-05-10T18:40:13.054563+00:00",
+  "summary": null,
+  "summary_model": null,
+  "summary_generated_at": null
 }
