@@ -212,13 +212,38 @@ cases, total = collect_all()
 
 print(f"\n✅ Done! {len(cases)} / {total} cases collected.")
 
-# Write the results to cases.json.
-# "w" = write mode (creates or overwrites the file).
-# ensure_ascii=False preserves special characters (é, ü, č, etc.)
-# indent=2 makes the JSON human-readable (2-space indentation)
+# Load existing data so we can preserve already-fetched fields.
+# Step 1 only discovers cases; steps 2–4 enrich them. If we overwrite
+# without merging, the workflow re-fetches everything from scratch each run.
+existing_index = {}
+if OUTPUT_FILE.exists():
+    with open(OUTPUT_FILE, encoding="utf-8") as f:
+        existing_data = json.load(f)
+    existing_index = {c["itemid"]: c for c in existing_data.get("cases", [])}
+    print(f"   Loaded {len(existing_index)} existing cases for merge")
+
+PRESERVED_FIELDS = (
+    "full_text", "full_text_length", "fetched_at",
+    "is_roma_related", "filter_reason", "text_source_language",
+    "filtered_at", "refiltered_at",
+    "summary", "summary_model", "summary_generated_at",
+)
+
+new_count = 0
+for case in cases:
+    existing = existing_index.get(case["itemid"])
+    if existing:
+        for field in PRESERVED_FIELDS:
+            if existing.get(field) is not None:
+                case[field] = existing[field]
+    else:
+        new_count += 1
+
+print(f"   {new_count} new cases added, {len(cases) - new_count} existing cases merged")
+
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump({
-        "scraped_at":  datetime.now(timezone.utc).isoformat(),   # timestamp of this scrape
+        "scraped_at":  datetime.now(timezone.utc).isoformat(),
         "total_cases": len(cases),
         "date_from":   DATE_FROM,
         "date_to":     DATE_TO,
