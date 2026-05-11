@@ -40,10 +40,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           SUMMARIZE_ALL: "true"
 
+      - name: Build index
+        run: python scraper/build_index.py
+
       - name: Commit updated data
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add scraped_cases.json data/ summaries/
+          git add scraped_cases.json data/ summaries/ summaries.json summaries.json.gz
           git diff --cached --quiet || git commit -m "chore: update ECHR Roma cases [$(date +'%Y-%m-%d')]"
           git push
