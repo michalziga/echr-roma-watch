@@ -1,0 +1,22 @@
+{
+  "itemid": "001-250240",
+  "title": "NIKOLOV v. BULGARIA",
+  "date": "2026-03-31",
+  "country": "BGR",
+  "importance": "4",
+  "articles": [
+    "8",
+    "13",
+    "14",
+    "14+8",
+    "35"
+  ],
+  "violations": [],
+  "nonviolations": [],
+  "conclusion": "Inadmissible",
+  "ecli": "ECLI:CE:ECHR:2026:0331DEC005101120",
+  "url": "https://hudoc.echr.coe.int/eng?i=001-250240",
+  "summary": "In Nikolov v. Bulgaria, the applicant, Mr. Hristo Petrov Nikolov, is a Bulgarian national of Roma ethnic origin and a long-standing activist for Roma integration. The case arose after a televised interview on 17 April 2019, in which Mr. I.G., then Deputy Chief Prosecutor, made a remark implying that “Gypsies” commonly recant testimony in criminal proceedings, likening this to the conduct of other accused persons. Mr. Nikolov viewed this as a stigmatising and discriminatory statement by a high-ranking official, reinforcing negative stereotypes against Roma and contributing to their social exclusion. He sought redress through Bulgaria’s Commission for Protection from Discrimination, but his complaint was dismissed, and the decision was upheld by the administrative courts.\n\nMr. Nikolov brought his case to the European Court of Human Rights, alleging violations of Article 8 (right to respect for private life), Article 14 (prohibition of discrimination), and Article 13 (right to an effective remedy), arguing that the authorities’ refusal to address the discriminatory nature of the statement left him without protection. The Court examined whether the statement and the authorities’ response engaged the applicant’s rights under the Convention. Ultimately, the Court declared the application inadmissible, finding that the circumstances did not reach the threshold required to trigger the protection of Articles 8 and 14 in this context. No violation was found, and no remedies were awarded.",
+  "model": "gpt-4.1-2025-04-14",
+  "summarized_at": "2026-05-12T09:44:58.922919+00:00"
+}
