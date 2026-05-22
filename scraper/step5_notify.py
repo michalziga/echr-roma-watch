@@ -16,6 +16,7 @@ Usage:
 # These are Python "libraries" — pre-built toolboxes we load at the top.
 # Instead of writing all the code ourselves, we reuse existing tools.
 
+import argparse      # lets us read arguments you type after the script name (e.g. --limit 3)
 import json          # reads and writes JSON files (like summaries.json)
 import os            # lets us read environment variables (secret values like tokens)
 import sys           # lets us exit the script early with an error message
@@ -213,6 +214,18 @@ def send_message(text: str) -> bool:
 def main() -> None:
     """Main logic: find new cases, send notifications, save updated state."""
 
+    # argparse reads anything you type after the script name in the terminal.
+    # Example: python scraper/step5_notify.py --limit 3
+    # Without --limit, it defaults to None which means "send all".
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--limit",
+        type=int,        # must be a whole number
+        default=None,    # if not provided, no limit
+        help="Only send this many notifications (useful for testing)",
+    )
+    args = parser.parse_args()
+
     # Guard: make sure the secrets are loaded before doing anything.
     # "not BOT_TOKEN" is True when BOT_TOKEN is None or an empty string.
     if not BOT_TOKEN or not CHAT_ID:
@@ -239,6 +252,12 @@ def main() -> None:
     # c["itemid"] is the unique ID of a case, e.g. "001-250240".
     # "not in seen" is True when that ID is NOT in our already-notified set.
     new_cases = [c for c in cases if c["itemid"] not in seen]
+
+    # If a --limit was given, keep only the first N cases.
+    # new_cases[:None] is the same as new_cases (no limit), so this works either way.
+    if args.limit is not None:
+        print(f"Test mode: limiting to {args.limit} case(s).")
+        new_cases = new_cases[: args.limit]
 
     # If everything is already known, there's nothing to do.
     if not new_cases:
